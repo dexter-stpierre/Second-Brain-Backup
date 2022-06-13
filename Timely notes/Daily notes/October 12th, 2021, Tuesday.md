@@ -1,0 +1,3 @@
+[[Evening Review]]
+    [[Journal]]
+        Today was a good day. I was semi productive at work. I still have some work to catch up on, but I think that I can catch up by Thursday afternoon. I woke up at 6:45 this morning and felt pretty decent. I washed my face, shaved, and dressed nicely. I got our new bedframe put together. It is really nice to have a bed frame again. [[Taylor]] was having a really hard day today. She never told me exactly why. I am a little worried about her. She took big steps towards going to therapy though, so that's good

@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "99eb20be3873986b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2234d12dc20e82",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Timely notes/Daily notes/February 6th, 2022, Sunday.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0942d8a12a3536ff",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "746c18680a15586d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f8c78fb4c9b4df7b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "96f3ef9ba51d8c0f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5b80e993cbd5d241",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3dce2327d3d8c815",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "789147955cdb12ac",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Timely notes/Daily notes/February 6th, 2022, Sunday.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "75d612e166022aca",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Timely notes/Daily notes/February 6th, 2022, Sunday.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ce4a904c0064d68f",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Timely notes/Daily notes/February 6th, 2022, Sunday.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ba2234d12dc20e82",
+  "lastOpenFiles": [
+    "Timely notes/Daily notes/February 6th, 2022, Sunday.md"
+  ]
+}

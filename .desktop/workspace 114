@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "fa462a7be5eaf325",
+    "type": "split",
+    "children": [
+      {
+        "id": "b43d206c9d019b7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Timely notes/Daily notes/March 4th, 2022, Friday.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba8ca80b40339283",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5dc1fd3296e2a8f9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d1de3aa5eb33c6f4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4075cade3ee185e6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "78c41d240aec1534",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "029bba1ab2c206f8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "db72e3b980527a54",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Timely notes/Daily notes/March 4th, 2022, Friday.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "09212a9635c1b802",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Timely notes/Daily notes/March 4th, 2022, Friday.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "caec98aa90fba516",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Timely notes/Daily notes/March 4th, 2022, Friday.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "b43d206c9d019b7f",
+  "lastOpenFiles": [
+    "Timely notes/Daily notes/March 4th, 2022, Friday.md"
+  ]
+}

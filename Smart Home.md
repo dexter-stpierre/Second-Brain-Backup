@@ -1,0 +1,1 @@
+OSS smart home control: https://www.home-assistant.io/

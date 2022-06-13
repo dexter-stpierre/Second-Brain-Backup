@@ -1,0 +1,38 @@
+Disclaimer: This post is part of a series called "Finding A Job Without Losing Your Mind". I decided to write this series after losing my job in COVID19 related layoffs. It was my first time I have ever been "full time" job searching. It was a new, interesting, and scary experience. In spite of how intimidating it all is I feel that my approach to the search went a long way towards helping me have a less stressful job search. I know that I am just one of millions of Americans, and others around the world, to lose their job due to this pandemic. So I wanted to share a little bit of how I conducted my jobs search. I hope that this can be a great resource to others who find themselves in a similar experience now, or in the future. And I know that it will be a great reminder for me if I ever find myself in the same situation again in the future.
+
+# Posts
+-   [[My Job Search Overview]]
+    -   Reach out to your network
+        -   You never know who is hiring, who wants to give you a special shout out, or how you can encourage someone in their search
+        -   This will likely lead to some recruiters reaching out, old coworkers, or that person who's connection request you accepted even though you had no idea who they are to reach out and ask for a phone call. This gives you good fuel for your first few days
+    -   Determine what you want in your next position
+    -   Set up your job tracking process
+        -   Future post on how I did this.
+        -   Use a tool you know well
+            -   Trello
+            -   Notion
+            -   Roam
+            -   Excell
+        -   3 most important things:
+            - Company/job title
+            -   [[Job Description]]s
+            -   Date of last contact/next follow up date
+    -   Determine what you want your job searching days to look like
+        -   How long will you spend looking for jobs to apply for? How long will you spend actually applying? Where will you do this?
+        -   Set your goals for tomorrow today. It will give you a greater sense of direction for the next day and will give you a sense of purpose when you sit down to begin your search for the day
+-   [[Building and Working With Your Personal Recruitment Team]]
+    -   The value of recruiters
+    -   They double your search effort, even on the days that you can't bring yourself to work, someone is out there working for you, you know that the jobs that they submit you to are still hiring
+-   [[Tracking My Search]]
+    -   [[Roam]]
+    -   Have sections for different stages
+    -   Track [[Need to Apply]], [[Applied]], [[Recruiter]] [[Calls]], [[Will Be Submitted]], [[Applied]], [[Interviewing]], [[Hold]], [[Offer]], and [[Rejected]]
+        -   This will let you know exactly where in the process you are and where you have applied. It is very important to not be double submitted
+    -   Track the days that you applied, interviewed, and when your follow ups need to be.
+    -   Keep original [[Job Description]] in something like Drop Box. At some point the company may take the position down and you always want to be able to refer back to the [[Job Description]]
+-   [[A Day In the Job Search Life]]
+    -   Doesn't need to be a full time job
+    -   I only ever spent 4 hours a day
+    -   try to keep all calls and interviews for the afternoon, allowed me to keep my mornings slow and sleep in, which was great for my mental health
+    -   Take breaks when you need to
+    -   Continue to practice your craft

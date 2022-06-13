@@ -1,0 +1,1 @@
+The same people who claim to “love America” are also talking about a “[[National Divorce]]” (succession and treason). They also claim that liberals have divided us so far, yet [[Trump]] is the most divisive force I have seen my whole life.

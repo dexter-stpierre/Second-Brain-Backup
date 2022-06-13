@@ -1,0 +1,1210 @@
+---
+aliases: [Getting Things Done, Getting Things Done]
+author: David Allen
+---
+# Getting Things Done by David Allen
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51vQKr4lnGL._SL200_.jpg)
+
+## Metadata
+- Author: [[David Allen]]
+- Full Title: Getting Things Done
+- Category: #books
+- Source: [[{source}]]
+
+## Highlights
+### New highlights synced
+- for most people, most of the time, approaches that are incremental and forgiving of error are more likely to pay off in the long run. ([Location 108](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=108)) [Open in Readwise](https://readwise.io/open/54386088) ^rw54386088
+    - Date:: [[April 16th, 2020, Thursday]]
+- if there is one part of the approach you forget or fall behind in, you don’t have to abandon all the rest. ([Location 109](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=109)) [Open in Readwise](https://readwise.io/open/54386089) ^rw54386089
+    - Date:: [[April 16th, 2020, Thursday]]
+- This book is full of advice that works better if embraced in its totality but is still useful when applied piece by piece. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=115)) [Open in Readwise](https://readwise.io/open/54386090) ^rw54386090
+    - Date:: [[April 16th, 2020, Thursday]]
+- Getting Things Done deals primarily with the content and meaning of what we need to manage, irrespective of how it shows up or gets organized—whether in digital form or on paper—advances in technology are to some degree irrelevant to the essence of its methodology. ([Location 176](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=176)) [Open in Readwise](https://readwise.io/open/54386091) ^rw54386091
+    - Date:: [[April 16th, 2020, Thursday]]
+- the entire world’s digitally connected literate population is the recipient of an explosion of nonstop, potentially “important”—or at least relevant—information. ([Location 196](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=196)) [Open in Readwise](https://readwise.io/open/54386092) ^rw54386092
+    - Date:: [[April 16th, 2020, Thursday]]
+- Anyone with the need to be accountable to deal with more than what he or she can complete in the moment has the opportunity to do so more easily and elegantly than in the mind. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=203)) [Open in Readwise](https://readwise.io/open/54386093) ^rw54386093
+    - Date:: [[April 16th, 2020, Thursday]]
+- The core message of the book is so inherently relevant to the human condition that I’ve yet to experience any cultural bias—nor frankly any gender, age, or personality-type differentials—in the applicability of the methodology. ([Location 206](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=206)) [Open in Readwise](https://readwise.io/open/54386094) ^rw54386094
+    - Date:: [[April 16th, 2020, Thursday]]
+- Getting Things Done is not simply about getting things done. It’s about being appropriately engaged with your work and life. ([Location 222](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=222)) [Open in Readwise](https://readwise.io/open/54386095) ^rw54386095
+    - Date:: [[April 16th, 2020, Thursday]]
+- there is a much more universal interest in the results that can be achieved with relaxed, focused control, and the realization that it is not just a one-shot recipe of “time management” tips simply for business professionals, but in fact a lifestyle practice, necessary to deal with the new world most all of us are experiencing. ([Location 223](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=223)) [Open in Readwise](https://readwise.io/open/54386096) ^rw54386096
+    - Date:: [[April 16th, 2020, Thursday]]
+- this book is not so much concerned with getting things done as it is championing appropriate engagement with your world—guiding you to make the best choice of what to do in each moment, and to eliminate distraction and stress about what you’re not doing. ([Location 230](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=230)) [Open in Readwise](https://readwise.io/open/54386097) ^rw54386097
+    - Date:: [[April 16th, 2020, Thursday]]
+- Everything in life worth achieving requires practice. In fact, life itself is nothing more than one long practice session, an endless effort of refining our motions. When the proper mechanics of practicing are understood, the task of learning something new becomes a stress-free experience of joy and calmness, a process which settles all areas in your life and promotes proper perspective on all of life’s difficulties. —Thomas Sterner ([Location 245](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=245)) [Open in Readwise](https://readwise.io/open/54386098) ^rw54386098
+    - Date:: [[April 16th, 2020, Thursday]]
+- WELCOME TO A gold mine of insights into strategies for how to have more energy, be more relaxed, with more clarity and presence in the moment with whatever you’re doing, and get a lot more accomplished with much less effort. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=291)) [Open in Readwise](https://readwise.io/open/54386099) ^rw54386099
+    - Date:: [[April 16th, 2020, Thursday]]
+- The art of resting the mind and the power of dismissing from it all care and worry is probably one of the secrets of our great men. —Capt. J. A. Hatfield ([Location 296](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=296)) [Open in Readwise](https://readwise.io/open/54386100) ^rw54386100
+    - Date:: [[April 16th, 2020, Thursday]]
+- As to methods there may be a million and then some, but principles are few. The man who grasps principles can successfully select his own methods. The man who tries methods, ignoring principles, is sure to have trouble. —Ralph Waldo Emerson ([Location 310](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=310)) [Open in Readwise](https://readwise.io/open/54386101) ^rw54386101
+    - Date:: [[April 16th, 2020, Thursday]]
+- we need proven tools that can help people focus their energies strategically and tactically without letting anything fall through the cracks. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=341)) [Open in Readwise](https://readwise.io/open/54386102) ^rw54386102
+    - Date:: [[April 16th, 2020, Thursday]]
+- we need to create thinking habits and working environments that will keep the most caring and engaged people from burning out due to stress. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=342)) [Open in Readwise](https://readwise.io/open/54386103) ^rw54386103
+    - Date:: [[April 16th, 2020, Thursday]]
+- We need positive work and lifestyle standards that will attract and retain the best and brightest in our organizations, and we need personal and home practices that foster clarity, control, and creativity for those we love and, most important, for ourselves. ([Location 343](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=343)) [Open in Readwise](https://readwise.io/open/54386104) ^rw54386104
+    - Date:: [[April 16th, 2020, Thursday]]
+- 1 A New Practice for a New Reality ([Location 382](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=382)) [Open in Readwise](https://readwise.io/open/54386105) ^rw54386105
+    - Date:: [[April 16th, 2020, Thursday]]
+- IT’S POSSIBLE FOR a person to have an overwhelming number of things to do and still function productively with a clear head and a positive sense of relaxed control. ([Location 387](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=387)) [Open in Readwise](https://readwise.io/open/54386106) ^rw54386106
+    - Date:: [[April 16th, 2020, Thursday]]
+- You already know how to do everything necessary to achieve this healthy, high-performance state. ([Location 393](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=393)) [Open in Readwise](https://readwise.io/open/54386107) ^rw54386107
+    - Date:: [[April 16th, 2020, Thursday]]
+- The methods I present here are all based on three key objectives: ([Location 399](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=399)) [Open in Readwise](https://readwise.io/open/54386108) ^rw54386108
+    - Date:: [[April 16th, 2020, Thursday]]
+- (1) capturing all the things that might need to get done or have usefulness for you—now, later, someday, big, little, or in between—in a logical and trusted system outside your head and off your mind; ([Location 399](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=399)) [Open in Readwise](https://readwise.io/open/54386109) ^rw54386109
+    - Date:: [[April 16th, 2020, Thursday]]
+- (2) directing yourself to make front-end decisions about all of the “inputs” you let into your life so that you will always have a workable inventory of “next actions” that you can implement or renegotiate in the moment; ([Location 400](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=400)) [Open in Readwise](https://readwise.io/open/54386110) ^rw54386110
+    - Date:: [[April 16th, 2020, Thursday]]
+- (3) curating and coordinating all of that content, utilizing the recognition of the multiple levels of commitments with yourself and others you will have at play, at any point in time. ([Location 402](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=402)) [Open in Readwise](https://readwise.io/open/54386111) ^rw54386111
+    - Date:: [[April 16th, 2020, Thursday]]
+- the principles and methods are instantly usable and applicable to everything you have to do in your personal as well as your professional life. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=405)) [Open in Readwise](https://readwise.io/open/54386112) ^rw54386112
+    - Date:: [[April 16th, 2020, Thursday]]
+- A paradox has emerged in this new millennium: people have enhanced quality of life, but at the same time they are adding to their stress levels by taking on more than they have resources to handle. ([Location 414](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=414)) [Open in Readwise](https://readwise.io/open/54386113) ^rw54386113
+    - Date:: [[April 16th, 2020, Thursday]]
+- The ever-new communication technologies have exponentially magnified the lack of clear limits to our commitments and our lives. ([Location 436](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=436)) [Open in Readwise](https://readwise.io/open/54386114) ^rw54386114
+    - Date:: [[April 16th, 2020, Thursday]]
+- not only are work and its cognitive boundaries more ambiguous and ill defined, so are the time and space within which we can (and often should) be engaged with it, along with the continuing explosion of potentially meaningful and accessible data that could add value to our lives. ([Location 440](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=440)) [Open in Readwise](https://readwise.io/open/54386115) ^rw54386115
+    - Date:: [[April 16th, 2020, Thursday]]
+- The relative speed of changes in our cultures, lifestyles, and technologies are creating greater necessity for individuals to take more control of their unique personal situations, more often. ([Location 465](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=465)) [Open in Readwise](https://readwise.io/open/54386116) ^rw54386116
+    - Date:: [[April 16th, 2020, Thursday]]
+- we haven’t been well equipped to deal with this huge number of internal and external commitments. ([Location 472](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=472)) [Open in Readwise](https://readwise.io/open/54386117) ^rw54386117
+    - Date:: [[April 16th, 2020, Thursday]]
+- Neither our standard education, nor traditional time-management models, nor the plethora of digital and paper-based organizing tools available has given us a viable means of meeting the new demands placed on us. ([Location 479](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=479)) [Open in Readwise](https://readwise.io/open/54386118) ^rw54386118
+    - Date:: [[April 16th, 2020, Thursday]]
+- Ineffective personal organizational systems create huge subconscious resistance to undertaking even bigger projects and goals that will likely not be managed well, and that will in turn cause even more distraction and stress. ([Location 506](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=506)) [Open in Readwise](https://readwise.io/open/54386119) ^rw54386119
+    - Date:: [[April 16th, 2020, Thursday]]
+- Focusing on primary outcomes and values is a critical exercise, certainly. It provides needed criteria for making sometimes-difficult choices about what to stop doing, as well as what most ought to have our attention amid our excess of options. But it does not mean that there is less to do, or fewer challenges in getting the work done. ([Location 511](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=511)) [Open in Readwise](https://readwise.io/open/54386120) ^rw54386120
+    - Date:: [[April 16th, 2020, Thursday]]
+- Chaos isn’t the problem; how long it takes to find coherence is the real game. —Doc Childre and Bruce Cryer ([Location 518](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=518)) [Open in Readwise](https://readwise.io/open/54386121) ^rw54386121
+    - Date:: [[April 16th, 2020, Thursday]]
+- There has been a missing piece in our culture of knowledge work: a system with a coherent set of behaviors and tools that functions effectively at the level at which work really happens. ([Location 520](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=520)) [Open in Readwise](https://readwise.io/open/54386122) ^rw54386122
+    - Date:: [[April 16th, 2020, Thursday]]
+- Reflect for a moment on what it actually might be like if your personal management situation were totally under control, at all levels and at all times. What if you had completely clear mental space, with nothing pulling or pushing on you unproductively? ([Location 525](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=525)) [Open in Readwise](https://readwise.io/open/54386123) ^rw54386123
+    - Date:: [[April 16th, 2020, Thursday]]
+- It is possible. There is a way to get a grip on it all, stay relaxed, and get meaningful things done with minimal effort, across the whole spectrum of your life and work. ([Location 527](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=527)) [Open in Readwise](https://readwise.io/open/54386124) ^rw54386124
+    - Date:: [[April 16th, 2020, Thursday]]
+- Your ability to generate power is directly proportional to your ability to relax. ([Location 546](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=546)) [Open in Readwise](https://readwise.io/open/54386125) ^rw54386125
+    - Date:: [[April 16th, 2020, Thursday]]
+- Anything that causes you to overreact or underreact can control you, and often does. ([Location 553](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=553)) [Open in Readwise](https://readwise.io/open/54386126) ^rw54386126
+    - Date:: [[April 16th, 2020, Thursday]]
+- If your mind is empty, it is always ready for anything; it is open for everything. —Shunryu Suzuki ([Location 559](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=559)) [Open in Readwise](https://readwise.io/open/54386127) ^rw54386127
+    - Date:: [[April 16th, 2020, Thursday]]
+- the methodology of Getting Things Done will have the greatest impact on your life, by showing you how to get back to mind like water, with all your resources and faculties functioning at a maximum level. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=563)) [Open in Readwise](https://readwise.io/open/54386128) ^rw54386128
+    - Date:: [[April 16th, 2020, Thursday]]
+- Most people have lived in a semistressful experience so consistently, for so long, they don’t know that it could be quite different—that there is another and more positive place from which to engage with their world. ([Location 565](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=565)) [Open in Readwise](https://readwise.io/open/54386129) ^rw54386129
+    - Date:: [[April 16th, 2020, Thursday]]
+- most stress they experience comes from inappropriately managed commitments they make or accept. ([Location 569](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=569)) [Open in Readwise](https://readwise.io/open/54386130) ^rw54386130
+    - Date:: [[April 16th, 2020, Thursday]]
+- You’ve probably made many more agreements with yourself than you realize, and every single one of them—big or little—is being tracked by a less-than-conscious part of you. These are the “incompletes,” or “open loops,” which I define as anything pulling at your attention that doesn’t belong where it is, the way it is. Open loops can include everything from really big to-do items like “End world hunger” to the more modest “Hire new assistant” to the tiniest task such as “Replace porch lightbulb.” ([Location 571](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=571)) [Open in Readwise](https://readwise.io/open/54386131) ^rw54386131
+    - Date:: [[April 16th, 2020, Thursday]]
+- Anything that does not belong where it is, the way it is, is an “open loop,” which will be pulling on your attention if it’s not appropriately managed. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=575)) [Open in Readwise](https://readwise.io/open/54386132) ^rw54386132
+    - Date:: [[April 16th, 2020, Thursday]]
+- In order to deal effectively with all of that, you must first identify and capture all those things that are “ringing your bell” in some way, clarify what, exactly, they mean to you, and then make a decision about how to move on them. That may seem like a simple process, but in reality most people don’t do it in a consistent way. ([Location 577](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=577)) [Open in Readwise](https://readwise.io/open/54386133) ^rw54386133
+    - Date:: [[April 16th, 2020, Thursday]]
+- Managing commitments well requires the implementation of some basic activities and behaviors: ([Location 581](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=581)) [Open in Readwise](https://readwise.io/open/54386134) ^rw54386134
+    - Date:: [[April 16th, 2020, Thursday]]
+- First of all, if it’s on your mind, your mind isn’t clear. Anything you consider unfinished in any way must be captured in a trusted system outside your mind, or what I call a collection tool, that you know you’ll come back to regularly and sort through. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=582)) [Open in Readwise](https://readwise.io/open/54386135) ^rw54386135
+    - Date:: [[April 16th, 2020, Thursday]]
+- Second, you must clarify exactly what your commitment is and decide what you have to do, if anything, to make progress toward fulfilling it. ([Location 584](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=584)) [Open in Readwise](https://readwise.io/open/54386136) ^rw54386136
+    - Date:: [[April 16th, 2020, Thursday]]
+- Third, once you’ve decided on all the actions you need to take, you must keep reminders of them organized in a system you review regularly. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=585)) [Open in Readwise](https://readwise.io/open/54386137) ^rw54386137
+    - Date:: [[April 16th, 2020, Thursday]]
+- You must use your mind to get things off your mind. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=587)) [Open in Readwise](https://readwise.io/open/54386138) ^rw54386138
+    - Date:: [[April 16th, 2020, Thursday]]
+- I suggest that you write down the project or situation that is most on your mind at this moment. ([Location 589](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=589)) [Open in Readwise](https://readwise.io/open/54386139) ^rw54386139
+    - Date:: [[April 16th, 2020, Thursday]]
+- Now, describe, in a single written sentence, your intended successful outcome for this problem or situation. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=594)) [Open in Readwise](https://readwise.io/open/54386140) ^rw54386140
+    - Date:: [[April 16th, 2020, Thursday]]
+- Now write down the very next physical action required to move the situation forward. ([Location 597](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=597)) [Open in Readwise](https://readwise.io/open/54386141) ^rw54386141
+    - Date:: [[April 16th, 2020, Thursday]]
+- Was there any value for you in those two minutes of thinking? ([Location 601](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=601)) [Open in Readwise](https://readwise.io/open/54386142) ^rw54386142
+    - Date:: [[April 16th, 2020, Thursday]]
+- Think like a man of action, act like a man of thought. —Henri Bergson ([Location 605](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=605)) [Open in Readwise](https://readwise.io/open/54386143) ^rw54386143
+    - Date:: [[April 16th, 2020, Thursday]]
+- If anything at all positive happened for you in this little exercise, think about this: What changed? ([Location 606](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=606)) [Open in Readwise](https://readwise.io/open/54386144) ^rw54386144
+    - Date:: [[April 16th, 2020, Thursday]]
+- The situation itself is no further along, at least in the physical world. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=608)) [Open in Readwise](https://readwise.io/open/54386145) ^rw54386145
+    - Date:: [[April 16th, 2020, Thursday]]
+- What probably happened is that you acquired a clearer definition of the outcome desired and the next action required. What did change is the most important element for clarity, focus, and peace of mind: how you are engaged with your world. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=608)) [Open in Readwise](https://readwise.io/open/54386146) ^rw54386146
+    - Date:: [[April 16th, 2020, Thursday]]
+- People think a lot, but most of that thinking is of a problem, project, or situation—not about it. ([Location 612](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=612)) [Open in Readwise](https://readwise.io/open/54386147) ^rw54386147
+    - Date:: [[April 16th, 2020, Thursday]]
+- Reacting is automatic, but thinking is not. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=614)) [Open in Readwise](https://readwise.io/open/54386148) ^rw54386148
+    - Date:: [[April 16th, 2020, Thursday]]
+- As Peter Drucker wrote: “In knowledge work . . . the task is not given; it has to be determined. ‘What are the expected results from this work?’ is . . . the key question in making knowledge workers productive. And it is a question that demands risky decisions. There is usually no right answer; there are choices instead. And results have to be clearly specified, if productivity is to be achieved.”* ([Location 619](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=619)) [Open in Readwise](https://readwise.io/open/54386149) ^rw54386149
+    - Date:: [[April 16th, 2020, Thursday]]
+- Most often, the reason something is on your mind is that you want it to be different than it currently is, and yet: ([Location 628](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=628)) [Open in Readwise](https://readwise.io/open/54386150) ^rw54386150
+    - Date:: [[April 16th, 2020, Thursday]]
+- you haven’t clarified exactly what the intended outcome is; ([Location 629](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=629)) [Open in Readwise](https://readwise.io/open/54386151) ^rw54386151
+    - Date:: [[April 16th, 2020, Thursday]]
+- This consistent, unproductive preoccupation with all the things we have to do is the single largest consumer of time and energy. —Kerry Gleeson ([Location 630](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=630)) [Open in Readwise](https://readwise.io/open/54386152) ^rw54386152
+    - Date:: [[April 16th, 2020, Thursday]]
+- you haven’t decided what the very next physical action step is; and/or ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=633)) [Open in Readwise](https://readwise.io/open/54386153) ^rw54386153
+    - Date:: [[April 16th, 2020, Thursday]]
+- you haven’t put reminders of the outcome and the action required in a system you trust. ([Location 633](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=633)) [Open in Readwise](https://readwise.io/open/54386154) ^rw54386154
+    - Date:: [[April 16th, 2020, Thursday]]
+- Until those thoughts have been clarified and those decisions made, and the resulting data has been stored in a system that you absolutely know you will access and think about when you need to, your brain can’t give up the job. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=634)) [Open in Readwise](https://readwise.io/open/54386155) ^rw54386155
+    - Date:: [[April 16th, 2020, Thursday]]
+- Rule your mind or it will rule you. —Horace ([Location 647](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=647)) [Open in Readwise](https://readwise.io/open/54386156) ^rw54386156
+    - Date:: [[April 16th, 2020, Thursday]]
+- It’s a waste of time and energy to keep thinking about something that you make no progress on. ([Location 650](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=650)) [Open in Readwise](https://readwise.io/open/54386157) ^rw54386157
+    - Date:: [[April 16th, 2020, Thursday]]
+- Research has now proven that a significant part of your psyche cannot help but keep track of your open loops, and not (as originally thought) as an intelligent, positive motivator, but as a detractor from anything else you need or want to think about, diminishing your capacity to perform. ([Location 653](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=653)) [Open in Readwise](https://readwise.io/open/54386158) ^rw54386158
+    - Date:: [[April 16th, 2020, Thursday]]
+- Here’s how I define “stuff”: anything you have allowed into your psychological or physical world that doesn’t belong where it is, but for which you haven’t yet determined what, exactly, it means to you, with the desired outcome and the next action step. ([Location 656](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=656)) [Open in Readwise](https://readwise.io/open/54386159) ^rw54386159
+    - Date:: [[April 16th, 2020, Thursday]]
+- The reason most organizing systems haven’t worked for most people is that they haven’t yet transformed all the stuff they’re trying to organize. As long as it’s still stuff, it’s not controllable. ([Location 658](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=658)) [Open in Readwise](https://readwise.io/open/54386160) ^rw54386160
+    - Date:: [[April 16th, 2020, Thursday]]
+- We need to transform all the “stuff” we’ve attracted and accumulated into a clear inventory of meaningful actions, projects, and usable information. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=660)) [Open in Readwise](https://readwise.io/open/54386161) ^rw54386161
+    - Date:: [[April 16th, 2020, Thursday]]
+- Almost all of the to-do lists I have seen over the years (when people had them at all!) were merely listings of stuff, not inventories of the resultant real work that needed to be done. ([Location 662](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=662)) [Open in Readwise](https://readwise.io/open/54386162) ^rw54386162
+    - Date:: [[April 16th, 2020, Thursday]]
+- Stuff is not inherently a bad thing. Things that command or attract our attention, by their very nature, usually show up as stuff. But once we allow stuff to come into our lives and work, we have an inherent commitment to ourselves to define and clarify its meaning. ([Location 667](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=667)) [Open in Readwise](https://readwise.io/open/54386163) ^rw54386163
+    - Date:: [[April 16th, 2020, Thursday]]
+- Thought is useful when it motivates action and a hindrance when it substitutes for action. —Bill Raeder ([Location 674](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=674)) [Open in Readwise](https://readwise.io/open/54386164) ^rw54386164
+    - Date:: [[April 16th, 2020, Thursday]]
+- The vast majority of people have been trying to get organized by rearranging incomplete lists of unclear things; they haven’t yet realized how much and what they need to organize in order to get the real payoff. They need to gather everything that requires thinking about and then do that thinking if their organizational efforts are to be successful. ([Location 678](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=678)) [Open in Readwise](https://readwise.io/open/54386165) ^rw54386165
+    - Date:: [[April 16th, 2020, Thursday]]
+- you’ll need to get in the habit of keeping nothing on your mind. And the way to do that, as we’ve seen, is not by managing time, managing information, or managing priorities. After all: ([Location 685](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=685)) [Open in Readwise](https://readwise.io/open/54386166) ^rw54386166
+    - Date:: [[April 16th, 2020, Thursday]]
+- you don’t manage five minutes and wind up with six; ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=687)) [Open in Readwise](https://readwise.io/open/54386167) ^rw54386167
+    - Date:: [[April 16th, 2020, Thursday]]
+- you don’t manage information overload—otherwise you’d walk into a library and die, or the first time you connected to the Web, you’d blow up; and ([Location 687](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=687)) [Open in Readwise](https://readwise.io/open/54386168) ^rw54386168
+    - Date:: [[April 16th, 2020, Thursday]]
+- you don’t manage priorities—you have them. ([Location 688](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=688)) [Open in Readwise](https://readwise.io/open/54386169) ^rw54386169
+    - Date:: [[April 16th, 2020, Thursday]]
+- the key to managing all of your stuff is managing your actions. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=689)) [Open in Readwise](https://readwise.io/open/54386170) ^rw54386170
+    - Date:: [[April 16th, 2020, Thursday]]
+- What you do with your time, what you do with information, and what you do with your body and your focus relative to your priorities—those are the real options to which you must allocate your limited resources. The substantive issue is how to make appropriate choices about what to do at any point in time. The real work is to manage our actions. ([Location 693](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=693)) [Open in Readwise](https://readwise.io/open/54386171) ^rw54386171
+    - Date:: [[April 16th, 2020, Thursday]]
+- it might amaze you to discover how many next actions for how many projects and commitments remain undetermined by most people. It’s extremely difficult to manage actions you haven’t identified or decided on. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=695)) [Open in Readwise](https://readwise.io/open/54386172) ^rw54386172
+    - Date:: [[April 16th, 2020, Thursday]]
+- And the common complaint that “I don’t have time to ____” (fill in the blank) is understandable because many projects seem overwhelming—and are overwhelming because you can’t do a project at all! You can only do an action related to it. Many actions require only a minute or two, in the appropriate context, to move a project forward. ([Location 698](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=698)) [Open in Readwise](https://readwise.io/open/54386173) ^rw54386173
+    - Date:: [[April 16th, 2020, Thursday]]
+- Things rarely get stuck because of lack of time. They get stuck because what “doing” would look like, and where it happens, hasn’t been decided. ([Location 701](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=701)) [Open in Readwise](https://readwise.io/open/54386174) ^rw54386174
+    - Date:: [[April 16th, 2020, Thursday]]
+- the real problem is a lack of clarity and definition about what a project really is, and what associated next-action steps are required. ([Location 703](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=703)) [Open in Readwise](https://readwise.io/open/54386175) ^rw54386175
+    - Date:: [[April 16th, 2020, Thursday]]
+- Getting things done requires two basic components: defining (1) what “done” means (outcome) and (2) what “doing” looks like (action). ([Location 706](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=706)) [Open in Readwise](https://readwise.io/open/54386176) ^rw54386176
+    - Date:: [[April 16th, 2020, Thursday]]
+- Getting current on, and in control of, what’s in your in-tray and on your mind right now, and incorporating practices that you can trust will help you stay that way, will provide the best means of broadening your horizons. ([Location 713](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=713)) [Open in Readwise](https://readwise.io/open/54386177) ^rw54386177
+    - Date:: [[April 16th, 2020, Thursday]]
+- A creative, buoyant energy will be unleashed that will better support your focus on new heights, and your confidence will increase to handle what that creativity produces. An immediate sense of freedom, release, and inspiration naturally comes to people who roll up their sleeves and implement this process. ([Location 714](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=714)) [Open in Readwise](https://readwise.io/open/54386178) ^rw54386178
+    - Date:: [[April 16th, 2020, Thursday]]
+- Vision is not enough; it must be combined with venture. It is not enough to stare up the steps; we must step up the stairs. —Václav Havel ([Location 717](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=717)) [Open in Readwise](https://readwise.io/open/54386179) ^rw54386179
+    - Date:: [[April 16th, 2020, Thursday]]
+- You’ll be better equipped to undertake higher-focused thinking when your tools for handling the resulting actions for implementation are part of your ongoing operational style. ([Location 719](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=719)) [Open in Readwise](https://readwise.io/open/54386180) ^rw54386180
+    - Date:: [[April 16th, 2020, Thursday]]
+- There are more meaningful things to think about than your in-tray, but if your management of that level is not as efficient as it could be, it’s like trying to swim in baggy clothing. ([Location 721](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=721)) [Open in Readwise](https://readwise.io/open/54386181) ^rw54386181
+    - Date:: [[April 16th, 2020, Thursday]]
+- You need to control commitments, projects, and actions in two ways—horizontally and vertically. ([Location 725](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=725)) [Open in Readwise](https://readwise.io/open/54386182) ^rw54386182
+    - Date:: [[April 16th, 2020, Thursday]]
+- Horizontal control maintains coherence across all the activities in which you are involved. ([Location 725](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=725)) [Open in Readwise](https://readwise.io/open/54386183) ^rw54386183
+    - Date:: [[April 16th, 2020, Thursday]]
+- You might be surprised at the volume of things you actually think about and have to deal with just in one day. You need a good system that can keep track of as many of them as possible, supply required information about them on demand, and allow you to shift your focus from one thing to the next quickly and easily. ([Location 730](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=730)) [Open in Readwise](https://readwise.io/open/54386184) ^rw54386184
+    - Date:: [[April 16th, 2020, Thursday]]
+- Vertical control, in contrast, manages thinking, development, and coordination of individual topics and projects. ([Location 732](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=732)) [Open in Readwise](https://readwise.io/open/54386185) ^rw54386185
+    - Date:: [[April 16th, 2020, Thursday]]
+- This is “project planning” in the broad sense. It’s focusing in on a single endeavor, situation, or person and fleshing out whatever ideas, details, priorities, and sequences of events may be required for you to handle it, at least for the moment. ([Location 736](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=736)) [Open in Readwise](https://readwise.io/open/54386186) ^rw54386186
+    - Date:: [[April 16th, 2020, Thursday]]
+- The goal for managing horizontally and vertically is the same: to get things off your mind and get them done. ([Location 737](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=737)) [Open in Readwise](https://readwise.io/open/54386187) ^rw54386187
+    - Date:: [[April 16th, 2020, Thursday]]
+- Appropriate action management lets you feel comfortable and in control as you move through your broad spectrum of work and life, while appropriate project focusing gets you clear about and on track with the specifics needed. ([Location 738](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=738)) [Open in Readwise](https://readwise.io/open/54386188) ^rw54386188
+    - Date:: [[April 16th, 2020, Thursday]]
+- The Major Change: Getting It All Out of Your Head ([Location 740](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=740)) [Open in Readwise](https://readwise.io/open/54386189) ^rw54386189
+    - Date:: [[April 16th, 2020, Thursday]]
+- There is usually an inverse relationship between how much something is on your mind and how much it’s getting done. ([Location 741](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=741)) [Open in Readwise](https://readwise.io/open/54386190) ^rw54386190
+    - Date:: [[April 16th, 2020, Thursday]]
+- the individual behaviors described in this book are things you’re already doing. The big difference between what I do and what others do is that I capture and organize 100 percent of my stuff in and with objective tools at hand, not in my mind. And that applies to everything—little or big, personal or professional, urgent or not. Everything. ([Location 743](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=743)) [Open in Readwise](https://readwise.io/open/54386191) ^rw54386191
+    - Date:: [[April 16th, 2020, Thursday]]
+- if you made that kind of externalization and review a characteristic of your ongoing life- and work style, and you maintained it across all areas of your life (not just the most “urgent”), you’d be practicing the kind of mind like water management style I’m describing. ([Location 752](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=752)) [Open in Readwise](https://readwise.io/open/54386192) ^rw54386192
+    - Date:: [[April 16th, 2020, Thursday]]
+- There is no reason to ever have the same thought twice, unless you like having that thought. ([Location 755](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=755)) [Open in Readwise](https://readwise.io/open/54386193) ^rw54386193
+    - Date:: [[April 16th, 2020, Thursday]]
+- I try to make intuitive choices based on my options, instead of trying to think about what those options are. I need to have thought about all of that already and captured the results in a trusted way. ([Location 756](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=756)) [Open in Readwise](https://readwise.io/open/54386194) ^rw54386194
+    - Date:: [[April 16th, 2020, Thursday]]
+- Any “would, could, or should” commitment held only in the psyche creates irrational and unresolvable pressure, 24-7. ([Location 759](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=759)) [Open in Readwise](https://readwise.io/open/54386195) ^rw54386195
+    - Date:: [[April 16th, 2020, Thursday]]
+- Studies have demonstrated that our mental processes are hampered by the burden put on the mind to keep track of things we’re committed to finish, without a trusted plan or system in place to handle them. ([Location 769](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=769)) [Open in Readwise](https://readwise.io/open/54386196) ^rw54386196
+    - Date:: [[April 16th, 2020, Thursday]]
+- 2 Getting Control of Your Life: The Five Steps of Mastering Workflow ([Location 788](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=788)) [Open in Readwise](https://readwise.io/open/54386197) ^rw54386197
+    - Date:: [[April 16th, 2020, Thursday]]
+- No matter what the setting, there are five discrete stages that we go through as we deal with our life, our work, and their consistent inputs and changes. Getting things under control, whether that’s in your kitchen or in your company, will incorporate them. ([Location 792](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=792)) [Open in Readwise](https://readwise.io/open/54386198) ^rw54386198
+    - Date:: [[April 16th, 2020, Thursday]]
+- It’s not simply about “getting organized” or “setting priorities.” Those are good things, but they happen as a result of applying these five steps—not by themselves. ([Location 795](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=795)) [Open in Readwise](https://readwise.io/open/54386199) ^rw54386199
+    - Date:: [[April 16th, 2020, Thursday]]
+- We (1) capture what has our attention; (2) clarify what each item means and what to do about it; (3) organize the results, which presents the options we (4) reflect on, which we then choose to (5) engage with. ([Location 801](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=801)) [Open in Readwise](https://readwise.io/open/54386200) ^rw54386200
+    - Date:: [[April 16th, 2020, Thursday]]
+- Most people have major weaknesses in their (1) capture process. Most of their commitments to do something are still in their head. ([Location 817](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=817)) [Open in Readwise](https://readwise.io/open/54386201) ^rw54386201
+    - Date:: [[April 16th, 2020, Thursday]]
+- Many have collected lots of things but haven’t (2) clarified exactly what they represent or decided what action, if any, to take about them. ([Location 819](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=819)) [Open in Readwise](https://readwise.io/open/54386202) ^rw54386202
+    - Date:: [[April 16th, 2020, Thursday]]
+- Others make good decisions about stuff in the moment but lose the value of that thinking because they don’t efficiently (3) organize the results. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=822)) [Open in Readwise](https://readwise.io/open/54386203) ^rw54386203
+    - Date:: [[April 16th, 2020, Thursday]]
+- others have good systems but don’t (4) reflect on the contents consistently enough to keep them functional. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=825)) [Open in Readwise](https://readwise.io/open/54386204) ^rw54386204
+    - Date:: [[April 16th, 2020, Thursday]]
+- Many people don’t look ahead at their own calendars consistently enough to stay current about upcoming events and deadlines, and they consequently become victims of last-minute craziness. ([Location 827](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=827)) [Open in Readwise](https://readwise.io/open/54386205) ^rw54386205
+    - Date:: [[April 16th, 2020, Thursday]]
+- Ask yourself, “When do I need to see what, in what form, to get it off my mind?” You build a system for function, not just to have a system. ([Location 829](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=829)) [Open in Readwise](https://readwise.io/open/54386206) ^rw54386206
+    - Date:: [[April 16th, 2020, Thursday]]
+- if any one of these previous links is weak, what someone is likely to choose to (5) engage in at any point in time may not be the best option. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=830)) [Open in Readwise](https://readwise.io/open/54386207) ^rw54386207
+    - Date:: [[April 16th, 2020, Thursday]]
+- Most decisions for action and focus are driven by the latest and loudest inputs, and are based on hope instead of trust. ([Location 831](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=831)) [Open in Readwise](https://readwise.io/open/54386208) ^rw54386208
+    - Date:: [[April 16th, 2020, Thursday]]
+- one of the major reasons many people haven’t had a lot of success with getting organized is simply that they have tried to do all five steps at one time. ([Location 839](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=839)) [Open in Readwise](https://readwise.io/open/54386209) ^rw54386209
+    - Date:: [[April 16th, 2020, Thursday]]
+- Most, when they sit down to make a list, are trying to collect the “most important things” in some order that reflects priorities and sequences, without setting out many (or any) real actions to take. ([Location 840](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=840)) [Open in Readwise](https://readwise.io/open/54386210) ^rw54386210
+    - Date:: [[April 16th, 2020, Thursday]]
+- It’s important to know what needs to be captured and how to do that most effectively so you can process it appropriately. ([Location 846](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=846)) [Open in Readwise](https://readwise.io/open/54386211) ^rw54386211
+    - Date:: [[April 16th, 2020, Thursday]]
+- In order for your mind to let go of the lower-level task of trying to hang on to everything, you have to know that you have truly captured everything that might represent something you have to do or at least decide about, and that at some point in the near future you will process and review all of it. ([Location 846](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=846)) [Open in Readwise](https://readwise.io/open/54386212) ^rw54386212
+    - Date:: [[April 16th, 2020, Thursday]]
+- In order to eliminate “holes in your bucket,” you need to collect and gather placeholders for, or representations of, all the things you consider incomplete in your world—that is, anything personal or professional, big or little, of urgent or minor importance, that you think ought to be different than it currently is and that you have any level of internal commitment to changing. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=849)) [Open in Readwise](https://readwise.io/open/54386213) ^rw54386213
+    - Date:: [[April 16th, 2020, Thursday]]
+- A task left undone remains undone in two places—at the actual location of the task, and inside your head. Incomplete tasks in your head consume the energy of your attention as they gnaw at your conscience. —Brahma Kumaris ([Location 858](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=858)) [Open in Readwise](https://readwise.io/open/54386214) ^rw54386214
+    - Date:: [[April 16th, 2020, Thursday]]
+- As soon as you attach a “should,” “need to,” or “ought to” to an item, it becomes an incomplete. Decisions you still need to make about whether or not you are going to do something, for example, are already incompletes. ([Location 861](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=861)) [Open in Readwise](https://readwise.io/open/54386215) ^rw54386215
+    - Date:: [[April 16th, 2020, Thursday]]
+- And it certainly includes all pending and in-progress items, as well as those things on which you’ve done everything you’re ever going to do except acknowledge that you’re finished with them. ([Location 864](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=864)) [Open in Readwise](https://readwise.io/open/54386216) ^rw54386216
+    - Date:: [[April 16th, 2020, Thursday]]
+- In order to manage this inventory of open loops appropriately, you need to capture it into “containers” that hold items in abeyance until you have a few moments to decide what they are and what, if anything, you’re going to do about them. Then you must empty these containers regularly to ensure that they remain viable capture tools. ([Location 865](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=865)) [Open in Readwise](https://readwise.io/open/54386217) ^rw54386217
+    - Date:: [[April 16th, 2020, Thursday]]
+- If it’s not being directly managed in a trusted external system of yours, then it’s resident somewhere in your mental space. ([Location 868](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=868)) [Open in Readwise](https://readwise.io/open/54386218) ^rw54386218
+    - Date:: [[April 16th, 2020, Thursday]]
+- There are several types of tools, both low- and high-tech, that can be used to collect your incompletes. ([Location 871](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=871)) [Open in Readwise](https://readwise.io/open/54386219) ^rw54386219
+    - Date:: [[April 16th, 2020, Thursday]]
+- Digital and Voice Note Taking Computers, tablets, smartphones, and all kinds of new mobile tech gadgetry emerging daily can be used for capturing notes for later processing, preserving an interim record of things you need to remember to deal with. ([Location 879](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=879)) [Open in Readwise](https://readwise.io/open/54386220) ^rw54386220
+    - Date:: [[April 16th, 2020, Thursday]]
+- Let’s examine the three requirements to make the capturing phase work: 1  |  Every open loop must be in your capture system and out of your head. 2  |  You must have as few capturing buckets as you can get by with. 3  |  You must empty them regularly. ([Location 890](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=890)) [Open in Readwise](https://readwise.io/open/54386221) ^rw54386221
+    - Date:: [[April 16th, 2020, Thursday]]
+- If you’re still trying to keep track of too many things in your mental space, you likely won’t be motivated to use and empty your in-trays with integrity. ([Location 898](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=898)) [Open in Readwise](https://readwise.io/open/54386222) ^rw54386222
+    - Date:: [[April 16th, 2020, Thursday]]
+- Most people are relatively careless about these tools because they know they don’t represent discrete, whole systems anyway; there’s an incomplete set of things in their in-tray and an incomplete set in their mind, and they’re not getting a real payoff from either one, so their thinking goes. ([Location 899](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=899)) [Open in Readwise](https://readwise.io/open/54386223) ^rw54386223
+    - Date:: [[April 16th, 2020, Thursday]]
+- Keep everything in your head or out of your head. If it’s in between, you won’t trust either one. ([Location 903](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=903)) [Open in Readwise](https://readwise.io/open/54386224) ^rw54386224
+    - Date:: [[April 16th, 2020, Thursday]]
+- These collection tools should become part of your lifestyle. Keep them close by so no matter where you are you can collect a potentially valuable thought—think of them as being as indispensable as your toothbrush or your driver’s license or your glasses. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=904)) [Open in Readwise](https://readwise.io/open/54386225) ^rw54386225
+    - Date:: [[April 16th, 2020, Thursday]]
+- Minimize the Number of Capture Locations You should have as many in-trays as you need and as few as you can get by with. You need this function to be available to you in every context, since things you’ll want to capture may show up almost anywhere. ([Location 907](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=907)) [Open in Readwise](https://readwise.io/open/54386226) ^rw54386226
+    - Date:: [[April 16th, 2020, Thursday]]
+- Funnel all potentially meaningful inputs through minimal channels, directed to you for easily accessed review and assessment about their nature. ([Location 910](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=910)) [Open in Readwise](https://readwise.io/open/54386227) ^rw54386227
+    - Date:: [[April 16th, 2020, Thursday]]
+- The final success factor for capturing should be obvious: if you don’t empty and process the stuff you’ve collected, your tools aren’t serving any function other than the storage of amorphous material. ([Location 923](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=923)) [Open in Readwise](https://readwise.io/open/54386228) ^rw54386228
+    - Date:: [[April 16th, 2020, Thursday]]
+- Emptying the contents does not mean that you have to finish what’s there; it just means that you have to decide more specifically what it is and what should be done with it, and if it’s still unfinished, organize it into your system. ([Location 925](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=925)) [Open in Readwise](https://readwise.io/open/54386229) ^rw54386229
+    - Date:: [[April 16th, 2020, Thursday]]
+- Blockage in the flow of anything undermines the ability to be present, fresh, and creative in that arena. ([Location 929](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=929)) [Open in Readwise](https://readwise.io/open/54386230) ^rw54386230
+    - Date:: [[April 16th, 2020, Thursday]]
+- In order to get “in” to empty, however, an integrated life-management system must be in place. ([Location 930](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=930)) [Open in Readwise](https://readwise.io/open/54386231) ^rw54386231
+    - Date:: [[April 16th, 2020, Thursday]]
+- Teaching them the item-by-item thinking required to get their collection containers empty is perhaps the most critical improvement I have made for virtually all the people I’ve worked with. ([Location 938](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=938)) [Open in Readwise](https://readwise.io/open/54386232) ^rw54386232
+    - Date:: [[April 16th, 2020, Thursday]]
+- It is better to be wrong than to be vague. —Freeman Dyson ([Location 943](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=943)) [Open in Readwise](https://readwise.io/open/54386233) ^rw54386233
+    - Date:: [[April 16th, 2020, Thursday]]
+- What do you need to ask yourself (and answer) about each e-mail, text, voice mail, memo, page of meeting notes, or self-generated idea that comes your way? This is the component of input management that forms the basis for your personal organization. Many people try to get organized but make the mistake of doing it with incomplete batches of stuff. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=945)) [Open in Readwise](https://readwise.io/open/54386234) ^rw54386234
+    - Date:: [[April 16th, 2020, Thursday]]
+- You can’t organize what’s incoming—you can only capture it and process it. Instead, you organize the actions you’ll need to take based on the decisions you’ve made about what needs to be done. ([Location 947](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=947)) [Open in Readwise](https://readwise.io/open/54386235) ^rw54386235
+    - Date:: [[April 16th, 2020, Thursday]]
+- many of the items that tend to leak out of our personal organizing systems are amorphous forms that we receive from the government or from our company—do we actually need to do something about them? ([Location 951](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=951)) [Open in Readwise](https://readwise.io/open/54386236) ^rw54386236
+    - Date:: [[April 16th, 2020, Thursday]]
+- Is It Actionable? There are two possible answers for this: yes and no. ([Location 957](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=957)) [Open in Readwise](https://readwise.io/open/54386237) ^rw54386237
+    - Date:: [[April 16th, 2020, Thursday]]
+- No Action RequiredIf the answer is no, there are three possibilities: 1  |  It’s trash, no longer needed. 2  |  No action is needed now, but something might need to be done later (incubate). 3  |  The item is potentially useful information that might be needed for something later (reference). ([Location 958](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=958)) [Open in Readwise](https://readwise.io/open/54386238) ^rw54386238
+    - Date:: [[April 16th, 2020, Thursday]]
+- These three categories can themselves be managed; ([Location 964](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=964)) [Open in Readwise](https://readwise.io/open/54386239) ^rw54386239
+    - Date:: [[April 16th, 2020, Thursday]]
+- Actionable This is the yes group of items, stuff about which something needs to be done. ([Location 966](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=966)) [Open in Readwise](https://readwise.io/open/54386240) ^rw54386240
+    - Date:: [[April 16th, 2020, Thursday]]
+- Two things need to be determined about each actionable item: 1  |  What “project” or outcome have you committed to? and 2  |  What’s the next action required? ([Location 969](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=969)) [Open in Readwise](https://readwise.io/open/54386241) ^rw54386241
+    - Date:: [[April 16th, 2020, Thursday]]
+- It does not take much strength to do things, but it requires a great deal of strength to decide what to do. —Elbert Hubbard ([Location 972](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=972)) [Open in Readwise](https://readwise.io/open/54386242) ^rw54386242
+    - Date:: [[April 16th, 2020, Thursday]]
+- If It’s About a Project . . . You need to capture that outcome on a “Projects” list. ([Location 975](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=975)) [Open in Readwise](https://readwise.io/open/54386243) ^rw54386243
+    - Date:: [[April 16th, 2020, Thursday]]
+- A Weekly Review of the list (see page 50) will bring this item back to you as something that’s still outstanding. It will stay fresh and alive in your management system (versus your head) until it is completed or eliminated. ([Location 976](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=976)) [Open in Readwise](https://readwise.io/open/54386244) ^rw54386244
+    - Date:: [[April 16th, 2020, Thursday]]
+- What’s the Next Action? This is the critical question for anything you’ve captured; ([Location 978](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=978)) [Open in Readwise](https://readwise.io/open/54386245) ^rw54386245
+    - Date:: [[April 16th, 2020, Thursday]]
+- The “next action” is the next physical, visible activity that needs to be engaged in, in order to move the current reality of this thing toward completion. ([Location 980](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=980)) [Open in Readwise](https://readwise.io/open/54386246) ^rw54386246
+    - Date:: [[April 16th, 2020, Thursday]]
+- Reminders of these will become the primary grist for the mill of your personal productivity-management system. ([Location 984](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=984)) [Open in Readwise](https://readwise.io/open/54386247) ^rw54386247
+    - Date:: [[April 16th, 2020, Thursday]]
+- Do It, Delegate It, or Defer It Once you’ve decided on the next action, you have three options: ([Location 985](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=985)) [Open in Readwise](https://readwise.io/open/54386248) ^rw54386248
+    - Date:: [[April 16th, 2020, Thursday]]
+- 1. Do it. If an action will take less than two minutes, it should be done at the moment it is defined. ([Location 986](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=986)) [Open in Readwise](https://readwise.io/open/54386249) ^rw54386249
+    - Date:: [[April 16th, 2020, Thursday]]
+- 2. Delegate it. If the action will take longer than two minutes, ask yourself, Am I the right person to do this? If the answer is no, delegate it to the appropriate entity. ([Location 986](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=986)) [Open in Readwise](https://readwise.io/open/54386250) ^rw54386250
+    - Date:: [[April 16th, 2020, Thursday]]
+- 3. Defer it, If the action will take longer than two minutes, and you are the right person to do it, you will have to defer acting on it until later and track it on one or more “Next Actions” lists. ([Location 988](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=988)) [Open in Readwise](https://readwise.io/open/54386251) ^rw54386251
+    - Date:: [[April 16th, 2020, Thursday]]
+- Being organized means simply that where something is matches what it means to you. ([Location 991](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=991)) [Open in Readwise](https://readwise.io/open/54386252) ^rw54386252
+    - Date:: [[April 16th, 2020, Thursday]]
+- The outer ring of the workflow diagram shows the eight discrete categories of reminders and materials that will result from your processing all your stuff. ([Location 992](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=992)) [Open in Readwise](https://readwise.io/open/54386253) ^rw54386253
+    - Date:: [[April 16th, 2020, Thursday]]
+- For nonactionable items, the possible categories are trash, incubation, and reference. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=994)) [Open in Readwise](https://readwise.io/open/54386254) ^rw54386254
+    - Date:: [[April 16th, 2020, Thursday]]
+- To manage actionable things, you will need a list of projects, storage or files for project plans and materials, a calendar, a list of reminders of next actions, and a list of reminders of things you’re waiting for. ([Location 996](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=996)) [Open in Readwise](https://readwise.io/open/54386255) ^rw54386255
+    - Date:: [[April 16th, 2020, Thursday]]
+- All of the organizational categories need to be physically contained in some form. When I refer to “lists,” I just mean some sort of reviewable set of reminders, ([Location 998](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=998)) [Open in Readwise](https://readwise.io/open/54386256) ^rw54386256
+    - Date:: [[April 16th, 2020, Thursday]]
+- I define a project as any desired result that can be accomplished within a year that requires more than one action step. ([Location 1005](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1005)) [Open in Readwise](https://readwise.io/open/54386257) ^rw54386257
+    - Date:: [[April 16th, 2020, Thursday]]
+- some rather small things you might not normally call projects are going to be on your Projects list, as well as some big ones. ([Location 1006](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1006)) [Open in Readwise](https://readwise.io/open/54386258) ^rw54386258
+    - Date:: [[April 16th, 2020, Thursday]]
+- Another way to think of this is as a list of open loops, no matter what the size. ([Location 1010](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1010)) [Open in Readwise](https://readwise.io/open/54386259) ^rw54386259
+    - Date:: [[April 16th, 2020, Thursday]]
+- You don’t actually do a project; you can only do action steps related to it. ([Location 1024](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1024)) [Open in Readwise](https://readwise.io/open/54386260) ^rw54386260
+    - Date:: [[April 16th, 2020, Thursday]]
+- There may be reasons to sort your projects into different subcategories, based upon different areas of your focus, but initially creating a single list of all of them will make it easier to customize your system appropriately as you get more comfortable with its usage. ([Location 1027](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1027)) [Open in Readwise](https://readwise.io/open/54386261) ^rw54386261
+    - Date:: [[April 16th, 2020, Thursday]]
+- Your Projects list will be merely an index. All of the details, plans, and supporting information that you may need as you work on your various projects should be contained in separate file folders, computer files, notebooks, or binders. ([Location 1031](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1031)) [Open in Readwise](https://readwise.io/open/54386262) ^rw54386262
+    - Date:: [[April 16th, 2020, Thursday]]
+- Support Materials and Reference Files Once you have organized your project support material by theme or topic, you will probably find that it is almost identical to your reference material and could be kept in the same reference file system ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1033)) [Open in Readwise](https://readwise.io/open/54386263) ^rw54386263
+    - Date:: [[April 16th, 2020, Thursday]]
+- The only difference is that in the case of active projects, support material may need to be reviewed on a more consistent basis to ensure that all the necessary action steps are identified. ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1035)) [Open in Readwise](https://readwise.io/open/54386264) ^rw54386264
+    - Date:: [[April 16th, 2020, Thursday]]
+- I usually recommend that people store their support materials out of sight. ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1036)) [Open in Readwise](https://readwise.io/open/54386265) ^rw54386265
+    - Date:: [[April 16th, 2020, Thursday]]
+- The digital world has paradoxically made organizing reference and support materials simultaneously simpler and more complex. ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1040)) [Open in Readwise](https://readwise.io/open/54386266) ^rw54386266
+    - Date:: [[April 16th, 2020, Thursday]]
+- The best practice is to keep your digital reference world as simple as possible, and consistently reviewed and purged. ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1043)) [Open in Readwise](https://readwise.io/open/54386267) ^rw54386267
+    - Date:: [[April 16th, 2020, Thursday]]
+- As the workflow diagram makes clear, the next-action decision is central. That action needs to be the next physical, visible behavior, without exception, on every open loop. ([Location 1044](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1044)) [Open in Readwise](https://readwise.io/open/54386268) ^rw54386268
+    - Date:: [[April 16th, 2020, Thursday]]
+- What does need to be tracked is every action that has to happen at a specific time or on a specific day (enter those on your calendar); those that need to be done as soon as they can (add these to your Next Actions lists); and all those that you are waiting for others to do (put these on a Waiting For list). ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1047)) [Open in Readwise](https://readwise.io/open/54386269) ^rw54386269
+    - Date:: [[April 16th, 2020, Thursday]]
+- Three things go on your calendar: time-specific actions; day-specific actions; and day-specific information ([Location 1051](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1051)) [Open in Readwise](https://readwise.io/open/54386270) ^rw54386270
+    - Date:: [[April 16th, 2020, Thursday]]
+- Time-Specific Actions This is a fancy name for appointments. ([Location 1053](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1053)) [Open in Readwise](https://readwise.io/open/54386271) ^rw54386271
+    - Date:: [[April 16th, 2020, Thursday]]
+- No More “Daily To-Do” Lists on the Calendar ([Location 1067](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1067)) [Open in Readwise](https://readwise.io/open/54386272) ^rw54386272
+    - Date:: [[April 16th, 2020, Thursday]]
+- constant new input and shifting tactical priorities reconfigure daily work so consistently that it’s virtually impossible to nail down to-do items ahead of time. ([Location 1069](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1069)) [Open in Readwise](https://readwise.io/open/54386273) ^rw54386273
+    - Date:: [[April 16th, 2020, Thursday]]
+- The Next Actions lists I advocate will hold all of those action reminders, even the most time-sensitive ones. And they won’t have to be rewritten daily. ([Location 1072](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1072)) [Open in Readwise](https://readwise.io/open/54386274) ^rw54386274
+    - Date:: [[April 16th, 2020, Thursday]]
+- if there’s something on a daily to-do list that doesn’t absolutely have to get done that day, it will dilute the emphasis on the things that truly do. ([Location 1073](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1073)) [Open in Readwise](https://readwise.io/open/54386275) ^rw54386275
+    - Date:: [[April 16th, 2020, Thursday]]
+- the calendar should be sacred territory. ([Location 1077](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1077)) [Open in Readwise](https://readwise.io/open/54386276) ^rw54386276
+    - Date:: [[April 16th, 2020, Thursday]]
+- The only rewriting should be for changed appointments. ([Location 1078](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1078)) [Open in Readwise](https://readwise.io/open/54386277) ^rw54386277
+    - Date:: [[April 16th, 2020, Thursday]]
+- Next Actions lists, which, along with the calendar, are at the heart of daily action-management organization and orientation. ([Location 1082](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1082)) [Open in Readwise](https://readwise.io/open/54386278) ^rw54386278
+    - Date:: [[April 16th, 2020, Thursday]]
+- Everything should be made as simple as possible, but no simpler. —Albert Einstein ([Location 1086](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1086)) [Open in Readwise](https://readwise.io/open/54386279) ^rw54386279
+    - Date:: [[April 16th, 2020, Thursday]]
+- If you have only twenty or thirty of these, it may be fine to keep them all on one list labeled “Next Actions,” which you’ll review whenever you have any free time. ([Location 1088](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1088)) [Open in Readwise](https://readwise.io/open/54386280) ^rw54386280
+    - Date:: [[April 16th, 2020, Thursday]]
+- however, the number is more likely to be fifty to 150. In that case it makes sense to subdivide your Next Actions list into categories, such as Calls to make when you have a window of time and your phone, or Computer action items to see as options when you’re at that device. ([Location 1089](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1089)) [Open in Readwise](https://readwise.io/open/54386281) ^rw54386281
+    - Date:: [[April 16th, 2020, Thursday]]
+- Say you read something in a newsletter that gives you an idea for a project you might want to do someday, but not now. You’ll want to be reminded of it again later so you can reassess the option of doing something about it in the future. ([Location 1098](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1098)) [Open in Readwise](https://readwise.io/open/54386282) ^rw54386282
+    - Date:: [[April 16th, 2020, Thursday]]
+- There are two kinds of incubation tools that could work for this kind of thing: Someday/Maybe lists and a tickler system. ([Location 1102](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1102)) [Open in Readwise](https://readwise.io/open/54386283) ^rw54386283
+    - Date:: [[April 16th, 2020, Thursday]]
+- Someday/Maybe It can be useful and inspiring to maintain an ongoing list of things you might want to do at some point but not now. ([Location 1103](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1103)) [Open in Readwise](https://readwise.io/open/54386284) ^rw54386284
+    - Date:: [[April 16th, 2020, Thursday]]
+- You must review this list periodically if you’re going to get the most value from it. I suggest you include a scan of the contents in your Weekly Review ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1118)) [Open in Readwise](https://readwise.io/open/54386285) ^rw54386285
+    - Date:: [[April 16th, 2020, Thursday]]
+- Tickler System A second type of things to incubate are those you don’t want or need to be reminded of until some designated time in the future. ([Location 1124](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1124)) [Open in Readwise](https://readwise.io/open/54386286) ^rw54386286
+    - Date:: [[April 16th, 2020, Thursday]]
+- Reference Material Many things that come your way require no action but have intrinsic value as information. You will want to keep and be able to retrieve these as needed. ([Location 1130](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1130)) [Open in Readwise](https://readwise.io/open/54386287) ^rw54386287
+    - Date:: [[April 16th, 2020, Thursday]]
+- Reference systems generally take two forms: (1) topic- and area-specific storage, and (2) general-reference files. ([Location 1138](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1138)) [Open in Readwise](https://readwise.io/open/54386288) ^rw54386288
+    - Date:: [[April 16th, 2020, Thursday]]
+- The lack of a good general-reference file can be one of the biggest bottlenecks in implementing an efficient personal management system. If filing and storing isn’t easy and fast (and even fun!), you’ll tend to stack, pile, or digitally accumulate things instead of putting them away appropriately. ([Location 1145](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1145)) [Open in Readwise](https://readwise.io/open/54386289) ^rw54386289
+    - Date:: [[April 16th, 2020, Thursday]]
+- For most people the magic of workflow management is realized in the consistent use of the reflection step. This is where, in one important case, you take a look at all your outstanding projects and open loops, at what I call Horizon 1 level (see page 55), on a weekly basis. It’s your chance to scan all the defined actions and options before you, thus radically increasing the efficacy of the choices you make about what you’re doing at any point in time. ([Location 1154](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1154)) [Open in Readwise](https://readwise.io/open/54386290) ^rw54386290
+    - Date:: [[April 16th, 2020, Thursday]]
+- Your life is more complex than any single system can describe or coordinate, but the GTD methodology creates a coherent model for placeholding key elements, which still require attention, being kept current, and being reviewed in a coordinated way. ([Location 1157](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1157)) [Open in Readwise](https://readwise.io/open/54386291) ^rw54386291
+    - Date:: [[April 16th, 2020, Thursday]]
+- Review whatever lists, overviews, and orientation maps you need to, as often as you need to, to get their contents off your mind. ([Location 1166](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1166)) [Open in Readwise](https://readwise.io/open/54386292) ^rw54386292
+    - Date:: [[April 16th, 2020, Thursday]]
+- After checking your calendar, you’ll most often turn to your Next Action lists. These hold the inventory of predefined actions that you can take if you have any discretionary time during the day. ([Location 1168](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1168)) [Open in Readwise](https://readwise.io/open/54386293) ^rw54386293
+    - Date:: [[April 16th, 2020, Thursday]]
+- Projects, Waiting For, and Someday/Maybe lists need to be reviewed only as often as you think they have to be in order to stop you from wondering about them. ([Location 1170](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1170)) [Open in Readwise](https://readwise.io/open/54386294) ^rw54386294
+    - Date:: [[April 16th, 2020, Thursday]]
+- Critical Success Factor: The Weekly Review ([Location 1172](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1172)) [Open in Readwise](https://readwise.io/open/54386295) ^rw54386295
+    - Date:: [[April 16th, 2020, Thursday]]
+- Everything that might require action must be reviewed on a frequent enough basis to keep your mind from taking back the job of remembering and reminding. ([Location 1176](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1176)) [Open in Readwise](https://readwise.io/open/54386296) ^rw54386296
+    - Date:: [[April 16th, 2020, Thursday]]
+- All of your Projects, active project plans, and Next Actions, Agendas, Waiting For, and even Someday/Maybe lists should be reviewed once a week. ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1179)) [Open in Readwise](https://readwise.io/open/54386297) ^rw54386297
+    - Date:: [[April 16th, 2020, Thursday]]
+- The Weekly Review is the time to: Gather and process all your stuff. Review your system. Update your lists. Get clean, clear, current, and complete. ([Location 1185](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1185)) [Open in Readwise](https://readwise.io/open/54386298) ^rw54386298
+    - Date:: [[April 16th, 2020, Thursday]]
+- Most people don’t have a really complete system, and they get no real payoff from reviewing things for just that reason: their overview isn’t total. ([Location 1188](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1188)) [Open in Readwise](https://readwise.io/open/54386299) ^rw54386299
+    - Date:: [[April 16th, 2020, Thursday]]
+- the more complete the system is, the more you’ll trust it. And the more you trust it, the more complete you’ll be motivated to keep it. The Weekly Review is a master key to maintaining that standard. ([Location 1190](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1190)) [Open in Readwise](https://readwise.io/open/54386300) ^rw54386300
+    - Date:: [[April 16th, 2020, Thursday]]
+- The basic purpose of this workflow-management process is to facilitate good choices about what you’re doing at any point in time. ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1196)) [Open in Readwise](https://readwise.io/open/54386301) ^rw54386301
+    - Date:: [[April 16th, 2020, Thursday]]
+- with the proper orientation you can feel much more confident about your choices. You can move from hope to trust in your actions, immediately increasing your energy and effectiveness. ([Location 1198](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1198)) [Open in Readwise](https://readwise.io/open/54386302) ^rw54386302
+    - Date:: [[April 16th, 2020, Thursday]]
+- Every decision to act is an intuitive one. The challenge is to migrate from hoping it’s the right choice to… ([Location 1200](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1200)) [Open in Readwise](https://readwise.io/open/54386303) ^rw54386303
+    - Date:: [[April 16th, 2020, Thursday]]
+- Let’s assume for a moment that you’re not resisting any of your stuff out of insecurity or procrastination. There will always be a long list of actions… ([Location 1202](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1202)) [Open in Readwise](https://readwise.io/open/54386304) ^rw54386304
+    - Date:: [[April 16th, 2020, Thursday]]
+- how will you decide what to do and what not to do, and feel… ([Location 1204](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1204)) [Open in Readwise](https://readwise.io/open/54386305) ^rw54386305
+    - Date:: [[April 16th, 2020, Thursday]]
+- There are three models that will be helpful for you to incorporate in your decision… ([Location 1206](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1206)) [Open in Readwise](https://readwise.io/open/54386306) ^rw54386306
+    - Date:: [[April 16th, 2020, Thursday]]
+- 1. The Four-Criteria Model for Choosing Actions… ([Location 1209](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1209)) [Open in Readwise](https://readwise.io/open/54386307) ^rw54386307
+    - Date:: [[April 16th, 2020, Thursday]]
+- there are four criteria you can apply, in this order: context, time available, energy… ([Location 1210](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1210)) [Open in Readwise](https://readwise.io/open/54386308) ^rw54386308
+    - Date:: [[April 16th, 2020, Thursday]]
+- The first three describe the constraints within which you continually operate, and the fourth provides the hierarchical… ([Location 1211](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1211)) [Open in Readwise](https://readwise.io/open/54386309) ^rw54386309
+    - Date:: [[April 16th, 2020, Thursday]]
+- Context You are always constrained by what you have the capability… ([Location 1213](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1213)) [Open in Readwise](https://readwise.io/open/54386310) ^rw54386310
+    - Date:: [[April 16th, 2020, Thursday]]
+- There is always more to do than you can do, and you can do only one thing at a time. The key is to feel as good about what you’re not doing as… ([Location 1216](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1216)) [Open in Readwise](https://readwise.io/open/54386311) ^rw54386311
+    - Date:: [[April 16th, 2020, Thursday]]
+- Time… ([Location 1218](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1218)) [Open in Readwise](https://readwise.io/open/54386312) ^rw54386312
+    - Date:: [[April 16th, 2020, Thursday]]
+- Energy… ([Location 1220](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1220)) [Open in Readwise](https://readwise.io/open/54386313) ^rw54386313
+    - Date:: [[April 16th, 2020, Thursday]]
+- Some actions you have to do require a reservoir of fresh, creative mental energy. Others need more physical horsepower.… ([Location 1220](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1220)) [Open in Readwise](https://readwise.io/open/54386314) ^rw54386314
+    - Date:: [[April 16th, 2020, Thursday]]
+- Priority Given your context, time, and energy available, what action remaining of your options will… ([Location 1221](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1221)) [Open in Readwise](https://readwise.io/open/54386315) ^rw54386315
+    - Date:: [[April 16th, 2020, Thursday]]
+- 2. The Threefold Model for Identifying… ([Location 1226](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1226)) [Open in Readwise](https://readwise.io/open/54386316) ^rw54386316
+    - Date:: [[April 16th, 2020, Thursday]]
+- When you’re getting things done, or “working” in the universal sense, there are three different kinds of… ([Location 1227](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1227)) [Open in Readwise](https://readwise.io/open/54386317) ^rw54386317
+    - Date:: [[April 16th, 2020, Thursday]]
+- Doing predefined work Doing work as it shows up… ([Location 1228](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1228)) [Open in Readwise](https://readwise.io/open/54386318) ^rw54386318
+    - Date:: [[April 16th, 2020, Thursday]]
+- When you’re doing predefined work, you’re working from your Next Actions lists and calendar—completing tasks that you have previously determined need… ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1229)) [Open in Readwise](https://readwise.io/open/54386319) ^rw54386319
+    - Date:: [[April 16th, 2020, Thursday]]
+- Doing Work as It Shows Up Often things come up ad hoc—unsuspected, unforeseen—that you either have to or… ([Location 1232](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1232)) [Open in Readwise](https://readwise.io/open/54386320) ^rw54386320
+    - Date:: [[April 16th, 2020, Thursday]]
+- Every day brings surprises—unplanned-for things that just show up—and you’ll need to expend at least some… ([Location 1234](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1234)) [Open in Readwise](https://readwise.io/open/54386321) ^rw54386321
+    - Date:: [[April 16th, 2020, Thursday]]
+- Defining your work entails clearing up your in-tray, your digital messages, and your meeting notes, and breaking down new… ([Location 1236](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1236)) [Open in Readwise](https://readwise.io/open/54386322) ^rw54386322
+    - Date:: [[April 16th, 2020, Thursday]]
+- As you process your inputs, you’ll no doubt be taking care of some less-than-two-minute actions and tossing and filing numerous things (another… ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1237)) [Open in Readwise](https://readwise.io/open/54386323) ^rw54386323
+    - Date:: [[April 16th, 2020, Thursday]]
+- A good portion of this activity will consist of identifying things that need to get done sometime, but not right away. You’ll be adding… ([Location 1239](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1239)) [Open in Readwise](https://readwise.io/open/54386324) ^rw54386324
+    - Date:: [[April 16th, 2020, Thursday]]
+- Once you have defined all your work, you can trust that your lists of things… ([Location 1240](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1240)) [Open in Readwise](https://readwise.io/open/54386325) ^rw54386325
+    - Date:: [[April 16th, 2020, Thursday]]
+- 3. The Six-Level Model for Reviewing… ([Location 1242](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1242)) [Open in Readwise](https://readwise.io/open/54386326) ^rw54386326
+    - Date:: [[April 16th, 2020, Thursday]]
+- In order to know what your priorities are, you have to know… ([Location 1244](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1244)) [Open in Readwise](https://readwise.io/open/54386327) ^rw54386327
+    - Date:: [[April 16th, 2020, Thursday]]
+- To use an appropriate analogy, the conversation has a lot do with the horizon, or… ([Location 1245](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1245)) [Open in Readwise](https://readwise.io/open/54386328) ^rw54386328
+    - Date:: [[April 16th, 2020, Thursday]]
+- Horizon 5: Purpose and principles Horizon 4: Vision Horizon 3: Goals Horizon 2: Areas of focus and accountabilities Horizon 1:… ([Location 1246](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1246)) [Open in Readwise](https://readwise.io/open/54386329) ^rw54386329
+    - Date:: [[April 16th, 2020, Thursday]]
+- Ground: Current Actions This is the accumulated list of all the actions you need to take—all ([Location 1248](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1248)) [Open in Readwise](https://readwise.io/open/54386330) ^rw54386330
+    - Date:: [[April 16th, 2020, Thursday]]
+- You’d probably have more than a hundred of these items to handle if you stopped the world right now with no more input from yourself or anyone else. ([Location 1250](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1250)) [Open in Readwise](https://readwise.io/open/54386331) ^rw54386331
+    - Date:: [[April 16th, 2020, Thursday]]
+- Horizon 1: Current Projects Generating most of the actions that you currently have in front of you are the thirty to one hundred projects on your plate. ([Location 1252](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1252)) [Open in Readwise](https://readwise.io/open/54386332) ^rw54386332
+    - Date:: [[April 16th, 2020, Thursday]]
+- These are the relatively short-term outcomes you want to achieve, ([Location 1253](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1253)) [Open in Readwise](https://readwise.io/open/54386333) ^rw54386333
+    - Date:: [[April 16th, 2020, Thursday]]
+- Complete the projects you begin, fulfill the commitments you have made, live up to your promises—then both your subconscious and conscious selves can have success, which leads to a feeling of fulfillment, worthiness and oneness. —John-Roger ([Location 1255](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1255)) [Open in Readwise](https://readwise.io/open/54386334) ^rw54386334
+    - Date:: [[April 16th, 2020, Thursday]]
+- Horizon 2: Areas of Focus and Accountabilities You create or accept your projects and actions because of the roles, interests, and accountabilities you have. ([Location 1258](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1258)) [Open in Readwise](https://readwise.io/open/54386335) ^rw54386335
+    - Date:: [[April 16th, 2020, Thursday]]
+- These are the key areas of your life and work within which you want to achieve results and maintain standards. ([Location 1259](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1259)) [Open in Readwise](https://readwise.io/open/54386336) ^rw54386336
+    - Date:: [[April 16th, 2020, Thursday]]
+- These are not things to finish but rather to use as criteria for assessing our experiences and our engagements, to maintain balance and sustainability, as we operate in our work and our world. ([Location 1262](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1262)) [Open in Readwise](https://readwise.io/open/54386337) ^rw54386337
+    - Date:: [[April 16th, 2020, Thursday]]
+- Listing and reviewing these responsibilities gives a more comprehensive framework for evaluating your inventory of projects. ([Location 1263](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1263)) [Open in Readwise](https://readwise.io/open/54386338) ^rw54386338
+    - Date:: [[April 16th, 2020, Thursday]]
+- Horizon 3: Goals What you want to be experiencing in various areas of your life and work one to two years from now will add another dimension to defining your work. ([Location 1264](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1264)) [Open in Readwise](https://readwise.io/open/54386339) ^rw54386339
+    - Date:: [[April 16th, 2020, Thursday]]
+- At this horizon personally, too, there probably are things you’d like to accomplish or have in place, which could add importance to certain aspects of your life and diminish others. ([Location 1266](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1266)) [Open in Readwise](https://readwise.io/open/54386340) ^rw54386340
+    - Date:: [[April 16th, 2020, Thursday]]
+- Horizon 4: Vision Projecting three to five years into the future generates thinking about bigger categories: ([Location 1268](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1268)) [Open in Readwise](https://readwise.io/open/54386341) ^rw54386341
+    - Date:: [[April 16th, 2020, Thursday]]
+- Horizon 5: Purpose and Principles This is the big-picture view. ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1272)) [Open in Readwise](https://readwise.io/open/54386342) ^rw54386342
+    - Date:: [[April 16th, 2020, Thursday]]
+- Why do you exist? What really matters to you, no matter what? ([Location 1273](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1273)) [Open in Readwise](https://readwise.io/open/54386343) ^rw54386343
+    - Date:: [[April 16th, 2020, Thursday]]
+- The primary purpose for anything provides the core definition of what the work really is. It is the ultimate job description. All goals, visions, objectives, projects, and actions derive from this, and lead toward it. ([Location 1273](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1273)) [Open in Readwise](https://readwise.io/open/54386344) ^rw54386344
+    - Date:: [[April 16th, 2020, Thursday]]
+- Minute-to-minute and day-to-day you don’t have time to think. You need to have already thought. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1277)) [Open in Readwise](https://readwise.io/open/54386345) ^rw54386345
+    - Date:: [[April 16th, 2020, Thursday]]
+- many factors must be considered before you feel comfortable that you have made the best decision about what to do and when. ([Location 1279](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1279)) [Open in Readwise](https://readwise.io/open/54386346) ^rw54386346
+    - Date:: [[April 16th, 2020, Thursday]]
+- Mastering the flow of your work at all the levels you experience that work provides a much more holistic way to get things done and feel good about it. ([Location 1281](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1281)) [Open in Readwise](https://readwise.io/open/54386347) ^rw54386347
+    - Date:: [[April 16th, 2020, Thursday]]
+- Getting Projects Creatively Under Way: The Five Phases of Project Planning ([Location 1285](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1285)) [Open in Readwise](https://readwise.io/open/54386348) ^rw54386348
+    - Date:: [[April 16th, 2020, Thursday]]
+- THE KEY INGREDIENTS of relaxed control are (1) clearly defined outcomes (projects) and the next actions required to move them toward closure, and (2) reminders placed in a trusted system that is reviewed regularly. ([Location 1286](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1286)) [Open in Readwise](https://readwise.io/open/54386349) ^rw54386349
+    - Date:: [[April 16th, 2020, Thursday]]
+- Although it may seem simple, the actual application of the process can create profound results. ([Location 1288](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1288)) [Open in Readwise](https://readwise.io/open/54386350) ^rw54386350
+    - Date:: [[April 16th, 2020, Thursday]]
+- This kind of thinking doesn’t have to be elaborate. Most of the thinking you’ll need to do is informal, what I call back-of-the-envelope planning—the ([Location 1296](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1296)) [Open in Readwise](https://readwise.io/open/54386351) ^rw54386351
+    - Date:: [[April 16th, 2020, Thursday]]
+- this tends to be the most productive kind of planning you can do in terms of your output relative to the energy you put into it. True, ([Location 1298](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1298)) [Open in Readwise](https://readwise.io/open/54386352) ^rw54386352
+    - Date:: [[April 16th, 2020, Thursday]]
+- The goal is to get projects and situations sufficiently clear and under control to get them off your mind, and not to lose any potentially useful ideas. ([Location 1303](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1303)) [Open in Readwise](https://readwise.io/open/54386353) ^rw54386353
+    - Date:: [[April 16th, 2020, Thursday]]
+- I’ve found the biggest gap to be the lack of a project-focusing model for the rest of us. ([Location 1306](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1306)) [Open in Readwise](https://readwise.io/open/54386354) ^rw54386354
+    - Date:: [[April 16th, 2020, Thursday]]
+- We need ways to validate and support our thinking, no matter how informal. ([Location 1307](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1307)) [Open in Readwise](https://readwise.io/open/54386355) ^rw54386355
+    - Date:: [[April 16th, 2020, Thursday]]
+- Your mind goes through five steps to accomplish virtually any task: 1  |  Defining purpose and principles 2  |  Outcome visioning 3  |  Brainstorming 4  |  Organizing 5  |  Identifying next actions ([Location 1321](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1321)) [Open in Readwise](https://readwise.io/open/54386356) ^rw54386356
+    - Date:: [[April 16th, 2020, Thursday]]
+- The key to intelligent thought is more intelligent thinking. ([Location 1347](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1347)) [Open in Readwise](https://readwise.io/open/54386357) ^rw54386357
+    - Date:: [[April 16th, 2020, Thursday]]
+- These five phases of project planning occur naturally for everything you accomplish during the day. ([Location 1357](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1357)) [Open in Readwise](https://readwise.io/open/54386358) ^rw54386358
+    - Date:: [[April 16th, 2020, Thursday]]
+- You have an urge to make something happen; you imagine the outcome; you generate ideas that might be relevant; you sort those into a structure; and you define a physical activity that would begin to make it a reality. ([Location 1358](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1358)) [Open in Readwise](https://readwise.io/open/54386359) ^rw54386359
+    - Date:: [[April 16th, 2020, Thursday]]
+- If you’re waiting to have a good idea before you have any ideas, you won’t have many. ([Location 1383](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1383)) [Open in Readwise](https://readwise.io/open/54386360) ^rw54386360
+    - Date:: [[April 16th, 2020, Thursday]]
+- if it’s just you, attempting to come up with a good idea before defining your purpose, creating a vision, and collecting lots of initial bad ideas is likely to give you a case of creative constipation. ([Location 1390](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1390)) [Open in Readwise](https://readwise.io/open/54386361) ^rw54386361
+    - Date:: [[April 16th, 2020, Thursday]]
+- The Reactive Planning Model When you find yourself in a hole, stop digging. —Will Rogers ([Location 1392](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1392)) [Open in Readwise](https://readwise.io/open/54386362) ^rw54386362
+    - Date:: [[April 16th, 2020, Thursday]]
+- Then, when the urgency of the last minute is upon you, the reactive planning model ensues. ([Location 1398](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1398)) [Open in Readwise](https://readwise.io/open/54386364) ^rw54386364
+    - Date:: [[April 16th, 2020, Thursday]]
+- Natural Planning Techniques: The Five Phases ([Location 1409](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1409)) [Open in Readwise](https://readwise.io/open/54386365) ^rw54386365
+    - Date:: [[April 16th, 2020, Thursday]]
+- thinking in more effective ways about projects and situations can make things happen sooner, better, and more successfully. ([Location 1410](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1410)) [Open in Readwise](https://readwise.io/open/54386366) ^rw54386366
+    - Date:: [[April 16th, 2020, Thursday]]
+- Purpose ([Location 1413](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1413)) [Open in Readwise](https://readwise.io/open/54386367) ^rw54386367
+    - Date:: [[April 16th, 2020, Thursday]]
+- It never hurts to ask the why question. Almost anything you’re currently doing can be enhanced and even galvanized by more scrutiny at this top level of focus. ([Location 1413](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1413)) [Open in Readwise](https://readwise.io/open/54386368) ^rw54386368
+    - Date:: [[April 16th, 2020, Thursday]]
+- To know and to be clear about the purpose of any activity are prime directives for appropriate focus, creative development, and cooperation. ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1420)) [Open in Readwise](https://readwise.io/open/54386369) ^rw54386369
+    - Date:: [[April 16th, 2020, Thursday]]
+- The Value of Thinking About Why Here are just some of the benefits of asking why: It defines success. It creates decision-making criteria. It aligns resources. It motivates. It clarifies focus. It expands options. ([Location 1427](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1427)) [Open in Readwise](https://readwise.io/open/54386370) ^rw54386370
+    - Date:: [[April 16th, 2020, Thursday]]
+- It Defines Success People are starved for “wins” these days. ([Location 1432](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1432)) [Open in Readwise](https://readwise.io/open/54386371) ^rw54386371
+    - Date:: [[April 16th, 2020, Thursday]]
+- you’re not totally clear about the purpose of what you’re doing, you have no chance of winning. Purpose defines success. ([Location 1433](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1433)) [Open in Readwise](https://readwise.io/open/54386372) ^rw54386372
+    - Date:: [[April 16th, 2020, Thursday]]
+- If you’re not sure why you’re doing something, you can never do enough of it. ([Location 1448](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1448)) [Open in Readwise](https://readwise.io/open/54386373) ^rw54386373
+    - Date:: [[April 16th, 2020, Thursday]]
+- Let’s face it: if there’s no good reason to be doing something, it’s not worth doing. ([Location 1449](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1449)) [Open in Readwise](https://readwise.io/open/54386374) ^rw54386374
+    - Date:: [[April 16th, 2020, Thursday]]
+- When you land on the real purpose for anything you’re doing, it makes things clearer. ([Location 1452](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1452)) [Open in Readwise](https://readwise.io/open/54386375) ^rw54386375
+    - Date:: [[April 16th, 2020, Thursday]]
+- Paradoxically, even as purpose brings things into pinpoint focus, it opens up creative thinking about wider possibilities. ([Location 1455](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1455)) [Open in Readwise](https://readwise.io/open/54386376) ^rw54386376
+    - Date:: [[April 16th, 2020, Thursday]]
+- Is your purpose clear and specific enough? If you’re truly experiencing the benefits of a purpose focus—motivation, clarity, decision-making criteria, alignment, and creativity—then your purpose probably is specific enough. ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1459)) [Open in Readwise](https://readwise.io/open/54386377) ^rw54386377
+    - Date:: [[April 16th, 2020, Thursday]]
+- Of equal value as prime criteria for driving and directing a project are the standards and values you hold. ([Location 1468](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1468)) [Open in Readwise](https://readwise.io/open/54386378) ^rw54386378
+    - Date:: [[April 16th, 2020, Thursday]]
+- Another great reason for focusing on principles is the clarity and reference point they provide for positive conduct. ([Location 1476](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1476)) [Open in Readwise](https://readwise.io/open/54386379) ^rw54386379
+    - Date:: [[April 16th, 2020, Thursday]]
+- Whereas purpose provides the juice and the direction, principles define the parameters of action and the criteria for excellence of conduct. ([Location 1479](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1479)) [Open in Readwise](https://readwise.io/open/54386380) ^rw54386380
+    - Date:: [[April 16th, 2020, Thursday]]
+- In order to most productively access the conscious and unconscious resources available to you, you must have a clear picture in your mind of what success would look, sound, and feel like. ([Location 1480](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1480)) [Open in Readwise](https://readwise.io/open/54386381) ^rw54386381
+    - Date:: [[April 16th, 2020, Thursday]]
+- Purpose and principles furnish the impetus and the monitoring, but vision provides the actual blueprint of the final result. This is the what instead of the why. ([Location 1481](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1481)) [Open in Readwise](https://readwise.io/open/54386382) ^rw54386382
+    - Date:: [[April 16th, 2020, Thursday]]
+- Imagination is more important than knowledge. —Albert Einstein ([Location 1487](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1487)) [Open in Readwise](https://readwise.io/open/54386383) ^rw54386383
+    - Date:: [[April 16th, 2020, Thursday]]
+- the focus we hold in our minds affects what we perceive and how we perform. ([Location 1491](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1491)) [Open in Readwise](https://readwise.io/open/54386384) ^rw54386384
+    - Date:: [[April 16th, 2020, Thursday]]
+- When you focus on something—the ([Location 1493](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1493)) [Open in Readwise](https://readwise.io/open/54386385) ^rw54386385
+    - Date:: [[April 16th, 2020, Thursday]]
+- that focus instantly creates ideas and thought patterns you wouldn’t have had otherwise. ([Location 1494](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1494)) [Open in Readwise](https://readwise.io/open/54386386) ^rw54386386
+    - Date:: [[April 16th, 2020, Thursday]]
+- The May 1957 issue of Scientific American magazine contains an article describing the discovery of the reticular formation at the base of the brain. ([Location 1496](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1496)) [Open in Readwise](https://readwise.io/open/54386387) ^rw54386387
+    - Date:: [[April 16th, 2020, Thursday]]
+- The reticular formation is basically the gateway to your conscious awareness; it’s the switch that turns on your perception of ideas and data, the thing that keeps you asleep even when music’s playing but wakes you if a special little baby cries in another room. ([Location 1497](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1497)) [Open in Readwise](https://readwise.io/open/54386388) ^rw54386388
+    - Date:: [[April 16th, 2020, Thursday]]
+- Your automatic creative mechanism is teleological. That is, it operates in terms of goals and end results. Once you give it a definite goal to achieve, you can depend upon its automatic guidance system to take you to that goal much better than “you” ever could by conscious thought. “You” supply the goal by thinking in terms of end results. Your automatic mechanism then supplies the means whereby. —Maxwell Maltz ([Location 1499](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1499)) [Open in Readwise](https://readwise.io/open/54386389) ^rw54386389
+    - Date:: [[April 16th, 2020, Thursday]]
+- The best way to get a good idea is to get lots of ideas. —Linus Pauling ([Location 1533](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1533)) [Open in Readwise](https://readwise.io/open/54386390) ^rw54386390
+    - Date:: [[April 16th, 2020, Thursday]]
+- Once you know what you want to happen and why, the how mechanism is brought into play. ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1535)) [Open in Readwise](https://readwise.io/open/54386391) ^rw54386391
+    - Date:: [[April 16th, 2020, Thursday]]
+- This process usually goes on internally for most people about most things, and that’s often sufficient. ([Location 1537](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1537)) [Open in Readwise](https://readwise.io/open/54386392) ^rw54386392
+    - Date:: [[April 16th, 2020, Thursday]]
+- there are many other instances when writing things down, or capturing them in some external way, can give a tremendous boost to productive output and thinking. ([Location 1539](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1539)) [Open in Readwise](https://readwise.io/open/54386393) ^rw54386393
+    - Date:: [[April 16th, 2020, Thursday]]
+- The great thing about external brainstorming is that in addition to capturing your original ideas, it can help generate many new ones that might not have occurred to you if you didn’t have a mechanism to hold your thoughts and continually reflect them back to you. ([Location 1555](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1555)) [Open in Readwise](https://readwise.io/open/54386394) ^rw54386394
+    - Date:: [[April 16th, 2020, Thursday]]
+- Nothing is more dangerous than an idea when it is the only one you have. —Emile Chartier ([Location 1560](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1560)) [Open in Readwise](https://readwise.io/open/54386395) ^rw54386395
+    - Date:: [[April 16th, 2020, Thursday]]
+- Only he who handles his ideas lightly is master of his ideas, and only he who is master of his ideas is not enslaved by them. —Lin Yutang ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1568)) [Open in Readwise](https://readwise.io/open/54386396) ^rw54386396
+    - Date:: [[April 16th, 2020, Thursday]]
+- Many techniques can be used to facilitate brainstorming and out-of-the-box thinking. The basic principles, however, can be summed up as follows: Don’t judge, challenge, evaluate, or criticize. Go for quantity, not quality. Put analysis and organization in the background. ([Location 1576](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1576)) [Open in Readwise](https://readwise.io/open/54386397) ^rw54386397
+    - Date:: [[April 16th, 2020, Thursday]]
+- Determining what might go most wrong in a situation is at times the best way to generate the best ideas about how to make it successful. ([Location 1579](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1579)) [Open in Readwise](https://readwise.io/open/54386398) ^rw54386398
+    - Date:: [[April 16th, 2020, Thursday]]
+- If you care even slightly about what a critic thinks, you’ll censor your expressive process as you look for the “right” thing to say. ([Location 1582](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1582)) [Open in Readwise](https://readwise.io/open/54386399) ^rw54386399
+    - Date:: [[April 16th, 2020, Thursday]]
+- Going for quantity keeps your thinking expansive. Often you won’t know what’s a good idea until you have it. ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1591)) [Open in Readwise](https://readwise.io/open/54386400) ^rw54386400
+    - Date:: [[April 16th, 2020, Thursday]]
+- The greater the volume of thoughts you have to work with, the better the context you can create for developing options and trusting your choices. ([Location 1593](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1593)) [Open in Readwise](https://readwise.io/open/54386401) ^rw54386401
+    - Date:: [[April 16th, 2020, Thursday]]
+- A project plan identifies the smaller outcomes, which can then be naturally planned. ([Location 1599](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1599)) [Open in Readwise](https://readwise.io/open/54386402) ^rw54386402
+    - Date:: [[April 16th, 2020, Thursday]]
+- If you’ve done a thorough job of emptying your head of all the things that came up in the brainstorming phase, you’ll notice that a natural organization is emerging. ([Location 1601](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1601)) [Open in Readwise](https://readwise.io/open/54386403) ^rw54386403
+    - Date:: [[April 16th, 2020, Thursday]]
+- once you get all the ideas out of your head and in front of your eyes, you’ll automatically notice natural relationships and structure. ([Location 1602](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1602)) [Open in Readwise](https://readwise.io/open/54386404) ^rw54386404
+    - Date:: [[April 16th, 2020, Thursday]]
+- Organizing usually happens when you identify components and subcomponents, sequences of events, and/or priorities. ([Location 1604](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1604)) [Open in Readwise](https://readwise.io/open/54386405) ^rw54386405
+    - Date:: [[April 16th, 2020, Thursday]]
+- The key steps here are: Identify the significant pieces Sort by (one or more): components sequences priorities Detail to the required degree ([Location 1612](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1612)) [Open in Readwise](https://readwise.io/open/54386406) ^rw54386406
+    - Date:: [[April 16th, 2020, Thursday]]
+- The final stage of planning comes down to decisions about the allocation and reallocation of physical resources to actually get the project moving. The question to ask here is, “What’s the next action?” ([Location 1617](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1617)) [Open in Readwise](https://readwise.io/open/54386407) ^rw54386407
+    - Date:: [[April 16th, 2020, Thursday]]
+- this kind of grounded, reality-based thinking, combined with clarification of the desired outcome, forms the critical component for defining and clarifying what our real work is. ([Location 1619](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1619)) [Open in Readwise](https://readwise.io/open/54386408) ^rw54386408
+    - Date:: [[April 16th, 2020, Thursday]]
+- How much of this planning model do you really need to flesh out, and to what degree of detail? The simple answer is, as much as you need to get the project off your mind. ([Location 1645](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1645)) [Open in Readwise](https://readwise.io/open/54386409) ^rw54386409
+    - Date:: [[April 16th, 2020, Thursday]]
+- If the project is still on your mind, there’s more thinking required. ([Location 1649](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1649)) [Open in Readwise](https://readwise.io/open/54386410) ^rw54386410
+    - Date:: [[April 16th, 2020, Thursday]]
+- Most projects, given my definition of a project as an outcome requiring more than one action, need no more than a listing of their outcome and next action for you to get them off your mind. ([Location 1650](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1650)) [Open in Readwise](https://readwise.io/open/54386411) ^rw54386411
+    - Date:: [[April 16th, 2020, Thursday]]
+- 80 percent of projects are of that nature. You’ll still be doing the full planning model on all of them, but only in your head, and just enough to figure out next actions and keep them going until they’re complete. ([Location 1653](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1653)) [Open in Readwise](https://readwise.io/open/54386412) ^rw54386412
+    - Date:: [[April 16th, 2020, Thursday]]
+- 15 percent or so of projects might require at least some external form of brainstorming—maybe a mind map or a few notes in a word processing or presentation program. ([Location 1655](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1655)) [Open in Readwise](https://readwise.io/open/54386413) ^rw54386413
+    - Date:: [[April 16th, 2020, Thursday]]
+- 5 percent of projects might need the deliberate application of one or more of the five phases of the natural planning model. ([Location 1657](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1657)) [Open in Readwise](https://readwise.io/open/54386414) ^rw54386414
+    - Date:: [[April 16th, 2020, Thursday]]
+- If greater clarity is what you need, shift your thinking up the natural planning scale. ([Location 1660](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1660)) [Open in Readwise](https://readwise.io/open/54386415) ^rw54386415
+    - Date:: [[April 16th, 2020, Thursday]]
+- If more action is what’s needed, you need to move down the model. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1666)) [Open in Readwise](https://readwise.io/open/54386416) ^rw54386416
+    - Date:: [[April 16th, 2020, Thursday]]
+- You need no new skills to increase your productivity and reduce your stress—just an enhanced set of systematic behaviors with which to apply them. ([Location 1684](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1684)) [Open in Readwise](https://readwise.io/open/54386417) ^rw54386417
+    - Date:: [[April 16th, 2020, Thursday]]
+- The fundamentals remain true—you must be responsible for collecting all your open loops, applying a front-end thought process to each of them, and managing the results with organization, review, and action. ([Location 1686](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1686)) [Open in Readwise](https://readwise.io/open/54386418) ^rw54386418
+    - Date:: [[April 16th, 2020, Thursday]]
+- Plans get you into things but you’ve got to work your way out. —Will Rogers ([Location 1688](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1688)) [Open in Readwise](https://readwise.io/open/54386419) ^rw54386419
+    - Date:: [[April 16th, 2020, Thursday]]
+- 4 Getting Started: Setting Up the Time, Space, and Tools ([Location 1701](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1701)) [Open in Readwise](https://readwise.io/open/54386420) ^rw54386420
+    - Date:: [[April 16th, 2020, Thursday]]
+- The smart part of us sets up things for us to do that the not-so-smart part responds to almost automatically, creating behavior that produces high-performance results. We trick ourselves into doing what we ought to be doing. ([Location 1714](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1714)) [Open in Readwise](https://readwise.io/open/54589651) ^rw54589651
+    - Date:: [[April 24th, 2020, Friday]]
+- If you take out a clean sheet of paper right now, along with your favorite writing instrument, and for three minutes focus solely on the most awesome project on your mind, I guarantee you’ll have at least one “Oh, yeah, I need to consider ______.” Then capture what shows up in your head on the piece of paper and put it where you might actually use the idea or information. ([Location 1730](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1730)) [Open in Readwise](https://readwise.io/open/54589652) ^rw54589652
+    - Date:: [[April 24th, 2020, Friday]]
+- The big secret to efficient creative and productive thinking and action is to put the right things in your focus at the right time. ([Location 1734](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1734)) [Open in Readwise](https://readwise.io/open/54589653) ^rw54589653
+    - Date:: [[April 24th, 2020, Friday]]
+- Much of learning how to manage workflow in a masterful way is about laying out the gear and practicing the moves so that the requisite thinking happens more automatically and it’s a lot easier to get engaged in the game. ([Location 1736](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1736)) [Open in Readwise](https://readwise.io/open/54589654) ^rw54589654
+    - Date:: [[April 24th, 2020, Friday]]
+- the execution of this program will produce real progress on real things that are going on in your life right now. ([Location 1741](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1741)) [Open in Readwise](https://readwise.io/open/54589655) ^rw54589655
+    - Date:: [[April 24th, 2020, Friday]]
+- Setting Aside the Time ([Location 1742](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1742)) [Open in Readwise](https://readwise.io/open/54589656) ^rw54589656
+    - Date:: [[April 24th, 2020, Friday]]
+- Don’t be afraid to take a big step if one is indicated. You can’t cross a chasm in two small jumps. —David L. George ([Location 1743](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1743)) [Open in Readwise](https://readwise.io/open/54589657) ^rw54589657
+    - Date:: [[April 24th, 2020, Friday]]
+- create a block of time to initialize this process and prepare a workstation with the appropriate space, furniture, and tools. If your space is properly set up and streamlined, it can reduce your unconscious resistance to dealing with your stuff and even make it attractive for you to sit down and crank through your input and your work. ([Location 1746](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1746)) [Open in Readwise](https://readwise.io/open/54589658) ^rw54589658
+    - Date:: [[April 24th, 2020, Friday]]
+- doing any of the activities I suggest will be useful, no matter how much or how little time you devote to them. ([Location 1749](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1749)) [Open in Readwise](https://readwise.io/open/54589659) ^rw54589659
+    - Date:: [[April 24th, 2020, Friday]]
+- Implementing the full capturing process can take up to six hours or more, and clarifying and deciding on actions for all the input you’ll want to externalize and capture in your system can easily take another eight hours. ([Location 1750](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1750)) [Open in Readwise](https://readwise.io/open/54589660) ^rw54589660
+    - Date:: [[April 24th, 2020, Friday]]
+- you can also collect and process your stuff in chunks, but it’ll be much easier if you can tackle that front-end portion in one fell swoop. ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1752)) [Open in Readwise](https://readwise.io/open/54589661) ^rw54589661
+    - Date:: [[April 24th, 2020, Friday]]
+- It’s not that the procedure itself is so sacred; it’s just that it takes a lot of mental energy to capture and make decisions about such a large inventory of open loops, especially when they’ve been open, undecided, or stuck for way too long. ([Location 1763](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1763)) [Open in Readwise](https://readwise.io/open/54589662) ^rw54589662
+    - Date:: [[April 24th, 2020, Friday]]
+- If you can get to ground zero in one contained time period, it gives you a huge sense of control and accomplishment and frees up a reservoir of energy and creativity. Later on you can maintain your system in shorter spurts “between the lines” of your regular day. ([Location 1765](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1765)) [Open in Readwise](https://readwise.io/open/54589663) ^rw54589663
+    - Date:: [[April 24th, 2020, Friday]]
+- You’ll need to choose a physical location to serve as your central cockpit of control. ([Location 1768](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1768)) [Open in Readwise](https://readwise.io/open/54589664) ^rw54589664
+    - Date:: [[April 24th, 2020, Friday]]
+- Even if you have a mobile, high-tech life that is primarily virtual, you’ll still require a private setting as a base camp from which to operate. You will want to implement this program wherever you might actually do work and process input, but starting with a primary location is optimal. ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1772)) [Open in Readwise](https://readwise.io/open/54589665) ^rw54589665
+    - Date:: [[April 24th, 2020, Friday]]
+- The basics for a workspace are just a writing surface and room for an in-tray, and probably (for most people) space for core digital tools as well. ([Location 1774](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1774)) [Open in Readwise](https://readwise.io/open/54589666) ^rw54589666
+    - Date:: [[April 24th, 2020, Friday]]
+- A functional workspace is critical. If you don’t already have a dedicated workspace and in-tray, get them now. ([Location 1783](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1783)) [Open in Readwise](https://readwise.io/open/54589667) ^rw54589667
+    - Date:: [[April 24th, 2020, Friday]]
+- If You Go to an Office, You’ll Still Need a Space at Home ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1788)) [Open in Readwise](https://readwise.io/open/54589668) ^rw54589668
+    - Date:: [[April 24th, 2020, Friday]]
+- traveler or just as a person with a mobile lifestyle, you’ll also want to set up an efficiently organized micro-office-in-transit. ([Location 1794](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1794)) [Open in Readwise](https://readwise.io/open/54589669) ^rw54589669
+    - Date:: [[April 24th, 2020, Friday]]
+- Many people lose opportunities to be productive because they’re not equipped to take advantage of the odd moments and windows of time that open up as they move from one place to another, or when they’re in off-site environments. ([Location 1796](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1796)) [Open in Readwise](https://readwise.io/open/54589670) ^rw54589670
+    - Date:: [[April 24th, 2020, Friday]]
+- Getting the Tools You’ll Need ([Location 1822](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1822)) [Open in Readwise](https://readwise.io/open/54589671) ^rw54589671
+    - Date:: [[April 24th, 2020, Friday]]
+- Paper-Holding Trays These will serve as your in-tray and out-tray, with one or two others for work-in-progress support papers and/or your read-and-review stack. ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1831)) [Open in Readwise](https://readwise.io/open/54589672) ^rw54589672
+    - Date:: [[April 24th, 2020, Friday]]
+- If your reference system is not under control, it creates a blockage in your workflow that causes amorphous content to back up into your world. ([Location 1893](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1893)) [Open in Readwise](https://readwise.io/open/54703202) ^rw54703202
+    - Date:: [[April 24th, 2020, Friday]]
+- Keep in mind, though, that the tool you use will not give you stress-free productivity. That is something you create by implementing the GTD method. ([Location 1894](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1894)) [Open in Readwise](https://readwise.io/open/54703203) ^rw54703203
+    - Date:: [[April 24th, 2020, Friday]]
+- When considering whether to get and use any organizing tool, and if so, which one, keep in mind that all you really need to do is manage lists. ([Location 1897](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1897)) [Open in Readwise](https://readwise.io/open/54703204) ^rw54703204
+    - Date:: [[April 24th, 2020, Friday]]
+- A simple and highly functional personal reference system is critical to this process. ([Location 1903](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1903)) [Open in Readwise](https://readwise.io/open/54703205) ^rw54703205
+    - Date:: [[April 24th, 2020, Friday]]
+- Random nonactionable but potentially relevant material, unprocessed and unorganized, produces a debilitating psychological noise. ([Location 1907](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1907)) [Open in Readwise](https://readwise.io/open/54703206) ^rw54703206
+    - Date:: [[April 24th, 2020, Friday]]
+- More important, it produces a block in the “flow” part of workflow, ([Location 1908](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1908)) [Open in Readwise](https://readwise.io/open/54703207) ^rw54703207
+    - Date:: [[April 24th, 2020, Friday]]
+- To capture what you experience and sort it out . . . you must set up a file. . . . Whenever you feel strongly about events or ideas you must try not to let them pass from your mind, but instead to formulate them for your files and in so doing draw out their implications, show yourself how foolish these feelings or ideas are, or how they might be articulated into productive shape. —C. Wright Mills ([Location 1919](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1919)) [Open in Readwise](https://readwise.io/open/54703208) ^rw54703208
+    - Date:: [[April 24th, 2020, Friday]]
+- You may have a preponderance of digital over paper-based reference material (or vice versa), but without a streamlined system for both, you will resist keeping potentially valuable information, or what you do keep will accumulate in inappropriate places. ([Location 1939](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1939)) [Open in Readwise](https://readwise.io/open/54703209) ^rw54703209
+    - Date:: [[April 24th, 2020, Friday]]
+- Besides being fast, the system needs to be fun and easy, current and complete. Otherwise you’ll unconsciously resist emptying your in-tray because you know there’s likely to be something in there that ought to get filed, and you won’t even want to look at the papers or your clogged e-mail. ([Location 1942](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1942)) [Open in Readwise](https://readwise.io/open/54703210) ^rw54703210
+    - Date:: [[April 24th, 2020, Friday]]
+- You must feel equally comfortable about filing a single piece of paper on a new topic—even a scribbled note—in its own file as you would about filing a more formal, larger document. ([Location 1945](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1945)) [Open in Readwise](https://readwise.io/open/54703211) ^rw54703211
+    - Date:: [[April 24th, 2020, Friday]]
+- If you trust that all that kind of information is instantly and virtually available through the Web and you would never need to access hard copies, then make sure you’re not duplicating systems unnecessarily, and that what you choose and how you use it is seamless. ([Location 1948](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1948)) [Open in Readwise](https://readwise.io/open/54703212) ^rw54703212
+    - Date:: [[April 24th, 2020, Friday]]
+- Whatever you need to do to get your reference system to that quick and easy standard for everything it has to hold, do it. ([Location 1950](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1950)) [Open in Readwise](https://readwise.io/open/54703213) ^rw54703213
+    - Date:: [[April 24th, 2020, Friday]]
+- I highly recommend that you consider incorporating all of the following guidelines to really make reference filing automatic. ([Location 1951](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1951)) [Open in Readwise](https://readwise.io/open/54703214) ^rw54703214
+    - Date:: [[April 24th, 2020, Friday]]
+- Keep Your General-Reference Files Immediately at Hand ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1952)) [Open in Readwise](https://readwise.io/open/54703215) ^rw54703215
+    - Date:: [[April 24th, 2020, Friday]]
+- Filing has to be instantaneous and easy. If you have to get up every time you have some ad hoc piece of paper you want to file, or you have to search multiple places on your computer for an appropriate location for a piece of information you want to keep, you’ll tend to stack it or leave it in its original place instead of filing it. ([Location 1952](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1952)) [Open in Readwise](https://readwise.io/open/54703216) ^rw54703216
+    - Date:: [[April 24th, 2020, Friday]]
+- One Alpha System I have one A–Z alphabetical physical filing system for general reference, not multiple ones. ([Location 1957](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1957)) [Open in Readwise](https://readwise.io/open/54703217) ^rw54703217
+    - Date:: [[April 24th, 2020, Friday]]
+- People have a tendency to want to use their files as a personal management system, and therefore they attempt to organize them in groupings by projects or areas of focus. This magnifies geometrically the number of places something isn’t when you forget where you filed it. ([Location 1958](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1958)) [Open in Readwise](https://readwise.io/open/54703218) ^rw54703218
+    - Date:: [[April 24th, 2020, Friday]]
+- Once you have filtered all the reminders for actions into your next-action lists, this kind of data is simply the content of your personal library. ([Location 1960](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1960)) [Open in Readwise](https://readwise.io/open/54703219) ^rw54703219
+    - Date:: [[April 24th, 2020, Friday]]
+- Using an effectively simple and easily accessible general-reference filing system gives you the freedom to keep as much information as you want. ([Location 1965](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1965)) [Open in Readwise](https://readwise.io/open/54703220) ^rw54703220
+    - Date:: [[April 24th, 2020, Friday]]
+- The digital world provides the advantage of the search function across a wide swath of your data, and the ability to tag content with key words adds even more capability for retrieval. ([Location 1967](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1967)) [Open in Readwise](https://readwise.io/open/54703221) ^rw54703221
+    - Date:: [[April 24th, 2020, Friday]]
+- The biggest issue for digitally oriented people is that the ease of capturing and storing has generated a write-only syndrome: all they’re doing is capturing information—not actually accessing and using it intelligently. ([Location 1974](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1974)) [Open in Readwise](https://readwise.io/open/54703222) ^rw54703222
+    - Date:: [[April 24th, 2020, Friday]]
+- We need to have a way to overview our mass of collected information with some form of effective categorization. ([Location 1978](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1978)) [Open in Readwise](https://readwise.io/open/54703223) ^rw54703223
+    - Date:: [[April 24th, 2020, Friday]]
+- Make It Easy to Create a New Folder ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1982)) [Open in Readwise](https://readwise.io/open/54703224) ^rw54703224
+    - Date:: [[April 24th, 2020, Friday]]
+- Make Sure You Have Plenty of Space for Easy Storage ([Location 1985](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1985)) [Open in Readwise](https://readwise.io/open/54703225) ^rw54703225
+    - Date:: [[April 24th, 2020, Friday]]
+- Some people’s reaction to this is, “I’d have to buy more file cabinets!” or “I’d have to get a larger hard drive!” as if that were something horrible. But if the stuff is worth keeping, it’s worth keeping so that it’s easily accessible, right? And if it’s not, then why are you keeping it? ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1993)) [Open in Readwise](https://readwise.io/open/54703226) ^rw54703226
+    - Date:: [[April 24th, 2020, Friday]]
+- Label Your File Folders with an Auto Labeler ([Location 1999](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=1999)) [Open in Readwise](https://readwise.io/open/54703227) ^rw54703227
+    - Date:: [[April 24th, 2020, Friday]]
+- Things you name, you own. Collected but unnamed stuff owns you. ([Location 2003](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2003)) [Open in Readwise](https://readwise.io/open/54703228) ^rw54703228
+    - Date:: [[April 24th, 2020, Friday]]
+- Purge Your Files at Least Once a Year ([Location 2011](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2011)) [Open in Readwise](https://readwise.io/open/54703229) ^rw54703229
+    - Date:: [[April 24th, 2020, Friday]]
+- Filing as a Success Factor Itself ([Location 2020](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2020)) [Open in Readwise](https://readwise.io/open/54703230) ^rw54703230
+    - Date:: [[April 24th, 2020, Friday]]
+- Wherever items of different character or meaning are piled into the same location, it’s too much work to continually think about the nature of the contents, so your brain will go numb to the pile. ([Location 2025](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2025)) [Open in Readwise](https://readwise.io/open/54703231) ^rw54703231
+    - Date:: [[April 24th, 2020, Friday]]
+- 5 Capturing: Corralling Your “Stuff” ([Location 2045](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2045)) [Open in Readwise](https://readwise.io/open/55089469) ^rw55089469
+    - Date:: [[April 25th, 2020, Saturday]]
+- Just gathering a few more things than you currently have will probably create a positive feeling for you. But if you can hang in there and really do the whole capturing process, 100 percent, it will change your experience dramatically and give you an important new reference point for being on top of your work and your world. ([Location 2049](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2049)) [Open in Readwise](https://readwise.io/open/55089470) ^rw55089470
+    - Date:: [[April 25th, 2020, Saturday]]
+- It can take longer than you think if you are committed to a full-blown collection that will include everything at work and everywhere else. ([Location 2053](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2053)) [Open in Readwise](https://readwise.io/open/55089471) ^rw55089471
+    - Date:: [[April 25th, 2020, Saturday]]
+- Until you’ve captured everything that has your attention, some part of you will still not totally trust that you’re working with the whole picture of your world. ([Location 2056](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2056)) [Open in Readwise](https://readwise.io/open/55089472) ^rw55089472
+    - Date:: [[April 25th, 2020, Saturday]]
+- Be assured that if you give yourself at least a couple of hours to tackle this part, you can grab the major portion of things outstanding. And you can even capture the rest by creating relevant placeholding notes—for example, “Purge and process boat storage shed” and “Deal with hall closet.” ([Location 2058](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2058)) [Open in Readwise](https://readwise.io/open/55089473) ^rw55089473
+    - Date:: [[April 25th, 2020, Saturday]]
+- In the real world, you probably won’t be able to keep your stuff 100 percent collected all the time. ([Location 2060](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2060)) [Open in Readwise](https://readwise.io/open/55089474) ^rw55089474
+    - Date:: [[April 25th, 2020, Saturday]]
+- But it should become an ideal standard that keeps you motivated to consistently clean house of all the things about your work and life that have your attention. ([Location 2062](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2062)) [Open in Readwise](https://readwise.io/open/55089475) ^rw55089475
+    - Date:: [[April 25th, 2020, Saturday]]
+- There are very practical reasons to gather everything before you start clarifying it: ([Location 2064](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2064)) [Open in Readwise](https://readwise.io/open/55089476) ^rw55089476
+    - Date:: [[April 25th, 2020, Saturday]]
+- 1  |  it’s helpful to have a sense of the volume of stu you have to deal with; ([Location 2065](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2065)) [Open in Readwise](https://readwise.io/open/55089477) ^rw55089477
+    - Date:: [[April 25th, 2020, Saturday]]
+- 2  |  it lets you know where the “end of the tunnel” is; ([Location 2066](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2066)) [Open in Readwise](https://readwise.io/open/55089478) ^rw55089478
+    - Date:: [[April 25th, 2020, Saturday]]
+- 3  |  when you’re clarifying and organizing, you don’t want to be distracted psychologically by an amorphous mass of stuff that might still be “somewhere.” Once you have all the things that require your attention gathered in one place, you’ll automatically be operating from a state of enhanced focus and control. ([Location 2068](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2068)) [Open in Readwise](https://readwise.io/open/55089479) ^rw55089479
+    - Date:: [[April 25th, 2020, Saturday]]
+- You can only feel good about what you’re not doing when you know everything you’re not doing. ([Location 2071](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2071)) [Open in Readwise](https://readwise.io/open/55089480) ^rw55089480
+    - Date:: [[April 25th, 2020, Saturday]]
+- for the most part, most of that stuff was not, and is not, “that important”; that’s why it’s still lying around. It wasn’t an urgent thing when it first showed up, and probably nothing’s blown up yet because it hasn’t been dealt with. ([Location 2074](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2074)) [Open in Readwise](https://readwise.io/open/55089481) ^rw55089481
+    - Date:: [[April 25th, 2020, Saturday]]
+- The first activity is to search your physical environment for anything that doesn’t permanently belong where it is, the way it is, and put it into your in-tray. ([Location 2082](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2082)) [Open in Readwise](https://readwise.io/open/55089482) ^rw55089482
+    - Date:: [[April 25th, 2020, Saturday]]
+- Here are the four categories of things that can remain where they are, the way they are, with no action tied to them: Supplies Reference Material Decoration Equipment ([Location 2086](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2086)) [Open in Readwise](https://readwise.io/open/55089483) ^rw55089483
+    - Date:: [[April 25th, 2020, Saturday]]
+- It’s also just a great habit to date everything you handwrite, ([Location 2114](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2114)) [Open in Readwise](https://readwise.io/open/55089484) ^rw55089484
+    - Date:: [[April 25th, 2020, Saturday]]
+- What you don’t want to do is to let yourself get wrapped up in things piece-by-piece, trying to decide this or that. Clarifying requires a very different mind-set than capturing; it’s best to do them separately. ([Location 2124](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2124)) [Open in Readwise](https://readwise.io/open/55089485) ^rw55089485
+    - Date:: [[April 25th, 2020, Saturday]]
+- The objective for the capturing process is to get everything into “in” as quickly as possible so you’re appropriately retrenched and have “drawn the battle lines.” ([Location 2127](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2127)) [Open in Readwise](https://readwise.io/open/55089486) ^rw55089486
+    - Date:: [[April 25th, 2020, Saturday]]
+- Many people get hit with the purge-and-organize virus as they’re going through various areas of their office (and their home). ([Location 2131](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2131)) [Open in Readwise](https://readwise.io/open/55089487) ^rw55089487
+    - Date:: [[April 25th, 2020, Saturday]]
+- Start with Your Desktop ([Location 2151](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2151)) [Open in Readwise](https://readwise.io/open/55089488) ^rw55089488
+    - Date:: [[April 25th, 2020, Saturday]]
+- Resist the urge to say, as almost everyone does initially, “Well, I know what’s in that stack, and that’s where I want to leave it.” That’s exactly what hasn’t worked before, and it all needs to go into the in-tray. ([Location 2158](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2158)) [Open in Readwise](https://readwise.io/open/55089489) ^rw55089489
+    - Date:: [[April 25th, 2020, Saturday]]
+- Consider whether your collectible and nostalgia items are still meaningful to you. ([Location 2173](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2173)) [Open in Readwise](https://readwise.io/open/55089490) ^rw55089490
+    - Date:: [[April 25th, 2020, Saturday]]
+- Don’t let things to be handled that you have considered “not so important” gnaw away at your energy and focus. ([Location 2186](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2186)) [Open in Readwise](https://readwise.io/open/55089491) ^rw55089491
+    - Date:: [[April 25th, 2020, Saturday]]
+- This Is Not About Throwing Things Away That You Might Want ([Location 2192](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2192)) [Open in Readwise](https://readwise.io/open/55089492) ^rw55089492
+    - Date:: [[April 25th, 2020, Saturday]]
+- Once you feel you’ve collected all the physical things in your environment that need processing, you’ll want to collect anything else that may be residing in your mental RAM space. What has your attention that isn’t represented by something already in your in-tray? ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2200)) [Open in Readwise](https://readwise.io/open/55089493) ^rw55089493
+    - Date:: [[April 25th, 2020, Saturday]]
+- your first captured thought will seldom be the final content you’ll want to track about it (the desired outcome and next action for it will be). ([Location 2206](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2206)) [Open in Readwise](https://readwise.io/open/55089494) ^rw55089494
+    - Date:: [[April 25th, 2020, Saturday]]
+- It will probably take you between twenty minutes and an hour to clear your head onto separate notes, after you’ve gathered everything else. ([Location 2209](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2209)) [Open in Readwise](https://readwise.io/open/55089495) ^rw55089495
+    - Date:: [[April 25th, 2020, Saturday]]
+- In this instance, go for quantity. It’s much better to overdo this process than to risk missing something. ([Location 2211](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2211)) [Open in Readwise](https://readwise.io/open/55089496) ^rw55089496
+    - Date:: [[April 25th, 2020, Saturday]]
+- To assist in clearing your head, you may want to review the following Incompletion Triggers list, item by item, to see if you’ve forgotten anything. ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2215)) [Open in Readwise](https://readwise.io/open/55089497) ^rw55089497
+    - Date:: [[April 25th, 2020, Saturday]]
+- Capturing is complete when you can easily see the outer edges to the inventory of everything that still has some of your attention in any way. ([Location 2401](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2401)) [Open in Readwise](https://readwise.io/open/55089498) ^rw55089498
+    - Date:: [[April 25th, 2020, Saturday]]
+- If your head is empty of everything, personally and professionally, then your in-tray is probably quite full and likely spilling over. ([Location 2402](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2402)) [Open in Readwise](https://readwise.io/open/55089499) ^rw55089499
+    - Date:: [[April 25th, 2020, Saturday]]
+- In addition to the paper-based and physical items in your in-tray, your inventory of “in” should include any resident voice mails and all the e-mails that are currently staged in the “in” area of your communication software. ([Location 2403](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2403)) [Open in Readwise](https://readwise.io/open/55089500) ^rw55089500
+    - Date:: [[April 25th, 2020, Saturday]]
+- When you’ve done all that, you’re ready to take the next step. You don’t want to leave anything in “in” for an indefinite period of time, because then it would without fail creep back into your consciousness, since your mind would know you weren’t dealing with it. ([Location 2410](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2410)) [Open in Readwise](https://readwise.io/open/55089501) ^rw55089501
+    - Date:: [[April 25th, 2020, Saturday]]
+- one of the main factors in people’s resistance to collecting stuff into “in” is the lack of a good processing and organizing methodology to handle it. ([Location 2412](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2412)) [Open in Readwise](https://readwise.io/open/55089502) ^rw55089502
+    - Date:: [[April 25th, 2020, Saturday]]
+- 6 Clarifying: Getting “In” to Empty ([Location 2414](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2414)) [Open in Readwise](https://readwise.io/open/55089503) ^rw55089503
+    - Date:: [[April 25th, 2020, Saturday]]
+- Getting “in” to empty doesn’t mean actually doing all the actions and projects that you’ve captured. It just means identifying each item and deciding what it is, what it means, and what you’re going to do with it. ([Location 2416](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2416)) [Open in Readwise](https://readwise.io/open/56935925) ^rw56935925
+    - Date:: [[May 4th, 2020, Monday]]
+- If you’re not sure yet what you’re going to be using as a personal reminder system, don’t worry. You can begin very appropriately with a simple loose-leaf notebook or whatever you may be currently using for making lists. You can always upgrade your tools later, once you have your system in place. ([Location 2434](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2434)) [Open in Readwise](https://readwise.io/open/56935926) ^rw56935926
+    - Date:: [[May 4th, 2020, Monday]]
+- The best way to learn this model is by doing. But there are a few basic rules to follow: Process the top item first. Process one item at a time. Never put anything back into “in.” ([Location 2436](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2436)) [Open in Readwise](https://readwise.io/open/56935927) ^rw56935927
+    - Date:: [[May 4th, 2020, Monday]]
+- Even if the second item down is a personal note to you from the head of your country and the top item is a piece of junk mail, you’ve got to process the junk mail first! ([Location 2440](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2440)) [Open in Readwise](https://readwise.io/open/56935928) ^rw56935928
+    - Date:: [[May 4th, 2020, Monday]]
+- everything gets processed equally. ([Location 2442](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2442)) [Open in Readwise](https://readwise.io/open/56935929) ^rw56935929
+    - Date:: [[May 4th, 2020, Monday]]
+- The verb process does not mean “spend time on.” It just means “decide what the thing is and what action is required, and then dispatch it accordingly.” ([Location 2442](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2442)) [Open in Readwise](https://readwise.io/open/56935930) ^rw56935930
+    - Date:: [[May 4th, 2020, Monday]]
+- When you’re in processing mode, you must get into the habit of starting at one end and just cranking through items one at a time, in order. As soon as you break that rule and process only what you feel like processing, in whatever order, you’ll invariably begin to leave things unprocessed. ([Location 2449](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2449)) [Open in Readwise](https://readwise.io/open/56935931) ^rw56935931
+    - Date:: [[May 4th, 2020, Monday]]
+- Many people live in this emergency-scanning mode, always distracted by what’s coming into “in,” and not feeling comfortable if they’re not constantly skimming the contents on their computer or mobile devices. Were they to trust “in” would be totally dealt with every day or two, they wouldn’t be so driven by this need for incessant checking. ([Location 2452](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2452)) [Open in Readwise](https://readwise.io/open/56935932) ^rw56935932
+    - Date:: [[May 4th, 2020, Monday]]
+- Thinking about the stuff you’ve accumulated usually does not happen naturally, of its own accord. You must apply conscious effort to get yourself to think, like getting yourself to exercise or clean house. ([Location 2466](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2466)) [Open in Readwise](https://readwise.io/open/56935933) ^rw56935933
+    - Date:: [[May 4th, 2020, Monday]]
+- Nothing Goes Back into “In” ([Location 2477](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2477)) [Open in Readwise](https://readwise.io/open/56935934) ^rw56935934
+    - Date:: [[May 4th, 2020, Monday]]
+- “The first time you pick something up from your in-tray, decide what to do about it and where it goes. Never put it back in ‘in.’” ([Location 2482](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2482)) [Open in Readwise](https://readwise.io/open/56935935) ^rw56935935
+    - Date:: [[May 4th, 2020, Monday]]
+- The Key Processing Question: “What’s the Next Action?” ([Location 2486](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2486)) [Open in Readwise](https://readwise.io/open/56935936) ^rw56935936
+    - Date:: [[May 4th, 2020, Monday]]
+- It’s likely that a portion of your in-tray will require no action. There will be three types of things in this category: Trash Items to incubate Reference material ([Location 2494](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2494)) [Open in Readwise](https://readwise.io/open/56935937) ^rw56935937
+    - Date:: [[May 4th, 2020, Monday]]
+- Processing all the things in your world will make you more conscious of what you are going to do and what you should not be doing. ([Location 2499](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2499)) [Open in Readwise](https://readwise.io/open/56935938) ^rw56935938
+    - Date:: [[May 4th, 2020, Monday]]
+- Too much information creates the same result as too little: you don’t have what you need, when and in the way you need it. ([Location 2509](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2509)) [Open in Readwise](https://readwise.io/open/56935939) ^rw56935939
+    - Date:: [[May 4th, 2020, Monday]]
+- There will probably be things in your in-tray about which you will say to yourself, “There’s nothing to do on this now, but there might be later.” ([Location 2523](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2523)) [Open in Readwise](https://readwise.io/open/56935940) ^rw56935940
+    - Date:: [[May 4th, 2020, Monday]]
+- What do you do with these kinds of things? There are two options that could work: Write them on a Someday/Maybe list. Put a reminder of them on your calendar or in a tickler file. ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2531)) [Open in Readwise](https://readwise.io/open/56935941) ^rw56935941
+    - Date:: [[May 4th, 2020, Monday]]
+- It’s fine to decide not to decide about something. You just need a decide-not-to-decide system to get it off your mind. ([Location 2533](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2533)) [Open in Readwise](https://readwise.io/open/56935942) ^rw56935942
+    - Date:: [[May 4th, 2020, Monday]]
+- The point of all of these incubation procedures is that they give you a way to get the items off your mind right now and let you feel confident that some reminder of the possible action will resurface at an appropriate time. ([Location 2534](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2534)) [Open in Readwise](https://readwise.io/open/56935943) ^rw56935943
+    - Date:: [[May 4th, 2020, Monday]]
+- I discovered that if you can’t get it into your system immediately, you’re probably not ever going to. If you won’t do it now, you likely won’t do it later, either. ([Location 2549](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2549)) [Open in Readwise](https://readwise.io/open/56935944) ^rw56935944
+    - Date:: [[May 4th, 2020, Monday]]
+- Many people leave these nonactionable e-mails in their “in” section as a sort of amorphous filing cabinet, which seriously clogs the system. ([Location 2553](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2553)) [Open in Readwise](https://readwise.io/open/56935945) ^rw56935945
+    - Date:: [[May 4th, 2020, Monday]]
+- Doing a straightforward, clear-cut task that has a beginning and an end balances out the complexity-without-end that often vexes the rest of my life. Sacred simplicity. —Robert Fulghum ([Location 2562](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2562)) [Open in Readwise](https://readwise.io/open/56935946) ^rw56935946
+    - Date:: [[May 4th, 2020, Monday]]
+- This is perhaps the most fundamental practice of this methodology. If there’s something that needs to be done about the item in “in,” then you need to decide what, exactly, that next action is. ([Location 2565](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2565)) [Open in Readwise](https://readwise.io/open/56935947) ^rw56935947
+    - Date:: [[May 4th, 2020, Monday]]
+- “Next action,” again, means the next physical, visible activity that would be required to move the situation toward closure. ([Location 2566](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2566)) [Open in Readwise](https://readwise.io/open/56935948) ^rw56935948
+    - Date:: [[May 4th, 2020, Monday]]
+- Until you know what the next physical action is, there’s still more thinking required before anything can happen—before you’re appropriately engaged. ([Location 2585](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2585)) [Open in Readwise](https://readwise.io/open/56935949) ^rw56935949
+    - Date:: [[May 4th, 2020, Monday]]
+- You have three options once you decide what the next action really is: Do it (if the action takes less than two minutes). Delegate it (if you’re not the most appropriate person to do the action). Defer it into your organization system as an option for work to do later. ([Location 2601](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2601)) [Open in Readwise](https://readwise.io/open/56935950) ^rw56935950
+    - Date:: [[May 4th, 2020, Monday]]
+- If the next action can be done in two minutes or less, do it when you first pick the item up. ([Location 2604](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2604)) [Open in Readwise](https://readwise.io/open/56935951) ^rw56935951
+    - Date:: [[May 4th, 2020, Monday]]
+- Two minutes is in fact just a guideline. If you have a long open window of time in which to process your in-tray, you can extend the cutoff for each item ([Location 2624](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2624)) [Open in Readwise](https://readwise.io/open/57964040) ^rw57964040
+    - Date:: [[May 6th, 2020, Wednesday]]
+- If you’ve got to get to the bottom of all your input rapidly, in order to figure out how best to use your afternoon, then you may want to shorten the time ([Location 2625](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2625)) [Open in Readwise](https://readwise.io/open/57964041) ^rw57964041
+    - Date:: [[May 6th, 2020, Wednesday]]
+- It’s not a bad idea to time yourself for a few of these while you’re becoming familiar with the process. ([Location 2629](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2629)) [Open in Readwise](https://readwise.io/open/57964042) ^rw57964042
+    - Date:: [[May 6th, 2020, Wednesday]]
+- The world can only be grasped by action, not by contemplation. The hand is more important than the eye. . . . The hand is the cutting edge of the mind. —J. Bronowski ([Location 2632](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2632)) [Open in Readwise](https://readwise.io/open/57964043) ^rw57964043
+    - Date:: [[May 6th, 2020, Wednesday]]
+- There’s nothing you really need to track about your two-minute actions—you just do them. ([Location 2635](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2635)) [Open in Readwise](https://readwise.io/open/57964044) ^rw57964044
+    - Date:: [[May 6th, 2020, Wednesday]]
+- If, however, you take an action and don’t finish the project with that one action, you’ll need to clarify what’s next on it, and manage that according to the same criteria. ([Location 2636](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2636)) [Open in Readwise](https://readwise.io/open/57964045) ^rw57964045
+    - Date:: [[May 6th, 2020, Wednesday]]
+- Adhere to the two-minute rule and see how much you get done in the process of clearing out your “in” stacks. ([Location 2639](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2639)) [Open in Readwise](https://readwise.io/open/57964046) ^rw57964046
+    - Date:: [[May 6th, 2020, Wednesday]]
+- you shouldn’t become a slave to spending your day doing two-minute actions. ([Location 2646](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2646)) [Open in Readwise](https://readwise.io/open/57964047) ^rw57964047
+    - Date:: [[May 6th, 2020, Wednesday]]
+- if you don’t do it when it shows up, and you do still need to do it, you will have to take the time and energy to capture, clarify, and track it, to prevent its encroachment into your head. ([Location 2648](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2648)) [Open in Readwise](https://readwise.io/open/57964048) ^rw57964048
+    - Date:: [[May 6th, 2020, Wednesday]]
+- If the next action is going to take longer than two minutes, ask yourself, “Am I the best person to be doing it?” If not, hand it off to the appropriate party, in a systematic format. ([Location 2650](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2650)) [Open in Readwise](https://readwise.io/open/57964049) ^rw57964049
+    - Date:: [[May 6th, 2020, Wednesday]]
+- If you do delegate an action to someone else, and if you care at all whether something happens as a result, you’ll need to track it. ([Location 2667](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2667)) [Open in Readwise](https://readwise.io/open/57964050) ^rw57964050
+    - Date:: [[May 6th, 2020, Wednesday]]
+- What If the Ball Is Already in Someone Else’s Court? ([Location 2672](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2672)) [Open in Readwise](https://readwise.io/open/57964051) ^rw57964051
+    - Date:: [[May 6th, 2020, Wednesday]]
+- In such situations you will also want to track the action as a delegated item, or as a Waiting For. ([Location 2673](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2673)) [Open in Readwise](https://readwise.io/open/57964052) ^rw57964052
+    - Date:: [[May 6th, 2020, Wednesday]]
+- It’s important that you record the date on everything that you… ([Location 2675](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2675)) [Open in Readwise](https://readwise.io/open/57964053) ^rw57964053
+    - Date:: [[May 6th, 2020, Wednesday]]
+- It’s likely that most of the next actions you determine for things in “in” will be yours to do and will take longer… ([Location 2678](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2678)) [Open in Readwise](https://readwise.io/open/57964054) ^rw57964054
+    - Date:: [[May 6th, 2020, Wednesday]]
+- These actions will have to be written down somewhere and then organized in the appropriate categories so you can… ([Location 2682](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2682)) [Open in Readwise](https://readwise.io/open/57964055) ^rw57964055
+    - Date:: [[May 6th, 2020, Wednesday]]
+- If you follow the instructions in this chapter, you’ll dump a mess of things, file a bunch, do a lot of two-minute actions, and hand off a number of items to other people. You’ll also wind up with a stack of items that have actions associated with them that you still need to do—soon, someday, or on… ([Location 2685](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2685)) [Open in Readwise](https://readwise.io/open/57964056) ^rw57964056
+    - Date:: [[May 6th, 2020, Wednesday]]
+- It is what still needs to be organized in some fashion in your… ([Location 2688](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2688)) [Open in Readwise](https://readwise.io/open/57964057) ^rw57964057
+    - Date:: [[May 6th, 2020, Wednesday]]
+- Identifying the Projects… ([Location 2689](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2689)) [Open in Readwise](https://readwise.io/open/57964058) ^rw57964058
+    - Date:: [[May 6th, 2020, Wednesday]]
+- This last step in getting to the bottom of “in” requires a shift in perspective from the single-action details to the… ([Location 2690](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2690)) [Open in Readwise](https://readwise.io/open/57964059) ^rw57964059
+    - Date:: [[May 6th, 2020, Wednesday]]
+- I define a project as any outcome you’re committed to achieving that will take more than one… ([Location 2691](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2691)) [Open in Readwise](https://readwise.io/open/57964060) ^rw57964060
+    - Date:: [[May 6th, 2020, Wednesday]]
+- If you look through an inventory of actions that you have already… ([Location 2692](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2692)) [Open in Readwise](https://readwise.io/open/57964061) ^rw57964061
+    - Date:: [[May 6th, 2020, Wednesday]]
+- you’ll no doubt recognize a number of things that are larger than the single… ([Location 2693](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2693)) [Open in Readwise](https://readwise.io/open/57964062) ^rw57964062
+    - Date:: [[May 6th, 2020, Wednesday]]
+- if the action step you’ve identified will not complete the commitment, then you’ll need some stake in the ground to keep reminding you of actions… ([Location 2696](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2696)) [Open in Readwise](https://readwise.io/open/57964063) ^rw57964063
+    - Date:: [[May 6th, 2020, Wednesday]]
+- You need to make a list of… ([Location 2697](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2697)) [Open in Readwise](https://readwise.io/open/57964064) ^rw57964064
+    - Date:: [[May 6th, 2020, Wednesday]]
+- The purpose of this list is not to reflect your priorities but just to ensure that you’ve got… ([Location 2698](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2698)) [Open in Readwise](https://readwise.io/open/57964065) ^rw57964065
+    - Date:: [[May 6th, 2020, Wednesday]]
+- Right now you probably have between thirty and a… ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2700)) [Open in Readwise](https://readwise.io/open/57964066) ^rw57964066
+    - Date:: [[May 6th, 2020, Wednesday]]
+- It just needs to be done at some point, and it must be maintained, as it’s the key driver for reviewing where you are and where you want to be, and to maintain a… ([Location 2702](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2702)) [Open in Readwise](https://readwise.io/open/57964067) ^rw57964067
+    - Date:: [[May 6th, 2020, Wednesday]]
+- 7 Organizing: Setting Up the… ([Location 2705](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2705)) [Open in Readwise](https://readwise.io/open/57964068) ^rw57964068
+    - Date:: [[May 6th, 2020, Wednesday]]
+- Airtight organization is required for your focus to remain on the broader horizon and eliminate the constant… ([Location 2706](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2706)) [Open in Readwise](https://readwise.io/open/57964069) ^rw57964069
+    - Date:: [[May 6th, 2020, Wednesday]]
+- HAVING A TOTAL and seamless system of organization in place gives you tremendous power because it allows your mind to let go of lower-level thinking and graduate to intuitive focusing, undistracted by… ([Location 2708](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2708)) [Open in Readwise](https://readwise.io/open/57964070) ^rw57964070
+    - Date:: [[May 6th, 2020, Wednesday]]
+- Being organized means nothing more or less than where something is matches… ([Location 2711](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2711)) [Open in Readwise](https://readwise.io/open/57964071) ^rw57964071
+    - Date:: [[May 6th, 2020, Wednesday]]
+- As simple as that sounds, it begs a very big question: What does… ([Location 2714](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2714)) [Open in Readwise](https://readwise.io/open/57964072) ^rw57964072
+    - Date:: [[May 6th, 2020, Wednesday]]
+- As you initially process “in,” you’ll create lists and groupings of things you want to organize and you’ll invariably think… ([Location 2717](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2717)) [Open in Readwise](https://readwise.io/open/57964073) ^rw57964073
+    - Date:: [[May 6th, 2020, Wednesday]]
+- your organization system is not something that you’ll necessarily create all at once, in a vacuum. It will evolve as you process your stuff and test out whether you have put everything in the best… ([Location 2718](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2718)) [Open in Readwise](https://readwise.io/open/57964074) ^rw57964074
+    - Date:: [[May 6th, 2020, Wednesday]]
+- I must Create a System or be enslav’d by another Man’s.… ([Location 2722](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2722)) [Open in Readwise](https://readwise.io/open/57964075) ^rw57964075
+    - Date:: [[May 6th, 2020, Wednesday]]
+- There are seven primary types of things that you’ll want to keep track of and manage from an organizational… ([Location 2726](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2726)) [Open in Readwise](https://readwise.io/open/57964076) ^rw57964076
+    - Date:: [[May 6th, 2020, Wednesday]]
+- A Projects list Project support material Calendar actions and information Next Actions lists A Waiting For list… ([Location 2727](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2727)) [Open in Readwise](https://readwise.io/open/57964077) ^rw57964077
+    - Date:: [[May 6th, 2020, Wednesday]]
+- you shouldn’t bother to create some external structuring of the priorities on your lists that you’ll then have to rearrange or rewrite as things change. ([Location 2756](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2756)) [Open in Readwise](https://readwise.io/open/57964078) ^rw57964078
+    - Date:: [[May 6th, 2020, Wednesday]]
+- You’ll be prioritizing more intuitively as you see the whole list against quite a number of shifting variables. ([Location 2758](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2758)) [Open in Readwise](https://readwise.io/open/57964079) ^rw57964079
+    - Date:: [[May 6th, 2020, Wednesday]]
+- The list is just a way for you to keep track of the total inventory of active things to which you have made a commitment, and to have that inventory available for review. ([Location 2758](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2758)) [Open in Readwise](https://readwise.io/open/57964080) ^rw57964080
+    - Date:: [[May 6th, 2020, Wednesday]]
+- Over many years I have discovered that the best way to be reminded of an “as soon as I can” action is by the particular context required for that action—that is, either the tool or the location or the situation needed to complete it. ([Location 2784](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2784)) [Open in Readwise](https://readwise.io/open/57964081) ^rw57964081
+    - Date:: [[May 6th, 2020, Wednesday]]
+- How discrete these categories will need to be will depend on (1) how many actions you actually have to track; and (2) how often you change the contexts within which to do them. ([Location 2789](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2789)) [Open in Readwise](https://readwise.io/open/57964082) ^rw57964082
+    - Date:: [[May 6th, 2020, Wednesday]]
+- Those who make the worst use of their time are the first to complain of its shortness. —Jean de La Bruyère ([Location 2875](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2875)) [Open in Readwise](https://readwise.io/open/58306402) ^rw58306402
+    - Date:: [[May 7th, 2020, Thursday]]
+- Organizing “Waiting For” ([Location 2894](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2894)) [Open in Readwise](https://readwise.io/open/58306403) ^rw58306403
+    - Date:: [[May 7th, 2020, Thursday]]
+- Manage the commitments of others before their avoidance creates a crisis. ([Location 2895](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2895)) [Open in Readwise](https://readwise.io/open/58306404) ^rw58306404
+    - Date:: [[May 7th, 2020, Thursday]]
+- Like reminders of the actions you need to do, reminders of all the things that you’re waiting to get back from or get done by others have to be sorted and grouped. ([Location 2897](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2897)) [Open in Readwise](https://readwise.io/open/58306405) ^rw58306405
+    - Date:: [[May 7th, 2020, Thursday]]
+- The primary reason for organizing is to reduce cognitive load—i.e. to eliminate the need to constantly be thinking, “What do I need to do about this?” ([Location 2935](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2935)) [Open in Readwise](https://readwise.io/open/58306406) ^rw58306406
+    - Date:: [[May 7th, 2020, Thursday]]
+- the reminders should be in visibly discrete categories based upon the next action required. ([Location 2940](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2940)) [Open in Readwise](https://readwise.io/open/58306407) ^rw58306407
+    - Date:: [[May 7th, 2020, Thursday]]
+- Most undermining of the effectiveness of many workflow systems I see is the fact that all the documents of one type (e.g. service requests) are kept in a single tray or file, even though different kinds of actions may be required on each one. ([Location 2942](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2942)) [Open in Readwise](https://readwise.io/open/58306408) ^rw58306408
+    - Date:: [[May 7th, 2020, Thursday]]
+- Distributing action triggers in a folder, on lists, and/or in an e-mail system is perfectly OK, as long as you review all of the categories to which you’ve entrusted your triggers equally, as required. ([Location 2985](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2985)) [Open in Readwise](https://readwise.io/open/58306409) ^rw58306409
+    - Date:: [[May 7th, 2020, Thursday]]
+- I recommend that initially you make a Projects list in a very simple format, similar to the ones you’ve used for your lists of actions; it can be a category in a digital organizer, a page in a loose-leaf planner, or even a single file folder labeled “Projects,” with either a master list or separate sheets of paper for each one. ([Location 2994](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=2994)) [Open in Readwise](https://readwise.io/open/58306410) ^rw58306410
+    - Date:: [[May 7th, 2020, Thursday]]
+- Getting the inventory of all of those things complete, current, and clear for yourself, and acquiring the habit of maintaining it that way, could be one of the most valuable things you do to enable stress-free productivity for yourself from now on. Here are some of the reasons why: ([Location 3012](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3012)) [Open in Readwise](https://readwise.io/open/58306411) ^rw58306411
+    - Date:: [[May 7th, 2020, Thursday]]
+- Critical for control and focus Alleviates subtle tensions Core of the Weekly Review Facilitates relationship management ([Location 3014](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3014)) [Open in Readwise](https://readwise.io/open/58306412) ^rw58306412
+    - Date:: [[May 7th, 2020, Thursday]]
+- Critical for Control and Focus It is impossible to be truly relaxed and in your productive state when things you’ve told yourself you need to handle continue to pull at your mind—whether they be little or big. ([Location 3016](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3016)) [Open in Readwise](https://readwise.io/open/58306413) ^rw58306413
+    - Date:: [[May 7th, 2020, Thursday]]
+- Current Problems, Issues, and Opportunities A very rich place from which to gather items for your inventory is the broad area of often-amorphous things that can disturb your focus if not recognized and dealt with by shaping them into real projects with action steps. ([Location 3062](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3062)) [Open in Readwise](https://readwise.io/open/58306414) ^rw58306414
+    - Date:: [[May 7th, 2020, Thursday]]
+- When is a problem a project? Always. ([Location 3065](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3065)) [Open in Readwise](https://readwise.io/open/58306415) ^rw58306415
+    - Date:: [[May 7th, 2020, Thursday]]
+- When you assess something as a problem instead of as something to simply be accepted as the way things are, you are assuming there is a potential resolution. ([Location 3065](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3065)) [Open in Readwise](https://readwise.io/open/58306416) ^rw58306416
+    - Date:: [[May 7th, 2020, Thursday]]
+- The right amount of complexity is whatever creates optimal simplicity. ([Location 3099](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3099)) [Open in Readwise](https://readwise.io/open/58306417) ^rw58306417
+    - Date:: [[May 7th, 2020, Thursday]]
+- how you decide to group your projects is not nearly as critical as ensuring that your inventory is complete, current, and assessed sufficiently to get it off your mind. ([Location 3105](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3105)) [Open in Readwise](https://readwise.io/open/58306418) ^rw58306418
+    - Date:: [[May 7th, 2020, Thursday]]
+- How you list projects and subprojects is up to you; just be sure you know where to find all the moving parts and review them as frequently as needed to keep them off your mind. ([Location 3127](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3127)) [Open in Readwise](https://readwise.io/open/58306419) ^rw58306419
+    - Date:: [[May 7th, 2020, Thursday]]
+- Project support materials are not project actions, and they’re not project reminders. They’re resources to support your actions and thinking about your projects. ([Location 3131](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3131)) [Open in Readwise](https://readwise.io/open/58532260) ^rw58532260
+    - Date:: [[May 7th, 2020, Thursday]]
+- you don’t want to use support materials as your primary reminders of what to do—that should be relegated to your action lists. ([Location 3146](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3146)) [Open in Readwise](https://readwise.io/open/58532261) ^rw58532261
+    - Date:: [[May 7th, 2020, Thursday]]
+- one of the biggest problems with most people’s personal management systems is that they blend a few actionable things with a large amount of data and material that has value but no action attached. ([Location 3207](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3207)) [Open in Readwise](https://readwise.io/open/59682170) ^rw59682170
+    - Date:: [[May 12th, 2020, Tuesday]]
+- When the nonactionable items aren’t properly managed, they clog up the whole process. ([Location 3209](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3209)) [Open in Readwise](https://readwise.io/open/59682171) ^rw59682171
+    - Date:: [[May 12th, 2020, Tuesday]]
+- Nonactionable items fall into three large categories: reference materials, reminders of things that need no action now but might at a later date, and things that you don’t need at all (trash). ([Location 3210](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3210)) [Open in Readwise](https://readwise.io/open/59682172) ^rw59682172
+    - Date:: [[May 12th, 2020, Tuesday]]
+- Much of what comes across your desk and into your life in general is reference material. ([Location 3212](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3212)) [Open in Readwise](https://readwise.io/open/59682173) ^rw59682173
+    - Date:: [[May 12th, 2020, Tuesday]]
+- The only time you should have attention on your reference material is when you need to change your system in some way because you have too much or too little information, given your needs or preferences. ([Location 3215](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3215)) [Open in Readwise](https://readwise.io/open/59682174) ^rw59682174
+    - Date:: [[May 12th, 2020, Tuesday]]
+- Someday/Maybes are not throwaway items. They may be some of the most interesting and creative things you’ll ever get involved with. ([Location 3287](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3287)) [Open in Readwise](https://readwise.io/open/59682175) ^rw59682175
+    - Date:: [[May 12th, 2020, Tuesday]]
+- People have at times found it useful even to subcategorize their Someday/Maybe projects. ([Location 3316](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3316)) [Open in Readwise](https://readwise.io/open/59682176) ^rw59682176
+    - Date:: [[May 12th, 2020, Tuesday]]
+- The key here is to pay attention, as you experiment with these options, to whether your lists and subcategories are unnerving or energizing you. ([Location 3320](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3320)) [Open in Readwise](https://readwise.io/open/59682177) ^rw59682177
+    - Date:: [[May 12th, 2020, Tuesday]]
+- These kinds of lists can be a cross between reference and Someday/Maybe—reference because you can just collect and add to lists of good wines or restaurants or books, to consult as you like; Someday/Maybe because you might want to review the listed items on a regular basis to remind yourself to try one or more of them at some point. ([Location 3326](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3326)) [Open in Readwise](https://readwise.io/open/59682178) ^rw59682178
+    - Date:: [[May 12th, 2020, Tuesday]]
+- It’s OK to decide not to decide—as long as you have a decide-not-to-decide system. ([Location 3363](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3363)) [Open in Readwise](https://readwise.io/open/59682179) ^rw59682179
+    - Date:: [[May 12th, 2020, Tuesday]]
+- Objectives like “Maintain good physical conditioning” or “Keep my team motivated” may still need to be built into some sort of overview checklist that will be reviewed regularly. ([Location 3441](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3441)) [Open in Readwise](https://readwise.io/open/59906754) ^rw59906754
+    - Date:: [[May 13th, 2020, Wednesday]]
+- I suggested earlier that there are at least six levels of your “work” that could be defined and that each level deserves its own acknowledgment and evaluation. A complete inventory of everything you hold important and are committed to on each of these levels would represent an awesome checklist. ([Location 3444](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3444)) [Open in Readwise](https://readwise.io/open/59906755) ^rw59906755
+    - Date:: [[May 13th, 2020, Wednesday]]
+- Be open to creating any kind of checklist as the urge strikes you. The possibilities are endless—from “Core Life Values” to “Things to Take Camping” to “Potential Holiday Gifts.” Making lists, ad hoc, as they occur to you, is one of the most powerful yet subtlest and simplest procedures that you can install in your life. ([Location 3475](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3475)) [Open in Readwise](https://readwise.io/open/61197311) ^rw61197311
+    - Date:: [[May 16th, 2020, Saturday]]
+- Get comfortable with checklists, both ad hoc and more permanent. Be ready to create and eliminate them as required. Make sure you have an easily accessed place to put a new list that’s also attractive and even fun to engage with—in a loose-leaf notebook or in a software application that is readily available. Appropriately used, checklists can be a tremendous asset in enhancing personal productivity and relieving mental pressure. ([Location 3483](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3483)) [Open in Readwise](https://readwise.io/open/61197312) ^rw61197312
+    - Date:: [[May 16th, 2020, Saturday]]
+- 8 Reflecting: Keeping It All Fresh and Functional ([Location 3492](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3492)) [Open in Readwise](https://readwise.io/open/61197313) ^rw61197313
+    - Date:: [[May 16th, 2020, Saturday]]
+- THE PURPOSE OF this whole method of workflow management is not to let your brain become lax, but rather to enable it to be free to experience more elegant, productive, and creative activity. In order to earn that freedom, however, your brain must engage on some consistent basis with all your commitments and activities. You must be assured that you’re doing what you need to be doing, and that it’s OK to be not doing what you’re not doing. That facilitates the condition of being present, which is always the optimal state from which to operate. Reviewing your system on a regular basis, reflecting on the contents, and keeping it current and functional are prerequisites for that kind of clarity and stability. ([Location 3494](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3494)) [Open in Readwise](https://readwise.io/open/61197314) ^rw61197314
+    - Date:: [[May 16th, 2020, Saturday]]
+- All of this means your system cannot be static. In order to support appropriate action choices, it must be kept up-to-date. And it should trigger consistent and appropriate evaluation of your life and work at several horizons. ([Location 3502](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3502)) [Open in Readwise](https://readwise.io/open/61197315) ^rw61197315
+    - Date:: [[May 16th, 2020, Saturday]]
+- A real review process will lead to enhanced and proactive new thinking in key areas of your life and work. Such thinking emerges from both focused concentration and serendipitous brainstorming, which will be triggered and galvanized by a consistent personal review of your inventory of actions and projects. ([Location 3506](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3506)) [Open in Readwise](https://readwise.io/open/61197316) ^rw61197316
+    - Date:: [[May 16th, 2020, Saturday]]
+- Your personal system and behaviors need to be established in such a way that you can see all the action options you need to see, when you need to see them. This is really just common sense, but few people actually have their processes and their organization honed to the point where they are as functional as they could be. ([Location 3508](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3508)) [Open in Readwise](https://readwise.io/open/61197317) ^rw61197317
+    - Date:: [[May 16th, 2020, Saturday]]
+- A few seconds a day is usually all you need for review, as long as you’re looking at a sufficient amount of the right things at the right time. ([Location 3516](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3516)) [Open in Readwise](https://readwise.io/open/61197318) ^rw61197318
+    - Date:: [[May 16th, 2020, Saturday]]
+- People often ask me, “How much time do you spend looking at your system?” My answer is simply, “As much time as I need to feel comfortable about what I’m doing.” ([Location 3517](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3517)) [Open in Readwise](https://readwise.io/open/61197319) ^rw61197319
+    - Date:: [[May 16th, 2020, Saturday]]
+- The maintenance of life and the pursuit of happiness are not two separate issues. —Ayn Rand ([Location 3527](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3527)) [Open in Readwise](https://readwise.io/open/61197320) ^rw61197320
+    - Date:: [[May 16th, 2020, Saturday]]
+- After you review all your day- and time-specific commitments and handle whatever you need to about them, your next most frequent area for review will be the lists of all the actions you could possibly do in your current context. If you’re in your office, for instance, you’ll look at your lists of calls, computer actions, and in-office things to do. This doesn’t necessarily mean you will be doing anything on those lists; you’ll just evaluate them against the flow of other work coming at you to ensure that you make the best choices about what to deal with. You need to feel confident that you’re not missing anything critical. ([Location 3529](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3529)) [Open in Readwise](https://readwise.io/open/61197321) ^rw61197321
+    - Date:: [[May 16th, 2020, Saturday]]
+- Frankly, if your calendar is trustworthy and your action lists are current, they may be the only things in the system you’ll need to refer to more than every couple of days. There have been many days when I didn’t need to look at any of my lists, in fact, because it was clear from the front end—my calendar—what I wouldn’t be able to do. ([Location 3533](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3533)) [Open in Readwise](https://readwise.io/open/61197322) ^rw61197322
+    - Date:: [[May 16th, 2020, Saturday]]
+- To make knowledge productive, we will have to learn to see both forest and tree. We will have to learn to connect. —Peter F. Drucker ([Location 3544](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3544)) [Open in Readwise](https://readwise.io/open/61197323) ^rw61197323
+    - Date:: [[May 16th, 2020, Saturday]]
+- The real trick to ensuring the trustworthiness of the whole organization system lies in regularly refreshing your thinking and your system from a more elevated perspective. That’s impossible to do, however, if your lists fall too far behind your reality. You won’t be able to fool yourself about this: if your system is out of date, your brain will be forced to fully engage again at the lower level of remembering. ([Location 3546](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3546)) [Open in Readwise](https://readwise.io/open/61197324) ^rw61197324
+    - Date:: [[May 16th, 2020, Saturday]]
+- You will invariably take in more opportunities than your system can process on a daily basis. ([Location 3557](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3557)) [Open in Readwise](https://readwise.io/open/61197325) ^rw61197325
+    - Date:: [[May 16th, 2020, Saturday]]
+- That whirlwind of activity is precisely what makes the Weekly Review so valuable. It builds in some capturing, reevaluation, and reprocessing time to keep you in balance. There is simply no way to do this necessary regrouping while you’re trying to get everyday work done. ([Location 3559](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3559)) [Open in Readwise](https://readwise.io/open/61197326) ^rw61197326
+    - Date:: [[May 16th, 2020, Saturday]]
+- The Weekly Review will also sharpen your intuitive focus on your important projects as you deal with the flood of new input and potential distractions coming at you the rest of the week. You’re going to have to learn to say no—faster, and to more things—in order to stay afloat and comfortable. Having some dedicated time in which to at least get up to the project level of thinking goes a long way toward making that easier. ([Location 3560](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3560)) [Open in Readwise](https://readwise.io/open/61197327) ^rw61197327
+    - Date:: [[May 16th, 2020, Saturday]]
+- Very simply, the Weekly Review is whatever you need to do to get your head empty again and get oriented for the next couple of weeks. It’s going through the steps of workflow management—capturing, clarifying, organizing, and reviewing all your outstanding commitments, intentions, and inclinations—until you can honestly say, “I absolutely know right now everything I’m not doing but could be doing if I decided to.” ([Location 3564](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3564)) [Open in Readwise](https://readwise.io/open/61197328) ^rw61197328
+    - Date:: [[May 16th, 2020, Saturday]]
+- This is the initial stage of gathering up all the loose ends that have been generated in the course of your busy week. Notes taken in meetings, receipts and business cards you’ve collected, notices from your kids’ schools, and all the miscellaneous inputs that, in spite of yourself, have accumulated in all the weird little pockets and places in your purse, briefcase, smartphone texts, jacket, and on your dressing-room counter, in addition to what’s shown up in your standard input channels like your e-mail in-tray and social media. ([Location 3571](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3571)) [Open in Readwise](https://readwise.io/open/61197329) ^rw61197329
+    - Date:: [[May 16th, 2020, Saturday]]
+- You need to “pull up the rear guard” now and eliminate outdated reminders in your system and get your active lists up-to-date and complete. ([Location 3583](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3583)) [Open in Readwise](https://readwise.io/open/61197330) ^rw61197330
+    - Date:: [[May 16th, 2020, Saturday]]
+- This methodology is not simply about cleaning up and getting closure. Those are critical factors, to be sure, to utilize for clarity and focus. Ultimately, though, the prime driver for my own exploration in this field has been creating the space to catalyze and access new, creative, and valuable thinking and direction. To a great extent, that’s actually not something you need to exert a lot of energy to achieve, if you have gotten this far in implementing this methodology. We are naturally creative beings, invested in our existence to live, grow, express, and expand. The challenge is not to be creative—it’s to eliminate the barriers to the natural flow of our creative energies. Practically speaking, it’s about getting your act together, letting spontaneous ideas emerge, capturing them, and utilizing their value. If you, in the process of reading and applying any of these techniques, have had any kind of “Aha! That reminds me . . .” or “Hmmm, I think I might want to . . . ,” because you externalized your thinking and reflected on it, then you’re already demonstrating the naturalness of this process. ([Location 3601](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3601)) [Open in Readwise](https://readwise.io/open/61197331) ^rw61197331
+    - Date:: [[May 16th, 2020, Saturday]]
+- Review “Someday/Maybe” List Check for any projects that may have become more interesting or valuable to activate, and transfer them to Projects. Delete any that have simply stayed around much longer than they should, as the world and your interest have changed enough to take them off even this informal radar. Add any emerging possibilities that you’ve just started thinking about. ([Location 3615](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3615)) [Open in Readwise](https://readwise.io/open/61197332) ^rw61197332
+    - Date:: [[May 16th, 2020, Saturday]]
+- This review process is common sense, but few of us do it as well or consistently as we could, which means as regularly as we should to keep a clear mind and a sense of relaxed control. Granted, its scope is daunting, especially if you haven’t yet structured and populated your personal system to have reasonably current and complete data. And even if you have a decent center of control, given the pressures and demands of your day-to-day world, seldom is it obvious or easy to make this kind of reflection and recalibration event happen. ([Location 3620](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3620)) [Open in Readwise](https://readwise.io/open/61197333) ^rw61197333
+    - Date:: [[May 16th, 2020, Saturday]]
+- If you have the luxury of an office or work space that can be somewhat isolated from the people and interactions of the day, and if you have anything resembling a typical five-day workweek, I recommend that you block out two hours early in the afternoon of your last workday for the review. ([Location 3629](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3629)) [Open in Readwise](https://readwise.io/open/61197334) ^rw61197334
+    - Date:: [[May 16th, 2020, Saturday]]
+- Every now and then go away and have a little relaxation. To remain constantly at work will diminish your judgment. Go some distance away, because work will be in perspective and a lack of harmony is more readily seen. —Leonardo da Vinci ([Location 3640](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3640)) [Open in Readwise](https://readwise.io/open/61197335) ^rw61197335
+    - Date:: [[May 16th, 2020, Saturday]]
+- Yes, at some point you must clarify the larger outcomes, the long-term goals, the visions and principles that ultimately drive, test, and prioritize your decisions. ([Location 3667](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3667)) [Open in Readwise](https://readwise.io/open/61197336) ^rw61197336
+    - Date:: [[May 16th, 2020, Saturday]]
+- Trying to create goals before you have confidence that you can keep your everyday world under control will often undermine your motivation and energy rather than enhance them. ([Location 3670](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3670)) [Open in Readwise](https://readwise.io/open/61197337) ^rw61197337
+    - Date:: [[May 16th, 2020, Saturday]]
+- You need to assess your life and work at the appropriate horizons, making the appropriate decisions, at the appropriate intervals, in order to really come clean. That’s a lifelong invitation and obligation to yourself, to fulfill whatever your unfinished destiny or intentionality happens to be. ([Location 3677](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3677)) [Open in Readwise](https://readwise.io/open/61197338) ^rw61197338
+    - Date:: [[May 16th, 2020, Saturday]]
+- More goals may not be necessary for you now—you need comfort with the ones you’ve already put in motion, and the confidence that you can execute elegantly on any new ones. ([Location 3688](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3688)) [Open in Readwise](https://readwise.io/open/61197339) ^rw61197339
+    - Date:: [[May 16th, 2020, Saturday]]
+- 9 Engaging: Making the Best Action Choices ([Location 3705](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3705)) [Open in Readwise](https://readwise.io/open/61372103) ^rw61372103
+    - Date:: [[May 19th, 2020, Tuesday]]
+- Remember that you make your action choices based on the following four criteria, in order: Context Time available Energy available Priority ([Location 3721](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3721)) [Open in Readwise](https://readwise.io/open/61372104) ^rw61372104
+    - Date:: [[May 19th, 2020, Tuesday]]
+- We all have times when we think more effectively, and times when we should not be thinking at all. —Daniel Cohen ([Location 3770](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3770)) [Open in Readwise](https://readwise.io/open/61372105) ^rw61372105
+    - Date:: [[May 19th, 2020, Tuesday]]
+- Just as having all your next-action options available allows you to take advantage of various time slots, knowing about everything you’re going to need to process and do at some point will allow you to match productive activity with your vitality level. ([Location 3777](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3777)) [Open in Readwise](https://readwise.io/open/61372106) ^rw61372106
+    - Date:: [[May 19th, 2020, Tuesday]]
+- Another reason people consider unexpected demands or requests negative is because they don’t trust their own system and behaviors to be able to put a “bookmark” on any resulting action that needs to be taken, or on the work they’re doing at the moment. They know they need do something about the new work that just showed up, but they don’t trust that a simple note in their own in-tray will ensure it is handled with proper timing. So they stop their previous work and immediately go do what was just requested or required of them, complaining about the interruption that just disturbed their life. There are no interruptions, really—there are simply mismanaged occurrences. ([Location 3844](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3844)) [Open in Readwise](https://readwise.io/open/61515314) ^rw61515314
+    - Date:: [[May 20th, 2020, Wednesday]]
+- The Six-Level Model for Reviewing Your Own Work ([Location 3887](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3887)) [Open in Readwise](https://readwise.io/open/61681032) ^rw61681032
+    - Date:: [[May 21st, 2020, Thursday]]
+- Horizon 5: Life Horizon 4: Long-term visions Horizon 3: One- to two-year goals Horizon 2: Areas of focus and accountability Horizon 1: Current projects Ground: Current actions ([Location 3890](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3890)) [Open in Readwise](https://readwise.io/open/61681033) ^rw61681033
+    - Date:: [[May 21st, 2020, Thursday]]
+- Your work is to discover your work and then with all your heart to give yourself to it. —Buddha ([Location 3899](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3899)) [Open in Readwise](https://readwise.io/open/61681034) ^rw61681034
+    - Date:: [[May 21st, 2020, Thursday]]
+- The healthiest approach for relaxed control and inspired productivity is to manage all the levels in a balanced fashion. At any of those levels, it’s critical to identify all the open loops, all the incompletions, and all the commitments that you have right now, as best you can. They all came, consciously or not, from the urges, pulls, and pushes from these multiple levels within you. Without an acceptance and an objective assessment of what’s true in the present, and feeling confident you can manage what you’ve created, it’s always difficult to cast off for new shores. ([Location 3905](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3905)) [Open in Readwise](https://readwise.io/open/61681035) ^rw61681035
+    - Date:: [[May 21st, 2020, Thursday]]
+- Getting things done, and feeling good about it, means being willing to recognize, acknowledge, and appropriately engage with all the things within the ecosystem of your consciousness. Mastering the art of stress-free productivity requires it. ([Location 3917](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3917)) [Open in Readwise](https://readwise.io/open/61681036) ^rw61681036
+    - Date:: [[May 21st, 2020, Thursday]]
+- From a practical perspective, I suggest going from the bottom up instead. I’ve coached people from both directions, and in terms of lasting value, I can honestly say that getting someone in control of the details of his or her current physical world, and then elevating the focus from there, has never missed. ([Location 3935](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3935)) [Open in Readwise](https://readwise.io/open/61681037) ^rw61681037
+    - Date:: [[May 21st, 2020, Thursday]]
+- Handle what has your attention and you’ll then discover what really has your attention. ([Location 3937](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3937)) [Open in Readwise](https://readwise.io/open/61681038) ^rw61681038
+    - Date:: [[May 21st, 2020, Thursday]]
+- I have learned over the years that the most important thing to deal with is whatever is most on your mind. The fact that you think it shouldn’t be on your mind is irrelevant. It’s there, and it’s there for a reason. “Buy cat food” may certainly not rank high on some theoretical prioritizing inventory, but if that’s what’s pulling on you the most, in the moment, then handling it in some way would be Job One. Once you handle what has your attention, it frees you up to notice what really has your attention. Which, when you handle that, will allow you to see what really has your attention, and so on. Almost without exception the executives I have worked with are most plagued by the management of the nitty-gritty of their workaday world—e-mails, meetings, travel, projects going off the rails, etc. When they begin to get all that under control, their attention invariably turns to areas of focus and interest from a higher perspective—family, career, and quality-of-life stuff. So don’t worry about what horizon or what content of your life is the highest priority to deal with—deal with what’s present. When you do, you will more effectively uncover and address what’s really true and meaningful for you. ([Location 3945](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3945)) [Open in Readwise](https://readwise.io/open/61681039) ^rw61681039
+    - Date:: [[May 21st, 2020, Thursday]]
+- Ground The first thing to do is make sure your action lists are complete, which in itself can be quite a task. Those who focus on gathering and objectifying all of those items discover that there are many (often of some importance) they’ve forgotten, misplaced, or just not recognized. ([Location 3959](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3959)) [Open in Readwise](https://readwise.io/open/61837251) ^rw61837251
+    - Date:: [[May 22nd, 2020, Friday]]
+- Horizon 1 Finalize your Projects list. Does it truly capture all the commitments you have that will require more than one action to get done? That will define the boundaries of the kind of week-to- week operational world you’re in and allow you to relax your thinking for longer intervals. ([Location 3966](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3966)) [Open in Readwise](https://readwise.io/open/61837252) ^rw61837252
+    - Date:: [[May 22nd, 2020, Friday]]
+- Horizon 2 This is the level of “current job responsibilities” and “areas of my life to maintain at an appropriate standard.” What are the hats you wear, the roles you play? Professionally, this would relate to your current position and work. Personally, it would include the areas of responsibility you’ve taken on in your family, in your community, and of course with yourself as a functioning person. ([Location 3984](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3984)) [Open in Readwise](https://readwise.io/open/61837253) ^rw61837253
+    - Date:: [[May 22nd, 2020, Friday]]
+- Next I recommend that you make and keep a list called “Areas of Focus.” You might like to separate this into “Professional” and “Personal” sublists, in which case you’ll want to use them both equally for a consistent review. This is one of the most useful checklists you can create for your own self-management. It won’t require the kind of once-a-week recalibration that the Projects list will; more likely it will have meaning on a longer recursion cycle. Depending on the speed of change in some of the more important areas of your life and work, this should be used as a trigger for potential new projects every one to three months. ([Location 3991](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=3991)) [Open in Readwise](https://readwise.io/open/61837254) ^rw61837254
+    - Date:: [[May 22nd, 2020, Friday]]
+- Horizons 3–5 Whereas the three lower levels have mostly to do with the current state of things—your actions, projects, and areas of responsibility—from Horizon 3 up the factors of the future and your direction and intentions are primary. There is still an inventory to take at these plateaus (especially at the top level, purpose and principles, which represents an ongoing criterion for monitoring and correcting activities and behaviors), but it’s more about “What is true right now about where I’ve decided I’m going and how I’m going to get there?” This can range from one-year goals in your job (Horizon 3) to a three-year vision for your career and personal net worth (Horizon 4) to intuiting your life purpose and how to maximize its expression (Horizon 5). ([Location 4019](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4019)) [Open in Readwise](https://readwise.io/open/61837255) ^rw61837255
+    - Date:: [[May 22nd, 2020, Friday]]
+- For our purposes, the focus is on capturing what motivators exist for you in current reality that determine the inventory of what your work actually is, right now (some of which may be stemming from your higher-level commitments and intentions). Whether your directions and goals should be changed or clarified—based on deeper thinking, analysis, and intuition—could be another discussion. Even so, there are probably some things you can identify right now that can help you get current in your own thinking about your work and what’s important in it. ([Location 4031](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4031)) [Open in Readwise](https://readwise.io/open/61837256) ^rw61837256
+    - Date:: [[May 22nd, 2020, Friday]]
+- If you were to intuitively frame a picture of what you think you might be doing twelve to eighteen months from now, or what the nature of your job will look like at that point, what would that trigger? At this level, which is subtler, there may be things personally you need to let go of, and people and systems that may need to be developed to allow the transition. And as the job itself is a moving target, given the shifting sands of the professional world these days, there may need to be projects defined to ensure viability of the outputs in your area. ([Location 4035](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4035)) [Open in Readwise](https://readwise.io/open/61837257) ^rw61837257
+    - Date:: [[May 22nd, 2020, Friday]]
+- If you’re involved in anything that has a future of longer than a year (marriage, kids, career, a company, an art form, a lifelong passion), you would do well to think about what you might need to be doing to manage things along that vector. ([Location 4048](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4048)) [Open in Readwise](https://readwise.io/open/61837258) ^rw61837258
+    - Date:: [[May 22nd, 2020, Friday]]
+- 10 Getting Projects Under Control ([Location 4084](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4084)) [Open in Readwise](https://readwise.io/open/61837259) ^rw61837259
+    - Date:: [[May 22nd, 2020, Friday]]
+- Most of the outcomes you have identified for your Projects list will not need any kind of front-end planning, other than the sort you do in your head, quickly and naturally, to come up with a next action on them. The only planning needed for “Get car inspected,” for example, would be to decide to check the Internet for the nearest inspection location and set up a time. ([Location 4111](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4111)) [Open in Readwise](https://readwise.io/open/61837260) ^rw61837260
+    - Date:: [[May 22nd, 2020, Friday]]
+- There are two types of projects, however, that deserve at least some sort of planning activity: (1) those that still have your attention even after you’ve determined their next actions, and (2) those about which potentially useful ideas and supportive detail just show up ad hoc. ([Location 4114](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4114)) [Open in Readwise](https://readwise.io/open/61837261) ^rw61837261
+    - Date:: [[May 22nd, 2020, Friday]]
+- The most common types of planning-oriented actions will be your own brainstorming and organizing, setting up meetings, and gathering information. ([Location 4127](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4127)) [Open in Readwise](https://readwise.io/open/61837262) ^rw61837262
+    - Date:: [[May 22nd, 2020, Friday]]
+- Function often follows form. Give yourself a context for capturing thoughts, and thoughts will occur that you don’t yet know you have. ([Location 4168](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4168)) [Open in Readwise](https://readwise.io/open/61837263) ^rw61837263
+    - Date:: [[May 22nd, 2020, Friday]]
+- At the very least, right now or as soon as possible, take those few of your projects that you have the most attention on or interest in right now and do some thinking, collecting, and organizing on them, using whatever tools seem most appropriate. ([Location 4262](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4262)) [Open in Readwise](https://readwise.io/open/62670356) ^rw62670356
+    - Date:: [[May 26th, 2020, Tuesday]]
+- The key is to get comfortable with having and using your ideas. And to acquire the habit of focusing your energy constructively, on intended outcomes and open loops, before you have to. ([Location 4270](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4270)) [Open in Readwise](https://readwise.io/open/62670357) ^rw62670357
+    - Date:: [[May 26th, 2020, Tuesday]]
+- 11 The Power of the Capturing Habit ([Location 4274](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4274)) [Open in Readwise](https://readwise.io/open/62670358) ^rw62670358
+    - Date:: [[May 26th, 2020, Tuesday]]
+- THERE’S MUCH MORE to these simple techniques and models than may appear at first glance. Indeed, they offer a systematic method to keep your mind distraction-free, ensuring a high level of efficiency and effectiveness in your work. That in itself would be sufficient reason to implement these practices. ([Location 4277](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4277)) [Open in Readwise](https://readwise.io/open/62670359) ^rw62670359
+    - Date:: [[May 26th, 2020, Tuesday]]
+- When people with whom you interact notice that without fail you receive, process, and organize in an airtight manner the exchanges and agreements they have with you, they begin to trust you in a unique way. More significantly, you incorporate a level of self-confidence in your engagement with your world that money cannot buy. Such is the power of capturing placeholders for anything that is incomplete or unprocessed in your life. It noticeably enhances your mental well-being and improves the quality of your communications and relationships, both personally and professionally. ([Location 4283](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4283)) [Open in Readwise](https://readwise.io/open/62670360) ^rw62670360
+    - Date:: [[May 26th, 2020, Tuesday]]
+- When you understand the source of your negative feelings about all your stuff, you’ll discover, as I did, the way to get rid of them. And if you experienced any positive feelings from collecting your stuff, you actually began the process of eliminating the negativity yourself. ([Location 4297](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4297)) [Open in Readwise](https://readwise.io/open/62670361) ^rw62670361
+    - Date:: [[May 26th, 2020, Tuesday]]
+- But what are all those things in your in-tray? Agreements you’ve made or at least implicitly accepted with yourself—things you somehow have told yourself you should deal with in some way. Your negative feelings are simply the result of breaking those agreements—they’re the symptoms of disintegrated self-trust. If you tell yourself to draft a strategic plan, when you don’t do it, you feel bad. Tell yourself to get organized, and if you fail to, welcome to guilt and frustration. Resolve to spend more time with your kids and then don’t—voila! anxious and overwhelmed. ([Location 4306](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4306)) [Open in Readwise](https://readwise.io/open/62670362) ^rw62670362
+    - Date:: [[May 26th, 2020, Tuesday]]
+- If the negative feelings come from broken agreements, you have three options for dealing with them and eliminating the negative consequences: Don’t make the agreement. Complete the agreement. Renegotiate the agreement. All of these can work to get rid of the unpleasant feelings. ([Location 4311](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4311)) [Open in Readwise](https://readwise.io/open/62670363) ^rw62670363
+    - Date:: [[May 26th, 2020, Tuesday]]
+- Maintaining an objective and complete inventory of your work, regularly reviewed, makes it much easier to say no with integrity. ([Location 4325](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4325)) [Open in Readwise](https://readwise.io/open/62670364) ^rw62670364
+    - Date:: [[May 26th, 2020, Tuesday]]
+- Suppose I’d told you I would meet you Thursday at four p.m., but after I made the appointment, my world changed. Now, given my new priorities, I decide I’m not going to meet you Thursday at four. But instead of simply not showing up, what had I better do, to maintain the integrity of the relationship? Correct—call and change the agreement. A renegotiated agreement is not a broken one. ([Location 4354](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4354)) [Open in Readwise](https://readwise.io/open/62670365) ^rw62670365
+    - Date:: [[May 26th, 2020, Tuesday]]
+- In my experience, anything that is held only in your head will take up either more or less attention than it deserves. The reason to collect everything is not that everything is equally important; it’s that it’s not. Incompletions, uncaptured, take on a dull sameness in the sense of the pressure they create and the attention they tie up. ([Location 4388](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4388)) [Open in Readwise](https://readwise.io/open/62670366) ^rw62670366
+    - Date:: [[May 26th, 2020, Tuesday]]
+- I suggest that you use your mind to think about things, rather than think of them. You want to be adding value as you think about projects and situations, not creating stress by simply reminding yourself they exist and you need to do something about them. To fully realize that more productive place, you will need to capture it all. It takes focus and a change of habit to train yourself to recognize and download even the smallest agreements with yourself as they’re created in your mind. Doing the capturing process as fully as you can, and then incorporating the behavior of gathering all the new things as they emerge, will be more empowering and productive than you can imagine. ([Location 4401](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4401)) [Open in Readwise](https://readwise.io/open/62670367) ^rw62670367
+    - Date:: [[May 26th, 2020, Tuesday]]
+- 12 The Power of the Next-Action Decision ([Location 4448](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4448)) [Open in Readwise](https://readwise.io/open/62670368) ^rw62670368
+    - Date:: [[May 26th, 2020, Tuesday]]
+- When a culture adopts “What’s the next action?” as a standard operating query, there’s an automatic increase in energy, productivity, clarity, and focus. ([Location 4450](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4450)) [Open in Readwise](https://readwise.io/open/62670369) ^rw62670369
+    - Date:: [[May 26th, 2020, Tuesday]]
+- I HAVE A personal mission to make “What’s the next action?” part of our global thought process. I envision a world in which no meeting or discussion will end, and no interaction cease, without a clear indication of whether or not some action is needed—and if it is, what it will be, or at least who has accountability for it. I envision organizations adopting a standard that anything that lands in anyone’s field of awareness will be evaluated for action required, and the resulting decisions managed appropriately. Imagine the freedom that would provide for people and organizations to focus their attention on bigger issues and opportunities. ([Location 4452](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4452)) [Open in Readwise](https://readwise.io/open/62670370) ^rw62670370
+    - Date:: [[May 26th, 2020, Tuesday]]
+- 13 The Power of Outcome Focusing ([Location 4664](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4664)) [Open in Readwise](https://readwise.io/open/63624936) ^rw63624936
+    - Date:: [[May 30th, 2020, Saturday]]
+- An idealist believes that the short run doesn’t count. A cynic believes the long run doesn’t matter. A realist believes that what is done or left undone in the short run determines the long run. —Sydney J. Harris ([Location 4742](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4742)) [Open in Readwise](https://readwise.io/open/70302918) ^rw70302918
+    - Date:: [[July 11th, 2020, Saturday]]
+- Challenging the purpose of anything you may be doing is healthy and mature. Being comfortable making up visions of success, before the methods are clear, is a phenomenal trait to strengthen. Being willing to have ideas, good or bad, and to express and capture all of them without judgment is critical for fully accessing creative intelligence. Honing multiple ideas and types of information into components, sequences, and priorities aimed toward a specific outcome is a necessary mental discipline. And deciding on and taking real next actions—actually moving on something in the physical world—is the essence of productivity. ([Location 4754](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4754)) [Open in Readwise](https://readwise.io/open/70302919) ^rw70302919
+    - Date:: [[July 11th, 2020, Saturday]]
+- I respect the man who knows distinctly what he wishes. The greater part of all mischief in the world arises from the fact that men do not sufficiently understand their own aims. They have undertaken to build a tower, and spend no more labor on the foundation than would be necessary to erect a hut. —Johann Wolfgang von Goethe ([Location 4759](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4759)) [Open in Readwise](https://readwise.io/open/70302920) ^rw70302920
+    - Date:: [[July 11th, 2020, Saturday]]
+- Being able to bring all these ingredients together, with appropriate timing and balance, is perhaps the major component of competence for this new millennium. But it’s not yet the norm of much professional and personal behavior; far from it. It’s still a daunting task to apply this awareness to all the aspects of one’s life. The natural planning model is natural, but in many cases it is not automatic. ([Location 4762](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4762)) [Open in Readwise](https://readwise.io/open/70302921) ^rw70302921
+    - Date:: [[July 11th, 2020, Saturday]]
+- 14 GTD and Cognitive Science ([Location 4808](https://readwise.io/to_kindle?action=open&asin=B00KWG9M2E&location=4808)) [Open in Readwise](https://readwise.io/open/70416290) ^rw70416290
+    - Date:: [[July 13th, 2020, Monday]]

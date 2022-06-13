@@ -1,0 +1,1036 @@
+---
+aliases: [Design Your Work, Design Your Work]
+author: Tiago Forte
+---
+# Design Your Work by Tiago Forte
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41-jKdYmJGL._SL200_.jpg)
+
+## Metadata
+- Author: [[Tiago Forte]]
+- Full Title: Design Your Work
+- Category: #books
+- Source: [[{source}]]
+
+## Highlights
+### New highlights synced
+- I have to write to know what I think. All my ideas sound brilliant in the echo chamber of my own mind. It is only when I put down my thoughts, letting them stand on their own strength, that I start to see the cracks and imperfections. ([Location 58](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=58)) [Open in Readwise](https://readwise.io/open/54387180) ^rw54387180
+    - Date:: [[March 2nd, 2020, Monday]]
+- It actually goes beyond this – I have to write to think. Otherwise the same old ideas keep circulating round and round, clogging the synapses. Writing is not a result of thinking – it is thinking itself, scaffolded by the external props of a keyboard and screen. ([Location 60](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=60)) [Open in Readwise](https://readwise.io/open/54387181) ^rw54387181
+    - Date:: [[March 2nd, 2020, Monday]]
+- The title Design Your Work refers to the overall theme tying together these essays: the idea that one can design their own work. ([Location 72](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=72)) [Open in Readwise](https://readwise.io/open/54387182) ^rw54387182
+    - Date:: [[March 2nd, 2020, Monday]]
+- It was all invented by someone else at some point in time, which means you have the option of reinventing it. ([Location 77](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=77)) [Open in Readwise](https://readwise.io/open/54387183) ^rw54387183
+    - Date:: [[March 2nd, 2020, Monday]]
+- A Manifesto of Human-Centered Work ([Location 87](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=87)) [Open in Readwise](https://readwise.io/open/54387184) ^rw54387184
+    - Date:: [[March 2nd, 2020, Monday]]
+- The capacity to perform work — to shape the world and make our ideas manifest — is among the highest privileges of being human. Any capability so powerful is worth thinking deeply about. ([Location 94](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=94)) [Open in Readwise](https://readwise.io/open/54387185) ^rw54387185
+    - Date:: [[March 2nd, 2020, Monday]]
+- work can be a vehicle for personal growth. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=96)) [Open in Readwise](https://readwise.io/open/54387186) ^rw54387186
+    - Date:: [[March 2nd, 2020, Monday]]
+- It isn’t obvious at first, but work can provide opportunities for nearly every aspect of personal growth: learning, perspective, self-expression, self-affirmation, status and prestige, self-sufficiency, self-discovery, and making a positive impact on the world. ([Location 96](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=96)) [Open in Readwise](https://readwise.io/open/54387187) ^rw54387187
+    - Date:: [[March 2nd, 2020, Monday]]
+- Any experience in life can inspire growth. ([Location 102](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=102)) [Open in Readwise](https://readwise.io/open/54387188) ^rw54387188
+    - Date:: [[March 2nd, 2020, Monday]]
+- why not choose the activity you spend most of your life doing anyway? ([Location 103](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=103)) [Open in Readwise](https://readwise.io/open/54387189) ^rw54387189
+    - Date:: [[March 2nd, 2020, Monday]]
+- work can be an act of self-expression. ([Location 105](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=105)) [Open in Readwise](https://readwise.io/open/54387190) ^rw54387190
+    - Date:: [[March 2nd, 2020, Monday]]
+- It doesn’t happen automatically, but people can imbue their work with the passion, the creativity, and the purpose that give their life meaning. ([Location 105](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=105)) [Open in Readwise](https://readwise.io/open/54387191) ^rw54387191
+    - Date:: [[March 2nd, 2020, Monday]]
+- This is different from doing what you love all the time. Passion needs truth, and the world into which we send our work is nothing if not truthful. ([Location 107](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=107)) [Open in Readwise](https://readwise.io/open/54387192) ^rw54387192
+    - Date:: [[March 2nd, 2020, Monday]]
+- work can and should be intensely enjoyable. ([Location 108](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=108)) [Open in Readwise](https://readwise.io/open/54387193) ^rw54387193
+    - Date:: [[March 2nd, 2020, Monday]]
+- I don’t believe that we should have to suffer to produce our life’s work. Beyond being useful, working can be exquisitely fun. ([Location 109](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=109)) [Open in Readwise](https://readwise.io/open/54387194) ^rw54387194
+    - Date:: [[March 2nd, 2020, Monday]]
+- As children, we recognize no division between labor and play. ([Location 113](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=113)) [Open in Readwise](https://readwise.io/open/54387195) ^rw54387195
+    - Date:: [[March 2nd, 2020, Monday]]
+- productivity is an excellent sandbox for life. ([Location 116](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=116)) [Open in Readwise](https://readwise.io/open/54387196) ^rw54387196
+    - Date:: [[March 2nd, 2020, Monday]]
+- Anything worth doing, and especially anything we have to do, is worth doing well. ([Location 116](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=116)) [Open in Readwise](https://readwise.io/open/54387197) ^rw54387197
+    - Date:: [[March 2nd, 2020, Monday]]
+- If we want to free up time and energy to pursue what matters to us, it’s a good idea to start by streamlining the boring but necessary activities we have to do to get by. ([Location 119](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=119)) [Open in Readwise](https://readwise.io/open/54387198) ^rw54387198
+    - Date:: [[March 2nd, 2020, Monday]]
+- we need a new conception of what work is and what it’s for. ([Location 122](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=122)) [Open in Readwise](https://readwise.io/open/54387199) ^rw54387199
+    - Date:: [[March 2nd, 2020, Monday]]
+- It requires sensitivity to the innate needs and abilities of humans. It will require operating from first principles and borrowing from extremely diverse sources with an open mind. ([Location 124](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=124)) [Open in Readwise](https://readwise.io/open/54387200) ^rw54387200
+    - Date:: [[March 2nd, 2020, Monday]]
+- What constrains the performance of most workers today is not their capability or creativity, but decaying institutions founded on outdated conceptions of labor. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=130)) [Open in Readwise](https://readwise.io/open/54387201) ^rw54387201
+    - Date:: [[March 2nd, 2020, Monday]]
+- a new conception of work will require radically new productivity methods. ([Location 136](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=136)) [Open in Readwise](https://readwise.io/open/54387202) ^rw54387202
+    - Date:: [[March 2nd, 2020, Monday]]
+- Technology gives us unprecedented leverage, but on its own is of little value. ([Location 137](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=137)) [Open in Readwise](https://readwise.io/open/54387203) ^rw54387203
+    - Date:: [[March 2nd, 2020, Monday]]
+- the main obstacle to adopting new productivity methods is people’s limiting beliefs ([Location 150](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=150)) [Open in Readwise](https://readwise.io/open/54387204) ^rw54387204
+    - Date:: [[March 2nd, 2020, Monday]]
+- Most people defend the system as it exists, because change seems threatening. ([Location 151](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=151)) [Open in Readwise](https://readwise.io/open/54387205) ^rw54387205
+    - Date:: [[March 2nd, 2020, Monday]]
+- the work of improving the productivity of knowledge workers is really the work of guiding personal growth ([Location 154](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=154)) [Open in Readwise](https://readwise.io/open/54387206) ^rw54387206
+    - Date:: [[March 2nd, 2020, Monday]]
+- design is very close to the core of what it means to be human. ([Location 160](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=160)) [Open in Readwise](https://readwise.io/open/54387207) ^rw54387207
+    - Date:: [[March 2nd, 2020, Monday]]
+- Humans are designers. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=161)) [Open in Readwise](https://readwise.io/open/54387208) ^rw54387208
+    - Date:: [[March 2nd, 2020, Monday]]
+- Design has made technology more humane; it can do the same for productivity. ([Location 163](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=163)) [Open in Readwise](https://readwise.io/open/54387209) ^rw54387209
+    - Date:: [[March 2nd, 2020, Monday]]
+- This requires, first and foremost, showing people that they are designers, by nature if not by profession. Next, it requires teaching them how to design their own methods, for their own circumstances and their own needs. ([Location 164](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=164)) [Open in Readwise](https://readwise.io/open/54387210) ^rw54387210
+    - Date:: [[March 2nd, 2020, Monday]]
+- we can design a way of working in which the interests of employees and employers are fundamentally aligned ([Location 167](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=167)) [Open in Readwise](https://readwise.io/open/54387211) ^rw54387211
+    - Date:: [[March 2nd, 2020, Monday]]
+- Organizations can become platforms for humans to reach their full potential, and in the process benefit from unleashing that immense source of energy. ([Location 176](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=176)) [Open in Readwise](https://readwise.io/open/54387212) ^rw54387212
+    - Date:: [[March 2nd, 2020, Monday]]
+- a new way of working will require a whole new infrastructure ([Location 179](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=179)) [Open in Readwise](https://readwise.io/open/54387213) ^rw54387213
+    - Date:: [[March 2nd, 2020, Monday]]
+- the reinvention of work is an urgent matter. ([Location 193](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=193)) [Open in Readwise](https://readwise.io/open/54387214) ^rw54387214
+    - Date:: [[March 2nd, 2020, Monday]]
+- the future of work must be human-centered. ([Location 200](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=200)) [Open in Readwise](https://readwise.io/open/54387215) ^rw54387215
+    - Date:: [[March 2nd, 2020, Monday]]
+- A new definition of work must put human beings at the center. ([Location 201](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=201)) [Open in Readwise](https://readwise.io/open/54387216) ^rw54387216
+    - Date:: [[March 2nd, 2020, Monday]]
+- 10 Days of Vipassana: Meditation and the Nature of Attention ([Location 209](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=209)) [Open in Readwise](https://readwise.io/open/54387217) ^rw54387217
+    - Date:: [[March 2nd, 2020, Monday]]
+- My inner voice excelled at talking, but I’d forgotten how to listen. ([Location 224](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=224)) [Open in Readwise](https://readwise.io/open/54387218) ^rw54387218
+    - Date:: [[March 2nd, 2020, Monday]]
+- I found I could intensify my attention by focusing on a tiny spot — like the spot just behind my ear — and when I expanded my focus, the sensations would burst outward. ([Location 246](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=246)) [Open in Readwise](https://readwise.io/open/54387219) ^rw54387219
+    - Date:: [[March 2nd, 2020, Monday]]
+- Although these physical experiences were interesting, it was the changes in my perception and awareness that I valued the most. ([Location 266](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=266)) [Open in Readwise](https://readwise.io/open/54387220) ^rw54387220
+    - Date:: [[March 2nd, 2020, Monday]]
+- Returning home, I felt a kind of hypermindfulness. ([Location 267](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=267)) [Open in Readwise](https://readwise.io/open/54387221) ^rw54387221
+    - Date:: [[March 2nd, 2020, Monday]]
+- I felt a newfound desire to connect with people, and not just to impress them or get something from them. Speaking with a young man who told me he lived out of his car, I was surprised to feel no reaction in my mind — no aversion, no pity, no feeling of superiority followed quickly by shame; only a subtle feeling of compassion and curiosity. ([Location 273](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=273)) [Open in Readwise](https://readwise.io/open/54387222) ^rw54387222
+    - Date:: [[March 2nd, 2020, Monday]]
+- Gaps of time I had found unbearably boring and quickly filled by fiddling with my phone — waiting for the train to arrive, waiting at the doctor’s office, waiting in checkout lines — suddenly became precious moments of calm, allowing me to stop and reflect on what I was doing and feeling. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=275)) [Open in Readwise](https://readwise.io/open/54387223) ^rw54387223
+    - Date:: [[March 2nd, 2020, Monday]]
+- Lastly, and I hesitate to mention it because it is such a cliché, I was happy. Happier than I could remember, more so than after any achievement or vacation. ([Location 279](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=279)) [Open in Readwise](https://readwise.io/open/54387224) ^rw54387224
+    - Date:: [[March 2nd, 2020, Monday]]
+- I knew that this happiness was different than any I’d felt before. It had nothing to do with a particular set of circumstances. It set no conditions or criteria. Making no demands on the world, the world couldn’t shake it. Accepting the bad along with the good, it stripped the bad of its power. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=280)) [Open in Readwise](https://readwise.io/open/54387225) ^rw54387225
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sitting in a dark room for 10 days and peeling away layer after layer of my perception, I had discovered first-hand a truth that seems both obvious and far too good to be true: that the default state of the human mind is happiness. This is why happiness is not an achievement to be attained — every single thing you add merely obscures what is already there. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=283)) [Open in Readwise](https://readwise.io/open/54387226) ^rw54387226
+    - Date:: [[March 2nd, 2020, Monday]]
+- What I learned ([Location 286](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=286)) [Open in Readwise](https://readwise.io/open/54387227) ^rw54387227
+    - Date:: [[March 2nd, 2020, Monday]]
+- 1. Attention is a skill — if you don’t cultivate it, it will atrophy ([Location 287](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=287)) [Open in Readwise](https://readwise.io/open/54387228) ^rw54387228
+    - Date:: [[March 2nd, 2020, Monday]]
+- We assume that if we are simultaneously looking at, listening to, and thinking about someone, then we must be paying them our “full attention.” This couldn’t be further from the truth. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=288)) [Open in Readwise](https://readwise.io/open/54387229) ^rw54387229
+    - Date:: [[March 2nd, 2020, Monday]]
+- We call someone who is not in control of their mind insane. What do we call someone who is not in control of their attention, which is the gateway to the mind? ([Location 295](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=295)) [Open in Readwise](https://readwise.io/open/54387230) ^rw54387230
+    - Date:: [[March 2nd, 2020, Monday]]
+- 2. 80% of happiness is just paying attention ([Location 297](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=297)) [Open in Readwise](https://readwise.io/open/54387231) ^rw54387231
+    - Date:: [[March 2nd, 2020, Monday]]
+- If “80% of success is just showing up,” then I believe that 80% of happiness is just paying attention. ([Location 306](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=306)) [Open in Readwise](https://readwise.io/open/54387232) ^rw54387232
+    - Date:: [[March 2nd, 2020, Monday]]
+- 3. Distractions are a lasting, subconscious mental habit ([Location 307](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=307)) [Open in Readwise](https://readwise.io/open/54387233) ^rw54387233
+    - Date:: [[March 2nd, 2020, Monday]]
+- Every time you respond to a distraction — a new email in your inbox, a notification on your phone, a red badge on an app — you are training your mind to value the new at the expense of the important. ([Location 308](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=308)) [Open in Readwise](https://readwise.io/open/54387234) ^rw54387234
+    - Date:: [[March 2nd, 2020, Monday]]
+- Every time you interrupt the important and focused work you have consciously chosen to do to check what has just arrived, even for a second, you are telling your mind that this new thing must be more valuable, just because it is new. ([Location 310](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=310)) [Open in Readwise](https://readwise.io/open/54387235) ^rw54387235
+    - Date:: [[March 2nd, 2020, Monday]]
+- the effect of distractions lasts far longer than the environment that produces them. ([Location 313](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=313)) [Open in Readwise](https://readwise.io/open/54387236) ^rw54387236
+    - Date:: [[March 2nd, 2020, Monday]]
+- 4. Paying attention to something takes away its power ([Location 321](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=321)) [Open in Readwise](https://readwise.io/open/54387237) ^rw54387237
+    - Date:: [[March 2nd, 2020, Monday]]
+- But what if depriving pain of much of its power was as simple as paying attention to it? Anger, doubt, shame, envy, vengeance — all these feelings have such a hold over us only because they operate in the dark. Shine a light on them, and they wither. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=335)) [Open in Readwise](https://readwise.io/open/54387238) ^rw54387238
+    - Date:: [[March 2nd, 2020, Monday]]
+- I’ve noticed that many things that once seemed so enticing have lost much of their appeal — caffeine, sugar, alcohol, television, social media, junk food. I’ve tried them all since being back, but they pale in comparison to the sensations I know are already going on in my body at this very moment. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=345)) [Open in Readwise](https://readwise.io/open/54387239) ^rw54387239
+    - Date:: [[March 2nd, 2020, Monday]]
+- a tiny course change now will be magnified over time, until one day I will indeed be a different person as a result of small habits I have built into my thinking, my environment, and my life. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=352)) [Open in Readwise](https://readwise.io/open/54387240) ^rw54387240
+    - Date:: [[March 2nd, 2020, Monday]]
+- The initial results are promising, but I have faith that the journey will be much more difficult and complex than I imagine. And that’s ok. Because the journey is the reward, as long as I’m paying attention. ([Location 358](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=358)) [Open in Readwise](https://readwise.io/open/54387241) ^rw54387241
+    - Date:: [[March 2nd, 2020, Monday]]
+- What’s Wrong with “Productivity” ([Location 365](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=365)) [Open in Readwise](https://readwise.io/open/54387242) ^rw54387242
+    - Date:: [[March 2nd, 2020, Monday]]
+- I’ve come to believe that the main purpose of the thousands of productivity articles published every day is to allow bored office workers to procrastinate without feeling too guilty about it. ([Location 372](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=372)) [Open in Readwise](https://readwise.io/open/54387243) ^rw54387243
+    - Date:: [[March 2nd, 2020, Monday]]
+- Productivity can no more be achieved by collecting productivity tips than wealth can be achieved by collecting money-saving tips. Or health can be achieved by collecting health tips. ([Location 386](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=386)) [Open in Readwise](https://readwise.io/open/54387244) ^rw54387244
+    - Date:: [[March 2nd, 2020, Monday]]
+- we are afraid to understand the real factors that affect our productivity, lest we discover how deeply dysfunctional the modern workplace has become. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=405)) [Open in Readwise](https://readwise.io/open/54387245) ^rw54387245
+    - Date:: [[March 2nd, 2020, Monday]]
+- There are real risks to an excessive focus on improving your own performance. Overoptimizing your life, paradoxically, makes it harder to enjoy it. Perfectionism has now been shown to be an underappreciated risk factor in suicide. Stories of burnouts with long-lasting physical and psychological consequences are slowly becoming more commonplace. ([Location 475](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=475)) [Open in Readwise](https://readwise.io/open/54387246) ^rw54387246
+    - Date:: [[March 2nd, 2020, Monday]]
+- “You can never solve a problem on the level on which it was created.” ([Location 487](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=487)) [Open in Readwise](https://readwise.io/open/54387247) ^rw54387247
+    - Date:: [[March 2nd, 2020, Monday]]
+- What I Learned About the Future by Reading 100 Science Fiction Books ([Location 492](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=492)) [Open in Readwise](https://readwise.io/open/54387248) ^rw54387248
+    - Date:: [[March 2nd, 2020, Monday]]
+- I started reading sci-fi to pass the time. I had good memories of reading Jurassic Park as a kid. I continued because I noticed that it gave me something: a stronger imagination, a disrespect for the merely possible. ([Location 497](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=497)) [Open in Readwise](https://readwise.io/open/54387249) ^rw54387249
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Imagination allows us to conceive of delightful future possibilities, pick the most amazing one, and pull the present forward to meet it.” ([Location 502](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=502)) [Open in Readwise](https://readwise.io/open/54387250) ^rw54387250
+    - Date:: [[March 2nd, 2020, Monday]]
+- 1. In order to save humanity, we must lose it ([Location 512](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=512)) [Open in Readwise](https://readwise.io/open/54387251) ^rw54387251
+    - Date:: [[March 2nd, 2020, Monday]]
+- It will start with language and culture. Settlements on the outer planets, separated by millions of miles and hours of transmission time, will start to develop their own dialects, their own slang, their own music, their own trends. ([Location 517](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=517)) [Open in Readwise](https://readwise.io/open/54387252) ^rw54387252
+    - Date:: [[March 2nd, 2020, Monday]]
+- Next will be political and economic drift. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=521)) [Open in Readwise](https://readwise.io/open/54387253) ^rw54387253
+    - Date:: [[March 2nd, 2020, Monday]]
+- Economic integration will expand, but far slower than our speed of colonization and exploration. ([Location 524](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=524)) [Open in Readwise](https://readwise.io/open/54387254) ^rw54387254
+    - Date:: [[March 2nd, 2020, Monday]]
+- In order to save humanity we must colonize the stars, and in doing so the unified definition of humanity as we know it will be lost. ([Location 535](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=535)) [Open in Readwise](https://readwise.io/open/54387255) ^rw54387255
+    - Date:: [[March 2nd, 2020, Monday]]
+- 2. Time will be our greatest enemy ([Location 537](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=537)) [Open in Readwise](https://readwise.io/open/54387256) ^rw54387256
+    - Date:: [[March 2nd, 2020, Monday]]
+- As we conquer the 3 dimensions of space, the 4th dimension of time will increasingly become the greatest challenge we face. ([Location 538](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=538)) [Open in Readwise](https://readwise.io/open/54387257) ^rw54387257
+    - Date:: [[March 2nd, 2020, Monday]]
+- Time dilation is the phenomenon of time passing at different speeds depending on how fast you are moving, which means someone traveling at a significant fraction of the speed of light will age more slowly than someone still on Earth. ([Location 541](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=541)) [Open in Readwise](https://readwise.io/open/54387258) ^rw54387258
+    - Date:: [[March 2nd, 2020, Monday]]
+- The second reason is the immense distances involved in interstellar space travel. ([Location 547](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=547)) [Open in Readwise](https://readwise.io/open/54387259) ^rw54387259
+    - Date:: [[March 2nd, 2020, Monday]]
+- Technology will be so important to every aspect of spacefaring civilizations, and will be improving so quickly, that even small differences will have profound consequences: ([Location 550](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=550)) [Open in Readwise](https://readwise.io/open/54387260) ^rw54387260
+    - Date:: [[March 2nd, 2020, Monday]]
+- 3. The future will be weird ([Location 568](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=568)) [Open in Readwise](https://readwise.io/open/54387261) ^rw54387261
+    - Date:: [[March 2nd, 2020, Monday]]
+- The stories I’ve read have led me to believe that we are barely aware of the smallest implications of some of the technologies we are developing, and that these implications are downright strange. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=581)) [Open in Readwise](https://readwise.io/open/54387262) ^rw54387262
+    - Date:: [[March 2nd, 2020, Monday]]
+- The area where we’ll see this weirdness the soonest is virtual reality. It’s funny to me that most portrayals of advanced virtual reality assume it will be like normal reality, with lifelike human bodies in lifelike worlds. But I think that we will very quickly realize that reality is a bug, not a feature. ([Location 587](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=587)) [Open in Readwise](https://readwise.io/open/54387263) ^rw54387263
+    - Date:: [[March 2nd, 2020, Monday]]
+- If the intelligence explosion really does happen, it will very quickly become as superior to us as we are to the ant, and beyond. ([Location 607](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=607)) [Open in Readwise](https://readwise.io/open/54387264) ^rw54387264
+    - Date:: [[March 2nd, 2020, Monday]]
+- 4. The more advanced technology becomes, the less it matters ([Location 614](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=614)) [Open in Readwise](https://readwise.io/open/54387265) ^rw54387265
+    - Date:: [[March 2nd, 2020, Monday]]
+- Our bodies are intertwined with crudely designed machines, implying that transhumanism will be mostly about humans becoming more machine-like, not the other way around. ([Location 618](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=618)) [Open in Readwise](https://readwise.io/open/54387266) ^rw54387266
+    - Date:: [[March 2nd, 2020, Monday]]
+- the world will be dominated by ideas, not tools. ([Location 633](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=633)) [Open in Readwise](https://readwise.io/open/54387267) ^rw54387267
+    - Date:: [[March 2nd, 2020, Monday]]
+- In the future, technology as we know it simply won’t be important, because its ultimate purpose is to work itself out of a job — to finally outgrow its need for constant maintenance and troubleshooting and allow us to decide what we really want to use it for. It will cease to be an end in itself, and become instead a means to things that are much more important. ([Location 634](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=634)) [Open in Readwise](https://readwise.io/open/54387268) ^rw54387268
+    - Date:: [[March 2nd, 2020, Monday]]
+- 5. Collective consciousness is both our greatest hope, and our greatest fear ([Location 637](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=637)) [Open in Readwise](https://readwise.io/open/54387269) ^rw54387269
+    - Date:: [[March 2nd, 2020, Monday]]
+- Science fiction has the unique capability of creating external thought experiments to explore inner states. ([Location 641](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=641)) [Open in Readwise](https://readwise.io/open/54387270) ^rw54387270
+    - Date:: [[March 2nd, 2020, Monday]]
+- We crave connection like the air we breathe, and yet vulnerability feels like a nearly existential threat. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=660)) [Open in Readwise](https://readwise.io/open/54387271) ^rw54387271
+    - Date:: [[March 2nd, 2020, Monday]]
+- Collective consciousness is both our greatest hope, and our greatest fear. Maybe the hardest part about creating a “human-like” intelligence won’t be that we’re so smart, but that we’re so confusing. ([Location 663](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=663)) [Open in Readwise](https://readwise.io/open/54387272) ^rw54387272
+    - Date:: [[March 2nd, 2020, Monday]]
+- I’ve also recently learned about Appreciative Inquiry, a model created at Case Western Reserve University as an answer to our obsession with problem solving (which, it claims, focuses on problems instead of solutions). ([Location 680](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=680)) [Open in Readwise](https://readwise.io/open/54387273) ^rw54387273
+    - Date:: [[March 2nd, 2020, Monday]]
+- It is based on the “anticipatory principle,” which posits that “what we do today is guided by our image of the future.” Appreciative Inquiry “uses artful creation of positive imagery on a collective basis to refashion anticipatory reality.” ([Location 683](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=683)) [Open in Readwise](https://readwise.io/open/54387274) ^rw54387274
+    - Date:: [[March 2nd, 2020, Monday]]
+- Author Nassim Taleb in his book Antifragile discusses a rule of thumb he uses to estimate how long something will be around: the longer it’s been around, the longer it’s likely to remain. ([Location 689](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=689)) [Open in Readwise](https://readwise.io/open/54387275) ^rw54387275
+    - Date:: [[March 2nd, 2020, Monday]]
+- By this measure, even as the specific technologies come and go, even as we experiment with virtually every aspect of our environment and consciousness, the storytelling instinct will continue to be a fundamental human trait. I suggest we learn how to use it to tell stories about a future worth creating. ([Location 691](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=691)) [Open in Readwise](https://readwise.io/open/54387276) ^rw54387276
+    - Date:: [[March 2nd, 2020, Monday]]
+- Tagging is Broken ([Location 696](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=696)) [Open in Readwise](https://readwise.io/open/54387277) ^rw54387277
+    - Date:: [[March 2nd, 2020, Monday]]
+- relying primarily on a tagging system to organize notes necessarily requires you to make multiple decisions about each and every note that enters the system. ([Location 710](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=710)) [Open in Readwise](https://readwise.io/open/54387278) ^rw54387278
+    - Date:: [[March 2nd, 2020, Monday]]
+- without notebooks, the tags are the only form of structure, and even a single note without a single category of tags has the potential to fall through the cracks. ([Location 725](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=725)) [Open in Readwise](https://readwise.io/open/54387279) ^rw54387279
+    - Date:: [[March 2nd, 2020, Monday]]
+- “But I’ve memorized my tags!” you say. First of all, you’re relying on one of the few things your brain is worse than machines at — remembering stuff. Second, any change in your current projects, collaborators, priorities, interests, etc. breaks this system. This is the opposite of antifragile. It’s superfragile. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=728)) [Open in Readwise](https://readwise.io/open/54387280) ^rw54387280
+    - Date:: [[March 2nd, 2020, Monday]]
+- Any system with an upfront access cost this high is just asking to break. This alone, in my opinion, makes tags not worth using. ([Location 731](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=731)) [Open in Readwise](https://readwise.io/open/54387281) ^rw54387281
+    - Date:: [[March 2nd, 2020, Monday]]
+- Your brain is great at recognition, but pretty terrible at recall. ([Location 734](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=734)) [Open in Readwise](https://readwise.io/open/54387282) ^rw54387282
+    - Date:: [[March 2nd, 2020, Monday]]
+- As good as your brain is at recognizing patterns, it is terrible at storing and recalling multiple patterns precisely, since the patterns of neuronal activation interfere with each other. ([Location 742](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=742)) [Open in Readwise](https://readwise.io/open/54387283) ^rw54387283
+    - Date:: [[March 2nd, 2020, Monday]]
+- One of the most important discoveries in cognitive science in recent years is that cognition is embodied and situated. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=745)) [Open in Readwise](https://readwise.io/open/54387284) ^rw54387284
+    - Date:: [[March 2nd, 2020, Monday]]
+- This means that our primary mode of thinking is not manipulating abstract symbols (like a computer does), but rather using our body (thus embodiment) to directly interact with the environment (which is situated). In this way, we “offload” some of our cognitive processing onto our environment, which is after all capable of storing information much better than our brains are. ([Location 747](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=747)) [Open in Readwise](https://readwise.io/open/54387285) ^rw54387285
+    - Date:: [[March 2nd, 2020, Monday]]
+- memorizing a phone number without constant review is a challenge, yet you can probably name the location of hundreds of objects in your house. ([Location 752](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=752)) [Open in Readwise](https://readwise.io/open/54387286) ^rw54387286
+    - Date:: [[March 2nd, 2020, Monday]]
+- This concept is called stigmergy (or stigmergic cognition) and represents one of our brains’ greatest innovations in saving energy. ([Location 753](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=753)) [Open in Readwise](https://readwise.io/open/54387287) ^rw54387287
+    - Date:: [[March 2nd, 2020, Monday]]
+- Perverse Affordances ([Location 760](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=760)) [Open in Readwise](https://readwise.io/open/54387288) ^rw54387288
+    - Date:: [[March 2nd, 2020, Monday]]
+- In design, you create affordances when you want your user to do something, and anti-affordances when you want them to not do something. ([Location 761](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=761)) [Open in Readwise](https://readwise.io/open/54387289) ^rw54387289
+    - Date:: [[March 2nd, 2020, Monday]]
+- which behaviors are desired and undesired when it comes to organization? ([Location 765](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=765)) [Open in Readwise](https://readwise.io/open/54387290) ^rw54387290
+    - Date:: [[March 2nd, 2020, Monday]]
+- Over-optimization ([Location 775](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=775)) [Open in Readwise](https://readwise.io/open/54387291) ^rw54387291
+    - Date:: [[March 2nd, 2020, Monday]]
+- Speaking of over-optimization, tags are the poster child. ([Location 775](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=775)) [Open in Readwise](https://readwise.io/open/54387292) ^rw54387292
+    - Date:: [[March 2nd, 2020, Monday]]
+- energy required to tag every note > energy required to run multiple searches ([Location 785](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=785)) [Open in Readwise](https://readwise.io/open/54387293) ^rw54387293
+    - Date:: [[March 2nd, 2020, Monday]]
+- We’ve reached the point where search is so good, effectively the whole document is made up of tags, and the cognitive load of meticulously tagging every note becomes truly unforgivable. ([Location 786](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=786)) [Open in Readwise](https://readwise.io/open/54387294) ^rw54387294
+    - Date:: [[March 2nd, 2020, Monday]]
+- Intimidation ([Location 788](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=788)) [Open in Readwise](https://readwise.io/open/54387295) ^rw54387295
+    - Date:: [[March 2nd, 2020, Monday]]
+- when you have an idea, any idea, what do you do with it? Do you obsessively write every single one down, but never look at them again? Or do you let it pass, thinking “Well it probably wasn’t that good of an idea anyway”? ([Location 797](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=797)) [Open in Readwise](https://readwise.io/open/54387296) ^rw54387296
+    - Date:: [[March 2nd, 2020, Monday]]
+- The real potential of a digital organizational system is to be a tool for capturing and systematically reminding you of past ideas, inspirations, insights, and connections. The heart of creativity and innovation is making spontaneous connections between seemingly unrelated things, and note-taking programs can, when used correctly, serve as a cognitive exoskeleton, both protecting us from the ravages of forgetfulness and amplifying our blows as we take on creative challenges. ([Location 799](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=799)) [Open in Readwise](https://readwise.io/open/54387297) ^rw54387297
+    - Date:: [[March 2nd, 2020, Monday]]
+- The real problem with tags, and why they not only fail to help, but actually even hurt people’s creative self-esteem, is that they give the impression that creating such a system requires a heroic feat of comprehensive planning, followed by years of meticulous, unwavering cataloging and annotating. ([Location 803](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=803)) [Open in Readwise](https://readwise.io/open/54387298) ^rw54387298
+    - Date:: [[March 2nd, 2020, Monday]]
+- Your mind, noticing you start to record and value your ideas, will respond in kind and start producing more. ([Location 807](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=807)) [Open in Readwise](https://readwise.io/open/54387299) ^rw54387299
+    - Date:: [[March 2nd, 2020, Monday]]
+- When I look at successful people, I notice again and again that it is this — the ability to systematically capture and review and deploy their ideas, further strengthening their creative self-esteem, leading them to value and generate more ideas, and so on in a virtuous loop — that really sets them apart. Not the original quantity or quality of ideas, not their brilliance from birth, not luck. ([Location 809](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=809)) [Open in Readwise](https://readwise.io/open/54387300) ^rw54387300
+    - Date:: [[March 2nd, 2020, Monday]]
+- The best of the best use organizational systems as a means to a very worthy end: to create rapid, self-reinforcing learning and feedback loops aimed in the direction of their goals. ([Location 812](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=812)) [Open in Readwise](https://readwise.io/open/54387301) ^rw54387301
+    - Date:: [[March 2nd, 2020, Monday]]
+- The Habit Graph ([Location 820](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=820)) [Open in Readwise](https://readwise.io/open/54387302) ^rw54387302
+    - Date:: [[March 2nd, 2020, Monday]]
+- we think of habits in isolation. ([Location 855](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=855)) [Open in Readwise](https://readwise.io/open/54387303) ^rw54387303
+    - Date:: [[March 2nd, 2020, Monday]]
+- You can build a few habits using the “highly targeted, analytical, structured” approach, but as soon as you try to scale you run into plummeting and then negative returns. ([Location 859](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=859)) [Open in Readwise](https://readwise.io/open/54387304) ^rw54387304
+    - Date:: [[March 2nd, 2020, Monday]]
+- Each habit seems to loop back onto itself, influencing and being influenced by many other habits in complex, interrelated patterns. ([Location 874](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=874)) [Open in Readwise](https://readwise.io/open/54387305) ^rw54387305
+    - Date:: [[March 2nd, 2020, Monday]]
+- As long as we continue to think about habits in terms of simple, linear relationships instead of networks, we will continue to underestimate the difficulty of behavior change, be blindsided by complexity, and miss out on the powerful tools network theory puts at our disposal. ([Location 894](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=894)) [Open in Readwise](https://readwise.io/open/54387306) ^rw54387306
+    - Date:: [[March 2nd, 2020, Monday]]
+- “What are the most important habits in my life? ([Location 898](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=898)) [Open in Readwise](https://readwise.io/open/54387307) ^rw54387307
+    - Date:: [[March 2nd, 2020, Monday]]
+- I chose to run with eigenvector centrality, both because it is a good general measure of the influence of a node on the network, and because it is the basis for familiar systems like Google’s PageRank algorithm. ([Location 910](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=910)) [Open in Readwise](https://readwise.io/open/54387308) ^rw54387308
+    - Date:: [[March 2nd, 2020, Monday]]
+- Does [habit A] directly and unequivocally make [habit B] more likely to happen? ([Location 933](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=933)) [Open in Readwise](https://readwise.io/open/54387309) ^rw54387309
+    - Date:: [[March 2nd, 2020, Monday]]
+- I want to know not only the absolute number of other habits each one supports, but how influential these supported habits are themselves. ([Location 944](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=944)) [Open in Readwise](https://readwise.io/open/54387310) ^rw54387310
+    - Date:: [[March 2nd, 2020, Monday]]
+- what makes a habit important is not only that it supports many habits, but that it supports habits that are themselves important. ([Location 945](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=945)) [Open in Readwise](https://readwise.io/open/54387311) ^rw54387311
+    - Date:: [[March 2nd, 2020, Monday]]
+- If you wanted to eliminate a bad habit, it could suggest ways of destabilizing the supporting network around it, instead of attempting a frontal attack in isolation. ([Location 979](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=979)) [Open in Readwise](https://readwise.io/open/54387312) ^rw54387312
+    - Date:: [[March 2nd, 2020, Monday]]
+- What I Learned in 7 Years of Tracking Gratitude ([Location 985](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=985)) [Open in Readwise](https://readwise.io/open/54387313) ^rw54387313
+    - Date:: [[March 2nd, 2020, Monday]]
+- “What if I could predict what will make me happy in the future by looking at what has made me happiest in the past? ([Location 994](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=994)) [Open in Readwise](https://readwise.io/open/54387314) ^rw54387314
+    - Date:: [[March 2nd, 2020, Monday]]
+- past gratitude is an excellent predictor of future happiness. ([Location 998](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=998)) [Open in Readwise](https://readwise.io/open/54387315) ^rw54387315
+    - Date:: [[March 2nd, 2020, Monday]]
+- The moment you “add something to the list,” whether on paper or in your head, you change not only how you see something, but the effect it has on you. ([Location 1106](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1106)) [Open in Readwise](https://readwise.io/open/54387316) ^rw54387316
+    - Date:: [[March 2nd, 2020, Monday]]
+- in order to bring into your life more things worthy of gratitude, you have to start by giving thanks for what’s already there. ([Location 1107](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1107)) [Open in Readwise](https://readwise.io/open/54387317) ^rw54387317
+    - Date:: [[March 2nd, 2020, Monday]]
+- gratitude is a skill: the more you practice viewing things through this lens, the more appear. ([Location 1110](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1110)) [Open in Readwise](https://readwise.io/open/54387318) ^rw54387318
+    - Date:: [[March 2nd, 2020, Monday]]
+- If all memory is subjective, I’d prefer to see it in terms of the gifts it has given me. ([Location 1116](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1116)) [Open in Readwise](https://readwise.io/open/54387319) ^rw54387319
+    - Date:: [[March 2nd, 2020, Monday]]
+- How to Use Evernote for Your Creative Workflow ([Location 1120](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1120)) [Open in Readwise](https://readwise.io/open/54387320) ^rw54387320
+    - Date:: [[March 2nd, 2020, Monday]]
+- What would it look like to use Evernote as the basis for a creative workflow, in line with known neuroscience principles? ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1131)) [Open in Readwise](https://readwise.io/open/54387321) ^rw54387321
+    - Date:: [[March 2nd, 2020, Monday]]
+- What, in fact, would we use a second brain for? I want to dispel a myth: It’s not just “remembering things.” Our brains are not particularly good at that anyway, so having a second one wouldn’t help much. ([Location 1135](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1135)) [Open in Readwise](https://readwise.io/open/54387322) ^rw54387322
+    - Date:: [[March 2nd, 2020, Monday]]
+- What the brain does best is thinking. Evernote is most valuable not as a remembering tool, but as a thinking tool. ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1142)) [Open in Readwise](https://readwise.io/open/54387323) ^rw54387323
+    - Date:: [[March 2nd, 2020, Monday]]
+- But this presents us with a tall order. Are we really claiming that a software program can think? ([Location 1144](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1144)) [Open in Readwise](https://readwise.io/open/54387324) ^rw54387324
+    - Date:: [[March 2nd, 2020, Monday]]
+- If a tool like Evernote doesn’t add much value performing low-level tasks like “remembering things,” and it’s incapable of performing high-level creative thinking, what is it good for? ([Location 1157](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1157)) [Open in Readwise](https://readwise.io/open/54387325) ^rw54387325
+    - Date:: [[March 2nd, 2020, Monday]]
+- Mid-level thinking that interfaces between low-level memory and high-level creativity, making the latter as easy, fast, and efficient as possible ([Location 1159](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1159)) [Open in Readwise](https://readwise.io/open/54387326) ^rw54387326
+    - Date:: [[March 2nd, 2020, Monday]]
+- What exactly are the conditions required for high-performance creativity, and how can we use Evernote (or other note-taking programs) to create these conditions? ([Location 1165](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1165)) [Open in Readwise](https://readwise.io/open/54387327) ^rw54387327
+    - Date:: [[March 2nd, 2020, Monday]]
+- creativity is connecting things, especially things that don’t seem to be connected. ([Location 1169](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1169)) [Open in Readwise](https://readwise.io/open/54387328) ^rw54387328
+    - Date:: [[March 2nd, 2020, Monday]]
+- “creative people are better at recognizing relationships, making associations and connections…” ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1173)) [Open in Readwise](https://readwise.io/open/54387329) ^rw54387329
+    - Date:: [[March 2nd, 2020, Monday]]
+- Scott Barry Kauffman writes in Harvard Business Review: “…increased sensitivity to unusual associations is another important contributor to creativity.” ([Location 1178](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1178)) [Open in Readwise](https://readwise.io/open/54387330) ^rw54387330
+    - Date:: [[March 2nd, 2020, Monday]]
+- What better way to increase your sensitivity to such associations than by keeping content from wildly diverse sources in one location? ([Location 1186](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1186)) [Open in Readwise](https://readwise.io/open/54387331) ^rw54387331
+    - Date:: [[March 2nd, 2020, Monday]]
+- Research on cognition has shown that our basic mode of thinking is not abstract reasoning and planning, but “interacting via perception and action with the environmental situation.” ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1189)) [Open in Readwise](https://readwise.io/open/54387332) ^rw54387332
+    - Date:: [[March 2nd, 2020, Monday]]
+- Essentially, it’s easier for us to interact with physical objects in the environment than with abstract ideas in our heads. ([Location 1192](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1192)) [Open in Readwise](https://readwise.io/open/54387333) ^rw54387333
+    - Date:: [[March 2nd, 2020, Monday]]
+- By externalizing your ideas in a variety of formats — text, sketches, photos, videos, documents, diagrams, webclips, hyperlinks — you create a system of distributed cognition across “artifacts” that can be moved, edited, rearranged, and combined. ([Location 1204](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1204)) [Open in Readwise](https://readwise.io/open/54387334) ^rw54387334
+    - Date:: [[March 2nd, 2020, Monday]]
+- You just need visual and spatial anchors for the most advanced supercomputer on the planet — your brain. ([Location 1208](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1208)) [Open in Readwise](https://readwise.io/open/54387335) ^rw54387335
+    - Date:: [[March 2nd, 2020, Monday]]
+- Incubating ideas over long periods of time ([Location 1210](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1210)) [Open in Readwise](https://readwise.io/open/54387336) ^rw54387336
+    - Date:: [[March 2nd, 2020, Monday]]
+- one of the least appreciated methods for connecting ideas and producing breakthrough work is the “slow burn.” ([Location 1211](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1211)) [Open in Readwise](https://readwise.io/open/54387337) ^rw54387337
+    - Date:: [[March 2nd, 2020, Monday]]
+- “You have to keep a dozen of your favorite problems constantly present in your mind, although by and large they will lay in a dormant state. Every time you hear or read a new trick or a new result, test it against each of your twelve problems to see whether it helps. Every once in a while there will be a hit, and people will say, “How did he do it? He must be a genius!” ([Location 1213](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1213)) [Open in Readwise](https://readwise.io/open/54387338) ^rw54387338
+    - Date:: [[March 2nd, 2020, Monday]]
+- Too often, we force ourselves to take an idea from blue sky ideation to practical execution in 48 hours flat. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1217)) [Open in Readwise](https://readwise.io/open/54387339) ^rw54387339
+    - Date:: [[March 2nd, 2020, Monday]]
+- Even when we do invest the time, we usually don’t create notes that can be re-used and recycled in other projects. We don’t know what we know, because this information, which we’ve spent precious time and attention to absorb, remains disconnected, fragmented, and scattered. ([Location 1234](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1234)) [Open in Readwise](https://readwise.io/open/54387340) ^rw54387340
+    - Date:: [[March 2nd, 2020, Monday]]
+- Evernote provides much of the infrastructure for making the slow burn possible. It is durable, universal, centralized, and persistent, increasing the chance that your “dozen favorite problems” repeatedly see the light of day. ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1237)) [Open in Readwise](https://readwise.io/open/54387341) ^rw54387341
+    - Date:: [[March 2nd, 2020, Monday]]
+- Providing the raw material for unique interpretations and perspectives ([Location 1239](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1239)) [Open in Readwise](https://readwise.io/open/54387342) ^rw54387342
+    - Date:: [[March 2nd, 2020, Monday]]
+- Cal Newport says, “knowledge workers dedicate too much time to shallow work — tasks that almost anyone, with a minimum of training, could accomplish ([Location 1248](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1248)) [Open in Readwise](https://readwise.io/open/54387343) ^rw54387343
+    - Date:: [[March 2nd, 2020, Monday]]
+- If you work like a dumb machine, your job is easily replaced by a dumb machine. ([Location 1251](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1251)) [Open in Readwise](https://readwise.io/open/54387344) ^rw54387344
+    - Date:: [[March 2nd, 2020, Monday]]
+- “We need to spend more time engaged in deep work — cognitively demanding activities that leverage our training to generate rare and valuable results.” ([Location 1252](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1252)) [Open in Readwise](https://readwise.io/open/54387345) ^rw54387345
+    - Date:: [[March 2nd, 2020, Monday]]
+- In other words, the jobs that seem to best resist technological unemployment are those that involve building, maintaining, promoting, and defending a particular perspective. ([Location 1262](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1262)) [Open in Readwise](https://readwise.io/open/54387346) ^rw54387346
+    - Date:: [[March 2nd, 2020, Monday]]
+- here’s where a tool like Evernote comes in. Because defending a perspective takes ammunition. ([Location 1267](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1267)) [Open in Readwise](https://readwise.io/open/54387347) ^rw54387347
+    - Date:: [[March 2nd, 2020, Monday]]
+- The more raw material you have to work with, and the more diverse your sources are, the stronger and more original your argument will be. ([Location 1270](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1270)) [Open in Readwise](https://readwise.io/open/54387348) ^rw54387348
+    - Date:: [[March 2nd, 2020, Monday]]
+- Creating opportunities for resonance ([Location 1272](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1272)) [Open in Readwise](https://readwise.io/open/54387349) ^rw54387349
+    - Date:: [[March 2nd, 2020, Monday]]
+- you should pick and choose what you capture very carefully. ([Location 1277](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1277)) [Open in Readwise](https://readwise.io/open/54387350) ^rw54387350
+    - Date:: [[March 2nd, 2020, Monday]]
+- But don’t go to the other extreme, being too picky about what you save. The best rule of thumb is not to set out explicit decision criteria for what you keep. Just thinking about that is exhausting. ([Location 1280](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1280)) [Open in Readwise](https://readwise.io/open/54387351) ^rw54387351
+    - Date:: [[March 2nd, 2020, Monday]]
+- use resonance as your criteria. As in, “that resonates with me.” We know from neuroscience research that “emotions organize — rather than disrupt — rational thinking.” ([Location 1282](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1282)) [Open in Readwise](https://readwise.io/open/54387352) ^rw54387352
+    - Date:: [[March 2nd, 2020, Monday]]
+- I very often find that the most counterintuitively insightful pieces of information I save are the ones whose practical application is initially the least clear. ([Location 1288](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1288)) [Open in Readwise](https://readwise.io/open/54387353) ^rw54387353
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Our intuitive mind learns, and responds, even without our conscious awareness.” ([Location 1299](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1299)) [Open in Readwise](https://readwise.io/open/54387354) ^rw54387354
+    - Date:: [[March 2nd, 2020, Monday]]
+- Misdirected optimization is the root of all evil ([Location 1300](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1300)) [Open in Readwise](https://readwise.io/open/54387355) ^rw54387355
+    - Date:: [[March 2nd, 2020, Monday]]
+- Knowing what secondary thinking functions we need Evernote to help us with is a good first step, but since they still require our involvement, we need to perform them as efficiently as possible. ([Location 1301](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1301)) [Open in Readwise](https://readwise.io/open/54387356) ^rw54387356
+    - Date:: [[March 2nd, 2020, Monday]]
+- Efficiency is a function of inputs and outputs. So the next question we need to answer is, “What is our most scarce resource?” ([Location 1302](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1302)) [Open in Readwise](https://readwise.io/open/54387357) ^rw54387357
+    - Date:: [[March 2nd, 2020, Monday]]
+- What are we optimizing for? ([Location 1305](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1305)) [Open in Readwise](https://readwise.io/open/54387358) ^rw54387358
+    - Date:: [[March 2nd, 2020, Monday]]
+- Return-on-Attention (ROA) ([Location 1324](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1324)) [Open in Readwise](https://readwise.io/open/54387359) ^rw54387359
+    - Date:: [[March 2nd, 2020, Monday]]
+- What makes one note more valuable than another? ([Location 1326](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1326)) [Open in Readwise](https://readwise.io/open/54387360) ^rw54387360
+    - Date:: [[March 2nd, 2020, Monday]]
+- No approach to organizing information can add value without answering this question. A system that doesn’t make distinctions is one that just makes information overload worse. ([Location 1327](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1327)) [Open in Readwise](https://readwise.io/open/54387361) ^rw54387361
+    - Date:: [[March 2nd, 2020, Monday]]
+- Many people’s first reaction is to assume that, if the value of information is in its connections to other information, we should label as many of these connections as possible. ([Location 1329](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1329)) [Open in Readwise](https://readwise.io/open/54387362) ^rw54387362
+    - Date:: [[March 2nd, 2020, Monday]]
+- any attempt to increase the value of a piece of information by tagging, labeling, categorizing, grouping, cross-referencing, or otherwise explicitly identifying a relationship of any kind, in reality has the potential of limiting how this information is used. ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1331)) [Open in Readwise](https://readwise.io/open/54387363) ^rw54387363
+    - Date:: [[March 2nd, 2020, Monday]]
+- But what I’ve realized is that for such an insightful (i.e. valuable) work as this one, these tags represent a constraint on my future efforts to link this information with new and unexpected ideas. ([Location 1341](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1341)) [Open in Readwise](https://readwise.io/open/54387364) ^rw54387364
+    - Date:: [[March 2nd, 2020, Monday]]
+- In the creativity-driven, exponentially changing world we live in, the opportunity cost of missing a note because it’s “in the wrong box” is simply too high. ([Location 1348](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1348)) [Open in Readwise](https://readwise.io/open/54387365) ^rw54387365
+    - Date:: [[March 2nd, 2020, Monday]]
+- Cal Newport: “…Unlike every other skilled labor class in the history of skilled labor, [knowledge workers] lack a culture of systematic improvement.” ([Location 1376](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1376)) [Open in Readwise](https://readwise.io/open/54387366) ^rw54387366
+    - Date:: [[March 2nd, 2020, Monday]]
+- Each day we start again from scratch, trading something invaluable for something merely valuable. ([Location 1381](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1381)) [Open in Readwise](https://readwise.io/open/54387367) ^rw54387367
+    - Date:: [[March 2nd, 2020, Monday]]
+- The value of a note corresponds to how much attention you’ve spent on it ([Location 1385](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1385)) [Open in Readwise](https://readwise.io/open/54387368) ^rw54387368
+    - Date:: [[March 2nd, 2020, Monday]]
+- In an economy where attention really is currency, the value of a note is based on how much attention has been invested in it. In the same way that the price of a physical product is based on the cost of goods that have been invested in it. ([Location 1386](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1386)) [Open in Readwise](https://readwise.io/open/54387369) ^rw54387369
+    - Date:: [[March 2nd, 2020, Monday]]
+- The most salient factor in making ideas accessible for day-to-day use is instead the design of individual notes. ([Location 1392](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1392)) [Open in Readwise](https://readwise.io/open/54387370) ^rw54387370
+    - Date:: [[March 2nd, 2020, Monday]]
+- It is about making individual notes the most prominent actors, like discrete atoms that can be assembled into any form. ([Location 1417](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1417)) [Open in Readwise](https://readwise.io/open/54387371) ^rw54387371
+    - Date:: [[March 2nd, 2020, Monday]]
+- Design is always about balancing priorities — in this case: comprehensiveness and compression. ([Location 1418](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1418)) [Open in Readwise](https://readwise.io/open/54387372) ^rw54387372
+    - Date:: [[March 2nd, 2020, Monday]]
+- Compression values condensing big ideas into small packages. ([Location 1419](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1419)) [Open in Readwise](https://readwise.io/open/54387373) ^rw54387373
+    - Date:: [[March 2nd, 2020, Monday]]
+- Consuming highly compressed ideas is inherently rewarding, because we can feel that each word is rich with substance. ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1420)) [Open in Readwise](https://readwise.io/open/54387374) ^rw54387374
+    - Date:: [[March 2nd, 2020, Monday]]
+- (see Derek Sivers’ post on “compressing knowledge into directives” for more examples). ([Location 1422](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1422)) [Open in Readwise](https://readwise.io/open/54387375) ^rw54387375
+    - Date:: [[March 2nd, 2020, Monday]]
+- Comprehensiveness values knowing all the facts. It is the voice in your head that says, “Prove it.” ([Location 1424](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1424)) [Open in Readwise](https://readwise.io/open/54387376) ^rw54387376
+    - Date:: [[March 2nd, 2020, Monday]]
+- is the fear that you’ll remember the main point, but forget why it matters. ([Location 1425](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1425)) [Open in Readwise](https://readwise.io/open/54387377) ^rw54387377
+    - Date:: [[March 2nd, 2020, Monday]]
+- Progressively summarize the most important points of a source in small stages (compression), and… Preserve each of these stages in layers that can be peeled back on demand (comprehensiveness). ([Location 1428](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1428)) [Open in Readwise](https://readwise.io/open/54387378) ^rw54387378
+    - Date:: [[March 2nd, 2020, Monday]]
+- you need to be able to quickly assimilate the main points of a source to evaluate its relevance to the task at hand, while simultaneously preserving the ability to quickly “go deeper” into the source if you judge it to be highly relevant. ([Location 1432](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1432)) [Open in Readwise](https://readwise.io/open/54387379) ^rw54387379
+    - Date:: [[March 2nd, 2020, Monday]]
+- Without the ability to selectively explore the context of a given tip, it means nothing. ([Location 1438](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1438)) [Open in Readwise](https://readwise.io/open/54387380) ^rw54387380
+    - Date:: [[March 2nd, 2020, Monday]]
+- Designing your note in easily uncoverable layers is like giving yourself a digital map of the terrain that can be zoomed in or out to any level of detail you need. ([Location 1447](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1447)) [Open in Readwise](https://readwise.io/open/54387381) ^rw54387381
+    - Date:: [[March 2nd, 2020, Monday]]
+- This system is very purposefully NOT universal. The last thing you want to do is put every single note through multiple layers of compression. That is a terrible waste of attention. ([Location 1452](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1452)) [Open in Readwise](https://readwise.io/open/54387382) ^rw54387382
+    - Date:: [[March 2nd, 2020, Monday]]
+- avoid the temptation to apply the same system everywhere. Not everything needs to scale. ([Location 1463](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1463)) [Open in Readwise](https://readwise.io/open/54387383) ^rw54387383
+    - Date:: [[March 2nd, 2020, Monday]]
+- Our brains far outperform any supercomputer in finding and identifying patterns. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1465)) [Open in Readwise](https://readwise.io/open/54387384) ^rw54387384
+    - Date:: [[March 2nd, 2020, Monday]]
+- only one rule: spend more time/attention on things that interest and resonate with you. ([Location 1484](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1484)) [Open in Readwise](https://readwise.io/open/54387385) ^rw54387385
+    - Date:: [[March 2nd, 2020, Monday]]
+- Simple, clear purposes and principles give rise to complex and intelligent behavior. Complex rules and regulations give rise to simple and stupid behavior. ([Location 1486](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1486)) [Open in Readwise](https://readwise.io/open/54387386) ^rw54387386
+    - Date:: [[March 2nd, 2020, Monday]]
+- The best system is the one you stick to. ([Location 1489](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1489)) [Open in Readwise](https://readwise.io/open/54387387) ^rw54387387
+    - Date:: [[March 2nd, 2020, Monday]]
+- Compressing your notes in this way has an interesting effect: it makes them more valuable to you, but less valuable to others. ([Location 1490](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1490)) [Open in Readwise](https://readwise.io/open/54387388) ^rw54387388
+    - Date:: [[March 2nd, 2020, Monday]]
+- We humans don’t do well on consistency, thus any system that requires us to use tags to explicitly “track” how much attention has been applied (i.e. Layer 1, Layer 2, Layer 3) is bound to fail. ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1507)) [Open in Readwise](https://readwise.io/open/54387389) ^rw54387389
+    - Date:: [[March 2nd, 2020, Monday]]
+- use the appearance of the note itself to tell you how much attention has been applied. ([Location 1509](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1509)) [Open in Readwise](https://readwise.io/open/54387390) ^rw54387390
+    - Date:: [[March 2nd, 2020, Monday]]
+- people fail to be productive not because they lack a critical piece of information. They fail because they don’t see themselves as productive people. It is a self-reinforcing loop. ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1536)) [Open in Readwise](https://readwise.io/open/54387391) ^rw54387391
+    - Date:: [[March 2nd, 2020, Monday]]
+- if you start acting like you are creative, your body and mind will respond, and you will be. Start acting like every idea you come across or come up with has the potential for brilliance, and that potential is more likely to be realized. ([Location 1548](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1548)) [Open in Readwise](https://readwise.io/open/54387392) ^rw54387392
+    - Date:: [[March 2nd, 2020, Monday]]
+- Creativity can be practiced. It is a skill that can be improved and cultivated, an acquired taste that increases exponentially in value over time. ([Location 1550](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1550)) [Open in Readwise](https://readwise.io/open/54387393) ^rw54387393
+    - Date:: [[March 2nd, 2020, Monday]]
+- Richard Hamming put it this way: “I notice that if you have the door to your office closed, you get more work done today and tomorrow, and you are more productive than most. But 10 years later somehow you don’t quite know what problems are worth working on… He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important. … [T]here is a pretty good correlation between those who work with the doors open and those who ultimately do important things, although people who work with doors closed often work harder.” ([Location 1553](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1553)) [Open in Readwise](https://readwise.io/open/54387394) ^rw54387394
+    - Date:: [[March 2nd, 2020, Monday]]
+- the well-established “order from noise” principle states that the more random variation (“noise”) such a system is exposed to, the faster it will self-organize. ([Location 1568](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1568)) [Open in Readwise](https://readwise.io/open/54387395) ^rw54387395
+    - Date:: [[March 2nd, 2020, Monday]]
+- In other words, don’t pursue goals; instead create systems that encourage attractors to emerge on their own. ([Location 1570](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1570)) [Open in Readwise](https://readwise.io/open/54387396) ^rw54387396
+    - Date:: [[March 2nd, 2020, Monday]]
+- The Secret Power of ‘Read Later’ Apps ([Location 1575](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1575)) [Open in Readwise](https://readwise.io/open/54387397) ^rw54387397
+    - Date:: [[March 2nd, 2020, Monday]]
+- We’ve made a habit of filling those hundred random spaces in our day with glances at Twitter, Instagram, and Facebook. But those glances have slowly become stares, and those stares have grown to encompass a major portion of our waking hours. ([Location 1585](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1585)) [Open in Readwise](https://readwise.io/open/54387398) ^rw54387398
+    - Date:: [[March 2nd, 2020, Monday]]
+- the same person who spends 127 hours per year on Instagram (the global average) also complains that they have “no time” for reading. ([Location 1587](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1587)) [Open in Readwise](https://readwise.io/open/54387399) ^rw54387399
+    - Date:: [[March 2nd, 2020, Monday]]
+- the ability to read is becoming a source of competitive advantage in the world. ([Location 1590](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1590)) [Open in Readwise](https://readwise.io/open/54387400) ^rw54387400
+    - Date:: [[March 2nd, 2020, Monday]]
+- I’m not talking about basic literacy. What has become exceedingly scarce (and therefore, valuable) is the physical, emotional, attentional, and mental capability to sit quietly and direct focused attention for sustained periods of time. ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1591)) [Open in Readwise](https://readwise.io/open/54387401) ^rw54387401
+    - Date:: [[March 2nd, 2020, Monday]]
+- The highest leverage point in a system is in the intake — the initial assumptions and paradigms that inform its development ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1628)) [Open in Readwise](https://readwise.io/open/54387402) ^rw54387402
+    - Date:: [[March 2nd, 2020, Monday]]
+- The quality of a workflow’s outputs is fundamentally limited by the quality of its inputs. Garbage in, garbage out. ([Location 1632](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1632)) [Open in Readwise](https://readwise.io/open/54387403) ^rw54387403
+    - Date:: [[March 2nd, 2020, Monday]]
+- want to focus now on the two that Read Later apps can help with: Increasing consumption of long-form content (which is presumably more substantive) Better filtering ([Location 1634](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1634)) [Open in Readwise](https://readwise.io/open/54387404) ^rw54387404
+    - Date:: [[March 2nd, 2020, Monday]]
+- In order to consume good ideas, first you have to consume many ideas. ([Location 1639](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1639)) [Open in Readwise](https://readwise.io/open/54387405) ^rw54387405
+    - Date:: [[March 2nd, 2020, Monday]]
+- strong filters work best on a larger initial flow. ([Location 1640](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1640)) [Open in Readwise](https://readwise.io/open/54387406) ^rw54387406
+    - Date:: [[March 2nd, 2020, Monday]]
+- Using your friends as your primary filter for new ideas ensures you remain the dumbest person in the room, and contribute nothing to the conversation. ([Location 1641](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1641)) [Open in Readwise](https://readwise.io/open/54387407) ^rw54387407
+    - Date:: [[March 2nd, 2020, Monday]]
+- Affordance (n.): a relation between an object and an organism that, through a collection of stimuli, affords the opportunity for that organism to perform an action. ([Location 1644](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1644)) [Open in Readwise](https://readwise.io/open/54387408) ^rw54387408
+    - Date:: [[March 2nd, 2020, Monday]]
+- “It’s practical to have organized reading material at hand when you’re on your way to a meeting that may be starting late, a seminar that may have a window of time when nothing is going on, a dentist appointment that may keep you waiting, or, of course, if you’re going to have some time on a train or plane. Those are all great opportunities to browse and work through that kind of reading. People who don’t have their Read/Review material organized can waste a lot of time, since life is full of weird little windows when it could be used.” ([Location 1675](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1675)) [Open in Readwise](https://readwise.io/open/54387409) ^rw54387409
+    - Date:: [[March 2nd, 2020, Monday]]
+- The risk of cognitive dissonance at not being able to finish a long article (much less a book) keeps us from even starting it. ([Location 1690](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1690)) [Open in Readwise](https://readwise.io/open/54387410) ^rw54387410
+    - Date:: [[March 2nd, 2020, Monday]]
+- Actionable info ≠ Reference info ≠ Reading material ([Location 1706](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1706)) [Open in Readwise](https://readwise.io/open/54387411) ^rw54387411
+    - Date:: [[March 2nd, 2020, Monday]]
+- Procrastination is the most powerful force in the universe. It will find a way. ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1719)) [Open in Readwise](https://readwise.io/open/54387412) ^rw54387412
+    - Date:: [[March 2nd, 2020, Monday]]
+- Every time I come across something I may want to read/watch, I’m totally allowed to. No limits! The only requirement is I have to save it to Pocket, and then choose to consume it at a later time. ([Location 1721](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1721)) [Open in Readwise](https://readwise.io/open/54387413) ^rw54387413
+    - Date:: [[March 2nd, 2020, Monday]]
+- I am always amazed by what happens: no matter how stringent I was in the original collecting, no matter how certain I was that this thing was worthwhile, I regularly eliminate 1/3 of my list before reading. ([Location 1735](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1735)) [Open in Readwise](https://readwise.io/open/54387414) ^rw54387414
+    - Date:: [[March 2nd, 2020, Monday]]
+- Instead of pushing a new piece of info through from intake to processing to consumption without any scrutiny, I’m creating a pool of options drawn from a longer time period, which allows me to make decisions from a higher perspective, where those decisions are much better aligned with what truly matters to me. ([Location 1738](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1738)) [Open in Readwise](https://readwise.io/open/54387415) ^rw54387415
+    - Date:: [[March 2nd, 2020, Monday]]
+- Remove any feature, process, or effort that does not directly contribute to the learning you seek. — Eric Ries, The Leader’s Guide ([Location 1741](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1741)) [Open in Readwise](https://readwise.io/open/54387416) ^rw54387416
+    - Date:: [[March 2nd, 2020, Monday]]
+- The amount of information in the world is a progress trap. Too much stuff to read is just as limiting as too little. ([Location 1774](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1774)) [Open in Readwise](https://readwise.io/open/54387417) ^rw54387417
+    - Date:: [[March 2nd, 2020, Monday]]
+- As the inimitable Venkatesh Rao has written, we’re moving from a world of containers (companies, departments, semesters, packages, silos) to a world of streams (social networks, info feeds, main streets of thriving cities, Twitter). Problems and opportunities alike resist having neat little boxes drawn around them. ([Location 1777](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1777)) [Open in Readwise](https://readwise.io/open/54387418) ^rw54387418
+    - Date:: [[March 2nd, 2020, Monday]]
+- What would it look like instead to solve problems (and explore opportunities) in a way that gets better the faster we go? ([Location 1784](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1784)) [Open in Readwise](https://readwise.io/open/54387419) ^rw54387419
+    - Date:: [[March 2nd, 2020, Monday]]
+- When you’re immersed in a stream, the faster it goes, the more novel perspectives and ideas you’re exposed to. You develop an opposable mind — the ability to juggle and play around with different perspectives on any issue, instead of seeing it through one lens. ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1788)) [Open in Readwise](https://readwise.io/open/54387420) ^rw54387420
+    - Date:: [[March 2nd, 2020, Monday]]
+- the only metric that will matter in your journey of personal growth will be ROL: Rate-of-Learning. ([Location 1792](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1792)) [Open in Readwise](https://readwise.io/open/54387421) ^rw54387421
+    - Date:: [[March 2nd, 2020, Monday]]
+- There is one form of leverage even more powerful than the initial assumptions and paradigms that inform a system’s development: the ability to transcend paradigms. ([Location 1801](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1801)) [Open in Readwise](https://readwise.io/open/54387422) ^rw54387422
+    - Date:: [[March 2nd, 2020, Monday]]
+- I can’t put it any better than Donella Meadows, in her seminal piece on complex systems: ([Location 1802](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1802)) [Open in Readwise](https://readwise.io/open/54387423) ^rw54387423
+    - Date:: [[March 2nd, 2020, Monday]]
+- People who cling to paradigms (which means just about all of us) take one look at the spacious possibility that everything they think is guaranteed to be nonsense and pedal rapidly in the opposite direction. Surely there is no power, no control, no understanding, not even a reason for being, much less acting, in the notion or experience that there is no certainty in any worldview. But, in fact, everyone who has managed to entertain that idea, for a moment or for a lifetime, has found it to be the basis for radical empowerment. If no paradigm is right, you can choose whatever one will help to achieve your purpose. ([Location 1805](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1805)) [Open in Readwise](https://readwise.io/open/54387424) ^rw54387424
+    - Date:: [[March 2nd, 2020, Monday]]
+- It is in this space of mastery over paradigms that people throw off addictions, live in constant joy, bring down empires, get locked up or burned at the stake or crucified or shot, and have impacts that last for millennia. ([Location 1811](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1811)) [Open in Readwise](https://readwise.io/open/54387425) ^rw54387425
+    - Date:: [[March 2nd, 2020, Monday]]
+- In the end, it seems that mastery has less to do with pushing leverage points than it does with strategically, profoundly, madly letting go. ([Location 1813](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1813)) [Open in Readwise](https://readwise.io/open/54387426) ^rw54387426
+    - Date:: [[March 2nd, 2020, Monday]]
+- Reading is the closest thing we have to thinking another’s thoughts. ([Location 1815](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1815)) [Open in Readwise](https://readwise.io/open/54387427) ^rw54387427
+    - Date:: [[March 2nd, 2020, Monday]]
+- The amazing thing about ideas is that it takes zero time for one to change your paradigm. ([Location 1817](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1817)) [Open in Readwise](https://readwise.io/open/54387428) ^rw54387428
+    - Date:: [[March 2nd, 2020, Monday]]
+- One-Touch to Inbox Zero ([Location 1830](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1830)) [Open in Readwise](https://readwise.io/open/54387429) ^rw54387429
+    - Date:: [[March 2nd, 2020, Monday]]
+- The key to Inbox Zero, the practice of regularly getting your email inbox to empty, is to “touch each email only once.” ([Location 1835](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1835)) [Open in Readwise](https://readwise.io/open/54387430) ^rw54387430
+    - Date:: [[March 2nd, 2020, Monday]]
+- it takes far, FAR less time and energy to maintain your email inbox at zero than at a thousand. ([Location 1845](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1845)) [Open in Readwise](https://readwise.io/open/54387431) ^rw54387431
+    - Date:: [[March 2nd, 2020, Monday]]
+- Here is your annotated checklist for One-Touch Inbox Zero, in 5 EASY STEPS! ([Location 1846](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1846)) [Open in Readwise](https://readwise.io/open/54387432) ^rw54387432
+    - Date:: [[March 2nd, 2020, Monday]]
+- “I must create a system or be enslaved by another man’s” — William Blake ([Location 1847](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1847)) [Open in Readwise](https://readwise.io/open/54387433) ^rw54387433
+    - Date:: [[March 2nd, 2020, Monday]]
+- 1. Unsubscribe from every newsletter, notification list, and broadcast list that isn’t absolutely essential (using a service like Unroll.me if necessary) ([Location 1850](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1850)) [Open in Readwise](https://readwise.io/open/54387434) ^rw54387434
+    - Date:: [[March 2nd, 2020, Monday]]
+- 2. Forward all your email accounts to Gmail, or whatever service you have to use for work ([Location 1853](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1853)) [Open in Readwise](https://readwise.io/open/54387435) ^rw54387435
+    - Date:: [[March 2nd, 2020, Monday]]
+- 3. Use Mailstrom to batch delete hundreds (or thousands) of unimportant emails at a time, and then move all remaining emails from your inbox to a specially marked folder called “DMZ” (for De-mail-arized Zone) ([Location 1854](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1854)) [Open in Readwise](https://readwise.io/open/54387436) ^rw54387436
+    - Date:: [[March 2nd, 2020, Monday]]
+- strip email down to its core function ([Location 1859](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1859)) [Open in Readwise](https://readwise.io/open/54387437) ^rw54387437
+    - Date:: [[March 2nd, 2020, Monday]]
+- The main problem with how people use email is that they use it for everything. ([Location 1860](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1860)) [Open in Readwise](https://readwise.io/open/54387438) ^rw54387438
+    - Date:: [[March 2nd, 2020, Monday]]
+- Let’s turn back the tide and strip email down to its original function, the only one that it does better than any other tool: collecting new inputs. ([Location 1868](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1868)) [Open in Readwise](https://readwise.io/open/54387439) ^rw54387439
+    - Date:: [[March 2nd, 2020, Monday]]
+- Every other function is much more effectively handled by one of four purpose-built productivity apps, in the same way that our fictional handyman could have benefited from a to do list, an agenda, a filing cabinet, a magazine rack, and a trash can. ([Location 1870](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1870)) [Open in Readwise](https://readwise.io/open/54387440) ^rw54387440
+    - Date:: [[March 2nd, 2020, Monday]]
+- Turn off all “smart” features ([Location 1886](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1886)) [Open in Readwise](https://readwise.io/open/54387441) ^rw54387441
+    - Date:: [[March 2nd, 2020, Monday]]
+- Every single one of these features is a maladaptive add-on to an outdated system; a short-term solution to a long-term problem. ([Location 1887](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1887)) [Open in Readwise](https://readwise.io/open/54387442) ^rw54387442
+    - Date:: [[March 2nd, 2020, Monday]]
+- Turn off all chat and social media apps ([Location 1913](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1913)) [Open in Readwise](https://readwise.io/open/54387443) ^rw54387443
+    - Date:: [[March 2nd, 2020, Monday]]
+- Turn off all notifications Your email inbox is someone else’s To Do list. ([Location 1923](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1923)) [Open in Readwise](https://readwise.io/open/54387444) ^rw54387444
+    - Date:: [[March 2nd, 2020, Monday]]
+- The main reason your inbox is overflowing is the same reason any system gets blocked at the intake: a lack of effective downstream systems. ([Location 1932](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1932)) [Open in Readwise](https://readwise.io/open/54387445) ^rw54387445
+    - Date:: [[March 2nd, 2020, Monday]]
+- If downstream systems that appropriately handle 100.00% of incoming information have not been set up, then all you’ve done is emptied the lake via airlift — the lower water level just makes the incoming streams flow faster. ([Location 1943](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1943)) [Open in Readwise](https://readwise.io/open/54387446) ^rw54387446
+    - Date:: [[March 2nd, 2020, Monday]]
+- Every conceivable email you receive can be handled by just 4 downstream systems: a digital calendar, a task manager, a reference app, and a read later app. ([Location 1945](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1945)) [Open in Readwise](https://readwise.io/open/54387447) ^rw54387447
+    - Date:: [[March 2nd, 2020, Monday]]
+- A task manager is simply a digital version of a To Do list. ([Location 1956](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1956)) [Open in Readwise](https://readwise.io/open/54387448) ^rw54387448
+    - Date:: [[March 2nd, 2020, Monday]]
+- There are a lot of benefits to using a digital task manager, but for One-Touch purposes, there is one single most important feature: the program’s ability to capture and link back to email-based tasks. ([Location 1959](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1959)) [Open in Readwise](https://readwise.io/open/54387449) ^rw54387449
+    - Date:: [[March 2nd, 2020, Monday]]
+- This small feature is the lynchpin not only of your task manager, but of the entire One-Touch approach. ([Location 1975](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1975)) [Open in Readwise](https://readwise.io/open/54387450) ^rw54387450
+    - Date:: [[March 2nd, 2020, Monday]]
+- Reference app This is probably the most useful tool that few people are comfortable with. ([Location 1983](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1983)) [Open in Readwise](https://readwise.io/open/54387451) ^rw54387451
+    - Date:: [[March 2nd, 2020, Monday]]
+- There must be an easy way of forwarding something from your email inbox directly to your Reference app. ([Location 1995](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=1995)) [Open in Readwise](https://readwise.io/open/54387452) ^rw54387452
+    - Date:: [[March 2nd, 2020, Monday]]
+- Read Later apps allow you to save online content (web pages, articles, blog posts, videos) for later reading or watching. ([Location 2004](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2004)) [Open in Readwise](https://readwise.io/open/54387453) ^rw54387453
+    - Date:: [[March 2nd, 2020, Monday]]
+- You use it like a mobile magazine rack — a holding area for non-urgent things you want to read/watch/review at some point, but don’t need to take timely action on (in which case it would go into your task manager) or aren’t sure you want to keep (in which case it would go into a reference app). ([Location 2006](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2006)) [Open in Readwise](https://readwise.io/open/54387454) ^rw54387454
+    - Date:: [[March 2nd, 2020, Monday]]
+- You need to be able to forward emails directly into the program. ([Location 2013](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2013)) [Open in Readwise](https://readwise.io/open/54387455) ^rw54387455
+    - Date:: [[March 2nd, 2020, Monday]]
+- streamline your workflow ([Location 2019](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2019)) [Open in Readwise](https://readwise.io/open/54387456) ^rw54387456
+    - Date:: [[March 2nd, 2020, Monday]]
+- What we have to do instead is think not only systemically (in terms of systems, as above) but also systematically (methodically). By processing our email according to a well-defined method, instead of haphazardly, we create the capability of calibrating the time spent on email depending on the time available and other constraints. ([Location 2035](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2035)) [Open in Readwise](https://readwise.io/open/54387457) ^rw54387457
+    - Date:: [[March 2nd, 2020, Monday]]
+- The 2-Minute Rule (immediately doing any task that takes less than 2 minutes, to avoid all the time and effort spent tracking it) makes sense because it is the cutoff for what is worth spending the time on to enter into your system. ([Location 2039](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2039)) [Open in Readwise](https://readwise.io/open/54387458) ^rw54387458
+    - Date:: [[March 2nd, 2020, Monday]]
+- We need to create the option (but not the obligation), of scaling down this cutoff to something closer to the 10-Second Rule, processing hundreds of emails within 15 or 20 minutes when necessary, so that you can quickly get down to real work without worrying about a ticking time bomb in your inbox. ([Location 2044](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2044)) [Open in Readwise](https://readwise.io/open/54387459) ^rw54387459
+    - Date:: [[March 2nd, 2020, Monday]]
+- The key is to set up a workflow that allows for One-Touch : making a decisive decision about what needs to be done about each email, WITHOUT ACTUALLY DOING IT, and then immediately sending each email to an appropriate place where it will be dealt with at the right time. ([Location 2048](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2048)) [Open in Readwise](https://readwise.io/open/54387460) ^rw54387460
+    - Date:: [[March 2nd, 2020, Monday]]
+- You are essentially developing a rapid placeholding ability, delegating each task you identify — do this, store this, read this, delete this — to a future time and place that is perfectly suited for that task. It is a division of labor across time and space instead of people, so that YOU are choosing what work to do at any given time, instead of reacting to whatever’s in front of you in isolation. ([Location 2051](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2051)) [Open in Readwise](https://readwise.io/open/54387461) ^rw54387461
+    - Date:: [[March 2nd, 2020, Monday]]
+- “The ability to placehold rapidly is the key to allowing interruptions to not derail you” -Theo Compernolle ([Location 2054](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2054)) [Open in Readwise](https://readwise.io/open/54387462) ^rw54387462
+    - Date:: [[March 2nd, 2020, Monday]]
+- Note that timely, Very Important Emails get treated the exact same way as any other email, because you’re not in reacting mode, you’re in processing mode. ([Location 2100](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2100)) [Open in Readwise](https://readwise.io/open/54387463) ^rw54387463
+    - Date:: [[March 2nd, 2020, Monday]]
+- Remember that there is only one important time and it is Now. The present moment is the only time over which we have dominion. — Leo Tolstoy ([Location 2116](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2116)) [Open in Readwise](https://readwise.io/open/54387464) ^rw54387464
+    - Date:: [[March 2nd, 2020, Monday]]
+- A system with an unchecked positive feedback loop will ultimately destroy itself ([Location 2126](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2126)) [Open in Readwise](https://readwise.io/open/54387465) ^rw54387465
+    - Date:: [[March 2nd, 2020, Monday]]
+- lowering our reactivity is an end in itself, because anything that forces you to react controls you. ([Location 2132](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2132)) [Open in Readwise](https://readwise.io/open/54387466) ^rw54387466
+    - Date:: [[March 2nd, 2020, Monday]]
+- a red High Priority label is just a theory — someone else’s theory about the meaning of an action and its relationship to a goal. ([Location 2137](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2137)) [Open in Readwise](https://readwise.io/open/54387467) ^rw54387467
+    - Date:: [[March 2nd, 2020, Monday]]
+- Productivity for Precious Snowflakes: a Mood-First Approach to Knowledge Work ([Location 2146](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2146)) [Open in Readwise](https://readwise.io/open/54387468) ^rw54387468
+    - Date:: [[March 2nd, 2020, Monday]]
+- In this essay I want to offer a new theory of productivity for those of us who, despite all the evidence to the contrary, still believe there is something valuable about our particular point of view. ([Location 2149](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2149)) [Open in Readwise](https://readwise.io/open/54387469) ^rw54387469
+    - Date:: [[March 2nd, 2020, Monday]]
+- the fundamental driver of creative work today is not values, goals, or processes, but unique states of mind. ([Location 2153](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2153)) [Open in Readwise](https://readwise.io/open/54387470) ^rw54387470
+    - Date:: [[March 2nd, 2020, Monday]]
+- The Festival from Charles Stross’ sci-fi novel Singularity Sky. ([Location 2156](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2156)) [Open in Readwise](https://readwise.io/open/54387471) ^rw54387471
+    - Date:: [[March 2nd, 2020, Monday]]
+- In Altered Carbon and its sequel Broken Angels, Richard Morgan describes a future society where people’s minds and memories are stored on small chips inserted at the base of the neck. ([Location 2167](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2167)) [Open in Readwise](https://readwise.io/open/54387472) ^rw54387472
+    - Date:: [[March 2nd, 2020, Monday]]
+- the absolute fastest way to complete a task or reach an objective is to realize you don’t have to. ([Location 2186](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2186)) [Open in Readwise](https://readwise.io/open/54387473) ^rw54387473
+    - Date:: [[March 2nd, 2020, Monday]]
+- These frameworks sidestep questions like “What COULD I do?” and “What SHOULD I do?” in favor of a much more tractable, interim one: “What CAN I do?” ([Location 2191](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2191)) [Open in Readwise](https://readwise.io/open/54387474) ^rw54387474
+    - Date:: [[March 2nd, 2020, Monday]]
+- States of mind, or more colloquially, moods, are bubbling up to the surface as every external constraint on work falls away, one after the other. ([Location 2199](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2199)) [Open in Readwise](https://readwise.io/open/54387475) ^rw54387475
+    - Date:: [[March 2nd, 2020, Monday]]
+- melancholy, which research and old literature indicate is associated with creativity, but is not easy to create on demand. ([Location 2200](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2200)) [Open in Readwise](https://readwise.io/open/54387476) ^rw54387476
+    - Date:: [[March 2nd, 2020, Monday]]
+- the “New York state of mind,” that inspiring mixture of sophistication and grittiness. ([Location 2203](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2203)) [Open in Readwise](https://readwise.io/open/54387477) ^rw54387477
+    - Date:: [[March 2nd, 2020, Monday]]
+- A given state of mind is difficult to reproduce even for someone who’s experienced it in the past, often requiring elaborate rituals or particular experiences ([Location 2215](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2215)) [Open in Readwise](https://readwise.io/open/54387478) ^rw54387478
+    - Date:: [[March 2nd, 2020, Monday]]
+- States of mind drastically influence the amount of energy it takes to complete a given task, which gives them leverage. ([Location 2224](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2224)) [Open in Readwise](https://readwise.io/open/54387479) ^rw54387479
+    - Date:: [[March 2nd, 2020, Monday]]
+- You cannot reach the state of “optimal experience” — what Daniel Goleman describes as “a feeling of spontaneous joy, even rapture, while performing a task” — without that initial feeling of anxiety and fidgetiness. This is the true toll of constant interruptions: with each distraction you stop and start the process again and again, never quite getting past the struggle stage to the flood of mood-enhancing neurochemicals. ([Location 2227](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2227)) [Open in Readwise](https://readwise.io/open/54387480) ^rw54387480
+    - Date:: [[March 2nd, 2020, Monday]]
+- David Allen, in the 2015 revision of Getting Things Done, describes the long-term path to GTD Mastery: “…optimally taking advantage of self-created contexts and triggers to produce creative ideas, perspectives, and actions that wouldn’t normally occur.” ([Location 2236](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2236)) [Open in Readwise](https://readwise.io/open/54387481) ^rw54387481
+    - Date:: [[March 2nd, 2020, Monday]]
+- from Josh Waitzkin, in The Art of Learning: “In performance training, first we learn to flow with whatever comes. Then we learn to use whatever comes to our advantage. Finally, we learn to be completely self-sufficient and create our own earthquakes, so our mental process feeds itself explosive inspirations without the need for outside stimulus.” ([Location 2240](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2240)) [Open in Readwise](https://readwise.io/open/54387482) ^rw54387482
+    - Date:: [[March 2nd, 2020, Monday]]
+- The key words there are “feeds itself.” Learning new facts and gaining new perspectives is valuable as raw material, but the moment of creative breakthrough is almost always driven by a mysterious internal process variously called the Muse, the Resistance, and the Gift. ([Location 2244](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2244)) [Open in Readwise](https://readwise.io/open/54387483) ^rw54387483
+    - Date:: [[March 2nd, 2020, Monday]]
+- unusually creative people are characterized by “their ability to mix seemingly incompatible states of being depending on the task, whether it’s open attention with a focused drive, mindfulness with daydreaming, intuition with rationality, intense rebelliousness with respect for tradition, etc.” ([Location 2252](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2252)) [Open in Readwise](https://readwise.io/open/54387484) ^rw54387484
+    - Date:: [[March 2nd, 2020, Monday]]
+- Affective engagement — the extent to which people are open to the full breadth and depth of their emotions — was found to be a better predictor of artistic creativity than IQ or intellectual engagement. ([Location 2254](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2254)) [Open in Readwise](https://readwise.io/open/54387485) ^rw54387485
+    - Date:: [[March 2nd, 2020, Monday]]
+- states of mind are not just cool trips, but concrete competitive assets. The more states you have access to, and the better you are at juggling them from situation to situation, the more you will be able to leverage intellectual knowledge with more-difficult-to-Google tacit knowledge. ([Location 2264](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2264)) [Open in Readwise](https://readwise.io/open/54387486) ^rw54387486
+    - Date:: [[March 2nd, 2020, Monday]]
+- history is inherently epic and meaningful. Whether you agree or not, it is a useful state of mind to have at your disposal during moments of existential dread. ([Location 2275](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2275)) [Open in Readwise](https://readwise.io/open/54387487) ^rw54387487
+    - Date:: [[March 2nd, 2020, Monday]]
+- every state of mind is highly adapted to a specific context, like a specialized tool. ([Location 2277](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2277)) [Open in Readwise](https://readwise.io/open/54387488) ^rw54387488
+    - Date:: [[March 2nd, 2020, Monday]]
+- states of mind can shed new light on an old idea: that we are actually different selves across time, and reaching our goals requires getting them to cooperate. The main difference between these selves is not information content. It is in their respective states of mind — how they feel about themselves and their place in the world. ([Location 2287](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2287)) [Open in Readwise](https://readwise.io/open/54387489) ^rw54387489
+    - Date:: [[March 2nd, 2020, Monday]]
+- This excellent paper on “Self-Organization in Communicating Groups” by Francis Heylighen at the Free University of Brussels ([Location 2292](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2292)) [Open in Readwise](https://readwise.io/open/54387490) ^rw54387490
+    - Date:: [[March 2nd, 2020, Monday]]
+- What if we thought of our different selves as literally completely different people, with different priorities, skills, and attitudes? How could we use principles of self-organization to get them to work together toward common goals, assuming they are driven primarily by ephemeral states of mind? ([Location 2294](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2294)) [Open in Readwise](https://readwise.io/open/54387491) ^rw54387491
+    - Date:: [[March 2nd, 2020, Monday]]
+- The four requirements are: ([Location 2297](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2297)) [Open in Readwise](https://readwise.io/open/54387492) ^rw54387492
+    - Date:: [[March 2nd, 2020, Monday]]
+- Alignment: getting the selves to push in the same direction, so they’re not fighting against each other ([Location 2298](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2298)) [Open in Readwise](https://readwise.io/open/54387493) ^rw54387493
+    - Date:: [[March 2nd, 2020, Monday]]
+- Specialization: getting the selves to complement each others’ efforts by focusing on the activities they are best suited for ([Location 2300](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2300)) [Open in Readwise](https://readwise.io/open/54387494) ^rw54387494
+    - Date:: [[March 2nd, 2020, Monday]]
+- Workflow: getting the selves to hand off tasks to each other efficiently, so they can be completed in stages over time ([Location 2302](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2302)) [Open in Readwise](https://readwise.io/open/54387495) ^rw54387495
+    - Date:: [[March 2nd, 2020, Monday]]
+- Aggregation: the assembly of the previous results into a final product ([Location 2304](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2304)) [Open in Readwise](https://readwise.io/open/54387496) ^rw54387496
+    - Date:: [[March 2nd, 2020, Monday]]
+- If we consider that our numerous selves have very different priorities, Alignment of their actions becomes more important, and harder. Instead of forcing all of them — past, present, and future — to line up with an unchanging predetermined outcome (a “mission” or “purpose”), it makes more sense to start with what excites your current self right now, and then work from there to define that motivation in increasingly subtle shades over time. ([Location 2306](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2306)) [Open in Readwise](https://readwise.io/open/54387497) ^rw54387497
+    - Date:: [[March 2nd, 2020, Monday]]
+- The more precise your understanding of what exactly excites you about any particular project, the better your ability to generalize it to other projects and topics — to ([Location 2310](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2310)) [Open in Readwise](https://readwise.io/open/54387498) ^rw54387498
+    - Date:: [[March 2nd, 2020, Monday]]
+- Assuming these numerous selves have different skills, it makes sense for them to Specialize. ([Location 2313](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2313)) [Open in Readwise](https://readwise.io/open/54387499) ^rw54387499
+    - Date:: [[March 2nd, 2020, Monday]]
+- Changing your mood to match the task is the realm of self-talk and environmental cues, ([Location 2316](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2316)) [Open in Readwise](https://readwise.io/open/54387500) ^rw54387500
+    - Date:: [[March 2nd, 2020, Monday]]
+- Changing the task to match your mood is the goal of distributed, self-organizing tools like kanban boards and ticketing systems, where each person works on whatever matches their skills and state of mind at that moment. ([Location 2320](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2320)) [Open in Readwise](https://readwise.io/open/54387501) ^rw54387501
+    - Date:: [[March 2nd, 2020, Monday]]
+- Because these different selves show up rather unpredictably at different times, a Workflow is required to coordinate their actions across time. ([Location 2323](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2323)) [Open in Readwise](https://readwise.io/open/54387502) ^rw54387502
+    - Date:: [[March 2nd, 2020, Monday]]
+- “There is no need to plan when a particular agent should execute a particular task, as long as enough agents are available so that a sufficiently skilled one is ready to take over soon after the previous task is finished.” ([Location 2325](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2325)) [Open in Readwise](https://readwise.io/open/54387503) ^rw54387503
+    - Date:: [[March 2nd, 2020, Monday]]
+- This requirement is the real motive for an iterative summarization approach to note-taking ([Location 2331](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2331)) [Open in Readwise](https://readwise.io/open/54387504) ^rw54387504
+    - Date:: [[March 2nd, 2020, Monday]]
+- I’m time-shifting as much mundane reading and summarizing as possible from that precious, creative state of mind to other, more common mental states: ([Location 2335](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2335)) [Open in Readwise](https://readwise.io/open/54387505) ^rw54387505
+    - Date:: [[March 2nd, 2020, Monday]]
+- In other words, the true purpose of note-taking is transporting states of mind (not just information) through time. ([Location 2338](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2338)) [Open in Readwise](https://readwise.io/open/54387506) ^rw54387506
+    - Date:: [[March 2nd, 2020, Monday]]
+- “To return to a book is to return not just to the text but also to a past self. We are embedded in our libraries. To reread is to remember who we once were, which can be equal parts scary and intoxicating.” ([Location 2344](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2344)) [Open in Readwise](https://readwise.io/open/54387507) ^rw54387507
+    - Date:: [[March 2nd, 2020, Monday]]
+- the only way to crystallize a state of mind is to use affective triggers to decide what to take notes on and keep. ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2347)) [Open in Readwise](https://readwise.io/open/54387508) ^rw54387508
+    - Date:: [[March 2nd, 2020, Monday]]
+- Instead of making a mini-outline of each book and article and podcast you consume, trying to preserve the logical structure of the argument, just wait in low-power mode for reactions like surprise, delight, intrigue, and outrage. ([Location 2347](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2347)) [Open in Readwise](https://readwise.io/open/54387509) ^rw54387509
+    - Date:: [[March 2nd, 2020, Monday]]
+- To take this approach means your notes will not be neat and ordered, like a Dewey Decimal system for the mind. They will be dominated by the contrarian, by paradoxes, by the inexplicable. Which is exactly the point. Contrarianism is the fastest method for discovering the paradox at the heart of every inexplicable phenomenon. ([Location 2350](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2350)) [Open in Readwise](https://readwise.io/open/54387510) ^rw54387510
+    - Date:: [[March 2nd, 2020, Monday]]
+- Aggregation is necessary to turn all these diverse efforts into a final product. ([Location 2353](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2353)) [Open in Readwise](https://readwise.io/open/54387511) ^rw54387511
+    - Date:: [[March 2nd, 2020, Monday]]
+- Having access to more diverse states of mind allows you to create more diverse definitions of success — a crucial skill for shaping and moving into zones of expanding possibility. ([Location 2354](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2354)) [Open in Readwise](https://readwise.io/open/54387512) ^rw54387512
+    - Date:: [[March 2nd, 2020, Monday]]
+- If you’ve learned how to find boredom useful by, say, keeping a stash of reading material handy at all times, you can find that 2-hour delay to be an opportunity. ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2356)) [Open in Readwise](https://readwise.io/open/54387513) ^rw54387513
+    - Date:: [[March 2nd, 2020, Monday]]
+- What I’m referring to here is multifinality. Whereas multitasking refers to seeking multiple outputs from multiple simultaneous inputs, and is impossible, multifinality refers to attaining alternative objectives from the same inputs, and is eminently possible. ([Location 2359](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2359)) [Open in Readwise](https://readwise.io/open/54387514) ^rw54387514
+    - Date:: [[March 2nd, 2020, Monday]]
+- Many have commented on the rise of chaos and complexity in the modern world, but we forget what the yogis have always known — our inner lives have always been chaotic and complex. ([Location 2371](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2371)) [Open in Readwise](https://readwise.io/open/54387515) ^rw54387515
+    - Date:: [[March 2nd, 2020, Monday]]
+- Brené Brown explains on a popular podcast aimed at young male urbanites how vulnerability — “the willingness to show up and be seen when you have zero control over the outcome “ — underlies all acts of real courage. ([Location 2385](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2385)) [Open in Readwise](https://readwise.io/open/54387516) ^rw54387516
+    - Date:: [[March 2nd, 2020, Monday]]
+- Joseph Campbell: “People say that what we’re all seeking is a meaning for life,…[but] I think that what we’re seeking is an experience of life, so that our life experiences on the purely physical plane will have resonances with our own innermost being and reality, so that we actually feel the rapture of being alive.” ([Location 2388](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2388)) [Open in Readwise](https://readwise.io/open/54387517) ^rw54387517
+    - Date:: [[March 2nd, 2020, Monday]]
+- Picasso: “It took me four years to paint like Raphael, but a lifetime to paint like a child.” ([Location 2393](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2393)) [Open in Readwise](https://readwise.io/open/54387518) ^rw54387518
+    - Date:: [[March 2nd, 2020, Monday]]
+- It’s encouraging to realize that many of the states of mind we seek are not “out there” somewhere, to be hunted down and consumed. They are states of mind belonging to our past selves — we wouldn’t crave it if we had never experienced it. ([Location 2394](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2394)) [Open in Readwise](https://readwise.io/open/54387519) ^rw54387519
+    - Date:: [[March 2nd, 2020, Monday]]
+- Your future lies in your past. Learning is forgetting. We’re getting close to a paradox here — a promising sign. ([Location 2398](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2398)) [Open in Readwise](https://readwise.io/open/54387520) ^rw54387520
+    - Date:: [[March 2nd, 2020, Monday]]
+- Emergent Productivity: A People-Centered Equation for Modern Work ([Location 2401](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2401)) [Open in Readwise](https://readwise.io/open/54387521) ^rw54387521
+    - Date:: [[March 2nd, 2020, Monday]]
+- the core assumption of modern employment is that, no matter how inspirational the organization’s mission or how engaged and happy their employees… The interests of employees and employers are fundamentally opposed. ([Location 2408](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2408)) [Open in Readwise](https://readwise.io/open/54387522) ^rw54387522
+    - Date:: [[March 2nd, 2020, Monday]]
+- The only goal the company and the employee had in common was getting the work done. ([Location 2413](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2413)) [Open in Readwise](https://readwise.io/open/54387523) ^rw54387523
+    - Date:: [[March 2nd, 2020, Monday]]
+- The deal was as follows: employees agreed to give up most of the upside of their work — their best ideas, their best efforts, their passion and energy and creative breakthroughs — in return for protection from the downsides, in the form of a steady paycheck, paid sick leave, and a pension at retirement. ([Location 2415](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2415)) [Open in Readwise](https://readwise.io/open/54387524) ^rw54387524
+    - Date:: [[March 2nd, 2020, Monday]]
+- With the work itself as the overriding priority, employees are encouraged to leave most of themselves at home. Their health, their hobbies, their relationships, their mental and emotional wellbeing — these are literally outside the scope of work. Unfortunately, these are the very things from which creativity springs. ([Location 2424](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2424)) [Open in Readwise](https://readwise.io/open/54387525) ^rw54387525
+    - Date:: [[March 2nd, 2020, Monday]]
+- Paradoxically, making work the dominant priority leads to both parties ignoring the very intangibles that make work possible and profitable in the first place. Our fixation on the tangible output to the exclusion of all else starves the ecosystem that gives rise to truly novel ideas, as well as the courage to pursue them. In a creativity-driven economy, this is suicide. ([Location 2433](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2433)) [Open in Readwise](https://readwise.io/open/54387526) ^rw54387526
+    - Date:: [[March 2nd, 2020, Monday]]
+- somewhere along the way, innovation became a matter of rearranging office furniture. ([Location 2437](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2437)) [Open in Readwise](https://readwise.io/open/54387527) ^rw54387527
+    - Date:: [[March 2nd, 2020, Monday]]
+- They are both an attempt to induce a certain kind of output with the right “mix” of external cues and explicit rewards. You only feel the need to induce something if you don’t believe it will arise naturally. ([Location 2441](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2441)) [Open in Readwise](https://readwise.io/open/54387528) ^rw54387528
+    - Date:: [[March 2nd, 2020, Monday]]
+- The only way forward is to revisit the core assumption that underlies it all. To renegotiate the contract employees have had with their employers since the beginning of industrialization. ([Location 2448](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2448)) [Open in Readwise](https://readwise.io/open/54387529) ^rw54387529
+    - Date:: [[March 2nd, 2020, Monday]]
+- What if, instead, we chose to believe that the interests of employees and employers were naturally aligned? Instead of trying to coerce employees into accepting the mission, values, and goals of the company, as if they don’t have their own already, we could map each of the company’s interests to a corresponding and complementary human interest. We could make the business a platform for each person to reach their individual goals, harnessing that source of energy to reach the business’ goals as a byproduct. ([Location 2451](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2451)) [Open in Readwise](https://readwise.io/open/54387530) ^rw54387530
+    - Date:: [[March 2nd, 2020, Monday]]
+- To accomplish this, we have to switch the right-hand side of the equation: instead of work being the common ground between companies and employees, employees must be seen as the common ground between companies and work. ([Location 2456](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2456)) [Open in Readwise](https://readwise.io/open/54387531) ^rw54387531
+    - Date:: [[March 2nd, 2020, Monday]]
+- This change puts people at the center of the equation, where they belong. It acknowledges that companies don’t have a purpose; they aren’t innovative; they don’t even exist — people do. ([Location 2461](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2461)) [Open in Readwise](https://readwise.io/open/54387532) ^rw54387532
+    - Date:: [[March 2nd, 2020, Monday]]
+- The purpose of companies is to build a culture that supports their people. ([Location 2466](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2466)) [Open in Readwise](https://readwise.io/open/54387533) ^rw54387533
+    - Date:: [[March 2nd, 2020, Monday]]
+- The job of employees is to use that culture as a platform to perform their work as productively and creatively as possible. ([Location 2469](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2469)) [Open in Readwise](https://readwise.io/open/54387534) ^rw54387534
+    - Date:: [[March 2nd, 2020, Monday]]
+- The purpose of the work is to serve as a vehicle for learning and personal growth for each employee, however they define it. ([Location 2475](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2475)) [Open in Readwise](https://readwise.io/open/54387535) ^rw54387535
+    - Date:: [[March 2nd, 2020, Monday]]
+- work is about holistic growth. ([Location 2478](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2478)) [Open in Readwise](https://readwise.io/open/54387536) ^rw54387536
+    - Date:: [[March 2nd, 2020, Monday]]
+- It’s easy to lose sight of sometimes, but work is uniquely suited to all aspects of human self-actualization, as Edmund Phelps explains in Mass Flourishing: ([Location 2479](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2479)) [Open in Readwise](https://readwise.io/open/54387537) ^rw54387537
+    - Date:: [[March 2nd, 2020, Monday]]
+- Work is a constant source of new challenges to feed people’s hunger for learning ([Location 2483](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2483)) [Open in Readwise](https://readwise.io/open/54387538) ^rw54387538
+    - Date:: [[March 2nd, 2020, Monday]]
+- Work provides a stream of opportunities for people to inject their creativity and judgment into the process (self-expression), resulting in a greater sense of accomplishment (self-affirmation) ([Location 2485](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2485)) [Open in Readwise](https://readwise.io/open/54387539) ^rw54387539
+    - Date:: [[March 2nd, 2020, Monday]]
+- Work provides a forum for visible accomplishments, critical for social learning, status, and prestige. ([Location 2488](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2488)) [Open in Readwise](https://readwise.io/open/54387540) ^rw54387540
+    - Date:: [[March 2nd, 2020, Monday]]
+- Work can provide the freedom to make decisions and prove one’s self-sufficiency, which is important to self-worth ([Location 2491](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2491)) [Open in Readwise](https://readwise.io/open/54387541) ^rw54387541
+    - Date:: [[March 2nd, 2020, Monday]]
+- Work can provide a voyage of exploration (a “career”) while mitigating many of its risks (self-discovery) ([Location 2493](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2493)) [Open in Readwise](https://readwise.io/open/54387542) ^rw54387542
+    - Date:: [[March 2nd, 2020, Monday]]
+- The cycle culminates in employees’ ultimate contribution to the company: sustainable, long-term innovation. ([Location 2495](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2495)) [Open in Readwise](https://readwise.io/open/54387543) ^rw54387543
+    - Date:: [[March 2nd, 2020, Monday]]
+- Without a culture where people feel safe and heard, without a high-performance workforce proactively improving its productivity, without the learning and growth that people value much more than a salary, innovation cannot grow. ([Location 2498](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2498)) [Open in Readwise](https://readwise.io/open/54387544) ^rw54387544
+    - Date:: [[March 2nd, 2020, Monday]]
+- Innovation is an emergent phenomenon, arising unpredictably from the interactions between the building blocks of culture, productivity, and personal growth. ([Location 2501](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2501)) [Open in Readwise](https://readwise.io/open/54387545) ^rw54387545
+    - Date:: [[March 2nd, 2020, Monday]]
+- There’s one remaining piece: where do vision and leadership fit in here? ([Location 2504](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2504)) [Open in Readwise](https://readwise.io/open/54387546) ^rw54387546
+    - Date:: [[March 2nd, 2020, Monday]]
+- Employees and employers are naturally aligned, but this alignment is unstable. It is in constant danger of splintering under the daily barrage of demands, responsibilities, crossed signals, and bruised egos. ([Location 2506](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2506)) [Open in Readwise](https://readwise.io/open/54387547) ^rw54387547
+    - Date:: [[March 2nd, 2020, Monday]]
+- The purpose of leaders is to preserve and refine this alignment, to help people align with their work, and the company to align with its people. ([Location 2509](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2509)) [Open in Readwise](https://readwise.io/open/54387548) ^rw54387548
+    - Date:: [[March 2nd, 2020, Monday]]
+- Immersion. Experimentation. Leverage. ([Location 2515](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2515)) [Open in Readwise](https://readwise.io/open/54387549) ^rw54387549
+    - Date:: [[March 2nd, 2020, Monday]]
+- This is an unofficial summary of the 30,000-word blog series Breaking Smart, by Venkatesh Rao of Ribbonfarm, which I believe to be among the most important writing in recent years on innovation, productivity, and problem solving. ([Location 2517](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2517)) [Open in Readwise](https://readwise.io/open/54387550) ^rw54387550
+    - Date:: [[March 2nd, 2020, Monday]]
+- go read the full version here. ([Location 2526](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2526)) [Open in Readwise](https://readwise.io/open/54387551) ^rw54387551
+    - Date:: [[March 2nd, 2020, Monday]]
+- In the past, companies were designed to predict and plan for the future. But the faster things change, the less value in planning and prediction, for three reasons: ([Location 2529](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2529)) [Open in Readwise](https://readwise.io/open/54387552) ^rw54387552
+    - Date:: [[March 2nd, 2020, Monday]]
+- You may get it wrong, leading to wasted effort and resources ([Location 2531](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2531)) [Open in Readwise](https://readwise.io/open/54387553) ^rw54387553
+    - Date:: [[March 2nd, 2020, Monday]]
+- The more resources you spend, the more attached you get to the sunk costs of your vision ([Location 2532](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2532)) [Open in Readwise](https://readwise.io/open/54387554) ^rw54387554
+    - Date:: [[March 2nd, 2020, Monday]]
+- You end up suppressing the chaos and serendipity that are the essence of innovation ([Location 2534](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2534)) [Open in Readwise](https://readwise.io/open/54387555) ^rw54387555
+    - Date:: [[March 2nd, 2020, Monday]]
+- failures don’t happen despite planning and prediction, they happen because of them. They happen because we insist on planning and predicting a world that is no longer predictable. ([Location 2537](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2537)) [Open in Readwise](https://readwise.io/open/54387556) ^rw54387556
+    - Date:: [[March 2nd, 2020, Monday]]
+- In the slow-moving, traditional business environment, problem solving was a straightforward 3-step process: ([Location 2540](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2540)) [Open in Readwise](https://readwise.io/open/54387557) ^rw54387557
+    - Date:: [[March 2nd, 2020, Monday]]
+- Problem selection: choose a clear and important problem ([Location 2541](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2541)) [Open in Readwise](https://readwise.io/open/54387558) ^rw54387558
+    - Date:: [[March 2nd, 2020, Monday]]
+- Resourcing: capture resources by promising to solve ([Location 2543](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2543)) [Open in Readwise](https://readwise.io/open/54387559) ^rw54387559
+    - Date:: [[March 2nd, 2020, Monday]]
+- Solution: solve the problem within promised constraints ([Location 2544](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2544)) [Open in Readwise](https://readwise.io/open/54387560) ^rw54387560
+    - Date:: [[March 2nd, 2020, Monday]]
+- Defining a realistic vision of what “success” means is necessary to get people on board, but this often means limiting creative possibilities for those who come later. ([Location 2550](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2550)) [Open in Readwise](https://readwise.io/open/54387561) ^rw54387561
+    - Date:: [[March 2nd, 2020, Monday]]
+- We often think of uncertainty in business as a negative, but it doesn’t have to be. Uncertainty can also bring unexpectedly good ideas and novel ways of solving problems. ([Location 2552](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2552)) [Open in Readwise](https://readwise.io/open/54387562) ^rw54387562
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sticking to “the plan” ends up turning any source of uncertainty into a negative. ([Location 2555](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2555)) [Open in Readwise](https://readwise.io/open/54387563) ^rw54387563
+    - Date:: [[March 2nd, 2020, Monday]]
+- Now that we’ve torn down the “old way,” what would it look like to solve problems in such a way that it gets better the faster we go? In three words: Immersion. Experimentation. Leverage. ([Location 2556](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2556)) [Open in Readwise](https://readwise.io/open/54387564) ^rw54387564
+    - Date:: [[March 2nd, 2020, Monday]]
+- Immersion means intentionally exposing yourself to streams of ideas, people, and new capabilities, not with the goal of knowing everything, but to stay sensitized to developing opportunities and threats. ([Location 2560](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2560)) [Open in Readwise](https://readwise.io/open/54387565) ^rw54387565
+    - Date:: [[March 2nd, 2020, Monday]]
+- Experimentation recognizes that our technological, networked world presents us with quickly falling downsides (for example, the cost of starting a business, or the costs of failure), as well as rapidly expanding upsides (opportunities to reach more people in less time than ever before). ([Location 2563](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2563)) [Open in Readwise](https://readwise.io/open/54387566) ^rw54387566
+    - Date:: [[March 2nd, 2020, Monday]]
+- More experimentation leads to more failure, but that’s actually a good thing: the faster you fail, the faster you learn, because it is usually faster and cheaper to learn from failure than to attempt to anticipate and plan for every single thing that could go wrong. ([Location 2567](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2567)) [Open in Readwise](https://readwise.io/open/54387567) ^rw54387567
+    - Date:: [[March 2nd, 2020, Monday]]
+- Leverage is the ability to rapidly shift resources to new, more fruitful directions. ([Location 2569](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2569)) [Open in Readwise](https://readwise.io/open/54387568) ^rw54387568
+    - Date:: [[March 2nd, 2020, Monday]]
+- The dominant paradigm for understanding the world has switched from “containers” to “streams.” ([Location 2575](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2575)) [Open in Readwise](https://readwise.io/open/54387569) ^rw54387569
+    - Date:: [[March 2nd, 2020, Monday]]
+- Containers are the boxes we draw around things to understand them. ([Location 2576](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2576)) [Open in Readwise](https://readwise.io/open/54387570) ^rw54387570
+    - Date:: [[March 2nd, 2020, Monday]]
+- The problem with containers is that they encourage us to view reality in what behavioral psychologists call “functionally fixed” ways: people, ideas, and things have fixed, single meanings. ([Location 2578](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2578)) [Open in Readwise](https://readwise.io/open/54387571) ^rw54387571
+    - Date:: [[March 2nd, 2020, Monday]]
+- A formal definition of a stream is an “open, non-hierarchical flow of real-time information from multiple overlapping networks.” ([Location 2580](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2580)) [Open in Readwise](https://readwise.io/open/54387572) ^rw54387572
+    - Date:: [[March 2nd, 2020, Monday]]
+- Bringing this idea back to the broader world, a stream is “a life context formed by all the information flowing towards you via a set of trusted connections — to free people, ideas and resources — from multiple networks, both technological and not.” ([Location 2584](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2584)) [Open in Readwise](https://readwise.io/open/54387573) ^rw54387573
+    - Date:: [[March 2nd, 2020, Monday]]
+- It’s worth noting that much of the incredible creativity and resilience of cities — they continue to survive and thrive even through war, disaster, and economic and sociological disruption — comes from this diversity of networks. ([Location 2592](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2592)) [Open in Readwise](https://readwise.io/open/54387574) ^rw54387574
+    - Date:: [[March 2nd, 2020, Monday]]
+- The most innovative businesses, instead of controlling access and locking down their most valuable assets, make them as open and accessible as possible. ([Location 2604](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2604)) [Open in Readwise](https://readwise.io/open/54387575) ^rw54387575
+    - Date:: [[March 2nd, 2020, Monday]]
+- true innovation doesn’t happen in secret R&D labs; it happens through thriving ecosystems with as many diverse people as possible working on a problem in as many different ways as possible. This is sometimes called the “luck of networks” — by increasing the size and scope of the network, you make your own luck. ([Location 2609](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2609)) [Open in Readwise](https://readwise.io/open/54387576) ^rw54387576
+    - Date:: [[March 2nd, 2020, Monday]]
+- There is a consequence of accelerating change that is not immediately obvious: the faster things change and improve, the more your current thinking represents a constraint on the future efforts of yourself and others. ([Location 2614](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2614)) [Open in Readwise](https://readwise.io/open/54387577) ^rw54387577
+    - Date:: [[March 2nd, 2020, Monday]]
+- Your capabilities will be so reliably greater a year from now than today, it makes sense to replace at least some long-term planning around current constraints with a different activity that provides greater short-term rewards: tinkering. ([Location 2616](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2616)) [Open in Readwise](https://readwise.io/open/54387578) ^rw54387578
+    - Date:: [[March 2nd, 2020, Monday]]
+- We can define “tinkering” as trial-and-error, iterative improvement. It is testing and adaptation designed to uncover unexpected new opportunities, without fixed goals. ([Location 2618](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2618)) [Open in Readwise](https://readwise.io/open/54387579) ^rw54387579
+    - Date:: [[March 2nd, 2020, Monday]]
+- tinkering can equally be defined as “play,” and in this way it mimics the random walk of children’s games. ([Location 2620](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2620)) [Open in Readwise](https://readwise.io/open/54387580) ^rw54387580
+    - Date:: [[March 2nd, 2020, Monday]]
+- but it reflects a historical insight: the future of work lies in today what we consider play. ([Location 2621](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2621)) [Open in Readwise](https://readwise.io/open/54387581) ^rw54387581
+    - Date:: [[March 2nd, 2020, Monday]]
+- An important aspect of tinkering is that it is driven by people’s natural curiosity; ([Location 2624](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2624)) [Open in Readwise](https://readwise.io/open/54387582) ^rw54387582
+    - Date:: [[March 2nd, 2020, Monday]]
+- A key concept to ensure that this experimentation process remains connected to the real world is RERO (Release Early, Release Often). ([Location 2632](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2632)) [Open in Readwise](https://readwise.io/open/54387583) ^rw54387583
+    - Date:: [[March 2nd, 2020, Monday]]
+- the outside world doesn’t stop changing as you add your finishing touches; it goes on evolving just as quickly and unpredictably. ([Location 2639](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2639)) [Open in Readwise](https://readwise.io/open/54387584) ^rw54387584
+    - Date:: [[March 2nd, 2020, Monday]]
+- Making experimentation the core of your business paradoxically requires developing the ability to abandon failed experiments as quickly as possible, thereby minimizing sunk costs. ([Location 2645](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2645)) [Open in Readwise](https://readwise.io/open/54387585) ^rw54387585
+    - Date:: [[March 2nd, 2020, Monday]]
+- Traditionally, consensus-seeking was about getting everyone to agree on a detailed long-term vision, while leaving immediate next steps fuzzy. As our time horizon moves closer and closer, it makes more sense to do the reverse: define next steps clearly, while deliberately leaving the long-term vision as fuzzy as possible. ([Location 2652](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2652)) [Open in Readwise](https://readwise.io/open/54387586) ^rw54387586
+    - Date:: [[March 2nd, 2020, Monday]]
+- The reason this feels scary is that the purpose of long-term planning is to uncover risks and constraints. The assumption is that by uncovering them, the company will be able to mitigate them. But in an era of accelerating change, predicting the risks is impossible. ([Location 2657](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2657)) [Open in Readwise](https://readwise.io/open/54387587) ^rw54387587
+    - Date:: [[March 2nd, 2020, Monday]]
+- the constraints you identify may not be as limiting as you think. ([Location 2659](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2659)) [Open in Readwise](https://readwise.io/open/54387588) ^rw54387588
+    - Date:: [[March 2nd, 2020, Monday]]
+- Gall’s Law, from the study of complex systems: “A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works” ([Location 2670](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2670)) [Open in Readwise](https://readwise.io/open/54387589) ^rw54387589
+    - Date:: [[March 2nd, 2020, Monday]]
+- The best ideas have to be grown, not built. ([Location 2676](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2676)) [Open in Readwise](https://readwise.io/open/54387590) ^rw54387590
+    - Date:: [[March 2nd, 2020, Monday]]
+- being smart is no longer about raw brainpower, or having all the answers. We are “breaking “the definition of “smart.” ([Location 2679](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2679)) [Open in Readwise](https://readwise.io/open/54387591) ^rw54387591
+    - Date:: [[March 2nd, 2020, Monday]]
+- The greatest source of leverage in the world today is network effects, but harnessing it takes a new mindset and set of skills. ([Location 2681](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2681)) [Open in Readwise](https://readwise.io/open/54387592) ^rw54387592
+    - Date:: [[March 2nd, 2020, Monday]]
+- It requires getting good at breaking assumptions about how resources can be used, about questioning zero-sum thinking that sees all resources in terms of their scarcity. ([Location 2687](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2687)) [Open in Readwise](https://readwise.io/open/54387593) ^rw54387593
+    - Date:: [[March 2nd, 2020, Monday]]
+- It requires staying open to and recognizing serendipitous solutions to problems — solutions that may be so original and out-of-left-field that they may not even look like solutions at first. ([Location 2690](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2690)) [Open in Readwise](https://readwise.io/open/54387594) ^rw54387594
+    - Date:: [[March 2nd, 2020, Monday]]
+- you can make your own luck to a certain degree, by making your information and your organization as transparent, searchable, and hackable (in the productive sense) as possible. ([Location 2700](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2700)) [Open in Readwise](https://readwise.io/open/54387595) ^rw54387595
+    - Date:: [[March 2nd, 2020, Monday]]
+- The Holy Grail of Self-Improvement ([Location 2706](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2706)) [Open in Readwise](https://readwise.io/open/54387596) ^rw54387596
+    - Date:: [[March 2nd, 2020, Monday]]
+- The holy grail of self-improvement is a framework for self-directed experimentation and learning that can be used by the average person. ([Location 2708](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2708)) [Open in Readwise](https://readwise.io/open/54387597) ^rw54387597
+    - Date:: [[March 2nd, 2020, Monday]]
+- “How do people change?” ([Location 2709](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2709)) [Open in Readwise](https://readwise.io/open/54387598) ^rw54387598
+    - Date:: [[March 2nd, 2020, Monday]]
+- Every book, seminar, and workshop on self-improvement (very broadly defined) ends the same way: “Do X.” ([Location 2713](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2713)) [Open in Readwise](https://readwise.io/open/54387599) ^rw54387599
+    - Date:: [[March 2nd, 2020, Monday]]
+- And they never want you to do X just once. They want you to do X…wait for it…repeatedly. They want you to make it a habit. As if doing that is trivial; just a matter of setting the autopilot in the right direction. ([Location 2716](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2716)) [Open in Readwise](https://readwise.io/open/54387600) ^rw54387600
+    - Date:: [[March 2nd, 2020, Monday]]
+- the current thinking on behavior change is that it boils down to habit formation. I’ll call this theory Neo-Pavlovian Behaviorism (NPB), ([Location 2721](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2721)) [Open in Readwise](https://readwise.io/open/54387601) ^rw54387601
+    - Date:: [[March 2nd, 2020, Monday]]
+- But I believe the first cracks are starting to form in the NPB edifice, pointing to a new and more fruitful direction: behavior as an emergent pattern, which can only be changed by challenging, shaping, and creating mental models on an individual basis. ([Location 2726](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2726)) [Open in Readwise](https://readwise.io/open/54387602) ^rw54387602
+    - Date:: [[March 2nd, 2020, Monday]]
+- Historically, NPB’s rise is closely tied to the rise of cognitive-behavioral therapy (CBT) in recent decades, which shares a similar operating principle — that much of the complexity of the human psyche can be short-circuited or at least ignored, in favor of “retraining” unproductive recurring thought patterns. In other words, changing mental habits directly. ([Location 2729](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2729)) [Open in Readwise](https://readwise.io/open/54387603) ^rw54387603
+    - Date:: [[March 2nd, 2020, Monday]]
+- It’s becoming increasingly clear that underlying thoughts and beliefs do matter. ([Location 2733](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2733)) [Open in Readwise](https://readwise.io/open/54387604) ^rw54387604
+    - Date:: [[March 2nd, 2020, Monday]]
+- Even if you reject all of Freud’s specific claims and conclusions, his basic premise — that we are driven by deep, conflicting forces that must be controlled or satiated — lived on through his nephew, evolving to underpin modern consumerism. ([Location 2754](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2754)) [Open in Readwise](https://readwise.io/open/54387605) ^rw54387605
+    - Date:: [[March 2nd, 2020, Monday]]
+- Let’s look at a technique that, in my experience running habit formation workshops, is among the most effective in changing behavior: Small Wins. ([Location 2771](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2771)) [Open in Readwise](https://readwise.io/open/54387606) ^rw54387606
+    - Date:: [[March 2nd, 2020, Monday]]
+- Drawing from self-verification theory and BJ Fogg’s Tiny Habits program, and popularized by blogger James Clear, the technique starts with the criticism that most attempts at behavior change make the mistake of creating “high-stakes” situations. ([Location 2774](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2774)) [Open in Readwise](https://readwise.io/open/54387607) ^rw54387607
+    - Date:: [[March 2nd, 2020, Monday]]
+- The problem with continuing to rely on sustained momentum is that any hiccup or missed day is interpreted as a failure. ([Location 2781](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2781)) [Open in Readwise](https://readwise.io/open/54387608) ^rw54387608
+    - Date:: [[March 2nd, 2020, Monday]]
+- You do only as much as you can, or feel like, or have time for. Any excuse is valid, as long as you do something. You get as much credit for the easiest version as the hardest version. ([Location 2785](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2785)) [Open in Readwise](https://readwise.io/open/54387609) ^rw54387609
+    - Date:: [[March 2nd, 2020, Monday]]
+- by eliminating the “barrier to entry” of even getting started, it calls your bluff that some external force (lack of time, money, or energy) is the true constraint. ([Location 2789](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2789)) [Open in Readwise](https://readwise.io/open/54387610) ^rw54387610
+    - Date:: [[March 2nd, 2020, Monday]]
+- By reframing the black-and-white choice as a menu of options tailored to any level of effort you’re willing to expend, it calls attention to the fact that the most difficult step is 0 to 1, not 1 to n. ([Location 2790](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2790)) [Open in Readwise](https://readwise.io/open/54387611) ^rw54387611
+    - Date:: [[March 2nd, 2020, Monday]]
+- Doing something, anything, instead of nothing. The rest is just optimization. ([Location 2791](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2791)) [Open in Readwise](https://readwise.io/open/54387612) ^rw54387612
+    - Date:: [[March 2nd, 2020, Monday]]
+- we twist logic into arbitrary “behavioral rules” to justify almost any decision. ([Location 2792](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2792)) [Open in Readwise](https://readwise.io/open/54387613) ^rw54387613
+    - Date:: [[March 2nd, 2020, Monday]]
+- All the familiar cognitive biases are recruited to tame the cognitive dissonance of following our impulses in a conformist world. These behavioral axioms eventually come to seem so real that we can feel trapped by mutually contradictory rules without realizing that they are self-imposed. ([Location 2799](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2799)) [Open in Readwise](https://readwise.io/open/54387614) ^rw54387614
+    - Date:: [[March 2nd, 2020, Monday]]
+- The goal is to overcome “introspection illusion” — the (often mistaken) assumption that we understand our own motives and fears. ([Location 2803](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2803)) [Open in Readwise](https://readwise.io/open/54387615) ^rw54387615
+    - Date:: [[March 2nd, 2020, Monday]]
+- personal mental models are not incidental, or purely theoretical. The model you use to understand a given change powerfully influences the outcome. ([Location 2806](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2806)) [Open in Readwise](https://readwise.io/open/54387616) ^rw54387616
+    - Date:: [[March 2nd, 2020, Monday]]
+- just as you need gravity to build muscle, you need distraction to build focus. ([Location 2812](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2812)) [Open in Readwise](https://readwise.io/open/54387617) ^rw54387617
+    - Date:: [[March 2nd, 2020, Monday]]
+- depletion debate, which has recently been in the news. Voluminous research has shown that willpower is like a muscle — using it too much makes it tired, leading to poor performance and poor choices. Equally voluminous research indicates that willpower is unlimited, or actually increases with use, or depends on your beliefs about the nature of willpower. ([Location 2813](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2813)) [Open in Readwise](https://readwise.io/open/54387618) ^rw54387618
+    - Date:: [[March 2nd, 2020, Monday]]
+- People do what they enjoy, and then narrativize it as self-discipline after the fact. ([Location 2819](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2819)) [Open in Readwise](https://readwise.io/open/54387619) ^rw54387619
+    - Date:: [[March 2nd, 2020, Monday]]
+- one really does anything they don’t enjoy for long. At most, they focus their efforts on finding the elusive intersection between what they enjoy and what they must do. ([Location 2824](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2824)) [Open in Readwise](https://readwise.io/open/54387620) ^rw54387620
+    - Date:: [[March 2nd, 2020, Monday]]
+- the voice of dopamine is not “That felt good!” It is “If you do this, then you’ll feel good.” ([Location 2855](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2855)) [Open in Readwise](https://readwise.io/open/54387621) ^rw54387621
+    - Date:: [[March 2nd, 2020, Monday]]
+- It also explains why you can still crave “junk” — from fast food to action movies to vacuous social media — even when you feel terrible while consuming it and after. ([Location 2858](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2858)) [Open in Readwise](https://readwise.io/open/54387622) ^rw54387622
+    - Date:: [[March 2nd, 2020, Monday]]
+- Curiosity is a powerful phenomenon: it is a motivated state of mind that taps directly into our need for novelty, which Gregory Berns claims in Satisfaction is the most fundamental source of life satisfaction. ([Location 2865](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2865)) [Open in Readwise](https://readwise.io/open/54387623) ^rw54387623
+    - Date:: [[March 2nd, 2020, Monday]]
+- curiosity has another quality that makes it a much more sustainable, potentially even addictive, source of motivation: the more gaps you fill, the more you see. ([Location 2869](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2869)) [Open in Readwise](https://readwise.io/open/54387624) ^rw54387624
+    - Date:: [[March 2nd, 2020, Monday]]
+- at least 50% of a habit is immaterial and doesn’t exist according to science. ([Location 2883](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2883)) [Open in Readwise](https://readwise.io/open/54387625) ^rw54387625
+    - Date:: [[March 2nd, 2020, Monday]]
+- You can’t even understand an already existing emergent pattern by analyzing its components — because it is more than the sum of its parts, disassembling the parts will not reveal the essence, the “more.” ([Location 2899](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2899)) [Open in Readwise](https://readwise.io/open/54387626) ^rw54387626
+    - Date:: [[March 2nd, 2020, Monday]]
+- The upshot is that by accepting that habits, as emergent patterns, cannot be directly programmed to achieve certain goals, we are led to an uncomfortable conclusion: that despite being partially defined in terms of future intentions, habits cannot be designed and executed strictly according to upfront intentions. ([Location 2903](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2903)) [Open in Readwise](https://readwise.io/open/54387627) ^rw54387627
+    - Date:: [[March 2nd, 2020, Monday]]
+- Disturbance propagation describes one way that emergent systems can change — by using an external disturbance as the “seed” of a new pattern, and propagating this new pattern across the rest of the system in a cascading sequence. ([Location 2917](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2917)) [Open in Readwise](https://readwise.io/open/54387628) ^rw54387628
+    - Date:: [[March 2nd, 2020, Monday]]
+- Our existing habits are so stable that it takes an outside force — a disturbance — to destabilize the system just long enough for new solutions to establish themselves. This study reported that 36% of successful changes in behavior were associated with a move to a new place (nearly three times the rate associated with unsuccessful changes). ([Location 2926](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2926)) [Open in Readwise](https://readwise.io/open/54387629) ^rw54387629
+    - Date:: [[March 2nd, 2020, Monday]]
+- disturbance propagation seems to imply that change only comes from outside. ([Location 2944](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2944)) [Open in Readwise](https://readwise.io/open/54387630) ^rw54387630
+    - Date:: [[March 2nd, 2020, Monday]]
+- When it comes to trying and learning new things, people have difficulty transferring success in one arena to even highly related ones. ([Location 2962](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2962)) [Open in Readwise](https://readwise.io/open/54387631) ^rw54387631
+    - Date:: [[March 2nd, 2020, Monday]]
+- The primary risk of entrepreneurship and other free agent lifestyles is not financial or even social — it is the risk to a person’s very self-concept as someone who does what they set out to do. ([Location 2964](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2964)) [Open in Readwise](https://readwise.io/open/54387632) ^rw54387632
+    - Date:: [[March 2nd, 2020, Monday]]
+- And it’s a gamble with odds you can’t improve through careful preparation and planning (in fact, too much planning will probably worsen your odds). ([Location 2967](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2967)) [Open in Readwise](https://readwise.io/open/54387633) ^rw54387633
+    - Date:: [[March 2nd, 2020, Monday]]
+- Stripped of risk-mitigating social structures, we are faced with the terror of total accountability. The correlation between individualism and suicide rates in developed countries speaks to the risks of this sort of attribution. ([Location 2969](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2969)) [Open in Readwise](https://readwise.io/open/54387634) ^rw54387634
+    - Date:: [[March 2nd, 2020, Monday]]
+- One of the necessary aspects of any experimentation framework is the atomization and disposability of the things being tested. ([Location 2971](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2971)) [Open in Readwise](https://readwise.io/open/54387635) ^rw54387635
+    - Date:: [[March 2nd, 2020, Monday]]
+- The reason lifestyle experimentation is so risky for individuals is that, unlike a company or a product, you can’t just fail fast, walk away, and try again. ([Location 2973](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2973)) [Open in Readwise](https://readwise.io/open/54387636) ^rw54387636
+    - Date:: [[March 2nd, 2020, Monday]]
+- Self-compassion aids change by removing the veil of shame and pain that keeps you from examining the causes of your mistakes ([Location 2995](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2995)) [Open in Readwise](https://readwise.io/open/54387637) ^rw54387637
+    - Date:: [[March 2nd, 2020, Monday]]
+- is the first step in fostering an invitational attitude that is open to feedback, from yourself and others. ([Location 2996](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=2996)) [Open in Readwise](https://readwise.io/open/54387638) ^rw54387638
+    - Date:: [[March 2nd, 2020, Monday]]
+- Experimental Habit Formation ([Location 3002](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3002)) [Open in Readwise](https://readwise.io/open/54387639) ^rw54387639
+    - Date:: [[March 2nd, 2020, Monday]]
+- The question “How do I change?” is not enough, because it presupposes that you know which behaviors to adopt; even if you do, that these behaviors will lead to the outcomes you expect; and even if they do, that these outcomes will remain personally relevant and meaningful forever. ([Location 3008](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3008)) [Open in Readwise](https://readwise.io/open/54387640) ^rw54387640
+    - Date:: [[March 2nd, 2020, Monday]]
+- The Quantified Self movement. QS is a global movement of people who measure various aspects of their bodies and lives — from their exercise to their productivity to their diet and far beyond — seeking to better understand themselves and their performance through quantification, broadly defined. ([Location 3017](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3017)) [Open in Readwise](https://readwise.io/open/54387641) ^rw54387641
+    - Date:: [[March 2nd, 2020, Monday]]
+- QS is nothing less than a living and breathing blueprint for a community, an ideology, and a toolkit for continuous lifestyle experimentation. ([Location 3023](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3023)) [Open in Readwise](https://readwise.io/open/54387642) ^rw54387642
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Why are habits good vehicles for behavioral experimentation?” ([Location 3026](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3026)) [Open in Readwise](https://readwise.io/open/54387643) ^rw54387643
+    - Date:: [[March 2nd, 2020, Monday]]
+- They have a clear beginning, middle, and end (cue, behavior, reward), making them easy to define and identify when they appear. ([Location 3028](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3028)) [Open in Readwise](https://readwise.io/open/54387644) ^rw54387644
+    - Date:: [[March 2nd, 2020, Monday]]
+- habits are famously difficult to create and sustain; yet every person maintains many habits, and they come and go all the time. This paradox is a strong hint that they flourish only as organic, emergent patterns. ([Location 3034](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3034)) [Open in Readwise](https://readwise.io/open/54387645) ^rw54387645
+    - Date:: [[March 2nd, 2020, Monday]]
+- why is it necessary or beneficial to frame new habits as experiments? ([Location 3036](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3036)) [Open in Readwise](https://readwise.io/open/54387646) ^rw54387646
+    - Date:: [[March 2nd, 2020, Monday]]
+- An “experiment” in this context is any attempt at measuring any aspect of one’s life. ([Location 3038](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3038)) [Open in Readwise](https://readwise.io/open/54387647) ^rw54387647
+    - Date:: [[March 2nd, 2020, Monday]]
+- what is the value in using some degree of formal experimental structure in trying new habits, even for laypeople? ([Location 3041](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3041)) [Open in Readwise](https://readwise.io/open/54387648) ^rw54387648
+    - Date:: [[March 2nd, 2020, Monday]]
+- Single-Subject Experiment Design ([Location 3049](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3049)) [Open in Readwise](https://readwise.io/open/54387649) ^rw54387649
+    - Date:: [[March 2nd, 2020, Monday]]
+- the value of scientific thinking extends far beyond strict adherence to the scientific method. There is a scientific sensibility — a subjective, yet dispassionate mode of observing and thinking that lies at the heart of true inquiry. ([Location 3050](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3050)) [Open in Readwise](https://readwise.io/open/54387650) ^rw54387650
+    - Date:: [[March 2nd, 2020, Monday]]
+- sometimes, achieving statistical significance requires diluting the conclusions so much that their substantive significance is lost, at least at the level of a single individual. ([Location 3055](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3055)) [Open in Readwise](https://readwise.io/open/54387651) ^rw54387651
+    - Date:: [[March 2nd, 2020, Monday]]
+- many self-experimenters have reported: that the self-awareness they gained in the process of self-tracking was the real reward. ([Location 3070](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3070)) [Open in Readwise](https://readwise.io/open/54387652) ^rw54387652
+    - Date:: [[March 2nd, 2020, Monday]]
+- Self-tracking enhances self-awareness by providing a concrete mechanism for self-reflection: the act of recording. ([Location 3071](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3071)) [Open in Readwise](https://readwise.io/open/54387653) ^rw54387653
+    - Date:: [[March 2nd, 2020, Monday]]
+- the single factor with the highest correlation with unhappiness across the entire study was mind-wandering. The more someone had their mind on something other than what they were doing, regardless of whether they were thinking about something more pleasant or less pleasant than what they were doing, the more unhappy they were likely to be both while mind-wandering and in general. ([Location 3088](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3088)) [Open in Readwise](https://readwise.io/open/54387654) ^rw54387654
+    - Date:: [[March 2nd, 2020, Monday]]
+- When it comes to individual self-experimentation, the Hawthorne Effect is turned on its head: who cares if you change your behavior only because you know you’re being watched, when watching yourself continuously is the whole point? ([Location 3094](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3094)) [Open in Readwise](https://readwise.io/open/54387655) ^rw54387655
+    - Date:: [[March 2nd, 2020, Monday]]
+- A second benefit to experimental habit formation is that it passes the first and strictest filter we place on all incoming information: is this personally relevant to me? ([Location 3098](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3098)) [Open in Readwise](https://readwise.io/open/54387656) ^rw54387656
+    - Date:: [[March 2nd, 2020, Monday]]
+- One of the most common accusations leveled against self-tracking is that it lacks context. ([Location 3115](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3115)) [Open in Readwise](https://readwise.io/open/54387657) ^rw54387657
+    - Date:: [[March 2nd, 2020, Monday]]
+- We are all victims, at some point in our lives and especially in our most unique traits, of the Ecological Fallacy — inferences about us made from inferences about a group to which we belong, which are then turned into individual prescriptions presented as objective facts. ([Location 3133](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3133)) [Open in Readwise](https://readwise.io/open/54387658) ^rw54387658
+    - Date:: [[March 2nd, 2020, Monday]]
+- Creating one’s own context for a life change is difficult, but crucial, as numerous studies have shown that people are more likely to achieve goals they set for themselves ([Location 3137](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3137)) [Open in Readwise](https://readwise.io/open/54387659) ^rw54387659
+    - Date:: [[March 2nd, 2020, Monday]]
+- avid QSer Bob Troia says of his experience with self-tracking: “I thought I felt great, and then you realize that you’ve sort of been going through life for a while with the parking brake on…And when you start fixing all of those areas, you’re like, ‘Wow! I didn’t realize.’ It wasn’t that I felt bad, I just didn’t realize I could, I should be feeling better.” ([Location 3141](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3141)) [Open in Readwise](https://readwise.io/open/54387660) ^rw54387660
+    - Date:: [[March 2nd, 2020, Monday]]
+- Explicit rewards have been shown to do more harm than good in anything but routine, repetitive tasks. They reduce not only performance, but also risk-taking and creativity. ([Location 3148](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3148)) [Open in Readwise](https://readwise.io/open/54387661) ^rw54387661
+    - Date:: [[March 2nd, 2020, Monday]]
+- in spite of our illusion of autonomy, most learning is social learning. Even in an especially self-motivated and science-literate group like QS, most new behaviors are picked up by watching others try and fail, and occasionally succeed. ([Location 3164](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3164)) [Open in Readwise](https://readwise.io/open/54387662) ^rw54387662
+    - Date:: [[March 2nd, 2020, Monday]]
+- an experimental approach limits the risk to one’s sense of self-efficacy, which I described previously as the single greatest barrier to behavior change. ([Location 3185](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3185)) [Open in Readwise](https://readwise.io/open/54387663) ^rw54387663
+    - Date:: [[March 2nd, 2020, Monday]]
+- avoid analysis paralysis and lower the stakes by making new experiments just part of the routine, not some pivotal crossroads. ([Location 3198](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3198)) [Open in Readwise](https://readwise.io/open/54387664) ^rw54387664
+    - Date:: [[March 2nd, 2020, Monday]]
+- It is a terrible feeling to fail, and not know why. But in some ways it’s even worse to succeed, and not know why. Was this a fluke, or did you just uncover a fundamental new truth about yourself? Success is a terrible thing to waste, because it’s so rare. ([Location 3202](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3202)) [Open in Readwise](https://readwise.io/open/54387665) ^rw54387665
+    - Date:: [[March 2nd, 2020, Monday]]
+- As Lewis Hyde explains in The Gift, imagination has a half-life: “…when possible futures are given and not acted upon, then the imagination recedes. And without the imagination we can do no more than spin the future out of the logic of the present; we will never be led into new life because we can work only from the known.” ([Location 3220](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3220)) [Open in Readwise](https://readwise.io/open/54387666) ^rw54387666
+    - Date:: [[March 2nd, 2020, Monday]]
+- Meta-Skills, Macro-Laws, and the Power of Constraints ([Location 3231](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3231)) [Open in Readwise](https://readwise.io/open/54387667) ^rw54387667
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nearly every science-fiction novel seems to agree on one thing: in the future, work will be indistinguishable from art. ([Location 3232](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3232)) [Open in Readwise](https://readwise.io/open/54387668) ^rw54387668
+    - Date:: [[March 2nd, 2020, Monday]]
+- “The opposite of every great truth is also true.” But with an asterisk: as long as you know thyself well enough to understand how it is true for you. An ounce of self-knowledge is worth a ton of productivity advice, in this respect, because it starts to reveal this mirror-image landscape of performance. ([Location 3248](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3248)) [Open in Readwise](https://readwise.io/open/54387669) ^rw54387669
+    - Date:: [[March 2nd, 2020, Monday]]
+- The catch, of course, is that you can’t proceed directly to self-knowledge. It may be stored in the form of abstract principles, but you still need the individual lessons. ([Location 3251](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3251)) [Open in Readwise](https://readwise.io/open/54387670) ^rw54387670
+    - Date:: [[March 2nd, 2020, Monday]]
+- The ultimate purpose of productivity and self-improvement frameworks is thus to help you gain self-knowledge through the medium of practical lessons in getting shit done. ([Location 3254](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3254)) [Open in Readwise](https://readwise.io/open/54387671) ^rw54387671
+    - Date:: [[March 2nd, 2020, Monday]]
+- If “meta-learning” is learning how to learn, then meta-skills in this context involve “learning how to work.” Meta-skills are the skills you need to leverage other skills. ([Location 3261](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3261)) [Open in Readwise](https://readwise.io/open/54387672) ^rw54387672
+    - Date:: [[March 2nd, 2020, Monday]]
+- Meta-skill (n): a skill that allows one to leverage other skills, made up of practical knowledge tied to an internal sense of self-efficacy ([Location 3282](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3282)) [Open in Readwise](https://readwise.io/open/54387673) ^rw54387673
+    - Date:: [[March 2nd, 2020, Monday]]
+- This is perhaps a different way of thinking about productivity — as a portfolio of learnable meta-capabilities that are mixed and matched to produce situational, non-linear performance. ([Location 3298](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3298)) [Open in Readwise](https://readwise.io/open/54387674) ^rw54387674
+    - Date:: [[March 2nd, 2020, Monday]]
+- If meta-skills are the tools of survival, helping you stay alive long enough to find shelter, food, and water, then macro-laws are the map you’ll need to find your way to more interesting places. ([Location 3310](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3310)) [Open in Readwise](https://readwise.io/open/54387675) ^rw54387675
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sometimes these macro-laws take the form of simple rules of thumb: “I’m more productive in the morning” or “I prefer a distraction-free environment.” ([Location 3315](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3315)) [Open in Readwise](https://readwise.io/open/54387676) ^rw54387676
+    - Date:: [[March 2nd, 2020, Monday]]
+- But the most consequential ones shape the future of one’s career and life, painting possible choices in broad strokes: “I’m more right-brained than left-brained.” “I need a job that is predictable, where I can control things.” ([Location 3317](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3317)) [Open in Readwise](https://readwise.io/open/54387677) ^rw54387677
+    - Date:: [[March 2nd, 2020, Monday]]
+- The most extensive and explicit example of personal macro-laws I know of is Buster Benson’s wonderful Book of Beliefs. He lists his metabeliefs, perceptions, opinions, and predictions in the form of an annually updated, open-source Github repository. ([Location 3319](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3319)) [Open in Readwise](https://readwise.io/open/54387678) ^rw54387678
+    - Date:: [[March 2nd, 2020, Monday]]
+- The example beliefs I listed above may seem trivial, but dealing in such constraints is playing with fire. Because there is very little, and perhaps no difference, between a genuine nugget of self-knowledge and what’s known as a “limiting belief.” ([Location 3323](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3323)) [Open in Readwise](https://readwise.io/open/54387679) ^rw54387679
+    - Date:: [[March 2nd, 2020, Monday]]
+- A constraint that in one situation saves you from risk, in another situation limits your possibilities. This is why the skill of constantly formulating, discarding, testing, and refining macro-laws may be the most “meta” productivity skill of all. ([Location 3325](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3325)) [Open in Readwise](https://readwise.io/open/54387680) ^rw54387680
+    - Date:: [[March 2nd, 2020, Monday]]
+- self-discovery is more than simply accumulating accurate descriptive facts about oneself. The goal is to define the direction of further study by “picking out a range of situations that occur frequently or involve possibilities that lever the system onto new paths.” ([Location 3335](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3335)) [Open in Readwise](https://readwise.io/open/54387681) ^rw54387681
+    - Date:: [[March 2nd, 2020, Monday]]
+- it takes creativity, intuition, and deep self-knowledge to formulate new macro-laws about ourselves that both fit our past and current identity, and simultaneously guide our future in interesting directions. ([Location 3343](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3343)) [Open in Readwise](https://readwise.io/open/54387682) ^rw54387682
+    - Date:: [[March 2nd, 2020, Monday]]
+- it is deep immersion in the messy details of experiments, contending in hand-to-hand combat with the subtleties and ambiguities and exceptions unique to each one, that produces the best breakthroughs. Not the actual outcome. ([Location 3351](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3351)) [Open in Readwise](https://readwise.io/open/54387683) ^rw54387683
+    - Date:: [[March 2nd, 2020, Monday]]
+- The paper Statistical Inference for Individual Organism Research: Mixed Blessing or Curse? argues that the introduction of inferential statistics into the field of experimental psychology in the 1970’s not only failed to produce breakthroughs (as one might expect), but actually held the field back. The explanation offered is that, in the “old days,” researchers had to create experimental controls — finely tuned counterbalances to independent variables. This process, while tedious and time-consuming, produced great insights: The prolonged and intense interaction with the subject matter undertaken in order to experimentally control irrelevant sources of variation probably constituted a rich source of ideas for further experimentation. ([Location 3354](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3354)) [Open in Readwise](https://readwise.io/open/54387684) ^rw54387684
+    - Date:: [[March 2nd, 2020, Monday]]
+- What qualifies as “better experimentation” when it comes to human behavior is whatever enhances this tip-of-the-fingers intuition, not whatever happens to lend itself to easier measurement. ([Location 3390](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3390)) [Open in Readwise](https://readwise.io/open/54387685) ^rw54387685
+    - Date:: [[March 2nd, 2020, Monday]]
+- Meta-skills are constraints on how you work, to better leverage your knowledge, intelligence, time, people, and other resources. Macro-laws are constraints on what you work on, limiting your search space to a direction most likely to be fruitful. ([Location 3394](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3394)) [Open in Readwise](https://readwise.io/open/54387686) ^rw54387686
+    - Date:: [[March 2nd, 2020, Monday]]
+- We tend to assume that increasing complexity must mean “adding more and more of something.” As bacteria become animals become humans (or data becomes information becomes knowledge), we look everywhere for that “something added.” ([Location 3427](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3427)) [Open in Readwise](https://readwise.io/open/54387687) ^rw54387687
+    - Date:: [[March 2nd, 2020, Monday]]
+- What if evolution is not a self-organizing process, but a self-simplifying process? ([Location 3429](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3429)) [Open in Readwise](https://readwise.io/open/54387688) ^rw54387688
+    - Date:: [[March 2nd, 2020, Monday]]
+- Is there any better definition of productivity? We learn meta-skills to perform higher-leverage work, but the best source of leverage is creating new constraints — new macro-laws. These macro-laws channel our energy more efficiently, giving us the surplus resources to acquire yet more skills. Improving one’s productivity is not a self-organizing process, but a self-simplifying one. ([Location 3441](https://readwise.io/to_kindle?action=open&asin=B075VXH7ZL&location=3441)) [Open in Readwise](https://readwise.io/open/54387689) ^rw54387689
+    - Date:: [[March 2nd, 2020, Monday]]

@@ -1,0 +1,11 @@
+{
+  "calendarSources": [
+    {
+      "type": "gcal",
+      "color": "#483699",
+      "url": "ZGV4dGVyLnN0cGllcnJlQGdtYWlsLmNvbQ"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": false
+}

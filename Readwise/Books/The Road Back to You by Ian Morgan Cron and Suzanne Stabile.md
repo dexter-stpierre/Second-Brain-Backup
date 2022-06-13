@@ -1,0 +1,860 @@
+---
+aliases: [The Road Back to You, The Road Back to You]
+author: Ian Morgan Cron and Suzanne Stabile
+---
+# The Road Back to You by Ian Morgan Cron and Suzanne Stabile
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51DxhoYt3eL._SL200_.jpg)
+
+## Metadata
+- Author: [[Ian Morgan Cron and Suzanne Stabile]]
+- Full Title: The Road Back to You
+- Category: #books
+- Source: [[{source}]]
+
+## Highlights
+### New highlights synced
+- “They don’t question the lens through which they see the world—where it came from, how it’s shaped their lives, or even if the vision of reality it gives them is distorted or true. ([Location 130](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=130)) [Open in Readwise](https://readwise.io/open/54386756) ^rw54386756
+    - Date:: [[March 2nd, 2020, Monday]]
+- most people aren’t aware of how things that helped them survive as kids are now holding them back as adults. ([Location 131](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=131)) [Open in Readwise](https://readwise.io/open/54386757) ^rw54386757
+    - Date:: [[March 2nd, 2020, Monday]]
+- “What we don’t know about ourselves can and will hurt us, not to mention others,” ([Location 135](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=135)) [Open in Readwise](https://readwise.io/open/54386758) ^rw54386758
+    - Date:: [[March 2nd, 2020, Monday]]
+- “As long as we stay in the dark about how we see the world and the wounds and beliefs that have shaped who we are, we’re prisoners of our history. ([Location 136](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=136)) [Open in Readwise](https://readwise.io/open/54386759) ^rw54386759
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eventually we become so accustomed to making the same mistakes over and over in our lives that they lull us to sleep. We need to wake up.” ([Location 138](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=138)) [Open in Readwise](https://readwise.io/open/54386760) ^rw54386760
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Working with the Enneagram helps people develop the kind of self-knowledge they need to understand who they are and why they see and relate to the world the way they do,” Br. Dave continued. “When that happens you can start to get out of your own way and become more of the person God created you to be.” ([Location 139](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=139)) [Open in Readwise](https://readwise.io/open/54386761) ^rw54386761
+    - Date:: [[March 2nd, 2020, Monday]]
+- “without knowledge of self there is no knowledge of God.” ([Location 143](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=143)) [Open in Readwise](https://readwise.io/open/54386762) ^rw54386762
+    - Date:: [[March 2nd, 2020, Monday]]
+- Do we really know ourselves? How much does our past interfere with our present? Do we see the world through our eyes or through those of the children we were? What are the hidden wounds and misguided beliefs we pick up as kids that continue to secretly govern our lives from the shadows? And how exactly would wrestling with questions like these help us better know God? ([Location 161](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=161)) [Open in Readwise](https://readwise.io/open/54386763) ^rw54386763
+    - Date:: [[March 2nd, 2020, Monday]]
+- “To know oneself is, above all, to know what one lacks. It is to measure oneself against Truth, and not the other way around. The first product of self-knowledge is humility,” he said. ([Location 169](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=169)) [Open in Readwise](https://readwise.io/open/54386764) ^rw54386764
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Sooner or later we must distinguish between what we are not and what we are. We must accept the fact that we are not what we would like to be. We must cast off our false, exterior self like the cheap and showy garment that it is . . .” ([Location 182](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=182)) [Open in Readwise](https://readwise.io/open/54386765) ^rw54386765
+    - Date:: [[March 2nd, 2020, Monday]]
+- “We must find our real self, in all its elemental poverty, but also in its great and very simple dignity: created to be the child of God, and capable of loving with something of God’s own sincerity and his unselfishness.” ([Location 185](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=185)) [Open in Readwise](https://readwise.io/open/54386766) ^rw54386766
+    - Date:: [[March 2nd, 2020, Monday]]
+- May you recognize in your life the presence, power, and light of your soul. May you realize that you are never alone, that your soul in its brightness and belonging connects you intimately with the rhythm of the universe. May you have respect for your individuality and difference. May you realize that the shape of your soul is unique, that you have a special destiny here, that behind the façade of your life there is something beautiful and eternal happening. May you learn to see your self with the same delight, pride, and expectation with which God sees you in every moment. ([Location 194](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=194)) [Open in Readwise](https://readwise.io/open/54386767) ^rw54386767
+    - Date:: [[March 2nd, 2020, Monday]]
+- The self-understanding I have gained from it has helped me put an end to a few childish ways and become a more spiritual adult. ([Location 204](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=204)) [Open in Readwise](https://readwise.io/open/54386768) ^rw54386768
+    - Date:: [[March 2nd, 2020, Monday]]
+- Human beings are wired for survival. As little kids we instinctually place a mask called personality over parts of our authentic self to protect us from harm and make our way in the world. ([Location 251](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=251)) [Open in Readwise](https://readwise.io/open/54386769) ^rw54386769
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ironically, the term personality is derived from the Greek word for mask ( persona), reflecting our tendency to confuse the masks we wear with our true selves, even long after the threats of early childhood have passed. ([Location 256](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=256)) [Open in Readwise](https://readwise.io/open/54386770) ^rw54386770
+    - Date:: [[March 2nd, 2020, Monday]]
+- Worst of all, by overidentifying who we are with our personality we forget or lose touch with our authentic self—the beautiful essence of who we are. ([Location 260](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=260)) [Open in Readwise](https://readwise.io/open/54386771) ^rw54386771
+    - Date:: [[March 2nd, 2020, Monday]]
+- “The original, shimmering self gets buried so deep that most of us end up hardly living out of it at all. Instead we live out all the other selves, which we are constantly putting on and taking off like coats and hats against the world’s weather.” ([Location 261](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=261)) [Open in Readwise](https://readwise.io/open/54386772) ^rw54386772
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Before we can become who we really are, we must become conscious of the fact that the person who we think we are, here and now, is at best an impostor and a stranger.” ([Location 271](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=271)) [Open in Readwise](https://readwise.io/open/54386773) ^rw54386773
+    - Date:: [[March 2nd, 2020, Monday]]
+- The point of it is self-understanding and growing beyond the self-defeating dimensions of our personality, as well as improving relationships and growing in compassion for others. ([Location 277](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=277)) [Open in Readwise](https://readwise.io/open/54386774) ^rw54386774
+    - Date:: [[March 2nd, 2020, Monday]]
+- While your motivation and number never change, your behavior can be influenced by these other numbers, so much so that you can even look like one of them from time to time. ([Location 339](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=339)) [Open in Readwise](https://readwise.io/open/54386775) ^rw54386775
+    - Date:: [[March 2nd, 2020, Monday]]
+- These are the numbers on either side of your number. You may lean toward one of these two wing numbers and pick up some of its characteristic energy and traits. ([Location 342](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=342)) [Open in Readwise](https://readwise.io/open/54386776) ^rw54386776
+    - Date:: [[March 2nd, 2020, Monday]]
+- Your stress number is the number your personality moves toward when you are overtaxed, under fire, or in the paint aisle at Home Depot with an equivocating friend or partner. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=345)) [Open in Readwise](https://readwise.io/open/54386777) ^rw54386777
+    - Date:: [[March 2nd, 2020, Monday]]
+- Your security number indicates the type your personality moves toward and draws energy and resources from when you’re feeling secure. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=352)) [Open in Readwise](https://readwise.io/open/54386778) ^rw54386778
+    - Date:: [[March 2nd, 2020, Monday]]
+- Once you become familiar with this material you can know and catch yourself when you’re heading in the direction of a breakthrough or a breakdown, and make wiser choices than in the past. ([Location 356](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=356)) [Open in Readwise](https://readwise.io/open/54386779) ^rw54386779
+    - Date:: [[March 2nd, 2020, Monday]]
+- “It is my belief no man ever understands quite his own artful dodges to escape from the grim shadow of self-knowledge.” Joseph Conrad ([Location 366](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=366)) [Open in Readwise](https://readwise.io/open/54386780) ^rw54386780
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Sins are fixations that prevent the energy of life, God’s love, from flowing freely. [They are] self-erected blockades that cut us off from God and hence from our own authentic potential.” ([Location 369](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=369)) [Open in Readwise](https://readwise.io/open/54386781) ^rw54386781
+    - Date:: [[March 2nd, 2020, Monday]]
+- We all have our preferred ways of circumventing God to get what we want, and unless we own and face them head-on they will one day turn our lives into nettled messes. ([Location 371](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=371)) [Open in Readwise](https://readwise.io/open/54386782) ^rw54386782
+    - Date:: [[March 2nd, 2020, Monday]]
+- Every Enneagram number has a unique “passion” or deadly sin that drives that number’s behavior. ([Location 373](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=373)) [Open in Readwise](https://readwise.io/open/54386783) ^rw54386783
+    - Date:: [[March 2nd, 2020, Monday]]
+- Each personality’s deadly sin is like an addictive, involuntarily repeated behavior that we can only be free of when we recognize how often we give it the keys to drive our personality. ([Location 376](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=376)) [Open in Readwise](https://readwise.io/open/54386784) ^rw54386784
+    - Date:: [[March 2nd, 2020, Monday]]
+- The true purpose of the Enneagram is to reveal to you your shadow side and offer spiritual counsel on how to open it to the transformative light of grace. ([Location 384](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=384)) [Open in Readwise](https://readwise.io/open/54386785) ^rw54386785
+    - Date:: [[March 2nd, 2020, Monday]]
+- “No one should work with the Enneagram if what they seek is flattery. But no one should fail to do so if what they seek is deep knowing of self,” ([Location 386](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=386)) [Open in Readwise](https://readwise.io/open/54386786) ^rw54386786
+    - Date:: [[March 2nd, 2020, Monday]]
+- know thyself. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=428)) [Open in Readwise](https://readwise.io/open/54386787) ^rw54386787
+    - Date:: [[March 2nd, 2020, Monday]]
+- If anything, once you know your Enneagram number it takes away any excuse you might have for not changing. Now you know too much to cop the “This is just who I am so deal with it” plea. ([Location 446](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=446)) [Open in Readwise](https://readwise.io/open/54386788) ^rw54386788
+    - Date:: [[March 2nd, 2020, Monday]]
+- Information is not transformation.” ([Location 449](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=449)) [Open in Readwise](https://readwise.io/open/54386789) ^rw54386789
+    - Date:: [[March 2nd, 2020, Monday]]
+- This is helpful information so long as you don’t waste your time trying to accomplish any of it apart from the transformative power of God’s grace. ([Location 454](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=454)) [Open in Readwise](https://readwise.io/open/54386790) ^rw54386790
+    - Date:: [[March 2nd, 2020, Monday]]
+- Motivation is what matters! To find your number ask yourself why you do the things you do. ([Location 467](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=467)) [Open in Readwise](https://readwise.io/open/54386791) ^rw54386791
+    - Date:: [[March 2nd, 2020, Monday]]
+- It will help you identify your type if, as you read along, you think back to what you were like at age twenty rather than who you are now. ([Location 468](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=468)) [Open in Readwise](https://readwise.io/open/54386792) ^rw54386792
+    - Date:: [[March 2nd, 2020, Monday]]
+- “The truth will set you free, but not until it’s done with you.” ([Location 484](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=484)) [Open in Readwise](https://readwise.io/open/54386793) ^rw54386793
+    - Date:: [[March 2nd, 2020, Monday]]
+- The Enneagram should only be used to build others up and help them advance on their journey toward wholeness and God. Period. ([Location 490](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=490)) [Open in Readwise](https://readwise.io/open/54386794) ^rw54386794
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights lust after intensity—they are high-voltage human dynamos who want to be wherever the action and energy are, and if they can’t find any, they’ll cook it up. ([Location 564](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=564)) [Open in Readwise](https://readwise.io/open/54386795) ^rw54386795
+    - Date:: [[March 2nd, 2020, Monday]]
+- When Eights walk into a room you feel their presence before you see them. Their larger-than-life energy doesn’t fill a space; it owns it. ([Location 568](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=568)) [Open in Readwise](https://readwise.io/open/54386796) ^rw54386796
+    - Date:: [[March 2nd, 2020, Monday]]
+- The defining feature of an Eight is the overabundance of intense energy they radiate wherever they go. ([Location 574](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=574)) [Open in Readwise](https://readwise.io/open/54386797) ^rw54386797
+    - Date:: [[March 2nd, 2020, Monday]]
+- Anger is the dominant emotion in an Eight’s life. ([Location 581](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=581)) [Open in Readwise](https://readwise.io/open/54386798) ^rw54386798
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights assume others are untrustworthy until they’ve proven themselves otherwise. ([Location 582](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=582)) [Open in Readwise](https://readwise.io/open/54386799) ^rw54386799
+    - Date:: [[March 2nd, 2020, Monday]]
+- Their flashes of anger, however, are unconscious defense maneuvers to avoid acknowledging or revealing weakness or vulnerability. ([Location 585](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=585)) [Open in Readwise](https://readwise.io/open/54386800) ^rw54386800
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights use anger like a palisade to hide behind and defend the softer, more tender feelings of the open-hearted, innocent child they once were, the one they don’t want others to see. ([Location 586](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=586)) [Open in Readwise](https://readwise.io/open/54386801) ^rw54386801
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights don’t come equipped with dimmers. They are on or off, all in or all out. They “go big or go home.” ([Location 587](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=587)) [Open in Readwise](https://readwise.io/open/54386802) ^rw54386802
+    - Date:: [[March 2nd, 2020, Monday]]
+- This impulsive, all-or-nothing approach to life leaves Eights prone to being overindulgent and excessive. ([Location 589](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=589)) [Open in Readwise](https://readwise.io/open/54386803) ^rw54386803
+    - Date:: [[March 2nd, 2020, Monday]]
+- All this hot-blooded, passionate and combative energy can feel overwhelming and threatening to people who aren’t Eights. ([Location 592](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=592)) [Open in Readwise](https://readwise.io/open/54386804) ^rw54386804
+    - Date:: [[March 2nd, 2020, Monday]]
+- As strange as it sounds, what feels like intimidation to you feels like intimacy to an Eight. For them, conflict is connection. ([Location 595](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=595)) [Open in Readwise](https://readwise.io/open/54386805) ^rw54386805
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights see themselves as honest, straight-talking people who aren’t afraid to go nose to nose with whatever life throws at them and always leave everything on the field. ([Location 599](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=599)) [Open in Readwise](https://readwise.io/open/54386806) ^rw54386806
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights care deeply about justice and fairness. ([Location 601](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=601)) [Open in Readwise](https://readwise.io/open/54386807) ^rw54386807
+    - Date:: [[March 2nd, 2020, Monday]]
+- Having witnessed or experienced the negative consequences of powerlessness as a child, the Eight identifies with the easily preyed upon and rushes to their aid. ([Location 606](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=606)) [Open in Readwise](https://readwise.io/open/54386808) ^rw54386808
+    - Date:: [[March 2nd, 2020, Monday]]
+- In an Eight’s mind, you and I have opinions while they have facts. ([Location 610](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=610)) [Open in Readwise](https://readwise.io/open/54386809) ^rw54386809
+    - Date:: [[March 2nd, 2020, Monday]]
+- They reject taking a nuanced view of anything because not having clarity or absolute certainty about your position represents weakness or—God forbid—cowardice. ([Location 611](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=611)) [Open in Readwise](https://readwise.io/open/54386810) ^rw54386810
+    - Date:: [[March 2nd, 2020, Monday]]
+- A good old-fashioned verbal brawl gives them the opportunity to “get big” and disabuse people of any illusion they might previously have held about the Eight being weak. ([Location 614](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=614)) [Open in Readwise](https://readwise.io/open/54386811) ^rw54386811
+    - Date:: [[March 2nd, 2020, Monday]]
+- “You lose nothing when fighting for a cause. In my mind the losers are those who don’t have a cause to care about.” Muhammad Ali ([Location 618](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=618)) [Open in Readwise](https://readwise.io/open/54386812) ^rw54386812
+    - Date:: [[March 2nd, 2020, Monday]]
+- Each number has a signature communication style. ([Location 620](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=620)) [Open in Readwise](https://readwise.io/open/54386813) ^rw54386813
+    - Date:: [[March 2nd, 2020, Monday]]
+- The talk style of Eights is commanding. ([Location 621](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=621)) [Open in Readwise](https://readwise.io/open/54386814) ^rw54386814
+    - Date:: [[March 2nd, 2020, Monday]]
+- A common story Suzanne and I hear from Eights is that something happened in their formative years that required them to prematurely abandon their childlike innocence in order take responsibility for their own lives and often the lives of others. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=627)) [Open in Readwise](https://readwise.io/open/54386815) ^rw54386815
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights picked up the wounding message that “the world is a hostile place where only the strong survive, and the weak or innocent get emotionally beaten up or betrayed. So put on your armor and never let them see your soft side.” Eights worry a lot about betrayal. It’s why many of them won’t trust more than a small circle of friends over the course of their lives. ([Location 632](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=632)) [Open in Readwise](https://readwise.io/open/54386816) ^rw54386816
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights don’t feel like they have to be the person in control—they just don’t want to be controlled. ([Location 637](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=637)) [Open in Readwise](https://readwise.io/open/54386817) ^rw54386817
+    - Date:: [[March 2nd, 2020, Monday]]
+- unless they’re very unhealthy, Eights are not characteristically bullies. ([Location 660](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=660)) [Open in Readwise](https://readwise.io/open/54386818) ^rw54386818
+    - Date:: [[March 2nd, 2020, Monday]]
+- Young Eights will get in line when limits are placed on them, but their motive has less to do with pleasing and more with hoping they’ll be rewarded with more freedom and independence for good behavior. They don’t feel a need to conform, but they know when it’s to their advantage to follow the rules. These kids literally take over when it seems that no one else is at the helm, and they usually do a good job—so ([Location 665](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=665)) [Open in Readwise](https://readwise.io/open/54386819) ^rw54386819
+    - Date:: [[March 2nd, 2020, Monday]]
+- They need to remember that time in life when they didn’t need to be in charge or control to feel safe, when they could trust others to protect them. ([Location 671](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=671)) [Open in Readwise](https://readwise.io/open/54386820) ^rw54386820
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights want people to challenge them right back. ([Location 678](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=678)) [Open in Readwise](https://readwise.io/open/54386821) ^rw54386821
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights want the unvarnished truth. ([Location 695](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=695)) [Open in Readwise](https://readwise.io/open/54386822) ^rw54386822
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights want to be in control. ([Location 707](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=707)) [Open in Readwise](https://readwise.io/open/54386823) ^rw54386823
+    - Date:: [[March 2nd, 2020, Monday]]
+- Many Eights feel physically bigger and more powerful than they are, so they’ll place unreasonable demands on their bodies and put their health and well-being at risk. ([Location 722](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=722)) [Open in Readwise](https://readwise.io/open/54386824) ^rw54386824
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights need to be reminded that moderation is a virtue, not a restraining order. ([Location 724](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=724)) [Open in Readwise](https://readwise.io/open/54386825) ^rw54386825
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Aggressive fighting for the right is the noblest sport the world affords.” Theodore Roosevelt ([Location 725](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=725)) [Open in Readwise](https://readwise.io/open/54386826) ^rw54386826
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights have a tender side. ([Location 727](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=727)) [Open in Readwise](https://readwise.io/open/54386827) ^rw54386827
+    - Date:: [[March 2nd, 2020, Monday]]
+- A big problem for Eights is confusing vulnerability for weakness, ([Location 730](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=730)) [Open in Readwise](https://readwise.io/open/54386828) ^rw54386828
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights are eager to support people who want to realize their potential. ([Location 732](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=732)) [Open in Readwise](https://readwise.io/open/54386829) ^rw54386829
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights’ antagonism can sabotage their relationships. ([Location 738](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=738)) [Open in Readwise](https://readwise.io/open/54386830) ^rw54386830
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights are looking for an answer to the question “Can I trust me with you?” At the end of the day, they want to find someone with whom they can feel safe enough to relax their defenses and reveal their heart. ([Location 745](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=745)) [Open in Readwise](https://readwise.io/open/54386831) ^rw54386831
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights always want to know who has the power, so they will consistently challenge and test authority. ([Location 753](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=753)) [Open in Readwise](https://readwise.io/open/54386832) ^rw54386832
+    - Date:: [[March 2nd, 2020, Monday]]
+- That’s an Eight: hard driving, tough, decisive, innovative, resourceful and accomplishing what people say can’t be done. They just make things happen. ([Location 772](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=772)) [Open in Readwise](https://readwise.io/open/54386833) ^rw54386833
+    - Date:: [[March 2nd, 2020, Monday]]
+- When Eights are spiritually on the beam and self-aware, they are powerhouses: fearless, magnanimous, inspiring, energetic, supportive, loyal, self-confident, intuitive, committed and tolerant toward those who are weaker than they are. ([Location 809](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=809)) [Open in Readwise](https://readwise.io/open/54386834) ^rw54386834
+    - Date:: [[March 2nd, 2020, Monday]]
+- living behind a façade of bluster and toughness to mask one’s fear of emotional harm is cowardly, not courageous. Risking vulnerability and love is what takes courage. ([Location 819](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=819)) [Open in Readwise](https://readwise.io/open/54386835) ^rw54386835
+    - Date:: [[March 2nd, 2020, Monday]]
+- If Eights want to love and be loved they will have to risk opening their heart and revealing their innermost feelings to a trusted few. ([Location 825](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=825)) [Open in Readwise](https://readwise.io/open/54386836) ^rw54386836
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ten Paths to Transformation for Eights ([Location 829](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=829)) [Open in Readwise](https://readwise.io/open/54386837) ^rw54386837
+    - Date:: [[March 2nd, 2020, Monday]]
+- Watch out for and avoid black-and-white thinking. ([Location 832](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=832)) [Open in Readwise](https://readwise.io/open/54386838) ^rw54386838
+    - Date:: [[March 2nd, 2020, Monday]]
+- Broaden your definition of strength and courage to include vulnerability. ([Location 832](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=832)) [Open in Readwise](https://readwise.io/open/54386839) ^rw54386839
+    - Date:: [[March 2nd, 2020, Monday]]
+- In the heat of battle, stop and ask yourself, What if I’m wrong? Say that a hundred times a day. ([Location 835](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=835)) [Open in Readwise](https://readwise.io/open/54386840) ^rw54386840
+    - Date:: [[March 2nd, 2020, Monday]]
+- When you power up and get angry, stop and ask yourself whether you’re trying to hide or deny a vulnerable feeling. ([Location 838](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=838)) [Open in Readwise](https://readwise.io/open/54386841) ^rw54386841
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sometimes I get lost in doing trivial tasks, while things that really need to get done get put off. ([Location 843](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=843)) [Open in Readwise](https://readwise.io/open/54386842) ^rw54386842
+    - Date:: [[March 2nd, 2020, Monday]]
+- I’m happy to go along with what others want to do. ([Location 844](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=844)) [Open in Readwise](https://readwise.io/open/54386843) ^rw54386843
+    - Date:: [[March 2nd, 2020, Monday]]
+- I tend to procrastinate. ([Location 845](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=845)) [Open in Readwise](https://readwise.io/open/54386844) ^rw54386844
+    - Date:: [[March 2nd, 2020, Monday]]
+- When I get distracted and go off task I give my attention to whatever is happening right in front of me. ([Location 845](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=845)) [Open in Readwise](https://readwise.io/open/54386845) ^rw54386845
+    - Date:: [[March 2nd, 2020, Monday]]
+- I often choose the path of least resistance. ([Location 846](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=846)) [Open in Readwise](https://readwise.io/open/54386846) ^rw54386846
+    - Date:: [[March 2nd, 2020, Monday]]
+- Others see me as more peaceful than I really am. ([Location 848](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=848)) [Open in Readwise](https://readwise.io/open/54386847) ^rw54386847
+    - Date:: [[March 2nd, 2020, Monday]]
+- I have a hard time getting started, but once I do I really get things done. ([Location 848](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=848)) [Open in Readwise](https://readwise.io/open/54386848) ^rw54386848
+    - Date:: [[March 2nd, 2020, Monday]]
+- I’m a “what you see is what you get” person. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=849)) [Open in Readwise](https://readwise.io/open/54386849) ^rw54386849
+    - Date:: [[March 2nd, 2020, Monday]]
+- I don’t think of myself as being very important. ([Location 849](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=849)) [Open in Readwise](https://readwise.io/open/54386850) ^rw54386850
+    - Date:: [[March 2nd, 2020, Monday]]
+- People think I’m a good listener even though I find it hard to pay attention in a long conversation. ([Location 850](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=850)) [Open in Readwise](https://readwise.io/open/54386851) ^rw54386851
+    - Date:: [[March 2nd, 2020, Monday]]
+- I don’t like to take work home with me. ([Location 850](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=850)) [Open in Readwise](https://readwise.io/open/54386852) ^rw54386852
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sometimes I tune out and think about the past. ([Location 851](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=851)) [Open in Readwise](https://readwise.io/open/54386853) ^rw54386853
+    - Date:: [[March 2nd, 2020, Monday]]
+- Being outdoors is very soothing for me. ([Location 852](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=852)) [Open in Readwise](https://readwise.io/open/54386854) ^rw54386854
+    - Date:: [[March 2nd, 2020, Monday]]
+- I am often quietly stubborn when people put demands on me. ([Location 852](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=852)) [Open in Readwise](https://readwise.io/open/54386855) ^rw54386855
+    - Date:: [[March 2nd, 2020, Monday]]
+- Healthy Nines are natural mediators. ([Location 858](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=858)) [Open in Readwise](https://readwise.io/open/54386856) ^rw54386856
+    - Date:: [[March 2nd, 2020, Monday]]
+- They see and value the perspective of other people and can harmonize what seem to be irreconcilable points of view. ([Location 858](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=858)) [Open in Readwise](https://readwise.io/open/54386857) ^rw54386857
+    - Date:: [[March 2nd, 2020, Monday]]
+- These Nines are seldom attached to their own way of seeing and doing things. ([Location 860](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=860)) [Open in Readwise](https://readwise.io/open/54386858) ^rw54386858
+    - Date:: [[March 2nd, 2020, Monday]]
+- They’ve learned to make decisions based on the right priorities. They are inspiring, self-actualized people. ([Location 860](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=860)) [Open in Readwise](https://readwise.io/open/54386859) ^rw54386859
+    - Date:: [[March 2nd, 2020, Monday]]
+- Though they generally feel unimportant, they occasionally wake up and realize they have to work on investing in themselves. ([Location 862](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=862)) [Open in Readwise](https://readwise.io/open/54386860) ^rw54386860
+    - Date:: [[March 2nd, 2020, Monday]]
+- They are willing to stand up for justice on behalf of others but would not likely risk doing much to stand up for themselves. ([Location 863](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=863)) [Open in Readwise](https://readwise.io/open/54386861) ^rw54386861
+    - Date:: [[March 2nd, 2020, Monday]]
+- They don’t ask for much though they appreciate what others do for them. ([Location 864](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=864)) [Open in Readwise](https://readwise.io/open/54386862) ^rw54386862
+    - Date:: [[March 2nd, 2020, Monday]]
+- To dull feelings of sadness and anger they engage in numbing behaviors. ([Location 865](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=865)) [Open in Readwise](https://readwise.io/open/54386863) ^rw54386863
+    - Date:: [[March 2nd, 2020, Monday]]
+- When our personalities are on autopilot they lull us into a half-sleeping state in which we find ourselves trapped in the same habitual, repetitious patterns of mindless reactivity we’ve been caught up in since childhood. ([Location 877](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=877)) [Open in Readwise](https://readwise.io/open/54386864) ^rw54386864
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines suffer from a more aggressive form of somnambulism than other numbers. ([Location 879](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=879)) [Open in Readwise](https://readwise.io/open/54386865) ^rw54386865
+    - Date:: [[March 2nd, 2020, Monday]]
+- When Nines are spiritually mature they are chill, easygoing people who know how to relax and go with the flow of life. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=882)) [Open in Readwise](https://readwise.io/open/54386866) ^rw54386866
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines allow life to unfold naturally, and they offer others the freedom and space to grow in their own time and way. ([Location 884](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=884)) [Open in Readwise](https://readwise.io/open/54386867) ^rw54386867
+    - Date:: [[March 2nd, 2020, Monday]]
+- When overwhelmed with too many things to do, too many decisions to make or the upsetting prospect of change, Nines can slow to a crawl. ([Location 888](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=888)) [Open in Readwise](https://readwise.io/open/54386868) ^rw54386868
+    - Date:: [[March 2nd, 2020, Monday]]
+- Average Nines are disconnected from the passion and motivational drive necessary to rise up and live their “one wild and precious life.” ([Location 893](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=893)) [Open in Readwise](https://readwise.io/open/54386869) ^rw54386869
+    - Date:: [[March 2nd, 2020, Monday]]
+- Immature Nines don’t fully connect to the fire in the belly they need to chase after their God-given life and, as a result, fail to become their own person. ([Location 893](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=893)) [Open in Readwise](https://readwise.io/open/54386870) ^rw54386870
+    - Date:: [[March 2nd, 2020, Monday]]
+- For Nines, sloth has to do with their desire to not be overly bothered by life. They literally don’t… ([Location 896](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=896)) [Open in Readwise](https://readwise.io/open/54386871) ^rw54386871
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines are slothful when it comes to fully paying attention to their own lives, figuring out what they want in life, chasing their dreams, addressing their own needs,… ([Location 898](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=898)) [Open in Readwise](https://readwise.io/open/54386872) ^rw54386872
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines are out of touch with the good side of anger, the part that inspires, drives change, moves things along and gives them… ([Location 901](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=901)) [Open in Readwise](https://readwise.io/open/54386873) ^rw54386873
+    - Date:: [[March 2nd, 2020, Monday]]
+- This failure to risk fully engaging with life stems in part from the Nines’ need to avoid… ([Location 903](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=903)) [Open in Readwise](https://readwise.io/open/54386874) ^rw54386874
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines fear that expressing their preferences or asserting their agenda will put important relationships at risk and upset the… ([Location 905](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=905)) [Open in Readwise](https://readwise.io/open/54386875) ^rw54386875
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines so value feeling comfortable and tranquil, maintaining the status quo, and preserving connections with others that they set aside their own viewpoints and aspirations to merge with those of others. This doesn’t seem like a big deal for Peacemakers, who often grew up… ([Location 908](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=908)) [Open in Readwise](https://readwise.io/open/54386876) ^rw54386876
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sadly, they pay a price for their “go along to get along” philosophy of life and not pursuing a life worthy of their gifts and spirit… ([Location 912](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=912)) [Open in Readwise](https://readwise.io/open/54386877) ^rw54386877
+    - Date:: [[March 2nd, 2020, Monday]]
+- To cope with having countless things to do and not knowing where to start, to avoid the backlog of unanswered questions and postponed decisions crying out for their attention, to keep their anger out of view, and to buoy a low self-esteem, Nines have unhealthy coping strategies. They will often turn to food, sex, drinking, exercise, shopping, the reassuring comfort of habits and routines, performing mindless busywork, or vegging out on the couch and watching TV to numb out and ignore their feelings, wants and desires. What… ([Location 914](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=914)) [Open in Readwise](https://readwise.io/open/54386878) ^rw54386878
+    - Date:: [[March 2nd, 2020, Monday]]
+- on the Enneagram any number’s blight is merely a distortion of that… ([Location 919](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=919)) [Open in Readwise](https://readwise.io/open/54386879) ^rw54386879
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines share several common traits that characterize them as a group, like self-forgetting, difficulty making decisions and a… ([Location 922](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=922)) [Open in Readwise](https://readwise.io/open/54386880) ^rw54386880
+    - Date:: [[March 2nd, 2020, Monday]]
+- All three numbers in the Anger Triad are… ([Location 926](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=926)) [Open in Readwise](https://readwise.io/open/54386881) ^rw54386881
+    - Date:: [[March 2nd, 2020, Monday]]
+- Eights forget rest and self-care, Ones forget to kick back and have fun more often, and Nines forget their… ([Location 926](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=926)) [Open in Readwise](https://readwise.io/open/54386882) ^rw54386882
+    - Date:: [[March 2nd, 2020, Monday]]
+- To avoid kicking up a hornet’s nest in their relationships, unevolved Nines neglect their soul’s summons to identify, name and assert what they want in life and to go hard after it. In fact, they can merge so deeply with the life program and identity of another that they eventually… ([Location 928](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=928)) [Open in Readwise](https://readwise.io/open/54386883) ^rw54386883
+    - Date:: [[March 2nd, 2020, Monday]]
+- Perched at the summit of the Enneagram, Nines enjoy an unobstructed view of the world. From this vantage point they not only have the benefit of seeing the world the way every other number sees it, but they also naturally incorporate into themselves a measure of the core characteristic strengths associated with every type. As Riso and Hudson observe, Nines can embody the idealism of Ones, the kindness of Twos, the attractiveness of Threes, the creativity of Fours, the intellectual horsepower of Fives, the loyalty of Sixes, the optimism and adventurousness of Sevens, and the strength of Eights. Unfortunately, from this privileged position… ([Location 931](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=931)) [Open in Readwise](https://readwise.io/open/54386884) ^rw54386884
+    - Date:: [[March 2nd, 2020, Monday]]
+- Because they can see through the eyes of every other number and are therefore unclear about who they are and what they want, Nines drop their healthy boundaries to fuse with a more assertive partner, whom they idealize and… ([Location 936](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=936)) [Open in Readwise](https://readwise.io/open/54386885) ^rw54386885
+    - Date:: [[March 2nd, 2020, Monday]]
+- Because they feel unimportant and as if they’re not special enough to matter or change anything, Nines are… ([Location 940](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=940)) [Open in Readwise](https://readwise.io/open/54386886) ^rw54386886
+    - Date:: [[March 2nd, 2020, Monday]]
+- As Enneagram teacher Lynette Sheppard writes, “Being with a Nine can feel like falling into a… ([Location 942](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=942)) [Open in Readwise](https://readwise.io/open/54386887) ^rw54386887
+    - Date:: [[March 2nd, 2020, Monday]]
+- Average Nines have less stamina and energy than any other number on the Enneagram. They can take off like a rocket on a project, but then halfway into flight they succumb to inertia and… ([Location 945](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=945)) [Open in Readwise](https://readwise.io/open/54386888) ^rw54386888
+    - Date:: [[March 2nd, 2020, Monday]]
+- To avoid conflict and inner turmoil, Nines fall asleep to their anger. This doesn’t mean it disappears, only that they have to work hard to contain it and keep it out of their own view… ([Location 949](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=949)) [Open in Readwise](https://readwise.io/open/54386889) ^rw54386889
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines also have to erect and maintain not one but two boundaries—the first to defend their peaceful center from being negatively affected by the outer world, and the second to defend their serene interior against being… ([Location 951](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=951)) [Open in Readwise](https://readwise.io/open/54386890) ^rw54386890
+    - Date:: [[March 2nd, 2020, Monday]]
+- No wonder they feel inexplicably tired so much of the time. So tired that when they’re not actively performing a task and they momentarily sit down to take a break… ([Location 954](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=954)) [Open in Readwise](https://readwise.io/open/54386891) ^rw54386891
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sometimes you’ll spot a Nine staring detachedly into the middle distance as if they’ve checked out and fallen into a dreamy trancelike state. They have. When Nines feel overwhelmed—like when a conflict threatens to arise or people are telling them what to do—or sometimes for no discernible reason at all, they tune out and withdraw into a place in their mind that Enneagram teachers call the Nine’s “inner sanctum.” At these moments Nines uncouple from their anger and life energy and ignore the call to take action on something. Nines tell… ([Location 956](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=956)) [Open in Readwise](https://readwise.io/open/54386892) ^rw54386892
+    - Date:: [[March 2nd, 2020, Monday]]
+- If Nines fall too deeply into this hazy trance, they become increasingly absent-minded and less productive, which only causes more… ([Location 962](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=962)) [Open in Readwise](https://readwise.io/open/54386893) ^rw54386893
+    - Date:: [[March 2nd, 2020, Monday]]
+- Because they sometimes lack drive and focus, average Nines often become… ([Location 964](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=964)) [Open in Readwise](https://readwise.io/open/54386894) ^rw54386894
+    - Date:: [[March 2nd, 2020, Monday]]
+- Conversations with Nines are delightful as long as they don’t switch over to cruise control. You’ll know a Nine has done this when, after asking them how their day went, they launch into a long, drawn-out story containing… ([Location 965](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=965)) [Open in Readwise](https://readwise.io/open/54386895) ^rw54386895
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines frequently feel torn between wanting to please others and wanting to defy them. ([Location 972](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=972)) [Open in Readwise](https://readwise.io/open/54386896) ^rw54386896
+    - Date:: [[March 2nd, 2020, Monday]]
+- Because there are so many angles from which to examine an issue, so many factors to take into consideration, and so many pros and cons to fret over, Nines often never get around to deciding. ([Location 977](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=977)) [Open in Readwise](https://readwise.io/open/54386897) ^rw54386897
+    - Date:: [[March 2nd, 2020, Monday]]
+- the more you pressure a Nine to make a decision or do something the more they quietly dig their heels in and resist. ([Location 980](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=980)) [Open in Readwise](https://readwise.io/open/54386898) ^rw54386898
+    - Date:: [[March 2nd, 2020, Monday]]
+- people who love a Nine would do well to offer them a limited set of options from which to select. ([Location 988](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=988)) [Open in Readwise](https://readwise.io/open/54386899) ^rw54386899
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines already feel that their preferences and presence matter less than other people’s. The last thing they need is for you and I to cosign that BS. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=994)) [Open in Readwise](https://readwise.io/open/54386900) ^rw54386900
+    - Date:: [[March 2nd, 2020, Monday]]
+- Their ability to see two sides to everything makes them natural mediators—and the kind of person everyone assumes is on their side. ([Location 997](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=997)) [Open in Readwise](https://readwise.io/open/54386901) ^rw54386901
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines are so good at seeing and identifying with every viewpoint that people often walk away from them feeling the Nine not only understood them but also agreed with them, even though the Nine never actually came out and said so. ([Location 1003](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1003)) [Open in Readwise](https://readwise.io/open/54386902) ^rw54386902
+    - Date:: [[March 2nd, 2020, Monday]]
+- Understand that seeing and acknowledging both points of view is the average Nine’s way of not having to take a stand and experience conflict or disconnection. ([Location 1011](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1011)) [Open in Readwise](https://readwise.io/open/54386903) ^rw54386903
+    - Date:: [[March 2nd, 2020, Monday]]
+- A task for growing Nines is to discern and declare which of two viewpoints is correct from their point of view. ([Location 1014](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1014)) [Open in Readwise](https://readwise.io/open/54386904) ^rw54386904
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines have to learn how to identify, give voice to and stick to their own point of view regardless of how much pressure they feel to change it in the moment to appease others. ([Location 1016](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1016)) [Open in Readwise](https://readwise.io/open/54386905) ^rw54386905
+    - Date:: [[March 2nd, 2020, Monday]]
+- Since all undertakings seem equally important to Nines, it’s hard for them to decide what to tackle first. ([Location 1019](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1019)) [Open in Readwise](https://readwise.io/open/54386906) ^rw54386906
+    - Date:: [[March 2nd, 2020, Monday]]
+- Some Nines will resent it and go all subtly stubborn on you if you insist they start using a list, but without one they pose a threat to the civilian population at-large. ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1021)) [Open in Readwise](https://readwise.io/open/54386907) ^rw54386907
+    - Date:: [[March 2nd, 2020, Monday]]
+- Although Nines seem to tread in ambivalence, there are times when they know exactly what they have to do and they do it, regardless of the controversy or conflict it will cause or how much it will cost them personally. At these moments Nines are acting on the basis of conviction. In the literature of the Enneagram this is called “right action.” ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1023)) [Open in Readwise](https://readwise.io/open/54386908) ^rw54386908
+    - Date:: [[March 2nd, 2020, Monday]]
+- Watershed moments of this magnitude will only present themselves a handful of times in a Nine’s life, but as they work on themselves they can begin to take similarly bold actions in smaller matters. They can find the courage to initiate an uncomfortable conversation, go back to grad school to earn the degree and pursue the career they’ve always wanted, or refuse to bow to pressure from colleagues who want them to change position on a business matter. ([Location 1038](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1038)) [Open in Readwise](https://readwise.io/open/54386909) ^rw54386909
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines are loaded with unresolved anger, but they’re afraid the experience of letting it out will prove too overwhelming, so they fall asleep to it. ([Location 1049](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1049)) [Open in Readwise](https://readwise.io/open/54386910) ^rw54386910
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines harbor resentments going back to childhood or more recently for having sacrificed their own agenda or dreams to support yours or the kids’. ([Location 1050](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1050)) [Open in Readwise](https://readwise.io/open/54386911) ^rw54386911
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines don’t forget real or perceived slights, but because they’re conflict avoidant they will rarely express their anger openly. ([Location 1054](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1054)) [Open in Readwise](https://readwise.io/open/54386912) ^rw54386912
+    - Date:: [[March 2nd, 2020, Monday]]
+- Stubbornness is the Nine’s go-to passive-aggressive behavior, particularly when they feel like they’re being pressured into agreeing to a plan or doing something they don’t want to do. ([Location 1062](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1062)) [Open in Readwise](https://readwise.io/open/54386913) ^rw54386913
+    - Date:: [[March 2nd, 2020, Monday]]
+- When faced with having to wake up and address their own priorities, Nines will sometimes focus on inessential tasks and leave the more essential ones until last. ([Location 1075](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1075)) [Open in Readwise](https://readwise.io/open/54386914) ^rw54386914
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines are easily pulled away by distractions. Everyone else’s priorities are more important than theirs, and such distractions are a great way to self-forget and avoid the pain of not knowing what you want in life. ([Location 1084](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1084)) [Open in Readwise](https://readwise.io/open/54386915) ^rw54386915
+    - Date:: [[March 2nd, 2020, Monday]]
+- We all need friends or a partner who can ask us questions that wake us out of the trance of our particular number. “Are you still on task?” is a good question to pose to a Nine who appears to be busily doing everything and nothing at the same time. ([Location 1102](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1102)) [Open in Readwise](https://readwise.io/open/54386916) ^rw54386916
+    - Date:: [[March 2nd, 2020, Monday]]
+- The wounding message Nines heard is “Your wants, opinions, desires and presence don’t matter much.” ([Location 1115](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1115)) [Open in Readwise](https://readwise.io/open/54386917) ^rw54386917
+    - Date:: [[March 2nd, 2020, Monday]]
+- As kids Nines feel very uncomfortable when there’s conflict between parents and other family members, so they’ll try to play the role of mediator while looking for a place to stand where they won’t be forced to choose a side. ([Location 1120](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1120)) [Open in Readwise](https://readwise.io/open/54386918) ^rw54386918
+    - Date:: [[March 2nd, 2020, Monday]]
+- While they would prefer not being the center of attention for too much or too long, they long for us to notice and honor their presence. ([Location 1126](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1126)) [Open in Readwise](https://readwise.io/open/54386919) ^rw54386919
+    - Date:: [[March 2nd, 2020, Monday]]
+- Mature Nines make wonderful partners, parents and friends. Loyal and kind, they will go above and beyond the call of duty to support you. They’re fun, flexible and don’t complain much. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1128)) [Open in Readwise](https://readwise.io/open/54386920) ^rw54386920
+    - Date:: [[March 2nd, 2020, Monday]]
+- If you give them the choice between getting dressed up and going to a black-tie gala or snuggling on the couch with you and the kids for pizza and a movie, they’ll pick the latter. ([Location 1130](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1130)) [Open in Readwise](https://readwise.io/open/54386921) ^rw54386921
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines always have their special place in the home where they can retreat to be quiet and engage in an activity that enhances their experience of peacefulness. ([Location 1131](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1131)) [Open in Readwise](https://readwise.io/open/54386922) ^rw54386922
+    - Date:: [[March 2nd, 2020, Monday]]
+- A healthy Nine is someone who has woken up and found their voice or come into their own. They know they’re important enough to invest in and that they matter in the lives of their family, friends and coworkers. A healthy Nine is spiritually inspiring. They’re receptive to the world, yet not so open or lacking in boundaries that they lose their sense of self-definition. ([Location 1132](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1132)) [Open in Readwise](https://readwise.io/open/54386923) ^rw54386923
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines who are asleep get in trouble in relationships when conflict arises (and when doesn’t it?) and they refuse to acknowledge and resolve it. Denial is a big defense mechanism for them. ([Location 1135](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1135)) [Open in Readwise](https://readwise.io/open/54386924) ^rw54386924
+    - Date:: [[March 2nd, 2020, Monday]]
+- They might ignore the obvious signs that something’s wrong, minimize the problems, or suggest a simple repair that only reveals how out of touch they are with the magnitude of the issue and how determined they are to avoid the unpleasantness of dealing with it. ([Location 1138](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1138)) [Open in Readwise](https://readwise.io/open/54386925) ^rw54386925
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines are not initiators, but they’re thrilled when others reach out to them. They have a wonderful ability to reconnect with people whom they haven’t run into in a long time. Even after years of not seeing a person, they can pick up the conversation as if it had only been yesterday when they last saw you. ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1142)) [Open in Readwise](https://readwise.io/open/54386926) ^rw54386926
+    - Date:: [[March 2nd, 2020, Monday]]
+- Here’s what I’ve learned being married to a Nine and parenting a Nine: what feels like a minor tiff to you feels like the Battle of the Bulge to them. What you hear as a fractional increase in the volume of your voice a Nine hears as yelling. ([Location 1144](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1144)) [Open in Readwise](https://readwise.io/open/54386927) ^rw54386927
+    - Date:: [[March 2nd, 2020, Monday]]
+- It’s important that before I share my thoughts or feelings about something I ask Anne or Maddie what theirs are. This not only honors them, it lessens the possibility they will merge with mine and perhaps agree to do something they don’t want to do. ([Location 1146](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1146)) [Open in Readwise](https://readwise.io/open/54386928) ^rw54386928
+    - Date:: [[March 2nd, 2020, Monday]]
+- Because they’re able to see multiple points of view, Nines can solve problems and put together deals where everyone wins. ([Location 1156](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1156)) [Open in Readwise](https://readwise.io/open/54386929) ^rw54386929
+    - Date:: [[March 2nd, 2020, Monday]]
+- Creatures of habit, Nines appreciate structure, predictability and routine in the workplace. Nines don’t like to bring work home, and they definitely don’t like interruptions on weekends or vacation. ([Location 1162](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1162)) [Open in Readwise](https://readwise.io/open/54386930) ^rw54386930
+    - Date:: [[March 2nd, 2020, Monday]]
+- Unfortunately it’s as easy to take advantage of Nines in the workplace as it is in relationships. They’re too accommodating. To avoid rocking the boat they say yes when they want to say no and often regret it later. ([Location 1167](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1167)) [Open in Readwise](https://readwise.io/open/54386931) ^rw54386931
+    - Date:: [[March 2nd, 2020, Monday]]
+- This is one of the most complex combinations on the Enneagram, given the Eight’s need to go against power and the Nine’s need to avoid conflict. ([Location 1173](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1173)) [Open in Readwise](https://readwise.io/open/54386932) ^rw54386932
+    - Date:: [[March 2nd, 2020, Monday]]
+- More energized, confident, stubborn, outgoing and inner-directed than the 9w1s, 9w8s have more access to anger and express it more openly if they or others are threatened. ([Location 1175](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1175)) [Open in Readwise](https://readwise.io/open/54386933) ^rw54386933
+    - Date:: [[March 2nd, 2020, Monday]]
+- Remember that this uptick in confidence and periodic aggression is relative to how other Nines behave, not to other numbers who have way more access to their anger and can express it more openly. ([Location 1178](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1178)) [Open in Readwise](https://readwise.io/open/54386934) ^rw54386934
+    - Date:: [[March 2nd, 2020, Monday]]
+- Though they will sometimes change their minds, 9w8s find it much easier to be clear and direct about things that are important to them. ([Location 1181](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1181)) [Open in Readwise](https://readwise.io/open/54386935) ^rw54386935
+    - Date:: [[March 2nd, 2020, Monday]]
+- In stress Nines start to act like unhealthy Sixes (the Loyalists). They become overcommitted, worried, rigid, wary of others and anxious, even though they don’t know why. ([Location 1190](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1190)) [Open in Readwise](https://readwise.io/open/54386936) ^rw54386936
+    - Date:: [[March 2nd, 2020, Monday]]
+- When Nines are feeling comfortable and safe in the world they move to the positive side of Three (the Performer), where they are more goal-oriented, decisive, self-confident and in touch with their life’s agenda. ([Location 1193](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1193)) [Open in Readwise](https://readwise.io/open/54386937) ^rw54386937
+    - Date:: [[March 2nd, 2020, Monday]]
+- When it comes to attaining a unitive knowledge of God and becoming “one with Christ,” healthy Nines almost always cross the finish line first. ([Location 1200](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1200)) [Open in Readwise](https://readwise.io/open/54386938) ^rw54386938
+    - Date:: [[March 2nd, 2020, Monday]]
+- Lovers of the outdoors, they pick up on the presence of God in the natural world and how everything expresses God’s glory. ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1203)) [Open in Readwise](https://readwise.io/open/54386939) ^rw54386939
+    - Date:: [[March 2nd, 2020, Monday]]
+- because Nines are able to see both sides to everything, they’re comfortable with paradox and mystery, which comes in handy when it comes to dealing with a religion that includes a virgin birth and a God who is both Three and One at the same time. ([Location 1205](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1205)) [Open in Readwise](https://readwise.io/open/54386940) ^rw54386940
+    - Date:: [[March 2nd, 2020, Monday]]
+- what looks like peace is really just your desire to be unaffected by life. Spiritually, the absence of conflict is not the presence of peace, which requires work and risk. ([Location 1209](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1209)) [Open in Readwise](https://readwise.io/open/54386941) ^rw54386941
+    - Date:: [[March 2nd, 2020, Monday]]
+- Waking up will involve reclaiming personal authority and responsibility for their life. It will mean finding and resurrecting their own thoughts, passions, opinions, dreams, ambitions and desires. ([Location 1212](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1212)) [Open in Readwise](https://readwise.io/open/54386942) ^rw54386942
+    - Date:: [[March 2nd, 2020, Monday]]
+- If Nines love themselves as much as they love other people, they will allow themselves to go on this adventure of becoming their own person. ([Location 1214](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1214)) [Open in Readwise](https://readwise.io/open/54386943) ^rw54386943
+    - Date:: [[March 2nd, 2020, Monday]]
+- Nines need to know that when they discover right action and move toward it, a feeling of self-worth will emerge in them. ([Location 1220](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1220)) [Open in Readwise](https://readwise.io/open/54386944) ^rw54386944
+    - Date:: [[March 2nd, 2020, Monday]]
+- The healing message Nines need to hear is “We see you and your life matters.” God didn’t invite you to this party to live someone else’s life. We need you here! ([Location 1222](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1222)) [Open in Readwise](https://readwise.io/open/54386945) ^rw54386945
+    - Date:: [[March 2nd, 2020, Monday]]
+- Journal on the question “What is my calling or life’s program? Am I pursuing it or postponing it to keep the peace?” ([Location 1224](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1224)) [Open in Readwise](https://readwise.io/open/54386946) ^rw54386946
+    - Date:: [[March 2nd, 2020, Monday]]
+- Practice saying no when someone asks you to do something you don’t want to. ([Location 1227](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1227)) [Open in Readwise](https://readwise.io/open/54386947) ^rw54386947
+    - Date:: [[March 2nd, 2020, Monday]]
+- Be aware of the numbing strategies you use to avoid having to deal with life, ([Location 1227](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1227)) [Open in Readwise](https://readwise.io/open/54386948) ^rw54386948
+    - Date:: [[March 2nd, 2020, Monday]]
+- Don’t be afraid to have opinions and express them. You can start with small things and build up to important ones. ([Location 1228](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1228)) [Open in Readwise](https://readwise.io/open/54386949) ^rw54386949
+    - Date:: [[March 2nd, 2020, Monday]]
+- Resist the urge to fall back on passive-aggressive behaviors like procrastination and avoidance. If you feel angry, be honest and open. ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1229)) [Open in Readwise](https://readwise.io/open/54386950) ^rw54386950
+    - Date:: [[March 2nd, 2020, Monday]]
+- Understand how important and unique your voice is. People deserve to hear what you think, not have their own views mirrored back to them. ([Location 1230](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1230)) [Open in Readwise](https://readwise.io/open/54386951) ^rw54386951
+    - Date:: [[March 2nd, 2020, Monday]]
+- Remember that what feels like intense, terrible conflict to you might just be a typical disagreement for someone else. Take a breath and engage. ([Location 1231](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1231)) [Open in Readwise](https://readwise.io/open/54386952) ^rw54386952
+    - Date:: [[March 2nd, 2020, Monday]]
+- Realize that your tendency to merge with others can be a beautiful gift if directed toward God. Other types envy this spiritual advantage you have. But don’t fuse with another person and miss out on the chance to become your own person. ([Location 1232](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1232)) [Open in Readwise](https://readwise.io/open/54386953) ^rw54386953
+    - Date:: [[March 2nd, 2020, Monday]]
+- When you feel paralyzed in the face of a decision, consult someone who won’t tell you what to do but rather will help you tease out what you want to do—then do it! ([Location 1234](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1234)) [Open in Readwise](https://readwise.io/open/54386954) ^rw54386954
+    - Date:: [[March 2nd, 2020, Monday]]
+- Perfectionism is the voice of the oppressor, the enemy of the people. Anne Lamott ([Location 1251](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1251)) [Open in Readwise](https://readwise.io/open/54386955) ^rw54386955
+    - Date:: [[March 2nd, 2020, Monday]]
+- They are principled but patient with the processes that slowly but surely make the world a better place. ([Location 1254](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1254)) [Open in Readwise](https://readwise.io/open/54386956) ^rw54386956
+    - Date:: [[March 2nd, 2020, Monday]]
+- Average Ones have judging and comparing minds that naturally spot errors and imperfections. ([Location 1255](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1255)) [Open in Readwise](https://readwise.io/open/54386957) ^rw54386957
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Before I can live with other folks I’ve got to live with myself. The one thing that doesn’t abide by majority rule is a person’s conscience.” ([Location 1267](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1267)) [Open in Readwise](https://readwise.io/open/54386958) ^rw54386958
+    - Date:: [[March 2nd, 2020, Monday]]
+- From the time they get up to the time they lie down, Ones perceive a world rife with errors and feel a bounden duty to correct it. ([Location 1283](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1283)) [Open in Readwise](https://readwise.io/open/54386959) ^rw54386959
+    - Date:: [[March 2nd, 2020, Monday]]
+- They chase perfection because they have this vague, unsettling feeling that if they make a mistake someone is going to jump out to blame, criticize or punish them. ([Location 1287](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1287)) [Open in Readwise](https://readwise.io/open/54386960) ^rw54386960
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones believe the world judges people who don’t follow the rules, control their emotions, behave appropriately and keep their basic animal instincts in check. ([Location 1293](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1293)) [Open in Readwise](https://readwise.io/open/54386961) ^rw54386961
+    - Date:: [[March 2nd, 2020, Monday]]
+- But something else is fueling Ones’ anger and indignation. Everywhere they look, people are having a grand old time indulging their desires or breaking the “rules” and not getting caught and punished for it, while Ones feel obligated to forgo doing what they want to do in order to do what they should do, namely, order our disordered world. ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1297)) [Open in Readwise](https://readwise.io/open/54386962) ^rw54386962
+    - Date:: [[March 2nd, 2020, Monday]]
+- What’s important for us to learn as we study the Enneagram is that we can’t change the way we see, only what we do with what we see. ([Location 1313](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1313)) [Open in Readwise](https://readwise.io/open/54386963) ^rw54386963
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones have high expectations of others and themselves. ([Location 1316](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1316)) [Open in Readwise](https://readwise.io/open/54386964) ^rw54386964
+    - Date:: [[March 2nd, 2020, Monday]]
+- For average Ones, controlling their behavior and emotions is a priority. When an “uncivilized” impulse or unacceptable feeling arises, Ones will automatically push it down and bring up its opposite to negate it. ([Location 1317](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1317)) [Open in Readwise](https://readwise.io/open/54386965) ^rw54386965
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones don’t think they’re being critical. In their mind they’re trying to help you! ([Location 1338](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1338)) [Open in Readwise](https://readwise.io/open/54386966) ^rw54386966
+    - Date:: [[March 2nd, 2020, Monday]]
+- One of the reason Ones are attracted to supporting righteous causes is because it’s not only okay but appropriate to openly express anger about injustice without feeling like you’re being a bad girl or boy. ([Location 1343](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1343)) [Open in Readwise](https://readwise.io/open/54386967) ^rw54386967
+    - Date:: [[March 2nd, 2020, Monday]]
+- Because they believe they occupy the superior moral, ethical and spiritual high ground, Ones believe their way is the only right way of seeing and doing things and therefore feel justified in being judgmental and critical of others. ([Location 1345](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1345)) [Open in Readwise](https://readwise.io/open/54386968) ^rw54386968
+    - Date:: [[March 2nd, 2020, Monday]]
+- sometimes a One’s inner critic will blame them for screwing up things they weren’t even involved with or responsible for. ([Location 1352](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1352)) [Open in Readwise](https://readwise.io/open/54386969) ^rw54386969
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones are terrified of making a mistake. ([Location 1360](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1360)) [Open in Readwise](https://readwise.io/open/54386970) ^rw54386970
+    - Date:: [[March 2nd, 2020, Monday]]
+- Given the stream of negative self-commentary their inner critic levels at them all day, Ones don’t receive criticism well. ([Location 1367](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1367)) [Open in Readwise](https://readwise.io/open/54386971) ^rw54386971
+    - Date:: [[March 2nd, 2020, Monday]]
+- Though very sensitive to criticism themselves, Ones are shocked when you tell them you feel like they’re being harshly critical of you. ([Location 1370](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1370)) [Open in Readwise](https://readwise.io/open/54386972) ^rw54386972
+    - Date:: [[March 2nd, 2020, Monday]]
+- The unaware One will criticize people for failing to live up to their standard of perfection and also because misery loves company. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1372)) [Open in Readwise](https://readwise.io/open/54386973) ^rw54386973
+    - Date:: [[March 2nd, 2020, Monday]]
+- Since Ones live in a world riddled with mistakes, they keep a running list of things that need doing. ([Location 1381](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1381)) [Open in Readwise](https://readwise.io/open/54386974) ^rw54386974
+    - Date:: [[March 2nd, 2020, Monday]]
+- Their homes are normally spotless and thoughtfully decorated. ([Location 1384](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1384)) [Open in Readwise](https://readwise.io/open/54386975) ^rw54386975
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones want to be good people. They always want to do the right thing. ([Location 1388](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1388)) [Open in Readwise](https://readwise.io/open/54386976) ^rw54386976
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones believe that every task should be done in a systematic and correct fashion. ([Location 1392](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1392)) [Open in Readwise](https://readwise.io/open/54386977) ^rw54386977
+    - Date:: [[March 2nd, 2020, Monday]]
+- Growing up, Ones try to be model kids. They know the rules and follow them to the letter. They spend lots of energy comparing themselves to other kids, so a conversation during the ride home from school will include a little bit about themselves, but it will mostly be about comparing themselves to other children and their successes, failures and mishaps. ([Location 1403](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1403)) [Open in Readwise](https://readwise.io/open/54386978) ^rw54386978
+    - Date:: [[March 2nd, 2020, Monday]]
+- The wounding message little Ones pick up is that they have to be “good” and do things “right.” Mistakes are unacceptable. People and things are either perfect or wrong. ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1420)) [Open in Readwise](https://readwise.io/open/54386979) ^rw54386979
+    - Date:: [[March 2nd, 2020, Monday]]
+- One kids need to be told that making mistakes is normal, that they can be imperfect and loved at the same time. ([Location 1421](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1421)) [Open in Readwise](https://readwise.io/open/54386980) ^rw54386980
+    - Date:: [[March 2nd, 2020, Monday]]
+- what perfectionism really does is defend us against connecting with others. ([Location 1428](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1428)) [Open in Readwise](https://readwise.io/open/54386981) ^rw54386981
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones don’t throw a lot of hugs around or gush “I love you” every five minutes, but that doesn’t mean they don’t. Ones say I love you by being responsible and doing what’s expected of them to make the world a better, more secure place for you. ([Location 1432](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1432)) [Open in Readwise](https://readwise.io/open/54386982) ^rw54386982
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones are great at sizing up what’s not working inside a company or organization and devising new systems and procedures to get it running right again. ([Location 1453](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1453)) [Open in Readwise](https://readwise.io/open/54386983) ^rw54386983
+    - Date:: [[March 2nd, 2020, Monday]]
+- Though they’re self-disciplined and driven to succeed, some Ones can put off starting or completing a project for fear they won’t do it perfectly. ([Location 1459](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1459)) [Open in Readwise](https://readwise.io/open/54386984) ^rw54386984
+    - Date:: [[March 2nd, 2020, Monday]]
+- As leaders, Ones work hard to support people who work for them, particularly those who demonstrate a real desire to improve. ([Location 1466](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1466)) [Open in Readwise](https://readwise.io/open/54386985) ^rw54386985
+    - Date:: [[March 2nd, 2020, Monday]]
+- If you listen, gently ask clarifying questions and give them enough space, Ones will eventually be able to trace a line back to what it is that actually made them angry. ([Location 1474](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1474)) [Open in Readwise](https://readwise.io/open/54386986) ^rw54386986
+    - Date:: [[March 2nd, 2020, Monday]]
+- When healthy they are deeply committed to helping others become their absolute best. They no longer seek to perfect the other person but to help them self-actualize without shaming or scolding. ([Location 1477](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1477)) [Open in Readwise](https://readwise.io/open/54386987) ^rw54386987
+    - Date:: [[March 2nd, 2020, Monday]]
+- A person does not need to be perfect to be good. ([Location 1510](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1510)) [Open in Readwise](https://readwise.io/open/54386988) ^rw54386988
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones need to hear: “You’re imperfect, and you’re wired for struggle, but you are worthy of love and belonging.” ([Location 1519](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1519)) [Open in Readwise](https://readwise.io/open/54386989) ^rw54386989
+    - Date:: [[March 2nd, 2020, Monday]]
+- I want you to be happy, but I want to be the reason. ([Location 1552](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1552)) [Open in Readwise](https://readwise.io/open/54386990) ^rw54386990
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos are some of the most caring, kind, supportive, upbeat and tenderhearted people on God’s green earth. ([Location 1603](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1603)) [Open in Readwise](https://readwise.io/open/54386991) ^rw54386991
+    - Date:: [[March 2nd, 2020, Monday]]
+- Of all the numbers on the Enneagram, Twos are the most sensitive to criticism, ([Location 1607](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1607)) [Open in Readwise](https://readwise.io/open/54386992) ^rw54386992
+    - Date:: [[March 2nd, 2020, Monday]]
+- All three of these types believe they can’t be loved for who they are, so each projects a false image they believe will win the approval of others. ([Location 1610](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1610)) [Open in Readwise](https://readwise.io/open/54386993) ^rw54386993
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos need to be needed. ([Location 1611](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1611)) [Open in Readwise](https://readwise.io/open/54386994) ^rw54386994
+    - Date:: [[March 2nd, 2020, Monday]]
+- Presenting a cheerful, likable image and helping others is their strategy for earning love. ([Location 1612](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1612)) [Open in Readwise](https://readwise.io/open/54386995) ^rw54386995
+    - Date:: [[March 2nd, 2020, Monday]]
+- Pride is the deadly sin of the Two, which sounds nonsensical because Twos appear to be more selfless than self-inflated. ([Location 1614](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1614)) [Open in Readwise](https://readwise.io/open/54386996) ^rw54386996
+    - Date:: [[March 2nd, 2020, Monday]]
+- It reveals itself in the way they focus all their attention and energy on meeting the needs of others while at the same time giving the impression they have no needs of their own. ([Location 1616](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1616)) [Open in Readwise](https://readwise.io/open/54386997) ^rw54386997
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos believe other people are more needy than they are and that they alone know best what others require. ([Location 1617](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1617)) [Open in Readwise](https://readwise.io/open/54386998) ^rw54386998
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos rarely ask for help, at least not directly, and they don’t know how to receive it when it’s offered. ([Location 1623](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1623)) [Open in Readwise](https://readwise.io/open/54386999) ^rw54386999
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos suffer from an inflated view of their own power, independence and value to others. What lies beneath that pride? Terror. Twos fear that acknowledging their wants will end in humiliation and that directly asking someone to fulfill their needs will lead to rejection. ([Location 1625](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1625)) [Open in Readwise](https://readwise.io/open/54387000) ^rw54387000
+    - Date:: [[March 2nd, 2020, Monday]]
+- Though they’re not always conscious of it, the help unevolved Twos provide others comes with strings attached. ([Location 1628](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1628)) [Open in Readwise](https://readwise.io/open/54387001) ^rw54387001
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos think if they can wrest appreciation and approval, and evoke a feeling of indebtedness in others, then others will sense when they require help and provide for their needs without their having to ask for it. ([Location 1630](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1630)) [Open in Readwise](https://readwise.io/open/54387002) ^rw54387002
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos believe they live in a world in which you have to be needed before you can be loved, and where you have to give to get. ([Location 1633](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1633)) [Open in Readwise](https://readwise.io/open/54387003) ^rw54387003
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos have an amazing way of making other people feel safe and comfortable. ([Location 1637](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1637)) [Open in Readwise](https://readwise.io/open/54387004) ^rw54387004
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos accept you just as you are; they aren’t judgmental, and they create a space both physically and emotionally in which people can speak from their hearts and experience. ([Location 1641](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1641)) [Open in Readwise](https://readwise.io/open/54387005) ^rw54387005
+    - Date:: [[March 2nd, 2020, Monday]]
+- Because their self-worth depends on the response they receive from others, Twos always end up giving away too much power to other people. ([Location 1657](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1657)) [Open in Readwise](https://readwise.io/open/54387006) ^rw54387006
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos are afraid people will ditch them once they can stand on their own two feet. ([Location 1673](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1673)) [Open in Readwise](https://readwise.io/open/54387007) ^rw54387007
+    - Date:: [[March 2nd, 2020, Monday]]
+- The talk style of the Two is help and advice. ([Location 1679](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1679)) [Open in Readwise](https://readwise.io/open/54387008) ^rw54387008
+    - Date:: [[March 2nd, 2020, Monday]]
+- If someone is actually drowning, dive in to help him. Otherwise, opt for restraint. ([Location 1682](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1682)) [Open in Readwise](https://readwise.io/open/54387009) ^rw54387009
+    - Date:: [[March 2nd, 2020, Monday]]
+- Average Twos tell Suzanne and me they have the ability to sense and then fulfill the needs of others. The key word here is sense. You don’t have to tell Twos what you require; they just know. ([Location 1683](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1683)) [Open in Readwise](https://readwise.io/open/54387010) ^rw54387010
+    - Date:: [[March 2nd, 2020, Monday]]
+- At their best, Twos are warm and generous, and at their worst they’re resentful martyrs. ([Location 1698](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1698)) [Open in Readwise](https://readwise.io/open/54387011) ^rw54387011
+    - Date:: [[March 2nd, 2020, Monday]]
+- Somewhere these kids picked up the wounding message that having or expressing their own needs will lead to humiliation and rejection. ([Location 1707](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1707)) [Open in Readwise](https://readwise.io/open/54387012) ^rw54387012
+    - Date:: [[March 2nd, 2020, Monday]]
+- Never assume that just because Two children know your needs that they also know their own. ([Location 1708](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1708)) [Open in Readwise](https://readwise.io/open/54387013) ^rw54387013
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos spend so much time and energy focusing on the needs of others that they lose touch with their own. By the time they reach adulthood that is the pattern of their lives. ([Location 1710](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1710)) [Open in Readwise](https://readwise.io/open/54387014) ^rw54387014
+    - Date:: [[March 2nd, 2020, Monday]]
+- They feel things deeply, and it’s easy for them to express emotions. ([Location 1717](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1717)) [Open in Readwise](https://readwise.io/open/54387015) ^rw54387015
+    - Date:: [[March 2nd, 2020, Monday]]
+- most of the feelings Twos have are not their own. ([Location 1717](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1717)) [Open in Readwise](https://readwise.io/open/54387016) ^rw54387016
+    - Date:: [[March 2nd, 2020, Monday]]
+- One way Twos attempt to establish identity is by identifying and seeing themselves through the lens of their relationships. ([Location 1720](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1720)) [Open in Readwise](https://readwise.io/open/54387017) ^rw54387017
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos need to learn how to individuate, to become their own person. ([Location 1722](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1722)) [Open in Readwise](https://readwise.io/open/54387018) ^rw54387018
+    - Date:: [[March 2nd, 2020, Monday]]
+- One day they wake up and realize, I can’t go on giving this much. I need to take better care of myself. ([Location 1724](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1724)) [Open in Readwise](https://readwise.io/open/54387019) ^rw54387019
+    - Date:: [[March 2nd, 2020, Monday]]
+- When the time comes, it’s important for others to encourage Twos to become their own people who care for themselves appropriately. ([Location 1726](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1726)) [Open in Readwise](https://readwise.io/open/54387020) ^rw54387020
+    - Date:: [[March 2nd, 2020, Monday]]
+- “The catch about not looking a gift horse in the mouth is that it may be a Trojan horse.” ([Location 1735](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1735)) [Open in Readwise](https://readwise.io/open/54387021) ^rw54387021
+    - Date:: [[March 2nd, 2020, Monday]]
+- As leaders they know how to recruit the right people to accomplish a task and use encouragement and praise to inspire and motivate them. They’re empathic, optimistic, and—because they’re image conscious—they know how to make an organization shine in the eyes of the outside world. ([Location 1740](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1740)) [Open in Readwise](https://readwise.io/open/54387022) ^rw54387022
+    - Date:: [[March 2nd, 2020, Monday]]
+- Twos have long been afraid that people will reject them once they discover the Twos have needs and unattended sorrows of their own. ([Location 1768](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1768)) [Open in Readwise](https://readwise.io/open/54387023) ^rw54387023
+    - Date:: [[March 2nd, 2020, Monday]]
+- The healing message for Twos is “You’re wanted.” ([Location 1771](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1771)) [Open in Readwise](https://readwise.io/open/54387024) ^rw54387024
+    - Date:: [[March 2nd, 2020, Monday]]
+- All Twos have to learn the difference between self-interested and altruistic giving. Self-interested giving expects payback, whereas altruistic giving comes without any strings attached. ([Location 1772](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1772)) [Open in Readwise](https://readwise.io/open/54387025) ^rw54387025
+    - Date:: [[March 2nd, 2020, Monday]]
+- “When you give and expect a return, that’s an investment. When you give and don’t expect anything back, that’s love.” ([Location 1774](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1774)) [Open in Readwise](https://readwise.io/open/54387026) ^rw54387026
+    - Date:: [[March 2nd, 2020, Monday]]
+- For Twos the lesson is simple: sometimes you think you are serving God or other people when you’re actually not. ([Location 1795](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1795)) [Open in Readwise](https://readwise.io/open/54387027) ^rw54387027
+    - Date:: [[March 2nd, 2020, Monday]]
+- If Twos are going to learn how to attend to their own needs as much as they pay attention to the needs of other people, they have to work on their soul in solitude. If they try to do this work in community they’ll be tempted to help those around them grow spiritually rather than focus on their own development. ([Location 1798](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1798)) [Open in Readwise](https://readwise.io/open/54387028) ^rw54387028
+    - Date:: [[March 2nd, 2020, Monday]]
+- Who am I when no one needs me? ([Location 1802](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1802)) [Open in Readwise](https://readwise.io/open/54387029) ^rw54387029
+    - Date:: [[March 2nd, 2020, Monday]]
+- The real question is, can you love the real me? . . . Not that image you had of me, but who I really am. ([Location 1831](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1831)) [Open in Readwise](https://readwise.io/open/54387030) ^rw54387030
+    - Date:: [[March 2nd, 2020, Monday]]
+- Healthy Threes ([Location 1832](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1832)) [Open in Readwise](https://readwise.io/open/54387031) ^rw54387031
+    - Date:: [[March 2nd, 2020, Monday]]
+- They still love to set goals, rise to challenges and solve problems, but their self-worth is not tied to these things. ([Location 1833](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1833)) [Open in Readwise](https://readwise.io/open/54387032) ^rw54387032
+    - Date:: [[March 2nd, 2020, Monday]]
+- Average Threes ([Location 1836](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1836)) [Open in Readwise](https://readwise.io/open/54387033) ^rw54387033
+    - Date:: [[March 2nd, 2020, Monday]]
+- They see love as something to be earned, so they quiet their inner convictions, valuing what others define as success and striving to do more and do it better. ([Location 1838](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1838)) [Open in Readwise](https://readwise.io/open/54387034) ^rw54387034
+    - Date:: [[March 2nd, 2020, Monday]]
+- Unhealthy Threes find failure unacceptable, which renders them unable to admit mistakes and causes them to behave as though they are superior to others. ([Location 1841](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1841)) [Open in Readwise](https://readwise.io/open/54387035) ^rw54387035
+    - Date:: [[March 2nd, 2020, Monday]]
+- In crafting a persona that will impress and perhaps even help them form relationships with high-influence people who can help them get ahead socially or professionally, Threes lose touch with who they authentically are. ([Location 1874](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1874)) [Open in Readwise](https://readwise.io/open/54387036) ^rw54387036
+    - Date:: [[March 2nd, 2020, Monday]]
+- There’s a lot to love about healthy Threes. They are optimistic, resilient people with audacious dreams who inspire others. ([Location 1902](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1902)) [Open in Readwise](https://readwise.io/open/54387037) ^rw54387037
+    - Date:: [[March 2nd, 2020, Monday]]
+- sometimes Threes will pretend to be interested in conversations with people when they’re not. ([Location 1911](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1911)) [Open in Readwise](https://readwise.io/open/54387038) ^rw54387038
+    - Date:: [[March 2nd, 2020, Monday]]
+- the message Threes picked up in childhood is that it’s not okay to have your own identity or feelings. ([Location 1930](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1930)) [Open in Readwise](https://readwise.io/open/54387039) ^rw54387039
+    - Date:: [[March 2nd, 2020, Monday]]
+- “How much you must have loved your father that you left your true self behind to please him.” ([Location 1932](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1932)) [Open in Readwise](https://readwise.io/open/54387040) ^rw54387040
+    - Date:: [[March 2nd, 2020, Monday]]
+- What would incentivize Threes to change in a culture that applauds and rewards them for embodying our cultural definition of success? America is a Three country! Countless numbers of us look at Threes and think, Man, I wish I were him or her. I say this because we are all complicit in perpetuating a world that encourages these wonderful folks to continue living in service to a lie. ([Location 1934](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1934)) [Open in Readwise](https://readwise.io/open/54387041) ^rw54387041
+    - Date:: [[March 2nd, 2020, Monday]]
+- Early in life Threes pick up the wounding message “You are what you do.” ([Location 1943](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1943)) [Open in Readwise](https://readwise.io/open/54387042) ^rw54387042
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Our deepest calling is to grow into our own authentic selfhood, whether or not it conforms to some image of who we ought to be.” ([Location 1948](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1948)) [Open in Readwise](https://readwise.io/open/54387043) ^rw54387043
+    - Date:: [[March 2nd, 2020, Monday]]
+- The saddest thing of all is how a Three will conform to their family’s or culture’s preferred image even if it means having to become someone who bears no resemblance to who they truly are or doing things that go against their nature. ([Location 1950](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1950)) [Open in Readwise](https://readwise.io/open/54387044) ^rw54387044
+    - Date:: [[March 2nd, 2020, Monday]]
+- Clearly being intentional about relationships is admirable, so long as they remain spiritual unions we cultivate, not business partnerships we manage. ([Location 1980](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1980)) [Open in Readwise](https://readwise.io/open/54387045) ^rw54387045
+    - Date:: [[March 2nd, 2020, Monday]]
+- Threes defend themselves against harm by completely immersing themselves in the task they’re performing, or equating their identity with their title and the institutions for which they work. ([Location 1993](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=1993)) [Open in Readwise](https://readwise.io/open/54387046) ^rw54387046
+    - Date:: [[March 2nd, 2020, Monday]]
+- Threes feel most in their element at work. More than any other type, they crave achievement and recognition, and for most adults that means killing it at their job. ([Location 2000](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2000)) [Open in Readwise](https://readwise.io/open/54387047) ^rw54387047
+    - Date:: [[March 2nd, 2020, Monday]]
+- There’s a fine line between a type and a stereotype. ([Location 2006](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2006)) [Open in Readwise](https://readwise.io/open/54387048) ^rw54387048
+    - Date:: [[March 2nd, 2020, Monday]]
+- Threes are people, not clichés. Like all of us, they’re complicated, and they come in an infinite variety of shades and tones. ([Location 2010](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2010)) [Open in Readwise](https://readwise.io/open/54387049) ^rw54387049
+    - Date:: [[March 2nd, 2020, Monday]]
+- When they’re spiritually healthy, these charismatic, productive, go-get-’em folks are authentic, visionary leaders and extraordinary builders who deserve our admiration. ([Location 2017](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2017)) [Open in Readwise](https://readwise.io/open/54387050) ^rw54387050
+    - Date:: [[March 2nd, 2020, Monday]]
+- A Three’s ability to postpone or set feelings aside explains why people often experience them as superficial, emotionally shallow and difficult to connect with. ([Location 2032](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2032)) [Open in Readwise](https://readwise.io/open/54387051) ^rw54387051
+    - Date:: [[March 2nd, 2020, Monday]]
+- Threes are pragmatic. They’ll do whatever it takes to get the job done. ([Location 2035](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2035)) [Open in Readwise](https://readwise.io/open/54387052) ^rw54387052
+    - Date:: [[March 2nd, 2020, Monday]]
+- Inevitably as Threes awaken spiritually and become self-aware, they will feel naked and ashamed. There’s no getting around it. In that moment, what they need is a kind but strong friend who will call them back to the truth of who they are, should they start marketing and packaging themselves for mass consumption again. ([Location 2071](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2071)) [Open in Readwise](https://readwise.io/open/54387053) ^rw54387053
+    - Date:: [[March 2nd, 2020, Monday]]
+- we all need at least one friend who can encourage us in the struggle to become ourselves. It’s not work one should do alone. ([Location 2073](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2073)) [Open in Readwise](https://readwise.io/open/54387054) ^rw54387054
+    - Date:: [[March 2nd, 2020, Monday]]
+- We all need to hear we are loved for who we are, but Threes need to hear it until the day comes when they look in the mirror and see not an image so much as the reflection of a son or daughter of God. ([Location 2075](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2075)) [Open in Readwise](https://readwise.io/open/54387055) ^rw54387055
+    - Date:: [[March 2nd, 2020, Monday]]
+- The healing message for Threes is “You are loved just for who you are.” ([Location 2076](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2076)) [Open in Readwise](https://readwise.io/open/54387056) ^rw54387056
+    - Date:: [[March 2nd, 2020, Monday]]
+- It’s important for every number to develop a practice of silence, solitude and meditation, but it’s particularly essential for Threes since you place such high value on activity and productivity. ([Location 2078](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2078)) [Open in Readwise](https://readwise.io/open/54387057) ^rw54387057
+    - Date:: [[March 2nd, 2020, Monday]]
+- Find a spiritual director to accompany you on your journey to reclaim your authentic self. ([Location 2079](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2079)) [Open in Readwise](https://readwise.io/open/54387058) ^rw54387058
+    - Date:: [[March 2nd, 2020, Monday]]
+- Challenge your definition of success, and craft a new one based on your feelings, desires and values, not those inherited from family or culture. ([Location 2080](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2080)) [Open in Readwise](https://readwise.io/open/54387059) ^rw54387059
+    - Date:: [[March 2nd, 2020, Monday]]
+- Take an inventory of who and what gets sacrificed while you’re frantically racing to cross the finish line first—spouse, ([Location 2084](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2084)) [Open in Readwise](https://readwise.io/open/54387060) ^rw54387060
+    - Date:: [[March 2nd, 2020, Monday]]
+- The joy and completeness others seem to enjoy is a daily reminder of what they themselves lack. ([Location 2154](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2154)) [Open in Readwise](https://readwise.io/open/54387061) ^rw54387061
+    - Date:: [[March 2nd, 2020, Monday]]
+- envy is the deadly sin of Fours. ([Location 2162](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2162)) [Open in Readwise](https://readwise.io/open/54387062) ^rw54387062
+    - Date:: [[March 2nd, 2020, Monday]]
+- by fixating on what’s missing, Fours are blind to what’s present in their lives, namely the many wonderful qualities they already possess. ([Location 2166](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2166)) [Open in Readwise](https://readwise.io/open/54387063) ^rw54387063
+    - Date:: [[March 2nd, 2020, Monday]]
+- The need of the Four is to be special or unique. ([Location 2182](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2182)) [Open in Readwise](https://readwise.io/open/54387064) ^rw54387064
+    - Date:: [[March 2nd, 2020, Monday]]
+- The wounding message Fours hear all the time is “There’s something off about you. No one understands you, and you’ll never belong.” ([Location 2252](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2252)) [Open in Readwise](https://readwise.io/open/54387065) ^rw54387065
+    - Date:: [[March 2nd, 2020, Monday]]
+- The present seems unbearable at times, and the future is fraught with anxiety, so they think a lot about the past. ([Location 2255](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2255)) [Open in Readwise](https://readwise.io/open/54387066) ^rw54387066
+    - Date:: [[March 2nd, 2020, Monday]]
+- “What does all this mean finally, I kept asking like a college kid. Why does it make me want to cry? Maybe it’s that we are all outsiders, we are all making our own unusual way through a wilderness of normality that is just a myth.” ([Location 2274](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2274)) [Open in Readwise](https://readwise.io/open/54387067) ^rw54387067
+    - Date:: [[March 2nd, 2020, Monday]]
+- More than anything else what Fours need are partners and friends who know how to “detach without withdrawing.” ([Location 2285](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2285)) [Open in Readwise](https://readwise.io/open/54387068) ^rw54387068
+    - Date:: [[March 2nd, 2020, Monday]]
+- As leaders Fours make decisions on the basis of feelings and intuition, which can freak data-oriented people out, and they lead by force of personality, which can intimidate the people who work for them. ([Location 2319](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2319)) [Open in Readwise](https://readwise.io/open/54387069) ^rw54387069
+    - Date:: [[March 2nd, 2020, Monday]]
+- All their lives, Fours have felt different and separate from others. ([Location 2342](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2342)) [Open in Readwise](https://readwise.io/open/54387070) ^rw54387070
+    - Date:: [[March 2nd, 2020, Monday]]
+- Fours need to hear this loud and clear: there’s nothing missing. ([Location 2346](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2346)) [Open in Readwise](https://readwise.io/open/54387071) ^rw54387071
+    - Date:: [[March 2nd, 2020, Monday]]
+- For Fours an important healing message is “We see you. You’re beautiful. Don’t be ashamed.” ([Location 2356](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2356)) [Open in Readwise](https://readwise.io/open/54387072) ^rw54387072
+    - Date:: [[March 2nd, 2020, Monday]]
+- Go out of your way to find and express appreciation for what’s present and unique in the people you love rather than always focusing on what’s missing. ([Location 2363](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2363)) [Open in Readwise](https://readwise.io/open/54387073) ^rw54387073
+    - Date:: [[March 2nd, 2020, Monday]]
+- Offer yourself the gift of unconditional self-friendship as you work to unwind lifelong feelings of shame and inferiority. Never give up on yourself! ([Location 2364](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2364)) [Open in Readwise](https://readwise.io/open/54387074) ^rw54387074
+    - Date:: [[March 2nd, 2020, Monday]]
+- Don’t look for beauty and meaning only in the extraordinary or unusual but in the ordinary and simple as well. ([Location 2368](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2368)) [Open in Readwise](https://readwise.io/open/54387075) ^rw54387075
+    - Date:: [[March 2nd, 2020, Monday]]
+- Healthy Fives have a long view of things. They manage an appropriate balance between participation and observation, engaging with others comfortably and demonstrating true neutrality. These Fives are likely to have depth in knowledge in several areas of their lives, and they willingly share their findings with others. ([Location 2388](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2388)) [Open in Readwise](https://readwise.io/open/54387076) ^rw54387076
+    - Date:: [[March 2nd, 2020, Monday]]
+- Average Fives hold to a scarcity mentality, which leads to hoarding time, space and affection. ([Location 2391](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2391)) [Open in Readwise](https://readwise.io/open/54387077) ^rw54387077
+    - Date:: [[March 2nd, 2020, Monday]]
+- Unhealthy Fives don’t want to depend on anyone for anything. They have a defensive personality that is preoccupied with security, independence and privacy. ([Location 2395](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2395)) [Open in Readwise](https://readwise.io/open/54387078) ^rw54387078
+    - Date:: [[March 2nd, 2020, Monday]]
+- Fives like Bill experience the world as intrusive, overwhelming and draining. It’s a place where demand always outpaces supply. It asks for more than they want or think they have to give. ([Location 2417](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2417)) [Open in Readwise](https://readwise.io/open/54387079) ^rw54387079
+    - Date:: [[March 2nd, 2020, Monday]]
+- We don’t hear the word avarice very often, but avarice is the deadly sin of Fives. Typically we think of it as a greedy craving for money or material gain, but in Enneagram-speak it refers more to the Five’s need to retain, a desire to clench and protect what little they already have rather than a desire to acquire more. ([Location 2423](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2423)) [Open in Readwise](https://readwise.io/open/54387080) ^rw54387080
+    - Date:: [[March 2nd, 2020, Monday]]
+- Fives value autonomy and self-containment, so they stockpile these things because they never want to be put in a position where they have to depend on others to take care of them. ([Location 2428](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2428)) [Open in Readwise](https://readwise.io/open/54387081) ^rw54387081
+    - Date:: [[March 2nd, 2020, Monday]]
+- Fives are motivated by a desire to understand. To them, gathering knowledge and mastering information are not just interesting endeavors but keys to survival. ([Location 2435](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2435)) [Open in Readwise](https://readwise.io/open/54387082) ^rw54387082
+    - Date:: [[March 2nd, 2020, Monday]]
+- Fives observe life from a distance rather than jumping in and participating in it. ([Location 2449](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2449)) [Open in Readwise](https://readwise.io/open/54387083) ^rw54387083
+    - Date:: [[March 2nd, 2020, Monday]]
+- Fives collect knowledge. Knowledge and information of almost any kind (even the strangest information) provide Fives with a sense of control and a defense against feelings of inadequacy. ([Location 2465](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2465)) [Open in Readwise](https://readwise.io/open/54387084) ^rw54387084
+    - Date:: [[March 2nd, 2020, Monday]]
+- Compartmentalization is a signature defense mechanism against feeling overwhelmed in the life of a Five. ([Location 2482](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2482)) [Open in Readwise](https://readwise.io/open/54387085) ^rw54387085
+    - Date:: [[March 2nd, 2020, Monday]]
+- To maintain their privacy, Fives tell each group of friends or colleagues one part of their story, but they never tell any group their whole story. ([Location 2493](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2493)) [Open in Readwise](https://readwise.io/open/54387086) ^rw54387086
+    - Date:: [[March 2nd, 2020, Monday]]
+- “I’d like to be the kind of person who can enjoy things at the time, instead of having to go back in my head and enjoy them.” ([Location 2509](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2509)) [Open in Readwise](https://readwise.io/open/54387087) ^rw54387087
+    - Date:: [[March 2nd, 2020, Monday]]
+- If you’re a Five, come up with words to articulate the wounding message you picked up; it will probably be some variation on the broad themes of competency and connection, like “You’re not capable of handling the demands of life and relationships. To survive you’ll need to emotionally detach and hide.” ([Location 2533](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2533)) [Open in Readwise](https://readwise.io/open/54387088) ^rw54387088
+    - Date:: [[March 2nd, 2020, Monday]]
+- “A good marriage is one in which each partner appoints the other to be the guardian of his solitude, and thus they show each other the greatest possible trust.” ([Location 2584](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2584)) [Open in Readwise](https://readwise.io/open/54387089) ^rw54387089
+    - Date:: [[March 2nd, 2020, Monday]]
+- Love is dangerous and demanding. For a relationship to flourish, two people have to openly share not only their thoughts but also their feelings, which is a challenge for Fives. ([Location 2589](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2589)) [Open in Readwise](https://readwise.io/open/54387090) ^rw54387090
+    - Date:: [[March 2nd, 2020, Monday]]
+- Their partners and friends can help them by being patient while Fives learn to identify and express their feelings. It’s no small thing when a Five takes the risk of exchanging secrets and commits to walk beside another person. ([Location 2592](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2592)) [Open in Readwise](https://readwise.io/open/54387091) ^rw54387091
+    - Date:: [[March 2nd, 2020, Monday]]
+- Regardless of what they do or how successful they are, what Fives need most at work is predictability. ([Location 2602](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2602)) [Open in Readwise](https://readwise.io/open/54387092) ^rw54387092
+    - Date:: [[March 2nd, 2020, Monday]]
+- Fives don’t like meetings. ([Location 2604](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2604)) [Open in Readwise](https://readwise.io/open/54387093) ^rw54387093
+    - Date:: [[March 2nd, 2020, Monday]]
+- When Fives feel secure they move toward the positive side of Eight, which is a gigantic move! When this happens Fives become infinitely more spontaneous, outspoken and physically present. ([Location 2638](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2638)) [Open in Readwise](https://readwise.io/open/54387094) ^rw54387094
+    - Date:: [[March 2nd, 2020, Monday]]
+- “The ultimate goal of detachment is engagement,” writes David Benner. “We detach so we can re-order our attachments and then, aligned and cooperating with the inflow of Grace into our deepest self, we can allow love to pass through us to touch and heal others in the world.” ([Location 2648](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2648)) [Open in Readwise](https://readwise.io/open/54387095) ^rw54387095
+    - Date:: [[March 2nd, 2020, Monday]]
+- How different would Fives’ lives be if they embraced a mindset of abundance? This mentality says that when we give, we receive. ([Location 2657](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2657)) [Open in Readwise](https://readwise.io/open/54387096) ^rw54387096
+    - Date:: [[March 2nd, 2020, Monday]]
+- Allow your feelings to arise naturally and experience them in the present moment, and then you can let them go. ([Location 2664](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2664)) [Open in Readwise](https://readwise.io/open/54387097) ^rw54387097
+    - Date:: [[March 2nd, 2020, Monday]]
+- Try sharing more of your life with others, trusting they won’t misuse that information. ([Location 2667](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2667)) [Open in Readwise](https://readwise.io/open/54387098) ^rw54387098
+    - Date:: [[March 2nd, 2020, Monday]]
+- Venture out of your comfort zone and share more of who you are and what you have with others. ([Location 2668](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2668)) [Open in Readwise](https://readwise.io/open/54387099) ^rw54387099
+    - Date:: [[March 2nd, 2020, Monday]]
+- Try to remember that you don’t have to have the answers for everything. You won’t look foolish, just human. ([Location 2669](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2669)) [Open in Readwise](https://readwise.io/open/54387100) ^rw54387100
+    - Date:: [[March 2nd, 2020, Monday]]
+- There’s no harm in hoping for the best as long as you’re prepared for the worst. ([Location 2690](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2690)) [Open in Readwise](https://readwise.io/open/54387101) ^rw54387101
+    - Date:: [[March 2nd, 2020, Monday]]
+- Healthy Sixes have learned to trust their own experiences of life. ([Location 2691](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2691)) [Open in Readwise](https://readwise.io/open/54387102) ^rw54387102
+    - Date:: [[March 2nd, 2020, Monday]]
+- They are productive, logical thinkers who almost always organize their thoughts and actions around what would be most advantageous for the common good. ([Location 2692](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2692)) [Open in Readwise](https://readwise.io/open/54387103) ^rw54387103
+    - Date:: [[March 2nd, 2020, Monday]]
+- These Sixes have come to believe that in the end everything will be all right. ([Location 2694](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2694)) [Open in Readwise](https://readwise.io/open/54387104) ^rw54387104
+    - Date:: [[March 2nd, 2020, Monday]]
+- Average Sixes question almost everything. They struggle to get out of their heads and the pattern of worst-case-scenario planning. ([Location 2695](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2695)) [Open in Readwise](https://readwise.io/open/54387105) ^rw54387105
+    - Date:: [[March 2nd, 2020, Monday]]
+- These Sixes, while managing all of their anxiety, are committed to education, church, government, family and social service organizations. ([Location 2697](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2697)) [Open in Readwise](https://readwise.io/open/54387106) ^rw54387106
+    - Date:: [[March 2nd, 2020, Monday]]
+- Unhealthy Sixes find danger around every corner. Their anxiety borders on paranoia, as they fear that the world is unfair and that most people are not who they say they are and cannot be trusted. Unable to trust themselves either, they look to authority figures and experts to make decisions on their behalf. ([Location 2699](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2699)) [Open in Readwise](https://readwise.io/open/54387107) ^rw54387107
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sixes see a dangerous world in which disaster can strike at any moment. Appearances are deceiving. People have hidden agendas. ([Location 2710](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2710)) [Open in Readwise](https://readwise.io/open/54387108) ^rw54387108
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sixes are the most faithful and dependable people on the Enneagram. ([Location 2716](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2716)) [Open in Readwise](https://readwise.io/open/54387109) ^rw54387109
+    - Date:: [[March 2nd, 2020, Monday]]
+- Many Enneagram teachers believe these reliable, warm, funny and self-sacrificing people make up more than half the world’s population. ([Location 2718](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2718)) [Open in Readwise](https://readwise.io/open/54387110) ^rw54387110
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sixes’ deadly sin is fear, and they suffer a deep-seated need to feel secure. ([Location 2722](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2722)) [Open in Readwise](https://readwise.io/open/54387111) ^rw54387111
+    - Date:: [[March 2nd, 2020, Monday]]
+- Though we say fear is the sin toward which the Six gravitates, what Sixes actually experience is anxiety. ([Location 2723](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2723)) [Open in Readwise](https://readwise.io/open/54387112) ^rw54387112
+    - Date:: [[March 2nd, 2020, Monday]]
+- Fear says, “Something wrong is actually happening!” while anxiety is more anticipatory: “What if this happened or that happened? What if . . . What if . . . What if . . . ?” That’s the campaign slogan. ([Location 2727](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2727)) [Open in Readwise](https://readwise.io/open/54387113) ^rw54387113
+    - Date:: [[March 2nd, 2020, Monday]]
+- We all need to learn how to prevent fear from taking over our lives, but Sixes especially do. History demonstrates that when anxious folks make decisions as a group based on fear and a frustrated desire for security, bad things can happen. ([Location 2747](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2747)) [Open in Readwise](https://readwise.io/open/54387114) ^rw54387114
+    - Date:: [[March 2nd, 2020, Monday]]
+- They are devoted group members who, once they commit to a community, put down stakes and won’t abandon it over small matters of disagreement. ([Location 2755](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2755)) [Open in Readwise](https://readwise.io/open/54387115) ^rw54387115
+    - Date:: [[March 2nd, 2020, Monday]]
+- Though they are typically wary and skeptical of people at first, once you’ve won Sixes’ trust they’re with you for life. ([Location 2756](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2756)) [Open in Readwise](https://readwise.io/open/54387116) ^rw54387116
+    - Date:: [[March 2nd, 2020, Monday]]
+- They believe in the importance of family, home, raising responsible children, and marriage, and they make choices based on their values, in part because they have very high security needs. ([Location 2759](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2759)) [Open in Readwise](https://readwise.io/open/54387117) ^rw54387117
+    - Date:: [[March 2nd, 2020, Monday]]
+- Suffering from analysis paralysis, they turn to friends, coworkers, family members and experts for advice because they don’t trust their own thinking. They make up their mind then change it again. They feel pulled one way, then pushed in another. They waffle and equivocate, driving themselves and others crazy as they swing back and forth between yay, nay and maybe. In the words of St. James, they are the ones who, because they doubt, are “like a wave of the sea, carried forward by the wind one moment and driven back the next” (James 1:6 Phillips). ([Location 2761](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2761)) [Open in Readwise](https://readwise.io/open/54387118) ^rw54387118
+    - Date:: [[March 2nd, 2020, Monday]]
+- Kids who are Sixes learn to worry early. They’re Velcro for messages like “Don’t swim for thirty minutes after you eat or you’ll get a cramp and drown” or “Never talk to strangers.” ([Location 2784](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2784)) [Open in Readwise](https://readwise.io/open/54387119) ^rw54387119
+    - Date:: [[March 2nd, 2020, Monday]]
+- They’re hesitant because kids who can’t trust their environment find it hard to trust themselves. Kids who lack self-confidence typically have a difficult time receiving encouragement, so they miss out on the very messages that would make them more secure and help them to trust themselves at a deeper level. ([Location 2788](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2788)) [Open in Readwise](https://readwise.io/open/54387120) ^rw54387120
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sixes make terrific friends or partners when they’re spiritually healthy and growing in self-knowledge. ([Location 2800](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2800)) [Open in Readwise](https://readwise.io/open/54387121) ^rw54387121
+    - Date:: [[March 2nd, 2020, Monday]]
+- worst-case-scenario thinking needs to be managed, not discounted. ([Location 2821](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2821)) [Open in Readwise](https://readwise.io/open/54387122) ^rw54387122
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Faith is a place of mystery, where we find the courage to believe in what we cannot see and the strength to let go of our fear of uncertainty.” ([Location 2885](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2885)) [Open in Readwise](https://readwise.io/open/54387123) ^rw54387123
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sixes are prone to internalize these messages of fear and imminent disaster, so it’s vital for them to recognize this pattern and think twice before permitting their anxieties to take over their lives. ([Location 2895](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2895)) [Open in Readwise](https://readwise.io/open/54387124) ^rw54387124
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sixes need to be encouraged to doubt themselves less and trust themselves more. They are stronger and more resourceful than they know. ([Location 2897](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2897)) [Open in Readwise](https://readwise.io/open/54387125) ^rw54387125
+    - Date:: [[March 2nd, 2020, Monday]]
+- They think the antidote to fear is courage, but they can never seem to muster enough to do the job, so surely that’s not the answer. What they need to develop is faith, which is different from courage in that it doesn’t require certainty. Faith asks Sixes to believe and trust in something or someone bigger than they are, who will always have their back, who will never leave them but instead will be there to support them in times of crisis. ([Location 2898](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2898)) [Open in Readwise](https://readwise.io/open/54387126) ^rw54387126
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sixes need to remember the spiritual truth that they are ultimately safe. ([Location 2901](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2901)) [Open in Readwise](https://readwise.io/open/54387127) ^rw54387127
+    - Date:: [[March 2nd, 2020, Monday]]
+- A regular centering prayer or meditation practice is vital for every number, but particularly for Sixes. ([Location 2905](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2905)) [Open in Readwise](https://readwise.io/open/54387128) ^rw54387128
+    - Date:: [[March 2nd, 2020, Monday]]
+- When playing the role of devil’s advocate and pointing out the potential flaws in other people’s ideas and plans, be sure to acknowledge the positive dimensions of it as well. ([Location 2911](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2911)) [Open in Readwise](https://readwise.io/open/54387129) ^rw54387129
+    - Date:: [[March 2nd, 2020, Monday]]
+- Limit your exposure to the twenty-four-hour news cycle or to books and films that unnecessarily reinforce your anxious or pessimistic view of life. ([Location 2913](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2913)) [Open in Readwise](https://readwise.io/open/54387130) ^rw54387130
+    - Date:: [[March 2nd, 2020, Monday]]
+- The contrary virtue to the deadly sin of fear isn’t courage but faith, which is a gift. Pray for it. ([Location 2918](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2918)) [Open in Readwise](https://readwise.io/open/54387131) ^rw54387131
+    - Date:: [[March 2nd, 2020, Monday]]
+- Healthy Sevens know that often “less is more.” They are aware of the energy they have invested in manufacturing happiness and they know that joy is a gift or grace that can only be received. ([Location 2937](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2937)) [Open in Readwise](https://readwise.io/open/54387132) ^rw54387132
+    - Date:: [[March 2nd, 2020, Monday]]
+- When Enthusiasts are in a healthy space, they are not only fun and adventurous but also spiritually grounded, practical and resilient. ([Location 2940](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2940)) [Open in Readwise](https://readwise.io/open/54387133) ^rw54387133
+    - Date:: [[March 2nd, 2020, Monday]]
+- Average Sevens reframe almost everything that is sad, limiting or could be perceived as failure, changing the narrative so that even the most negative events are recast in an affirming way. ([Location 2942](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2942)) [Open in Readwise](https://readwise.io/open/54387134) ^rw54387134
+    - Date:: [[March 2nd, 2020, Monday]]
+- These Sevens entertain to feel safe and to claim their place in a group. Though ([Location 2944](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2944)) [Open in Readwise](https://readwise.io/open/54387135) ^rw54387135
+    - Date:: [[March 2nd, 2020, Monday]]
+- Unhealthy Sevens see themselves and their environment as inadequate, feeling sorry for themselves and often believing they’ve been dealt an unfair hand. ([Location 2946](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2946)) [Open in Readwise](https://readwise.io/open/54387136) ^rw54387136
+    - Date:: [[March 2nd, 2020, Monday]]
+- Scratch the vibrant paint on the surface of a Seven and what you’ll find underneath is the need to avoid pain. I can’t say that strongly enough—Sevens don’t want to feel unpleasant emotions, particularly that swirl of fear and emptiness they register at their core. No one enjoys feeling frightened, sad, bored, angry, disappointed or frustrated, but for Sevens, emotions like these are intolerable. ([Location 2978](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2978)) [Open in Readwise](https://readwise.io/open/54387137) ^rw54387137
+    - Date:: [[March 2nd, 2020, Monday]]
+- for Sevens, the sin of gluttony isn’t about their fondness for pennete al salmone as much as a reflection of their compulsive need to devour positive experiences, stimulating ideas and fine material things in order to fend off suffering, hurtful memories and a feeling of chronic deprivation. ([Location 2982](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2982)) [Open in Readwise](https://readwise.io/open/54387138) ^rw54387138
+    - Date:: [[March 2nd, 2020, Monday]]
+- “Sevens try to imagine a life where there is no Good Friday, and it’s Easter all the time.” ([Location 2998](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2998)) [Open in Readwise](https://readwise.io/open/54387139) ^rw54387139
+    - Date:: [[March 2nd, 2020, Monday]]
+- It’s hard to get your head around it, but Sevens are every bit as fearful as Fives and Sixes. Where they differ is in the way they defend themselves against it—Fives ward off fear with knowledge, Sixes with pessimism and Sevens with inexhaustible optimism. ([Location 2999](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=2999)) [Open in Readwise](https://readwise.io/open/54387140) ^rw54387140
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sevens will go out of their way to avoid pain and introspection, which makes the self-awareness that’s needed for growth more of a challenge for Sevens than for most other types. ([Location 3017](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3017)) [Open in Readwise](https://readwise.io/open/54387141) ^rw54387141
+    - Date:: [[March 2nd, 2020, Monday]]
+- Not all Sevens become addicts, but their impulsivity and difficulty with delaying gratification, combined with their desire to escape afflictive emotions at all costs, make them more addiction-prone than any other number on the Enneagram. ([Location 3030](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3030)) [Open in Readwise](https://readwise.io/open/54387142) ^rw54387142
+    - Date:: [[March 2nd, 2020, Monday]]
+- Because they’re bright and such quick learners, Sevens can develop an inflated sense of their own giftedness, intelligence and achievement, and become arrogant. They love to debate ideas and are so articulate and fast on their feet that they rarely lose in a battle of wits even when they know less about the topic than their opponent. They can definitely suffer from a superiority complex. ([Location 3061](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3061)) [Open in Readwise](https://readwise.io/open/54387143) ^rw54387143
+    - Date:: [[March 2nd, 2020, Monday]]
+- “It’s never too late to have a happy childhood.” ([Location 3068](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3068)) [Open in Readwise](https://readwise.io/open/54387144) ^rw54387144
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sevens need flexibility and avoid making long-term, option-limiting commitments. ([Location 3070](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3070)) [Open in Readwise](https://readwise.io/open/54387145) ^rw54387145
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sevens know exactly what Andy Warhol meant when he said, “The idea of waiting for something makes it more exciting.” These pleasure-seekers savor anticipation. For them, the best part of a meal, a party or a trip isn’t when it comes; it’s the thrill of expectancy leading up to it. This is why Sevens sometimes feel a little let down when the prime rib appears, the party guests arrive, or they’re actually standing at the base of the Eiffel Tower. The real deal couldn’t possibly live up to their expectations. The pleasure is in the waiting, not the sating. ([Location 3082](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3082)) [Open in Readwise](https://readwise.io/open/54387146) ^rw54387146
+    - Date:: [[March 2nd, 2020, Monday]]
+- Unfortunately, Sevens have so much trouble remaining in the present moment they never fully enjoy the adventures they’re having because they’re already thinking and planning the next one. ([Location 3093](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3093)) [Open in Readwise](https://readwise.io/open/54387147) ^rw54387147
+    - Date:: [[March 2nd, 2020, Monday]]
+- In their developmental years, Sevens heard the wounding message, “You’re on your own. No one’s here to support or take care of you.” In response Sevens said, “I’ll do it if no one else will.” ([Location 3100](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3100)) [Open in Readwise](https://readwise.io/open/54387148) ^rw54387148
+    - Date:: [[March 2nd, 2020, Monday]]
+- Curiosity defines Sevens, which is part of the gift they are to themselves and to the world. ([Location 3108](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3108)) [Open in Readwise](https://readwise.io/open/54387149) ^rw54387149
+    - Date:: [[March 2nd, 2020, Monday]]
+- Seven children are not achievement-oriented so much as experience-oriented. ([Location 3112](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3112)) [Open in Readwise](https://readwise.io/open/54387150) ^rw54387150
+    - Date:: [[March 2nd, 2020, Monday]]
+- There’s never a dull moment with Sevens. More than any other type, they need spontaneity. ([Location 3119](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3119)) [Open in Readwise](https://readwise.io/open/54387151) ^rw54387151
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sevens want nothing to do with confining relationships. They’re classic commitment phobes. ([Location 3123](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3123)) [Open in Readwise](https://readwise.io/open/54387152) ^rw54387152
+    - Date:: [[March 2nd, 2020, Monday]]
+- People unknowingly rely on Sevens to bring their supply of infectious enthusiasm to every activity they do with them. ([Location 3141](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3141)) [Open in Readwise](https://readwise.io/open/54387153) ^rw54387153
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sevens are fascinated with other people’s lives, and they’re counterintuitively attracted to people who have suffered. ([Location 3158](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3158)) [Open in Readwise](https://readwise.io/open/54387154) ^rw54387154
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sevens are dreamers and initiators. Give them a dry-erase marker and a white board and step out of the way. ([Location 3168](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3168)) [Open in Readwise](https://readwise.io/open/54387155) ^rw54387155
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sevens are rock stars when it comes to working on short-term projects or getting start-up companies off the ground. ([Location 3173](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3173)) [Open in Readwise](https://readwise.io/open/54387156) ^rw54387156
+    - Date:: [[March 2nd, 2020, Monday]]
+- Be forewarned, however: Sevens aren’t managers or maintainers, so you’ll need to find someone else to oversee the execution phase while you set the Seven loose on a new venture. ([Location 3174](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3174)) [Open in Readwise](https://readwise.io/open/54387157) ^rw54387157
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sevens don’t like being told what to do, so working for a controlling leader who imposes too many limits on them rarely works out well. ([Location 3176](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3176)) [Open in Readwise](https://readwise.io/open/54387158) ^rw54387158
+    - Date:: [[March 2nd, 2020, Monday]]
+- These Sevens are sensitive and a bit more anxious, but they successfully use charm to disarm. ([Location 3184](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3184)) [Open in Readwise](https://readwise.io/open/54387159) ^rw54387159
+    - Date:: [[March 2nd, 2020, Monday]]
+- On the road to spiritual transformation, Sevens have to learn how to embrace and steward their suffering rather than run from it. ([Location 3201](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3201)) [Open in Readwise](https://readwise.io/open/54387160) ^rw54387160
+    - Date:: [[March 2nd, 2020, Monday]]
+- “He who fears he shall suffer already suffers what he fears.” ([Location 3202](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3202)) [Open in Readwise](https://readwise.io/open/54387161) ^rw54387161
+    - Date:: [[March 2nd, 2020, Monday]]
+- The healing message Sevens need to hear and believe is God will take care of you. ([Location 3209](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3209)) [Open in Readwise](https://readwise.io/open/54387162) ^rw54387162
+    - Date:: [[March 2nd, 2020, Monday]]
+- Give yourself a pat on the back whenever you allow yourself to feel negative emotions like anxiety, sadness, frustration, envy or disappointment without letting yourself run away to escape them. It’s a sign you’re starting to grow up! ([Location 3217](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3217)) [Open in Readwise](https://readwise.io/open/54387163) ^rw54387163
+    - Date:: [[March 2nd, 2020, Monday]]
+- You don’t like being told you have potential because it means you’ll feel pressure to buckle down and commit to cultivating a specific talent, which will inevitably limit your options. But you do have potential, so what career or life path would you like to commit yourself to for the long haul? Take concrete steps to make good on the gifts God has given you. ([Location 3220](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3220)) [Open in Readwise](https://readwise.io/open/54387164) ^rw54387164
+    - Date:: [[March 2nd, 2020, Monday]]
+- Get a journal and record your answers to questions like “What does my life mean? What memories or feelings am I running from? Where’s the depth I yearn to have that will complement my intelligence?” Don’t abandon this exercise until it’s finished. ([Location 3222](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3222)) [Open in Readwise](https://readwise.io/open/54387165) ^rw54387165
+    - Date:: [[March 2nd, 2020, Monday]]
+- The beginning of love is the will to let those we love be perfectly themselves, the resolution not to twist them to fit our own image. If in loving them we do not love what they are, but only their potential likeness to ourselves, then we do not love them: we only love the reflection of ourselves we find in them. ([Location 3229](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3229)) [Open in Readwise](https://readwise.io/open/54387166) ^rw54387166
+    - Date:: [[March 2nd, 2020, Monday]]
+- Sometimes people talk about the Enneagram as a tool that reveals the lens through which people see the world. ([Location 3240](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3240)) [Open in Readwise](https://readwise.io/open/54387167) ^rw54387167
+    - Date:: [[March 2nd, 2020, Monday]]
+- The Enneagram shows us that we can’t change the way other people see, but we can try to experience the world through their eyes and help them change what they do with what they see. ([Location 3249](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3249)) [Open in Readwise](https://readwise.io/open/54387168) ^rw54387168
+    - Date:: [[March 2nd, 2020, Monday]]
+- “When our hearts are small, our understanding and compassion are limited, and we suffer. We can’t accept or tolerate others and their shortcomings, and we demand that they change,” he says. “But when our hearts expand, these same things don’t make us suffer anymore. We have a lot of understanding and compassion and can embrace others. We accept others as they are, and then they have a chance to transform.” ([Location 3251](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3251)) [Open in Readwise](https://readwise.io/open/54387169) ^rw54387169
+    - Date:: [[March 2nd, 2020, Monday]]
+- It’s when we stop trying to change people and simply love them that they actually have a shot at transformation. ([Location 3254](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3254)) [Open in Readwise](https://readwise.io/open/54387170) ^rw54387170
+    - Date:: [[March 2nd, 2020, Monday]]
+- every number on the Enneagram teaches us something about the nature and character of the God who made us. ([Location 3260](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3260)) [Open in Readwise](https://readwise.io/open/54387171) ^rw54387171
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones show us God’s perfection and his desire to restore the world to its original goodness, while Twos witness to God’s unstoppable, selfless giving. Threes remind us about God’s glory, and Fours about the creativity and pathos of God. Fives show God’s omniscience, Sixes God’s steadfast love and loyalty, and Sevens God’s childlike joy and delight in creation. Eights mirror God’s power and intensity, while Nines reflect God’s love of peace and desire for union with his children. ([Location 3263](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3263)) [Open in Readwise](https://readwise.io/open/54387172) ^rw54387172
+    - Date:: [[March 2nd, 2020, Monday]]
+- “For me to be a saint means to be myself.” ([Location 3269](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3269)) [Open in Readwise](https://readwise.io/open/54387173) ^rw54387173
+    - Date:: [[March 2nd, 2020, Monday]]
+- Ones’ passion to improve the world goes bad when they start to believe that in order to be loved they have to be perfect and not make mistakes. Twos’ self-donating love devolves into an unhealthy codependence. Threes take their love of glory and disfigure it into a narcissistic need for constant praise. Fours descend into self-absorption as they give free rein to their overcharged feelings, while Fives have nearly the opposite problem, withdrawing into their minds and cutting themselves off from the unavoidable risks intrinsic to all human relationships. Sixes are unable to trust in a future in which God is already waiting for them, and Sevens flee the pain that deepens the soul in favor of a party that only distracts it. Eights’ need to be right and to challenge others can deteriorate into intimidating the weak, and Nines’ desire to avoid conflict at all costs means that they are all too willing to accept peace at any price. ([Location 3270](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3270)) [Open in Readwise](https://readwise.io/open/54387174) ^rw54387174
+    - Date:: [[March 2nd, 2020, Monday]]
+- Part of the Enneagram’s goal is to help us relax our paralytic grip on that one dimension of God’s character so we can open our hands to receive the other characteristics of God our clenched fists will not allow. ([Location 3279](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3279)) [Open in Readwise](https://readwise.io/open/54387175) ^rw54387175
+    - Date:: [[March 2nd, 2020, Monday]]
+- “For me to be a saint means to be myself. Therefore the problem of sanctity and salvation is in fact the problem of finding out who I am and of discovering my true self.” ([Location 3285](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3285)) [Open in Readwise](https://readwise.io/open/54387176) ^rw54387176
+    - Date:: [[March 2nd, 2020, Monday]]
+- May you recognize in your life the presence, power, and light of your soul. May you realize that you are never alone, that your soul in its brightness and belonging connects you intimately with the rhythm of the universe. May you have respect for your individuality and difference. May you realize that the shape of your soul is unique, that you have a special destiny here, that behind the façade of your life there is something beautiful and eternal happening. May you learn to see your self with the same delight, pride, and expectation with which God sees you in every moment. ([Location 3292](https://readwise.io/to_kindle?action=open&asin=B01CNZG896&location=3292)) [Open in Readwise](https://readwise.io/open/54387177) ^rw54387177
+    - Date:: [[March 2nd, 2020, Monday]]

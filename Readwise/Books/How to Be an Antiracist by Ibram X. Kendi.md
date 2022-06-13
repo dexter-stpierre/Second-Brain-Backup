@@ -1,0 +1,502 @@
+---
+aliases: [How to Be an Antiracist, How to Be an Antiracist]
+author: Ibram X. Kendi
+---
+# How to Be an Antiracist by Ibram X. Kendi
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51gxJGlHZjL._SL200_.jpg)
+
+## Metadata
+- Author: [[Ibram X. Kendi]]
+- Full Title: How to Be an Antiracist
+- Category: #books
+- Source: [[{source}]]
+
+## Highlights
+### New highlights synced
+- I loved and hated my father for living on his own terms in a world that usually denies Black people their own terms. It was the sort of defiance that could have gotten him lynched by a mob in a different time and place—or lynched by men in badges today. ([Location 69](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=69)) [Open in Readwise](https://readwise.io/open/54386421) ^rw54386421
+    - Date:: [[April 1st, 2020, Wednesday]]
+- intelligence is as subjective as beauty. ([Location 75](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=75)) [Open in Readwise](https://readwise.io/open/54386422) ^rw54386422
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Maybe if I’d read history then, I’d have learned about the historical significance of the new town my family had moved to from New York City in 1997. I would have learned about all those Confederate memorials surrounding me in Manassas, Virginia, like Robert E. Lee’s dead army. I would have learned why so many tourists trek to Manassas National Battlefield Park to relive the glory of the Confederate victories at the Battles of Bull Run during the Civil War. It was there that General Thomas J. Jackson acquired his nickname, “Stonewall,” for his stubborn defense of the Confederacy. Northern Virginians kept the stonewall intact after all these years. Did anyone notice the irony that at this Martin Luther King Jr. oratorical contest, my free Black life represented Stonewall Jackson High School? ([Location 81](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=81)) [Open in Readwise](https://readwise.io/open/54386423) ^rw54386423
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I wonder if it was my poor sense of self that first generated my poor sense of my people. Or was it my poor sense of my people that inflamed a poor sense of myself? ([Location 95](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=95)) [Open in Readwise](https://readwise.io/open/54386424) ^rw54386424
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racist ideas make people of color think less of themselves, which makes them more vulnerable to racist ideas. Racist ideas make White people think more of themselves, which further attracts them to racist ideas. ([Location 97](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=97)) [Open in Readwise](https://readwise.io/open/54386425) ^rw54386425
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I thought I was a subpar student and was bombarded by messages—from Black people, White people, the media—that told me that the reason was rooted in my race…which made me more discouraged and less motivated as a student…which only further reinforced for me the racist idea that Black people just weren’t very studious…which made me feel even more despair or indifference…and on it went. At no point was this cycle interrupted by a deeper analysis of my own specific circumstances and shortcomings or a critical look at the ideas of the society that judged me—instead, the cycle hardened the racist ideas inside me until I was ready to preach them to others. ([Location 99](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=99)) [Open in Readwise](https://readwise.io/open/54386426) ^rw54386426
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I kept shooting out unproven and disproven racist ideas about all the things wrong with Black youth—ironically, on the day when all the things right about Black youth were on display. ([Location 114](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=114)) [Open in Readwise](https://readwise.io/open/54386427) ^rw54386427
+    - Date:: [[April 1st, 2020, Wednesday]]
+- In my applause-stoked flights of oratory, I didn’t realize that to say something is wrong about a racial group is to say something is inferior about that racial group. I did not realize that to say something is inferior about a racial group is to say a racist idea. I thought I was serving my people, when in fact I was serving up racist ideas about my people to my people. ([Location 120](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=120)) [Open in Readwise](https://readwise.io/open/54386428) ^rw54386428
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Internalized racism is the real Black on Black crime. ([Location 132](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=132)) [Open in Readwise](https://readwise.io/open/54386429) ^rw54386429
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I was a dupe, a chump who saw the ongoing struggles of Black people on MLK Day 2000 and decided that Black people themselves were the problem. ([Location 133](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=133)) [Open in Readwise](https://readwise.io/open/54386430) ^rw54386430
+    - Date:: [[April 1st, 2020, Wednesday]]
+- This is the consistent function of racist ideas—and of any kind of bigotry more broadly: to manipulate us into seeing people as the problem, instead of the policies that ensnare them. ([Location 134](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=134)) [Open in Readwise](https://readwise.io/open/54386431) ^rw54386431
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Trump’s behavior may be exceptional, but his denials are normal. When racist ideas resound, denials that those ideas are racist typically follow. When racist policies resound, denials that those policies are racist also follow. ([Location 143](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=143)) [Open in Readwise](https://readwise.io/open/54386432) ^rw54386432
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Denial is the heartbeat of racism, ([Location 146](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=146)) [Open in Readwise](https://readwise.io/open/54386433) ^rw54386433
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Many of us who strongly call out Trump’s racist ideas will strongly deny our own. ([Location 146](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=146)) [Open in Readwise](https://readwise.io/open/54386434) ^rw54386434
+    - Date:: [[April 1st, 2020, Wednesday]]
+- How many of us who despise the Trumps and White supremacists of the world share their self-definition of “not racist”? ([Location 150](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=150)) [Open in Readwise](https://readwise.io/open/54386435) ^rw54386435
+    - Date:: [[April 1st, 2020, Wednesday]]
+- What’s the problem with being “not racist”? It is a claim that signifies neutrality: “I am not a racist, but neither am I aggressively against racism.” ([Location 151](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=151)) [Open in Readwise](https://readwise.io/open/54386436) ^rw54386436
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The opposite of “racist” isn’t “not racist.” It is “antiracist.” ([Location 152](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=152)) [Open in Readwise](https://readwise.io/open/54386437) ^rw54386437
+    - Date:: [[April 1st, 2020, Wednesday]]
+- One either believes problems are rooted in groups of people, as a racist, or locates the roots of problems in power and policies, as an antiracist. One either allows racial inequities to persevere, as a racist, or confronts racial inequities, as an antiracist. ([Location 153](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=153)) [Open in Readwise](https://readwise.io/open/54386438) ^rw54386438
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The claim of “not racist” neutrality is a mask for racism. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=156)) [Open in Readwise](https://readwise.io/open/54386439) ^rw54386439
+    - Date:: [[April 1st, 2020, Wednesday]]
+- it’s important at the outset that we apply one of the core principles of antiracism, which is to return the word “racist” itself back to its proper usage. “Racist” is not—as Richard Spencer argues—a pejorative. It is not the worst word in the English language; it is not the equivalent of a slur. It is descriptive, and the only way to undo racism is to consistently identify and describe it—and then dismantle it. The attempt to turn this usefully descriptive term into an almost unusable slur is, of course, designed to do the opposite: to freeze us into inaction. ([Location 156](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=156)) [Open in Readwise](https://readwise.io/open/54386440) ^rw54386440
+    - Date:: [[April 1st, 2020, Wednesday]]
+- THE COMMON IDEA of claiming “color blindness” is akin to the notion of being “not racist”—as with the “not racist,” the color-blind individual, by ostensibly failing to see race, fails to see racism and falls into racist passivity. ([Location 161](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=161)) [Open in Readwise](https://readwise.io/open/54386441) ^rw54386441
+    - Date:: [[April 1st, 2020, Wednesday]]
+- THE GOOD NEWS is that racist and antiracist are not fixed identities. We can be a racist one minute and an antiracist the next. What we say about race, what we do about race, in each moment, determines what—not who—we are. ([Location 168](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=168)) [Open in Readwise](https://readwise.io/open/54386442) ^rw54386442
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I am no longer manipulated by racist ideas to see racial groups as problems. ([Location 171](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=171)) [Open in Readwise](https://readwise.io/open/54386443) ^rw54386443
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I no longer care about how the actions of other Black individuals reflect on me, since none of us are race representatives, nor is any individual responsible for someone else’s racist ideas. ([Location 173](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=173)) [Open in Readwise](https://readwise.io/open/54386444) ^rw54386444
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I’ve come to see that the movement from racist to antiracist is always ongoing—it requires understanding and snubbing racism based on biology, ethnicity, body, culture, behavior, color, space, and class. And beyond that, it means standing ready to fight at racism’s intersections with other bigotries. ([Location 175](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=175)) [Open in Readwise](https://readwise.io/open/54386445) ^rw54386445
+    - Date:: [[April 1st, 2020, Wednesday]]
+- THIS BOOK IS ultimately about the basic struggle we’re all in, the struggle to be fully human and to see that others are fully human. ([Location 178](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=178)) [Open in Readwise](https://readwise.io/open/54386446) ^rw54386446
+    - Date:: [[April 1st, 2020, Wednesday]]
+- We know how to be racist. We know how to pretend to be not racist. Now let’s know how to be antiracist. ([Location 185](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=185)) [Open in Readwise](https://readwise.io/open/54386447) ^rw54386447
+    - Date:: [[April 1st, 2020, Wednesday]]
+- RACIST: One who is supporting a racist policy through their actions or inaction or expressing a racist idea. ([Location 190](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=190)) [Open in Readwise](https://readwise.io/open/54386448) ^rw54386448
+    - Date:: [[April 1st, 2020, Wednesday]]
+- ANTIRACIST: One who is supporting an antiracist policy through their actions or expressing an antiracist idea. ([Location 191](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=191)) [Open in Readwise](https://readwise.io/open/54386449) ^rw54386449
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Skinner shared how he came to worship an elite White Jesus Christ, who cleaned people up through “rules and regulations,” a savior who prefigured Richard Nixon’s vision of law and order. But one day, Skinner realized that he’d gotten Jesus wrong. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=225)) [Open in Readwise](https://readwise.io/open/54386450) ^rw54386450
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Jesus was a “radical revolutionary, with hair on his chest and dirt under his fingernails.” ([Location 228](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=228)) [Open in Readwise](https://readwise.io/open/54386451) ^rw54386451
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “Any gospel that does not…speak to the issue of enslavement” and “injustice” and “inequality—any gospel that does not want to go where people are hungry and poverty-stricken and set them free in the name of Jesus Christ—is not the gospel.” ([Location 229](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=229)) [Open in Readwise](https://readwise.io/open/54386452) ^rw54386452
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Back in the days of Jesus, “there was a system working just like today,” Skinner declared. But “Jesus was dangerous. He was dangerous because he was changing the system.” ([Location 231](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=231)) [Open in Readwise](https://readwise.io/open/54386453) ^rw54386453
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “A Christian is one who is striving for liberation.” ([Location 253](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=253)) [Open in Readwise](https://readwise.io/open/54386454) ^rw54386454
+    - Date:: [[April 1st, 2020, Wednesday]]
+- the key act for both of us was defining our terms so that we could begin to describe the world and our place in it. Definitions anchor us in principles. ([Location 261](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=261)) [Open in Readwise](https://readwise.io/open/54386455) ^rw54386455
+    - Date:: [[April 1st, 2020, Wednesday]]
+- If we don’t do the basic work of defining the kind of people we want to be in language that is stable and consistent, we can’t work toward stable, consistent goals. ([Location 262](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=262)) [Open in Readwise](https://readwise.io/open/54386456) ^rw54386456
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To be a racist is to constantly redefine racist in a way that exonerates one’s changing policies, ideas, and personhood. ([Location 265](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=265)) [Open in Readwise](https://readwise.io/open/54386457) ^rw54386457
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racism is a marriage of racist policies and racist ideas that produces and normalizes racial inequities. ([Location 266](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=266)) [Open in Readwise](https://readwise.io/open/54386458) ^rw54386458
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racial inequity is when two or more racial groups are not standing on approximately equal footing. ([Location 270](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=270)) [Open in Readwise](https://readwise.io/open/54386459) ^rw54386459
+    - Date:: [[April 1st, 2020, Wednesday]]
+- 71 percent of White families lived in owner-occupied homes in 2014, compared to 45 percent of Latinx families and 41 percent of Black families. ([Location 271](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=271)) [Open in Readwise](https://readwise.io/open/54386460) ^rw54386460
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racial equity is when two or more racial groups are standing on a relatively equal footing. ([Location 272](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=272)) [Open in Readwise](https://readwise.io/open/54386461) ^rw54386461
+    - Date:: [[April 1st, 2020, Wednesday]]
+- A racist policy is any measure that produces or sustains racial inequity between racial groups. An antiracist policy is any measure that produces or sustains racial equity between racial groups. By policy, I mean written and unwritten laws, rules, procedures, processes, regulations, and guidelines that govern people. ([Location 274](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=274)) [Open in Readwise](https://readwise.io/open/54386462) ^rw54386462
+    - Date:: [[April 1st, 2020, Wednesday]]
+- There is no such thing as a nonracist or race-neutral policy. ([Location 276](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=276)) [Open in Readwise](https://readwise.io/open/54386463) ^rw54386463
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “Racist policy” says exactly what the problem is and where the problem is. “Institutional racism” and “structural racism” and “systemic racism” are redundant. Racism itself is institutional, structural, and systemic. ([Location 281](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=281)) [Open in Readwise](https://readwise.io/open/54386464) ^rw54386464
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “Racist policy” also cuts to the core of racism better than “racial discrimination,” ([Location 282](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=282)) [Open in Readwise](https://readwise.io/open/54386465) ^rw54386465
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “Racial discrimination” is an immediate and visible manifestation of an underlying racial policy. ([Location 283](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=283)) [Open in Readwise](https://readwise.io/open/54386466) ^rw54386466
+    - Date:: [[April 1st, 2020, Wednesday]]
+- We all have the power to discriminate. Only an exclusive few have the power to make policy. Focusing on “racial discrimination” takes our eyes off the central agents of racism: racist policy and racist policymakers, or what I call racist power. ([Location 285](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=285)) [Open in Readwise](https://readwise.io/open/54386467) ^rw54386467
+    - Date:: [[April 1st, 2020, Wednesday]]
+- racist power has commandeered the term “racial discrimination,” transforming the act of discriminating on the basis of race into an inherently racist act. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=287)) [Open in Readwise](https://readwise.io/open/54386468) ^rw54386468
+    - Date:: [[April 1st, 2020, Wednesday]]
+- if racial discrimination is defined as treating, considering, or making a distinction in favor or against an individual based on that person’s race, then racial discrimination is not inherently racist. The defining question is whether the discrimination is creating equity or inequity. ([Location 288](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=288)) [Open in Readwise](https://readwise.io/open/54386469) ^rw54386469
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The only remedy to racist discrimination is antiracist discrimination. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=293)) [Open in Readwise](https://readwise.io/open/54386470) ^rw54386470
+    - Date:: [[April 1st, 2020, Wednesday]]
+- As President Lyndon B. Johnson said in 1965, “You do not take a person who, for years, has been hobbled by chains and liberate him, bring him up to the starting line of a race and then say, ‘You are free to compete with all the others,’ and still justly believe that you have been completely fair.” ([Location 295](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=295)) [Open in Readwise](https://readwise.io/open/54386471) ^rw54386471
+    - Date:: [[April 1st, 2020, Wednesday]]
+- U.S. Supreme Court Justice Harry Blackmun wrote in 1978, “In order to get beyond racism, we must first take account of race. There is no other way. And in order to treat some persons equally, we must treat them differently.” ([Location 297](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=297)) [Open in Readwise](https://readwise.io/open/54386472) ^rw54386472
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The most threatening racist movement is not the alt right’s unlikely drive for a White ethnostate but the regular American’s drive for a “race-neutral” one. ([Location 300](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=300)) [Open in Readwise](https://readwise.io/open/54386473) ^rw54386473
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The construct of race neutrality actually feeds White nationalist victimhood by positing the notion that any policy protecting or advancing non-White Americans toward equity is “reverse discrimination.” ([Location 301](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=301)) [Open in Readwise](https://readwise.io/open/54386474) ^rw54386474
+    - Date:: [[April 1st, 2020, Wednesday]]
+- A racist idea is any idea that suggests one racial group is inferior or superior to another racial group in any way. ([Location 307](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=307)) [Open in Readwise](https://readwise.io/open/54386475) ^rw54386475
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racist ideas argue that the inferiorities and superiorities of racial groups explain racial inequities in society. ([Location 307](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=307)) [Open in Readwise](https://readwise.io/open/54386476) ^rw54386476
+    - Date:: [[April 1st, 2020, Wednesday]]
+- An antiracist idea is any idea that suggests the racial groups are equals in all their apparent differences—that there is nothing right or wrong with any racial group. Antiracist ideas argue that racist policies are the cause of racial inequities. ([Location 310](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=310)) [Open in Readwise](https://readwise.io/open/54386477) ^rw54386477
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racism is a powerful collection of racist policies that lead to racial inequity and are substantiated by racist ideas. Antiracism is a powerful collection of antiracist policies that lead to racial equity and are substantiated by antiracist ideas. ([Location 313](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=313)) [Open in Readwise](https://readwise.io/open/54386478) ^rw54386478
+    - Date:: [[April 1st, 2020, Wednesday]]
+- ONCE WE HAVE a solid definition of racism and antiracism, we can start to make sense of the racialized world around us, before us. ([Location 316](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=316)) [Open in Readwise](https://readwise.io/open/54386479) ^rw54386479
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Do-nothing climate policy is racist policy, since the predominantly non-White global south is being victimized by climate change more than the Whiter global north, even as the Whiter global north is contributing more to its acceleration. ([Location 320](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=320)) [Open in Readwise](https://readwise.io/open/54386480) ^rw54386480
+    - Date:: [[April 1st, 2020, Wednesday]]
+- There may be no more consequential White privilege than life itself. White lives matter to the tune of 3.5 additional years over Black lives in the United States, ([Location 332](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=332)) [Open in Readwise](https://readwise.io/open/54386481) ^rw54386481
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Black infants die at twice the rate of White infants. ([Location 334](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=334)) [Open in Readwise](https://readwise.io/open/54386482) ^rw54386482
+    - Date:: [[April 1st, 2020, Wednesday]]
+- In the United States, African Americans are 25 percent more likely to die of cancer than Whites. ([Location 335](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=335)) [Open in Readwise](https://readwise.io/open/54386483) ^rw54386483
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racist voting policy has evolved from disenfranchising by Jim Crow voting laws to disenfranchising by mass incarceration and voter-ID laws. ([Location 341](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=341)) [Open in Readwise](https://readwise.io/open/54386484) ^rw54386484
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Wisconsin’s strict voter-ID law suppressed approximately two hundred thousand votes—again primarily targeting voters of color—in the 2016 election. Donald Trump won that critical swing state by 22,748 votes. ([Location 345](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=345)) [Open in Readwise](https://readwise.io/open/54386485) ^rw54386485
+    - Date:: [[April 1st, 2020, Wednesday]]
+- A racist is someone who is supporting a racist policy by their actions or inaction or expressing a racist idea. An antiracist is someone who is supporting an antiracist policy by their actions or expressing an antiracist idea. ([Location 347](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=347)) [Open in Readwise](https://readwise.io/open/54386486) ^rw54386486
+    - Date:: [[April 1st, 2020, Wednesday]]
+- being an antiracist requires persistent self-awareness, constant self-criticism, and regular self-examination. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=352)) [Open in Readwise](https://readwise.io/open/54386487) ^rw54386487
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racist ideas have defined our society since its beginning and can feel so natural and obvious as to be banal, but antiracist ideas remain difficult to comprehend, in part because they go against the flow of this country’s history. ([Location 353](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=353)) [Open in Readwise](https://readwise.io/open/54386488) ^rw54386488
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “We have all been programmed to respond to the human differences between us with fear and loathing and to handle that difference in one of three ways: ignore it, and if that is not possible, copy it if we think it is dominant, or destroy it if we think it is subordinate. But we have no patterns for relating across our human differences as equals.” ([Location 355](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=355)) [Open in Readwise](https://readwise.io/open/54386489) ^rw54386489
+    - Date:: [[April 1st, 2020, Wednesday]]
+- ASSIMILATIONIST: One who is expressing the racist idea that a racial group is culturally or behaviorally inferior and is supporting cultural or behavioral enrichment programs to develop that racial group. ([Location 362](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=362)) [Open in Readwise](https://readwise.io/open/54386490) ^rw54386490
+    - Date:: [[April 1st, 2020, Wednesday]]
+- SEGREGATIONIST: One who is expressing the racist idea that a permanently inferior racial group can never be developed and is supporting policy that segregates away that racial group. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=365)) [Open in Readwise](https://readwise.io/open/54386491) ^rw54386491
+    - Date:: [[April 1st, 2020, Wednesday]]
+- ANTIRACIST: One who is expressing the idea that racial groups are equals and none needs developing, and is supporting policy that reduces racial inequity. ([Location 367](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=367)) [Open in Readwise](https://readwise.io/open/54386492) ^rw54386492
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The stiffer sentencing policies for drug crimes—not a net increase in crime—caused the American prison population to quadruple between 1980 and 2000. While violent criminals typically account for about half of the prison population at any given time, more people were incarcerated for drug crimes than violent crimes every year from 1993 to 2009. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=378)) [Open in Readwise](https://readwise.io/open/54386493) ^rw54386493
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Nonviolent Black drug offenders remain in prisons for about the same length of time (58.7 months) as violent White criminals (61.7 months). ([Location 382](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=382)) [Open in Readwise](https://readwise.io/open/54386494) ^rw54386494
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “We could arrest their leaders, raid their homes, break up their meetings, and vilify them night after night on the evening news,” Nixon’s domestic-policy chief, John Ehrlichman, told a Harper’s reporter years later. “Did we know we were lying about the drugs? Of course we did.” ([Location 390](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=390)) [Open in Readwise](https://readwise.io/open/54386495) ^rw54386495
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Black people joined in the vilification, convinced that homicidal drug dealers, gun toters, and thieving heroin addicts were flushing “down the drain” all “the hard won gains of the civil rights movement,” ([Location 392](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=392)) [Open in Readwise](https://readwise.io/open/54386496) ^rw54386496
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Some, if not most, Black leaders, in an effort to appear as saviors of the people against this menace, turned around and set the Black criminal alongside the White racist as the enemies of the people. ([Location 394](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=394)) [Open in Readwise](https://readwise.io/open/54386497) ^rw54386497
+    - Date:: [[April 1st, 2020, Wednesday]]
+- By the time I came along in 1982, the shame about “Black on Black crime” was on the verge of overwhelming a generation’s pride about “Black is beautiful.” Many non-Black Americans looked down on Black addicts in revulsion—but too many Black folk looked down on the same addicts in shame. ([Location 400](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=400)) [Open in Readwise](https://readwise.io/open/54386498) ^rw54386498
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Norton provided no empirical evidence to substantiate her position that certain “ghetto” Blacks were deficient in any of these values. ([Location 409](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=409)) [Open in Readwise](https://readwise.io/open/54386499) ^rw54386499
+    - Date:: [[April 1st, 2020, Wednesday]]
+- they paid more attention to chastising Black people than to Reagan’s policies, which were chopping the ladder they climbed up and then punishing people for falling. ([Location 415](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=415)) [Open in Readwise](https://readwise.io/open/54386500) ^rw54386500
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The Reagan Revolution was just that: a radical revolution for the benefit of the already powerful. ([Location 417](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=417)) [Open in Readwise](https://readwise.io/open/54386501) ^rw54386501
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Seventy percent of middle-income Blacks said they saw “a great deal of racial discrimination” in 1979, before Reagan revolutionaries rolled back enforcement of civil-rights laws and affirmative-action regulations, before they rolled back funding to state and local governments whose contracts and jobs had become safe avenues into the single-family urban home of the Black middle class. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=418)) [Open in Readwise](https://readwise.io/open/54386502) ^rw54386502
+    - Date:: [[April 1st, 2020, Wednesday]]
+- In the same month that Reagan announced his war on drugs on Ma’s birthday in 1982, he cut the safety net of federal welfare programs and Medicaid, sending more low-income Blacks into poverty. His “stronger law enforcement” sent more Black people into the clutches of violent cops, who killed twenty-two Black people for every White person in the early 1980s. ([Location 421](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=421)) [Open in Readwise](https://readwise.io/open/54386503) ^rw54386503
+    - Date:: [[April 1st, 2020, Wednesday]]
+- few connected the increase in unemployment to the increase in violent crime. ([Location 424](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=424)) [Open in Readwise](https://readwise.io/open/54386504) ^rw54386504
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Americans have long been trained to see the deficiencies of people rather than policy. It’s a pretty easy mistake to make: People are in our faces. Policies are distant. ([Location 425](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=425)) [Open in Readwise](https://readwise.io/open/54386505) ^rw54386505
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I always wonder what would have been if my parents had not let their reasonable fears stop them from pursuing their dreams. ([Location 434](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=434)) [Open in Readwise](https://readwise.io/open/54386506) ^rw54386506
+    - Date:: [[April 1st, 2020, Wednesday]]
+- What Du Bois termed double consciousness may be more precisely termed dueling consciousness. ([Location 443](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=443)) [Open in Readwise](https://readwise.io/open/54386507) ^rw54386507
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The duel within Black consciousness seems to usually be between antiracist and assimilationist ideas. ([Location 448](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=448)) [Open in Readwise](https://readwise.io/open/54386508) ^rw54386508
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Assimilationist ideas are racist ideas. Assimilationists can position any racial group as the superior standard that another racial group should be measuring themselves against, ([Location 453](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=453)) [Open in Readwise](https://readwise.io/open/54386509) ^rw54386509
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Black self-reliance was a double-edged sword. One side was an abhorrence of White supremacy and White paternalism, White rulers and White saviors. On the other, a love of Black rulers and Black saviors, of Black paternalism. On one side was the antiracist belief that Black people were entirely capable of ruling themselves, of relying on themselves. On the other, the assimilationist idea that Black people should focus on pulling themselves up by their baggy jeans and tight halter tops, getting off crack, street corners, and government “handouts,” as if those were the things partially holding their incomes down. ([Location 469](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=469)) [Open in Readwise](https://readwise.io/open/54386510) ^rw54386510
+    - Date:: [[April 1st, 2020, Wednesday]]
+- This dueling consciousness nourished Black pride by insisting that there was nothing wrong with Black people, but it also cultivated shame with its implication that there was something behaviorally wrong with Black people…well, at least those other Black people. ([Location 473](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=473)) [Open in Readwise](https://readwise.io/open/54386511) ^rw54386511
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Assimilationist ideas and segregationist ideas are the two types of racist ideas, the duel within racist thought. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=480)) [Open in Readwise](https://readwise.io/open/54386512) ^rw54386512
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Assimilationist ideas reduce people of color to the level of children needing instruction on how to act. ([Location 483](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=483)) [Open in Readwise](https://readwise.io/open/54386513) ^rw54386513
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The history of the racialized world is a three-way fight between assimilationists, segregationists, and antiracists. Antiracist ideas are based in the truth that racial groups are equals in all the ways they are different, assimilationist ideas are rooted in the notion that certain racial groups are culturally or behaviorally inferior, and segregationist ideas spring from a belief in genetic racial distinction and fixed hierarchy. ([Location 485](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=485)) [Open in Readwise](https://readwise.io/open/54386514) ^rw54386514
+    - Date:: [[April 1st, 2020, Wednesday]]
+- David Hume declared that all races are created unequal, but Thomas Jefferson seemed to disagree in 1776 when he declared “all men are created equal.” But Thomas Jefferson never made the antiracist declaration: All racial groups are equals. While segregationist ideas suggest a racial group is permanently inferior, assimilationist ideas suggest a racial group is temporarily inferior. “It would be hazardous to affirm that, equally cultivated for a few generations,” the Negro “would not become” equal, Jefferson once wrote, in assimilationist fashion. ([Location 492](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=492)) [Open in Readwise](https://readwise.io/open/54386515) ^rw54386515
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The dueling White consciousness fashioned two types of racist policies, reflecting the duel of racist ideas. Since assimilationists posit cultural and behavioral hierarchy, assimilationist policies and programs are geared toward developing, civilizing, and integrating a racial group (to distinguish from programs that uplift individuals). Since segregationists posit the incapability of a racial group to be civilized and developed, segregationist policies are geared toward segregating, enslaving, incarcerating, deporting, and killing. Since antiracists posit that the racial groups are already civilized, antiracist policies are geared toward reducing racial inequities and creating equal opportunity. ([Location 496](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=496)) [Open in Readwise](https://readwise.io/open/54386516) ^rw54386516
+    - Date:: [[April 1st, 2020, Wednesday]]
+- White people have generally advocated for both assimilationist and segregationist policies. People of color have generally advocated for both antiracist and assimilationist policies. ([Location 501](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=501)) [Open in Readwise](https://readwise.io/open/54386517) ^rw54386517
+    - Date:: [[April 1st, 2020, Wednesday]]
+- THE DUELING WHITE consciousness has, from its position of relative power, shaped the struggle within Black consciousness. ([Location 507](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=507)) [Open in Readwise](https://readwise.io/open/54386518) ^rw54386518
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To be antiracist is to conquer the assimilationist consciousness and the segregationist consciousness. ([Location 521](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=521)) [Open in Readwise](https://readwise.io/open/54386519) ^rw54386519
+    - Date:: [[April 1st, 2020, Wednesday]]
+- there is no such thing as the American body, only American bodies, racialized by power. ([Location 523](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=523)) [Open in Readwise](https://readwise.io/open/54386520) ^rw54386520
+    - Date:: [[April 1st, 2020, Wednesday]]
+- RACE: A power construct of collected or merged difference that lives socially. ([Location 527](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=527)) [Open in Readwise](https://readwise.io/open/54386521) ^rw54386521
+    - Date:: [[April 1st, 2020, Wednesday]]
+- What a powerful construction race is—powerful enough to consume us. And it comes for us early. ([Location 561](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=561)) [Open in Readwise](https://readwise.io/open/54386522) ^rw54386522
+    - Date:: [[April 1st, 2020, Wednesday]]
+- But for all of that life-shaping power, race is a mirage, which doesn’t lessen its force. We are what we see ourselves as, whether what we see exists or not. We are what people see us as, whether what they see exists or not. ([Location 562](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=562)) [Open in Readwise](https://readwise.io/open/54386523) ^rw54386523
+    - Date:: [[April 1st, 2020, Wednesday]]
+- What people see in themselves and others has meaning and manifests itself in ideas and actions and policies, even if what they are seeing is an illusion. ([Location 563](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=563)) [Open in Readwise](https://readwise.io/open/54386524) ^rw54386524
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I do not pity my seven-year-old self for identifying racially as Black. I still identify as Black. Not because I believe Blackness, or race, is a meaningful scientific category but because our societies, our policies, our ideas, our histories, and our cultures have rendered race and made it matter. ([Location 566](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=566)) [Open in Readwise](https://readwise.io/open/54386525) ^rw54386525
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The gift of seeing myself as Black instead of being color-blind is that it allows me to clearly see myself historically and politically as being an antiracist, as a member of the interracial body striving to accept and equate and empower racial difference of all kinds. ([Location 573](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=573)) [Open in Readwise](https://readwise.io/open/54386526) ^rw54386526
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Some White people do not identify as White for the same reason they identify as not-racist: to avoid reckoning with the ways that Whiteness—even as a construction and mirage—has informed their notions of America and identity and offered them privilege, the primary one being the privilege of being inherently normal, standard, and legal. ([Location 575](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=575)) [Open in Readwise](https://readwise.io/open/54386527) ^rw54386527
+    - Date:: [[April 1st, 2020, Wednesday]]
+- It is one of the ironies of antiracism that we must identify racially in order to identify the racial privileges and dangers of being in our bodies. ([Location 579](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=579)) [Open in Readwise](https://readwise.io/open/54386528) ^rw54386528
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Jean Nicot wrote in the Trésor de la langue française. “Therefore, it is said that a man, a horse, a dog, or another animal is from a good or bad race.” From the beginning, to make races was to make racial hierarchy. ([Location 609](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=609)) [Open in Readwise](https://readwise.io/open/54386529) ^rw54386529
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Gomes de Zurara grouped all those peoples from Africa into a single race for that very reason: to create hierarchy, the first racist idea. ([Location 610](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=610)) [Open in Readwise](https://readwise.io/open/54386530) ^rw54386530
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Once a race has been created, it must be filled in—and Zurara filled it with negative qualities that would justify Prince Henry’s evangelical mission to the world. ([Location 612](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=612)) [Open in Readwise](https://readwise.io/open/54386531) ^rw54386531
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Spanish lawyer Alonso de Zuazo in 1510 contrasted the beastly race of Blacks as “strong for work, the opposite of the natives, so weak who can work only in undemanding tasks.” Both racist constructions normalized and rationalized the increased importing of the supposedly “strong” enslaved Africans and the ongoing genocide of the supposedly “weak” Indians in the Americas. ([Location 617](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=617)) [Open in Readwise](https://readwise.io/open/54386532) ^rw54386532
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Beginning in 1735, Carl Linnaeus locked in the racial hierarchy of humankind in Systema Naturae. He color-coded the races as White, Yellow, Red, and Black. He attached each race to one of the four regions of the world and described their characteristics. ([Location 621](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=621)) [Open in Readwise](https://readwise.io/open/54386533) ^rw54386533
+    - Date:: [[April 1st, 2020, Wednesday]]
+- these were not simply neutral categories, because races were never meant to be neutral categories. ([Location 624](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=624)) [Open in Readwise](https://readwise.io/open/54386534) ^rw54386534
+    - Date:: [[April 1st, 2020, Wednesday]]
+- a racist power creates racist policies out of raw self-interest; the racist policies necessitate racist ideas to justify them—lingers ([Location 645](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=645)) [Open in Readwise](https://readwise.io/open/54386535) ^rw54386535
+    - Date:: [[April 1st, 2020, Wednesday]]
+- BIOLOGICAL RACIST: One who is expressing the idea that the races are meaningfully different in their biology and that these differences create a hierarchy of value. ([Location 665](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=665)) [Open in Readwise](https://readwise.io/open/54386536) ^rw54386536
+    - Date:: [[April 1st, 2020, Wednesday]]
+- BIOLOGICAL ANTIRACIST: One who is expressing the idea that the races are meaningfully the same in their biology and there are no genetic racial differences. ([Location 667](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=667)) [Open in Readwise](https://readwise.io/open/54386537) ^rw54386537
+    - Date:: [[April 1st, 2020, Wednesday]]
+- generalizing the behavior of racist White individuals to all White people is as perilous as generalizing the individual faults of people of color to entire races. ([Location 673](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=673)) [Open in Readwise](https://readwise.io/open/54386538) ^rw54386538
+    - Date:: [[April 1st, 2020, Wednesday]]
+- We often see and remember the race and not the individual. This is racist categorizing, this stuffing of our experiences with individuals into color-marked racial closets. ([Location 675](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=675)) [Open in Readwise](https://readwise.io/open/54386539) ^rw54386539
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Scholars call what I saw a “microaggression,” a term coined by eminent Harvard psychiatrist Chester Pierce in 1970. Pierce employed the term to describe the constant verbal and nonverbal abuse racist White people unleash on Black people wherever we go, day after day. ([Location 692](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=692)) [Open in Readwise](https://readwise.io/open/54386540) ^rw54386540
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The word “racism” went out of fashion in the liberal haze of racial progress—Obama’s political brand—and conservatives started to treat racism as the equivalent to the N-word, a vicious pejorative rather than a descriptive term. ([Location 706](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=706)) [Open in Readwise](https://readwise.io/open/54386541) ^rw54386541
+    - Date:: [[April 1st, 2020, Wednesday]]
+- A persistent daily low hum of racist abuse is not minor. I use the term “abuse” because aggression is not as exacting a term. ([Location 712](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=712)) [Open in Readwise](https://readwise.io/open/54386542) ^rw54386542
+    - Date:: [[April 1st, 2020, Wednesday]]
+- What other people call racial microaggressions I call racist abuse. ([Location 714](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=714)) [Open in Readwise](https://readwise.io/open/54386543) ^rw54386543
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Only racists shy away from the R-word—racism is steeped in denial. ([Location 715](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=715)) [Open in Readwise](https://readwise.io/open/54386544) ^rw54386544
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I wonder if her racist ideas chalked up my resistance to my Blackness and therefore categorized it as misbehavior, not distress. ([Location 726](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=726)) [Open in Readwise](https://readwise.io/open/54386545) ^rw54386545
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The Black child is ill-treated like an adult, and the Black adult is ill-treated like a child. ([Location 728](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=728)) [Open in Readwise](https://readwise.io/open/54386546) ^rw54386546
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Biological racists are segregationists. Biological racism rests on two ideas: that the races are meaningfully different in their biology and that these differences create a hierarchy of value. ([Location 744](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=744)) [Open in Readwise](https://readwise.io/open/54386547) ^rw54386547
+    - Date:: [[April 1st, 2020, Wednesday]]
+- connecting of biology to behavior is the cradle of biological racism—it leads to biological ranking of the races and the supposition that the biology of certain races yields superior behavioral traits, like intelligence. ([Location 815](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=815)) [Open in Readwise](https://readwise.io/open/54386548) ^rw54386548
+    - Date:: [[April 1st, 2020, Wednesday]]
+- there is no such thing as racial ancestry. Ethnic ancestry does exist. Camara Jones, a prominent medical researcher of health disparities, explained it this way to bioethics scholar Dorothy Roberts: “People are born with ancestry that comes from their parents but are assigned a race.” ([Location 817](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=817)) [Open in Readwise](https://readwise.io/open/54386549) ^rw54386549
+    - Date:: [[April 1st, 2020, Wednesday]]
+- When geneticists compare these ethnic populations, they find there is more genetic diversity between populations within Africa than between Africa and the rest of the world. Ethnic groups in Western Africa are more genetically similar to ethnic groups in Western Europe than to ethnic groups in Eastern Africa. Race is a genetic mirage. ([Location 820](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=820)) [Open in Readwise](https://readwise.io/open/54386550) ^rw54386550
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Singular-race makers push for the end of categorizing and identifying by race. They wag their fingers at people like me identifying as Black—but the unfortunate truth is that their well-meaning post-racial strategy makes no sense in our racist world. ([Location 829](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=829)) [Open in Readwise](https://readwise.io/open/54386551) ^rw54386551
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Race is a mirage but one that humanity has organized itself around in very real ways. ([Location 830](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=830)) [Open in Readwise](https://readwise.io/open/54386552) ^rw54386552
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Imagining away the existence of races in a racist world is as conserving and harmful as imagining away classes in a capitalistic world—it allows the ruling races and classes to keep on ruling. ([Location 831](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=831)) [Open in Readwise](https://readwise.io/open/54386553) ^rw54386553
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Assimilationists believe in the post-racial myth that talking about race constitutes racism, or that if we stop identifying by race, then racism will miraculously go away. They fail to realize that if we stop using racial categories, then we will not be able to identify racial inequity. ([Location 832](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=832)) [Open in Readwise](https://readwise.io/open/54386554) ^rw54386554
+    - Date:: [[April 1st, 2020, Wednesday]]
+- If we cannot challenge racist policies, then racist power’s final solution will be achieved: a world of inequity none of us can see, let alone resist. Terminating racial categories is potentially the last, not the first, step in the antiracist struggle. ([Location 835](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=835)) [Open in Readwise](https://readwise.io/open/54386555) ^rw54386555
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To be antiracist is to also recognize the living, breathing reality of this racial mirage, which makes our skin colors more meaningful than our individuality. To be antiracist is to focus on ending the racism that shapes the mirages, not to ignore the mirages that shape peoples’ lives. ([Location 841](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=841)) [Open in Readwise](https://readwise.io/open/54386556) ^rw54386556
+    - Date:: [[April 1st, 2020, Wednesday]]
+- ETHNIC RACISM: A powerful collection of racist policies that lead to inequity between racialized ethnic groups and are substantiated by racist ideas about racialized ethnic groups. ([Location 861](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=861)) [Open in Readwise](https://readwise.io/open/54386557) ^rw54386557
+    - Date:: [[April 1st, 2020, Wednesday]]
+- ETHNIC ANTIRACISM: A powerful collection of antiracist policies that lead to equity between racialized ethnic groups and are substantiated by antiracist ideas about racialized ethnic groups. ([Location 863](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=863)) [Open in Readwise](https://readwise.io/open/54386558) ^rw54386558
+    - Date:: [[April 1st, 2020, Wednesday]]
+- It did not matter if Black people breathed first in the United States or abroad. In the end, racist violence did not differentiate. ([Location 887](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=887)) [Open in Readwise](https://readwise.io/open/54386559) ^rw54386559
+    - Date:: [[April 1st, 2020, Wednesday]]
+- When Black people make jokes that dehumanize other branches of the African diaspora, we allow that horror story to live again in our laughs. Ethnic racism is the resurrected script of the slave trader. ([Location 897](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=897)) [Open in Readwise](https://readwise.io/open/54386560) ^rw54386560
+    - Date:: [[April 1st, 2020, Wednesday]]
+- THE CURRENT ADMINISTRATION’S throwback to early-twentieth-century immigration policies—built on racist ideas of what constitutes an American—were meant to roll back the years of immigration that saw America dramatically diversify, including a new diversity within its Black population, which now included Africans and West Indians in addition to the descendants of American slaves. But regardless of where they came from, they were all racialized as Black. ([Location 960](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=960)) [Open in Readwise](https://readwise.io/open/54386561) ^rw54386561
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The fact is, all ethnic groups, once they fall under the gaze and power of race makers, become racialized. ([Location 964](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=964)) [Open in Readwise](https://readwise.io/open/54386562) ^rw54386562
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Across history, racist power has produced racist ideas about the racialized ethnic groups in its colonial sphere and ranked them—across the globe and within their own nations. ([Location 967](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=967)) [Open in Readwise](https://readwise.io/open/54386563) ^rw54386563
+    - Date:: [[April 1st, 2020, Wednesday]]
+- ranking of racialized ethnic groups within the ranking of the races creates a racial-ethnic hierarchy, a ladder of ethnic racism within the larger schema of racism. ([Location 972](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=972)) [Open in Readwise](https://readwise.io/open/54386564) ^rw54386564
+    - Date:: [[April 1st, 2020, Wednesday]]
+- We practice ethnic racism when we express a racist idea about an ethnic group or support a racist policy toward an ethnic group. Ethnic racism, like racism itself, points to group behavior, instead of policies, as the cause of disparities between groups. ([Location 974](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=974)) [Open in Readwise](https://readwise.io/open/54386565) ^rw54386565
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The face of ethnic racism bares itself in the form of a persistent question: “Where are you from?” ([Location 978](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=978)) [Open in Readwise](https://readwise.io/open/54386566) ^rw54386566
+    - Date:: [[April 1st, 2020, Wednesday]]
+- majority of Americans on welfare are not African American and the majority of African Americans eligible for welfare refuse it. ([Location 989](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=989)) [Open in Readwise](https://readwise.io/open/54386567) ^rw54386567
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To be antiracist is to view national and transnational ethnic groups as equal in all their differences. To be antiracist is to challenge the racist policies that plague racialized ethnic groups across the world. To be antiracist is to view the inequities between all racialized ethnic groups as a problem of policy. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=994)) [Open in Readwise](https://readwise.io/open/54386568) ^rw54386568
+    - Date:: [[April 1st, 2020, Wednesday]]
+- How can I critique their ethnic racism and ignore my ethnic racism? That is the central double standard in ethnic racism: loving one’s position on the ladder above other ethnic groups and hating one’s position below that of other ethnic groups. It is angrily trashing the racist ideas about one’s own group but happily consuming the racist ideas about other ethnic groups. It is failing to recognize that racist ideas we consume about others came from the same restaurant and the same cook who used the same ingredients to make different degrading dishes for us all. ([Location 1022](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1022)) [Open in Readwise](https://readwise.io/open/54386569) ^rw54386569
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Ethnically racist ideas, like all racist ideas, cover up the racist policies wielded against Black natives and immigrants. ([Location 1032](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1032)) [Open in Readwise](https://readwise.io/open/54386570) ^rw54386570
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Whenever Black immigrants compare their economic standing to that of Black natives, whenever they agree that their success stories show that antiracist Americans are overstating racist policies against African Americans, they are tightening the handcuffs of racist policy around their own wrists. Black immigrants’ comparisons with Black natives conceal the racial inequities between Black immigrants and non-Black immigrants. ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1033)) [Open in Readwise](https://readwise.io/open/54386571) ^rw54386571
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Despite studies showing Black immigrants are, on average, the most educated group of immigrants in the United States, they earn lower wages than similarly trained non-Black immigrants and have the highest unemployment rate of any immigrant group. An ethnic racist asks, Why are Black immigrants doing better than African Americans? An ethnic antiracist asks, Why are Black immigrants not doing as well as other immigrant groups? ([Location 1036](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1036)) [Open in Readwise](https://readwise.io/open/54386572) ^rw54386572
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The reason Black immigrants generally have higher educational levels and economic pictures than African Americans is not that their transnational ethnicities are superior. The reason resides in the circumstances of human migration. Not all individuals migrate, but those who do, in what’s called “immigrant self-selection,” are typically individuals with an exceptional internal drive for material success and/or they possess exceptional external resources. ([Location 1040](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1040)) [Open in Readwise](https://readwise.io/open/54386573) ^rw54386573
+    - Date:: [[April 1st, 2020, Wednesday]]
+- individual Black and Latinx and Asian and Middle Eastern and European immigrants are uniquely resilient and resourceful—not ([Location 1043](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1043)) [Open in Readwise](https://readwise.io/open/54386574) ^rw54386574
+    - Date:: [[April 1st, 2020, Wednesday]]
+- immigrants and migrants of all races tend to be more resilient and resourceful when compared with the natives of their own countries and the natives of their new countries. ([Location 1044](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1044)) [Open in Readwise](https://readwise.io/open/54386575) ^rw54386575
+    - Date:: [[April 1st, 2020, Wednesday]]
+- sociologist Suzanne Model explained in her book on West Indian immigrants, “West Indians are not a black success story but an immigrant success story.” ([Location 1046](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1046)) [Open in Readwise](https://readwise.io/open/54386576) ^rw54386576
+    - Date:: [[April 1st, 2020, Wednesday]]
+- policies from those of Calvin Coolidge to Donald Trump’s limiting immigration to the United States from China or Italy or Senegal or Haiti or Mexico have been self-destructive to the country. With ethnic racism, no one wins, except the racist power at the top. As with all racism, that is the entire point. ([Location 1047](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1047)) [Open in Readwise](https://readwise.io/open/54386577) ^rw54386577
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The tensions created by ethnic racism didn’t produce any winners, just confusion and hurt on both sides. ([Location 1059](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1059)) [Open in Readwise](https://readwise.io/open/54386578) ^rw54386578
+    - Date:: [[April 1st, 2020, Wednesday]]
+- BODILY RACIST: One who is perceiving certain racialized bodies as more animal-like and violent than others. ([Location 1066](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1066)) [Open in Readwise](https://readwise.io/open/54386579) ^rw54386579
+    - Date:: [[April 1st, 2020, Wednesday]]
+- BODILY ANTIRACIST: One who is humanizing, deracializing, and individualizing nonviolent and violent behavior. ([Location 1068](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1068)) [Open in Readwise](https://readwise.io/open/54386580) ^rw54386580
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Violence for White people really has too often had a Black face—and the consequences have landed on the Black body across the span of American history. ([Location 1087](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1087)) [Open in Readwise](https://readwise.io/open/54386581) ^rw54386581
+    - Date:: [[April 1st, 2020, Wednesday]]
+- This is the living legacy of racist power, constructing the Black race biologically and ethnically and presenting the Black body to the world first and foremost as a “beast,” to use Gomes de Zurara’s term, as violently dangerous, as the dark embodiment of evil. ([Location 1096](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1096)) [Open in Readwise](https://readwise.io/open/54386582) ^rw54386582
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Americans today see the Black body as larger, more threatening, more potentially harmful, and more likely to require force to control than a similarly sized White body, according to researchers. ([Location 1098](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1098)) [Open in Readwise](https://readwise.io/open/54386583) ^rw54386583
+    - Date:: [[April 1st, 2020, Wednesday]]
+- What could happen based on my deepest fears mattered more than what did happen to me. I believed violence was stalking me—but in truth I was being stalked inside my own head by racist ideas. ([Location 1118](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1118)) [Open in Readwise](https://readwise.io/open/54386584) ^rw54386584
+    - Date:: [[April 1st, 2020, Wednesday]]
+- But crime bills have never correlated to crime any more than fear has correlated to actual violence. We are not meant to fear suits with policies that kill. We are not meant to fear good White males with AR-15s. No, we are to fear the weary, unarmed Latinx body from Latin America. The Arab body kneeling to Allah is to be feared. The Black body from hell is to be feared. ([Location 1180](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1180)) [Open in Readwise](https://readwise.io/open/54386585) ^rw54386585
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Adept politicians and crime entrepreneurs manufacture the fear and stand before voters to deliver them—messiahs who will liberate them from fear of these other bodies. ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1182)) [Open in Readwise](https://readwise.io/open/54386586) ^rw54386586
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I had to learn to keep racist police officers from getting nervous. Black people are apparently responsible for calming the fears of violent cops in the way women are supposedly responsible for calming the sexual desires of male rapists. If we don’t, then we are blamed for our own assaults, our own deaths. ([Location 1191](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1191)) [Open in Readwise](https://readwise.io/open/54386587) ^rw54386587
+    - Date:: [[April 1st, 2020, Wednesday]]
+- the fist-swinging and gunshots and early deaths cling to us like a second skin, while the hugs and dances and good times fall away. ([Location 1218](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1218)) [Open in Readwise](https://readwise.io/open/54386588) ^rw54386588
+    - Date:: [[April 1st, 2020, Wednesday]]
+- As many moments as I had of anxiety and fear from other Black bodies, I probably lived many more moments in serenity and peace. ([Location 1220](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1220)) [Open in Readwise](https://readwise.io/open/54386589) ^rw54386589
+    - Date:: [[April 1st, 2020, Wednesday]]
+- A study that used National Longitudinal Survey of Youth data from 1976 to 1989 found that young Black males engaged in more violent crime than young White males. But when the researchers compared only employed young males of both races, the differences in violent behavior vanished. ([Location 1229](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1229)) [Open in Readwise](https://readwise.io/open/54386590) ^rw54386590
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Urban Institute stated in a more recent report on long-term unemployment, “Communities with a higher share of long-term unemployed workers also tend to have higher rates of crime and violence.” ([Location 1231](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1231)) [Open in Readwise](https://readwise.io/open/54386591) ^rw54386591
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Another study found that the 2.5 percent decrease in unemployment between 1992 and 1997 resulted in a decrease of 4.3 percent for robbery, 2.5 percent for auto theft, 5 percent for burglary, and 3.7 percent for larceny. ([Location 1232](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1232)) [Open in Readwise](https://readwise.io/open/54386592) ^rw54386592
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Sociologist Karen F. Parker strongly linked the growth of Black-owned businesses to a reduction in Black youth violence between 1990 and 2000. ([Location 1234](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1234)) [Open in Readwise](https://readwise.io/open/54386593) ^rw54386593
+    - Date:: [[April 1st, 2020, Wednesday]]
+- researchers have found a much stronger and clearer correlation between violent-crime levels and unemployment levels than between violent crime and race. ([Location 1237](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1237)) [Open in Readwise](https://readwise.io/open/54386594) ^rw54386594
+    - Date:: [[April 1st, 2020, Wednesday]]
+- low-income neighborhoods struggle with unemployment and poverty—and their typical byproduct, violent crime. ([Location 1242](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1242)) [Open in Readwise](https://readwise.io/open/54386595) ^rw54386595
+    - Date:: [[April 1st, 2020, Wednesday]]
+- For decades, there have been three main strategies in reducing violent crime in Black neighborhoods. Segregationists who consider Black neighborhoods to be war zones have called for tough policing and the mass incarceration of super-predators. Assimilationists say these super-predators need tough laws and tough love from mentors and fathers to civilize them back to nonviolence. Antiracists say Black people, like all people, need more higher-paying jobs within their reach, ([Location 1243](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1243)) [Open in Readwise](https://readwise.io/open/54386596) ^rw54386596
+    - Date:: [[April 1st, 2020, Wednesday]]
+- There is no such thing as a dangerous racial group. ([Location 1248](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1248)) [Open in Readwise](https://readwise.io/open/54386597) ^rw54386597
+    - Date:: [[April 1st, 2020, Wednesday]]
+- There is the violence of racism—manifest in policy and policing—that fears the Black body. And there is the nonviolence of antiracism that does not fear the Black body, that fears, if anything, the violence of the racism that has been set on the Black body. ([Location 1249](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1249)) [Open in Readwise](https://readwise.io/open/54386598) ^rw54386598
+    - Date:: [[April 1st, 2020, Wednesday]]
+- CULTURAL RACIST: One who is creating a cultural standard and imposing a cultural hierarchy among racial groups. ([Location 1260](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1260)) [Open in Readwise](https://readwise.io/open/54386599) ^rw54386599
+    - Date:: [[April 1st, 2020, Wednesday]]
+- CULTURAL ANTIRACIST: One who is rejecting cultural standards and equalizing cultural differences among racial groups. ([Location 1261](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1261)) [Open in Readwise](https://readwise.io/open/54386600) ^rw54386600
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Assimilationists have always urged Africans in the Americas to forget the “broken” languages of our ancestors and master the apparently “fixed” languages of Europeans—to speak “properly.” ([Location 1293](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1293)) [Open in Readwise](https://readwise.io/open/54386601) ^rw54386601
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Whoever makes the cultural standard makes the cultural hierarchy. The act of making a cultural standard and hierarchy is what creates cultural racism. ([Location 1303](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1303)) [Open in Readwise](https://readwise.io/open/54386602) ^rw54386602
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To be antiracist is to reject cultural standards and level cultural difference. ([Location 1304](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1304)) [Open in Readwise](https://readwise.io/open/54386603) ^rw54386603
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “Civilization” is often a polite euphemism for cultural racism. ([Location 1330](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1330)) [Open in Readwise](https://readwise.io/open/54386604) ^rw54386604
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Culturally racist scholars have assumed that since African Americans exhibit outward physical manifestations of European culture, “North American negroes…in culture and language” are “essentially European,” to quote anthropologist Franz Boas in 1911. ([Location 1341](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1341)) [Open in Readwise](https://readwise.io/open/54386605) ^rw54386605
+    - Date:: [[April 1st, 2020, Wednesday]]
+- When we refer to a group as Black or White or another racial identity—Black Southerners as opposed to Southerners—we are racializing that group. When we racialize any group and then render that group’s culture inferior, we are articulating cultural racism. ([Location 1407](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1407)) [Open in Readwise](https://readwise.io/open/54386606) ^rw54386606
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I knew it was wrong to say Black people were culturally inferior. But I was quick to judge specific Black cultures practiced by specific Black racial groups. Judging the culture I saw in Manassas from the cultural standards of Black New York was no different than White New York judging Black New York from White New York’s cultural standards. ([Location 1410](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1410)) [Open in Readwise](https://readwise.io/open/54386607) ^rw54386607
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Whoever creates the cultural standard usually puts themself at the top of the hierarchy. ([Location 1420](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1420)) [Open in Readwise](https://readwise.io/open/54386608) ^rw54386608
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “All cultures must be judged in relation to their own history, and all individuals and groups in relation to their cultural history, and definitely not by the arbitrary standard of any single culture,” wrote Ashley Montagu in 1942, a clear expression of cultural relativity, the essence of cultural antiracism. ([Location 1421](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1421)) [Open in Readwise](https://readwise.io/open/54386609) ^rw54386609
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To be antiracist is to see all cultures in all their differences as on the same level, as equals. When we see cultural difference, we are seeing cultural difference—nothing more, nothing less. ([Location 1423](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1423)) [Open in Readwise](https://readwise.io/open/54386610) ^rw54386610
+    - Date:: [[April 1st, 2020, Wednesday]]
+- BEHAVIORAL RACIST: One who is making individuals responsible for the perceived behavior of racial groups and making racial groups responsible for the behavior of individuals. ([Location 1431](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1431)) [Open in Readwise](https://readwise.io/open/54386611) ^rw54386611
+    - Date:: [[April 1st, 2020, Wednesday]]
+- BEHAVIORAL ANTIRACIST: One who is making racial group behavior fictional and individual behavior real. ([Location 1433](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1433)) [Open in Readwise](https://readwise.io/open/54386612) ^rw54386612
+    - Date:: [[April 1st, 2020, Wednesday]]
+- It makes antiracist sense to talk about the personal irresponsibility of individuals like me of all races. I screwed up. I could have studied harder. But some of my White friends could have studied harder, too, and their failures and irresponsibility didn’t somehow tarnish their race. ([Location 1451](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1451)) [Open in Readwise](https://readwise.io/open/54386613) ^rw54386613
+    - Date:: [[April 1st, 2020, Wednesday]]
+- One of racism’s harms is the way it falls on the unexceptional Black person who is asked to be extraordinary just to survive—and, even worse, the Black screwup who faces the abyss after one error, while the White screwup is handed second chances and empathy. ([Location 1456](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1456)) [Open in Readwise](https://readwise.io/open/54386614) ^rw54386614
+    - Date:: [[April 1st, 2020, Wednesday]]
+- One of the fundamental values of racism to White people is that it makes success attainable for even unexceptional Whites, while success, even moderate success, is usually reserved for extraordinary Black people. ([Location 1458](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1458)) [Open in Readwise](https://readwise.io/open/54386615) ^rw54386615
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Individual behaviors can shape the success of individuals. But policies determine the success of groups. And it is racist power that creates the policies that cause racial inequities. ([Location 1464](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1464)) [Open in Readwise](https://readwise.io/open/54386616) ^rw54386616
+    - Date:: [[April 1st, 2020, Wednesday]]
+- there is no such thing as racial behavior. ([Location 1479](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1479)) [Open in Readwise](https://readwise.io/open/54386617) ^rw54386617
+    - Date:: [[April 1st, 2020, Wednesday]]
+- individual stories are only proof of the behavior of individuals. ([Location 1484](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1484)) [Open in Readwise](https://readwise.io/open/54386618) ^rw54386618
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Antiracism means separating the idea of a culture from the idea of behavior. ([Location 1486](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1486)) [Open in Readwise](https://readwise.io/open/54386619) ^rw54386619
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Abolitionists—or, rather, progressive assimilationists—conjured what I call the oppression-inferiority thesis. In their well-meaning efforts to persuade Americans about the horrors of oppression, assimilationists argue that oppression has degraded the behaviors of oppressed people. ([Location 1503](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1503)) [Open in Readwise](https://readwise.io/open/54386620) ^rw54386620
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I didn’t just have to deal with the consequences of my personal failings, I had the added burden of letting down the entire race. ([Location 1535](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1535)) [Open in Readwise](https://readwise.io/open/54386621) ^rw54386621
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Because of the way the human mind works—the so-called “attribution effect,” which drives us to take personal credit for any success—those of us who prepped for the test would score higher and then walk into better opportunities thinking it was all about us: that we were better and smarter than the rest and we even had inarguable, quantifiable proof. ([Location 1577](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1577)) [Open in Readwise](https://readwise.io/open/54386622) ^rw54386622
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The use of standardized tests to measure aptitude and intelligence is one of the most effective racist policies ever devised to degrade Black minds and legally exclude Black bodies. We degrade Black minds every time we speak of an “academic-achievement gap” based on these numbers. ([Location 1582](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1582)) [Open in Readwise](https://readwise.io/open/54386623) ^rw54386623
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The acceptance of an academic-achievement gap is just the latest method of reinforcing the oldest racist idea: Black intellectual inferiority. ([Location 1584](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1584)) [Open in Readwise](https://readwise.io/open/54386624) ^rw54386624
+    - Date:: [[April 1st, 2020, Wednesday]]
+- There is an even more sinister implication in achievement-gap talk—that disparities in academic achievement accurately reflect disparities in intelligence among racial groups. ([Location 1587](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1587)) [Open in Readwise](https://readwise.io/open/54386625) ^rw54386625
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Intellect is the linchpin of behavior, and the racist idea of the achievement gap is the linchpin of behavioral racism. ([Location 1588](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1588)) [Open in Readwise](https://readwise.io/open/54386626) ^rw54386626
+    - Date:: [[April 1st, 2020, Wednesday]]
+- to believe in a racial hierarchy is to believe in a racist idea. The idea of an achievement gap between the races—with Whites and Asians at the top and Blacks and Latinx at the bottom—creates a racial hierarchy, with its implication that the racial gap in test scores means something is wrong with the Black and Latinx test takers and not the tests. From the beginning, the tests, not the people, have always been the racial problem. ([Location 1589](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1589)) [Open in Readwise](https://readwise.io/open/54386627) ^rw54386627
+    - Date:: [[April 1st, 2020, Wednesday]]
+- What if different environments lead to different kinds of achievement rather than different levels of achievement? ([Location 1615](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1615)) [Open in Readwise](https://readwise.io/open/54386628) ^rw54386628
+    - Date:: [[April 1st, 2020, Wednesday]]
+- What if we measured intelligence by how knowledgeable individuals are about their own environments? What if we measured intellect by an individual’s desire to know? What if we realized the best way to ensure an effective educational system is not by standardizing our curricula and tests but by standardizing the opportunities available to all students? ([Location 1617](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1617)) [Open in Readwise](https://readwise.io/open/54386629) ^rw54386629
+    - Date:: [[April 1st, 2020, Wednesday]]
+- In Pennsylvania, a recent statewide study found that at any given poverty level, districts with a higher proportion of White students receive significantly more funding than districts with more students of color. ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1620)) [Open in Readwise](https://readwise.io/open/54386630) ^rw54386630
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The lack of resources leads directly to diminished opportunities for learning. In other words, the racial problem is the opportunity gap, as antiracist reformers call it, not the achievement gap. ([Location 1622](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1622)) [Open in Readwise](https://readwise.io/open/54386631) ^rw54386631
+    - Date:: [[April 1st, 2020, Wednesday]]
+- If only I’d spent more time listening to King instead of all the adults who claimed to speak for him. ([Location 1636](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1636)) [Open in Readwise](https://readwise.io/open/54386632) ^rw54386632
+    - Date:: [[April 1st, 2020, Wednesday]]
+- As long as the mind thinks there is something behaviorally wrong with a racial group, the mind can never be antiracist. ([Location 1638](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1638)) [Open in Readwise](https://readwise.io/open/54386633) ^rw54386633
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To be antiracist is to think nothing is behaviorally wrong or right—inferior or superior—with any of the racial groups. ([Location 1641](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1641)) [Open in Readwise](https://readwise.io/open/54386634) ^rw54386634
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Behavior is something humans do, not races do. ([Location 1644](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1644)) [Open in Readwise](https://readwise.io/open/54386635) ^rw54386635
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Whenever we say something just feels right or wrong we’re evading the deeper, perhaps hidden, ideas that inform our feelings. But in those hidden places, we find what we really think if we have the courage to face our own naked truths. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1666)) [Open in Readwise](https://readwise.io/open/54386636) ^rw54386636
+    - Date:: [[April 1st, 2020, Wednesday]]
+- COLORISM: A powerful collection of racist policies that lead to inequities between Light people and Dark people, supported by racist ideas about Light and Dark people. ([Location 1675](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1675)) [Open in Readwise](https://readwise.io/open/54386637) ^rw54386637
+    - Date:: [[April 1st, 2020, Wednesday]]
+- COLOR ANTIRACISM: A powerful collection of antiracist policies that lead to equity between Light people and Dark people, supported by antiracist ideas about Light and Dark people. ([Location 1677](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1677)) [Open in Readwise](https://readwise.io/open/54386638) ^rw54386638
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To recognize colorism, we must first recognize that Light people and Dark people are two distinct racialized groups shaped by their own histories. ([Location 1717](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1717)) [Open in Readwise](https://readwise.io/open/54386639) ^rw54386639
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Light people sometimes pass for White and may yet be accepted into Whiteness so that White people can maintain majorities in countries like the United States, where demographic trends threaten to relegate them to minority status. ([Location 1719](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1719)) [Open in Readwise](https://readwise.io/open/54386640) ^rw54386640
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Anti-Dark colorism follows the logic of behavioral racism, linking behavior to color, ([Location 1731](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1731)) [Open in Readwise](https://readwise.io/open/54386641) ^rw54386641
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Inequities between Light and Dark African Americans can be as wide as inequities between Black and White Americans. ([Location 1745](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1745)) [Open in Readwise](https://readwise.io/open/54386642) ^rw54386642
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Light people constantly report their struggle to integrate with Dark people, to prove their Blackness to Dark people, as if Dark people are the judge and standard of Blackness. ([Location 1768](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1768)) [Open in Readwise](https://readwise.io/open/54386643) ^rw54386643
+    - Date:: [[April 1st, 2020, Wednesday]]
+- I had antiracist intentions, unmindful that the car of racism can drive just as far with the right intentions. ([Location 1782](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1782)) [Open in Readwise](https://readwise.io/open/54386644) ^rw54386644
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To be an antiracist is to eliminate any beauty standard based on skin and eye color, hair texture, facial and bodily features shared by groups. To be an antiracist is to diversify our standards of beauty like our standards of culture or intelligence, to see beauty equally in all skin colors, broad and thin noses, kinky and straight hair, light and dark eyes. To be an antiracist is to build and live in a beauty culture that accentuates instead of erases our natural beauty. ([Location 1783](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1783)) [Open in Readwise](https://readwise.io/open/54386645) ^rw54386645
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Either racist policies or Black inferiority explains why White people are wealthier, healthier, and more powerful than Black people today. ([Location 1843](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1843)) [Open in Readwise](https://readwise.io/open/54386646) ^rw54386646
+    - Date:: [[April 1st, 2020, Wednesday]]
+- “The lighter the skin, the lighter the sentence” became a popular antiracist saying as the era of mass incarceration surged in the 1990s. ([Location 1866](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1866)) [Open in Readwise](https://readwise.io/open/54386647) ^rw54386647
+    - Date:: [[April 1st, 2020, Wednesday]]
+- ANTI-WHITE RACIST: One who is classifying people of European descent as biologically, culturally, or behaviorally inferior or conflating the entire race of White people with racist power. ([Location 1907](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1907)) [Open in Readwise](https://readwise.io/open/54386648) ^rw54386648
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racist ideas love believers, not thinkers. ([Location 1911](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1911)) [Open in Readwise](https://readwise.io/open/54386649) ^rw54386649
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racist ideas suspend reality and retrofit history, including our individual histories. ([Location 1918](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1918)) [Open in Readwise](https://readwise.io/open/54386650) ^rw54386650
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Racist ideas often lead to this silly psychological inversion, where we blame the victimized race for their own victimization. ([Location 1954](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=1954)) [Open in Readwise](https://readwise.io/open/54386651) ^rw54386651
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Black people can be racist toward White people. ([Location 2007](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2007)) [Open in Readwise](https://readwise.io/open/54386652) ^rw54386652
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Whenever someone classifies people of European descent as biologically, culturally, or behaviorally inferior, whenever someone says there is something wrong with White people as a group, someone is articulating a racist idea. ([Location 2008](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2008)) [Open in Readwise](https://readwise.io/open/54386653) ^rw54386653
+    - Date:: [[April 1st, 2020, Wednesday]]
+- The only thing wrong with White people is when they embrace racist ideas and policies and then deny their ideas and policies are racist. ([Location 2009](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2009)) [Open in Readwise](https://readwise.io/open/54386654) ^rw54386654
+    - Date:: [[April 1st, 2020, Wednesday]]
+- their history of pillaging is not the result of the evil genes or cultures of White people. ([Location 2012](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2012)) [Open in Readwise](https://readwise.io/open/54386655) ^rw54386655
+    - Date:: [[April 1st, 2020, Wednesday]]
+- To be antiracist is to never mistake the global march of White racism for the global march of White people. To be antiracist is to never mistake the antiracist hate of White racism for the racist hate of White people. ([Location 2016](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2016)) [Open in Readwise](https://readwise.io/open/54386656) ^rw54386656
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Donald Trump’s economic policies are geared toward enriching White male power—but at the expense of most of his White male followers, along with the rest of us. ([Location 2019](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2019)) [Open in Readwise](https://readwise.io/open/54386657) ^rw54386657
+    - Date:: [[April 1st, 2020, Wednesday]]
+- We must discern the difference between racist power (racist policymakers) and White people. ([Location 2021](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2021)) [Open in Readwise](https://readwise.io/open/54386658) ^rw54386658
+    - Date:: [[April 1st, 2020, Wednesday]]
+- Of course, ordinary White people benefit from racist policies, though not nearly as much as racist power and not nearly as much as they could from an equitable society, one where the average White voter could have as much power as superrich White men to decide elections and shape policy. ([Location 2025](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2025)) [Open in Readwise](https://readwise.io/open/54386659) ^rw54386659
+    - Date:: [[April 1st, 2020, Wednesday]]
+- racist power produces racist policies out of self-interest and then produces racist ideas to justify those policies. ([Location 2030](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2030)) [Open in Readwise](https://readwise.io/open/54386660) ^rw54386660
+    - Date:: [[April 1st, 2020, Wednesday]]
+- But racist ideas also suppress the resistance to policies that are detrimental to White people, by convincing average White people that inequity is rooted in “personal failure” and is unrelated to policies. ([Location 2031](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2031)) [Open in Readwise](https://readwise.io/open/54386661) ^rw54386661
+    - Date:: [[April 1st, 2020, Wednesday]]
+- White racists do not want to define racial hierarchy or policies that yield racial inequities as racist. To do so would be to define their ideas and policies as racist. Instead, they define policies not rigged for White people as racist. ([Location 2044](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2044)) [Open in Readwise](https://readwise.io/open/54386662) ^rw54386662
+    - Date:: [[April 1st, 2020, Wednesday]]
+- White racists who can’t imagine their lives not being the focus of any movement respond to “Black Lives Matter” with “All Lives Matter.” ([Location 2046](https://readwise.io/to_kindle?action=open&asin=B07D2364N5&location=2046)) [Open in Readwise](https://readwise.io/open/54386663) ^rw54386663
+    - Date:: [[April 1st, 2020, Wednesday]]

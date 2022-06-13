@@ -1,0 +1,190 @@
+---
+aliases: [To Hell With the Hustle, To Hell With the Hustle]
+author: Jefferson Bethke
+---
+# To Hell With the Hustle by Jefferson Bethke
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/412YKiPfs9L._SL200_.jpg)
+
+## Metadata
+- Author: [[Jefferson Bethke]]
+- Full Title: To Hell With the Hustle
+- Category: #books
+- Source: [[{source}]]
+
+## Highlights
+### New highlights synced
+- After only a decade or two of living up to these cultural expectations, many of us turn around and realize we can’t find the meaning we thought we were striving for. We’ve been hustling, but hustling toward an empty grave. Lifeless. Less human. Because we’re busier. More frantic. More disconnected. Lonelier. ([Location 248](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=248)) [Open in Readwise](https://readwise.io/open/54386664) ^rw54386664
+    - Date:: [[March 20th, 2020, Friday]]
+- But what if hustle is actually what got us to this point?1 What if it’s not the solution, but the problem? What if hustle is a contagion that is flowing through our veins in subtle, under-the-surface ways? ([Location 251](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=251)) [Open in Readwise](https://readwise.io/open/54386665) ^rw54386665
+    - Date:: [[March 20th, 2020, Friday]]
+- A recent Gallup poll concluded that very thing: “Like all employees, millennials care about their income. But for this generation, a job is about more than a paycheck—it’s about a purpose.”4 ([Location 264](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=264)) [Open in Readwise](https://readwise.io/open/54386666) ^rw54386666
+    - Date:: [[March 20th, 2020, Friday]]
+- Every person in my generation (millennials) is expected to not only have a job but also have one that is cool, is fulfilling, and reflects well on us. ([Location 280](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=280)) [Open in Readwise](https://readwise.io/open/54386667) ^rw54386667
+    - Date:: [[March 20th, 2020, Friday]]
+- As Anne Petersen noted in her brilliant, recent piece titled “How Millennials Became the Burnout Generation,” we think we “need to find employment that reflects well on our parents . . . that’s also impressive to our peers,” and that fulfills us.7 But, Petersen continued, the problem with thinking “Your dream job is out there, so never stop hustling—is that it’s a blueprint for spiritual and physical exhaustion.” ([Location 281](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=281)) [Open in Readwise](https://readwise.io/open/54386668) ^rw54386668
+    - Date:: [[March 20th, 2020, Friday]]
+- •  7 in 10 millennials would say they are currently experiencing some level of burnout. ([Location 287](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=287)) [Open in Readwise](https://readwise.io/open/54386669) ^rw54386669
+    - Date:: [[March 20th, 2020, Friday]]
+- 54 percent of us (millennials) would say we are chronically lonely and say that we “always or sometimes feel that no one knows [us] well.” ([Location 289](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=289)) [Open in Readwise](https://readwise.io/open/54386670) ^rw54386670
+    - Date:: [[March 20th, 2020, Friday]]
+- 30 percent of millennials and Gen Z currently say they experience disruptive anxiety or depression. ([Location 291](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=291)) [Open in Readwise](https://readwise.io/open/54386671) ^rw54386671
+    - Date:: [[March 20th, 2020, Friday]]
+- We are paralyzed while trying to keep up. ([Location 293](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=293)) [Open in Readwise](https://readwise.io/open/54386672) ^rw54386672
+    - Date:: [[March 20th, 2020, Friday]]
+- It’s time to stop and consider the cost of all of this hustle. All this speed. ([Location 311](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=311)) [Open in Readwise](https://readwise.io/open/54386673) ^rw54386673
+    - Date:: [[March 20th, 2020, Friday]]
+- WE’RE BEING FORMED, WHETHER WE LIKE IT OR NOT ([Location 332](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=332)) [Open in Readwise](https://readwise.io/open/54386674) ^rw54386674
+    - Date:: [[March 20th, 2020, Friday]]
+- for our family, goals haven’t really helped us become who we want to be. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=350)) [Open in Readwise](https://readwise.io/open/54386675) ^rw54386675
+    - Date:: [[March 20th, 2020, Friday]]
+- formations are who I am becoming through the practices I’m doing. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=359)) [Open in Readwise](https://readwise.io/open/54386676) ^rw54386676
+    - Date:: [[March 20th, 2020, Friday]]
+- how we live forms us into a particular human. And we have to ask, is that the same human Jesus envisioned for our flourishing and our lives? ([Location 363](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=363)) [Open in Readwise](https://readwise.io/open/54386677) ^rw54386677
+    - Date:: [[March 20th, 2020, Friday]]
+- we as humans are the summation of our repeated practices and rituals. Humans aren’t made. We are formed. ([Location 365](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=365)) [Open in Readwise](https://readwise.io/open/54386678) ^rw54386678
+    - Date:: [[March 20th, 2020, Friday]]
+- Who are we becoming through the practices we are doing? ([Location 367](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=367)) [Open in Readwise](https://readwise.io/open/54386679) ^rw54386679
+    - Date:: [[March 20th, 2020, Friday]]
+- in Christian circles we tend to focus far too much on assessing every decision we make through a lens of morality—is it right or is it wrong? ([Location 369](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=369)) [Open in Readwise](https://readwise.io/open/54386680) ^rw54386680
+    - Date:: [[March 20th, 2020, Friday]]
+- With all this authority and knowledge and enhancement to our personal lives, why aren’t we immensely better for it? ([Location 390](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=390)) [Open in Readwise](https://readwise.io/open/54386681) ^rw54386681
+    - Date:: [[March 20th, 2020, Friday]]
+- While we’re busy trying out the latest productivity system, at the end of the day we still need to sleep eight hours. ([Location 397](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=397)) [Open in Readwise](https://readwise.io/open/54386682) ^rw54386682
+    - Date:: [[March 20th, 2020, Friday]]
+- What if we are attempting to exchange wisdom for shortcuts? ([Location 417](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=417)) [Open in Readwise](https://readwise.io/open/54386683) ^rw54386683
+    - Date:: [[March 20th, 2020, Friday]]
+- we face a huge gap between who we are and who we want to be simply because we can actually see that gap better than ever before. ([Location 418](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=418)) [Open in Readwise](https://readwise.io/open/54386684) ^rw54386684
+    - Date:: [[March 20th, 2020, Friday]]
+- our telos is that picture we all hold in our minds of that’s where I want to go, that’s who I want to be, and that’s how I want it to look when I get there. And whether we realize it or not, our telos is our most primal defining feature. We will bend and break an entire life around what we believe our telos to be. ([Location 460](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=460)) [Open in Readwise](https://readwise.io/open/54386685) ^rw54386685
+    - Date:: [[March 20th, 2020, Friday]]
+- we can’t research or think ourselves to a better version of ourselves. ([Location 466](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=466)) [Open in Readwise](https://readwise.io/open/54386686) ^rw54386686
+    - Date:: [[March 20th, 2020, Friday]]
+- a lot of people have the same goals, but not a lot of people reach them. ([Location 480](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=480)) [Open in Readwise](https://readwise.io/open/54386687) ^rw54386687
+    - Date:: [[March 20th, 2020, Friday]]
+- The winners and losers always have the same goals. But they don’t always have the same systems. ([Location 481](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=481)) [Open in Readwise](https://readwise.io/open/54386688) ^rw54386688
+    - Date:: [[March 20th, 2020, Friday]]
+- The idea that somehow the achievement of a goal will make us a certain type of person and that it will immediately rid us of our current unhappiness and discontentment just isn’t true. ([Location 498](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=498)) [Open in Readwise](https://readwise.io/open/54386689) ^rw54386689
+    - Date:: [[March 20th, 2020, Friday]]
+- our habits are simply the things we love deeply without ever realizing it. ([Location 552](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=552)) [Open in Readwise](https://readwise.io/open/54386690) ^rw54386690
+    - Date:: [[March 20th, 2020, Friday]]
+- For too long we’ve confused legalism with something that takes effort or discipline. Just because we do something over and over doesn’t mean it’s legalistic. ([Location 579](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=579)) [Open in Readwise](https://readwise.io/open/54386691) ^rw54386691
+    - Date:: [[March 20th, 2020, Friday]]
+- Legalism isn’t defined by behavior. You can’t look at a certain behavior and know immediately that it’s legalism, because the same behavior can be done in both holy and unholy ways. ([Location 583](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=583)) [Open in Readwise](https://readwise.io/open/54386692) ^rw54386692
+    - Date:: [[March 20th, 2020, Friday]]
+- the idea isn’t to do things that take repetition. It’s to make sure your heart is right if you do. ([Location 588](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=588)) [Open in Readwise](https://readwise.io/open/54386693) ^rw54386693
+    - Date:: [[March 20th, 2020, Friday]]
+- I once heard someone say that rules before love equals legalism, and love before rules equals gospel formation. ([Location 589](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=589)) [Open in Readwise](https://readwise.io/open/54386694) ^rw54386694
+    - Date:: [[March 20th, 2020, Friday]]
+- the people who seem to best understand that we are creatures of love and desire, not thoughts, are the current giant tech companies of the world. ([Location 605](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=605)) [Open in Readwise](https://readwise.io/open/54386695) ^rw54386695
+    - Date:: [[March 20th, 2020, Friday]]
+- Once we realize that our daily habits are forming us on a fundamental level (and even more once they become micro rituals, which are the things we do every day without really realizing them), then we will start paying attention. We begin to ask, are these doing something to me I don’t particularly like or want but don’t realize? ([Location 650](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=650)) [Open in Readwise](https://readwise.io/open/54386696) ^rw54386696
+    - Date:: [[March 20th, 2020, Friday]]
+- Because I want to be more than an efficient, driven, ambitious, goal-oriented, achievement-based human. ([Location 659](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=659)) [Open in Readwise](https://readwise.io/open/54386697) ^rw54386697
+    - Date:: [[March 20th, 2020, Friday]]
+- Our lopsided and monstrously disproportional elevating of personal freedom and the hustle spirit that comes with it are not taking us where we actually want to go. Our pursuit of freedom is not actually freeing us. ([Location 699](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=699)) [Open in Readwise](https://readwise.io/open/54386698) ^rw54386698
+    - Date:: [[March 20th, 2020, Friday]]
+- What if the goal isn’t to hustle but to be faithful? ([Location 738](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=738)) [Open in Readwise](https://readwise.io/open/54386699) ^rw54386699
+    - Date:: [[March 20th, 2020, Friday]]
+- If hustle needed a birthdate I’d say it was the day the assembly line was born. It made efficiency a god. It made time a god. ([Location 772](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=772)) [Open in Readwise](https://readwise.io/open/54386700) ^rw54386700
+    - Date:: [[March 20th, 2020, Friday]]
+- Today, even our salvation model (or our personal development model or business model) is essentially replicating that day in 1913—over ([Location 778](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=778)) [Open in Readwise](https://readwise.io/open/54386701) ^rw54386701
+    - Date:: [[March 20th, 2020, Friday]]
+- We’ve created an assembly-line Christianity. Instead of investing in relationships and one-on-one interactions with other people, we just bring our friends to church and place them on the conveyor belt of the “Sunday service,” where in ninety minutes they can get a good spiritual feeling, sing some songs, hear an encouraging message, get a coffee, and then hear the pastor tell them that if they want to follow Jesus to “pray this prayer.” ([Location 779](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=779)) [Open in Readwise](https://readwise.io/open/54386702) ^rw54386702
+    - Date:: [[March 20th, 2020, Friday]]
+- do I think Jesus is still active and alive and present and moving here? Of course. But I think that’s despite us, not because of us. ([Location 785](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=785)) [Open in Readwise](https://readwise.io/open/54386703) ^rw54386703
+    - Date:: [[March 20th, 2020, Friday]]
+- Sometimes we don’t even need to change anything to find a better path—just being aware of how things are shaping us is enough to affect us. ([Location 789](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=789)) [Open in Readwise](https://readwise.io/open/54386704) ^rw54386704
+    - Date:: [[March 20th, 2020, Friday]]
+- The old stereotype of asking a neighbor for butter or sugar when in need isn’t even necessary anymore. ([Location 797](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=797)) [Open in Readwise](https://readwise.io/open/54386705) ^rw54386705
+    - Date:: [[March 20th, 2020, Friday]]
+- Amazon is our new neighbor. And not a friendly one. ([Location 800](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=800)) [Open in Readwise](https://readwise.io/open/54386706) ^rw54386706
+    - Date:: [[March 20th, 2020, Friday]]
+- There have been other ways to do life in the past, and those who resist the cultural push presently have other ways too. ([Location 812](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=812)) [Open in Readwise](https://readwise.io/open/54386707) ^rw54386707
+    - Date:: [[March 20th, 2020, Friday]]
+- how can we uproot our cheaper rituals and replace them with something much better? ([Location 878](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=878)) [Open in Readwise](https://readwise.io/open/54386708) ^rw54386708
+    - Date:: [[March 20th, 2020, Friday]]
+- Does this fit into our family’s rhythm? ([Location 929](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=929)) [Open in Readwise](https://readwise.io/open/54386709) ^rw54386709
+    - Date:: [[March 20th, 2020, Friday]]
+- What if God’s idea of success isn’t about what you do, but who you are? ([Location 934](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=934)) [Open in Readwise](https://readwise.io/open/54386710) ^rw54386710
+    - Date:: [[March 20th, 2020, Friday]]
+- We create what we want to see. We are motivated by our vision for the world. ([Location 967](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=967)) [Open in Readwise](https://readwise.io/open/54386711) ^rw54386711
+    - Date:: [[March 20th, 2020, Friday]]
+- Made for a balance of work and rest but powered by the god of economics, we would rather push the limits to extract some cash. ([Location 986](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=986)) [Open in Readwise](https://readwise.io/open/54386712) ^rw54386712
+    - Date:: [[March 20th, 2020, Friday]]
+- we want more out of something than they’re willing or able to give. ([Location 988](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=988)) [Open in Readwise](https://readwise.io/open/54386713) ^rw54386713
+    - Date:: [[March 20th, 2020, Friday]]
+- what if in trying to be God, we’ve forgotten how to be human? ([Location 990](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=990)) [Open in Readwise](https://readwise.io/open/54386714) ^rw54386714
+    - Date:: [[March 20th, 2020, Friday]]
+- Shalom in Hebrew is םלש. ([Location 1021](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1021)) [Open in Readwise](https://readwise.io/open/54386715) ^rw54386715
+    - Date:: [[March 20th, 2020, Friday]]
+- ם Mem: water, chaos ל Lamed: the staff, authority ש Shin: teeth, destroy, consume ([Location 1023](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1023)) [Open in Readwise](https://readwise.io/open/54386716) ^rw54386716
+    - Date:: [[March 20th, 2020, Friday]]
+- True shalom carries weight. It means to have the teeth to destroy the authority of chaos. ([Location 1026](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1026)) [Open in Readwise](https://readwise.io/open/54386717) ^rw54386717
+    - Date:: [[March 20th, 2020, Friday]]
+- It took me years to realize all I’d done was change the clothes on my problems. They were still the same problems. ([Location 1062](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1062)) [Open in Readwise](https://readwise.io/open/54386718) ^rw54386718
+    - Date:: [[March 20th, 2020, Friday]]
+- I never actually let what I believed enter into my normal daily habits or rituals, which is where change, growth, joy, and meaning actually happen. ([Location 1063](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1063)) [Open in Readwise](https://readwise.io/open/54386719) ^rw54386719
+    - Date:: [[March 20th, 2020, Friday]]
+- the big difference between chaos and shalom is rhythm. ([Location 1067](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1067)) [Open in Readwise](https://readwise.io/open/54386720) ^rw54386720
+    - Date:: [[March 20th, 2020, Friday]]
+- What if we are dancing through life believing we’re moving to a smooth rhythm, when we’re actually out of sync with the beat, missing steps and bumbling along with no recognizable form? ([Location 1080](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1080)) [Open in Readwise](https://readwise.io/open/54386721) ^rw54386721
+    - Date:: [[March 20th, 2020, Friday]]
+- Silence is quiet. But it also roars. Noise distracts. Numbs. ([Location 1150](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1150)) [Open in Readwise](https://readwise.io/open/54386722) ^rw54386722
+    - Date:: [[March 20th, 2020, Friday]]
+- slow or silent space doesn’t mean wasted space—no ([Location 1310](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1310)) [Open in Readwise](https://readwise.io/open/54386723) ^rw54386723
+    - Date:: [[March 20th, 2020, Friday]]
+- an arbitrary sense of hurry was the force steamrolling us. ([Location 1360](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1360)) [Open in Readwise](https://readwise.io/open/54386724) ^rw54386724
+    - Date:: [[March 20th, 2020, Friday]]
+- If you’re not saying no to good things, you’re probably not saying no enough. ([Location 1447](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1447)) [Open in Readwise](https://readwise.io/open/54386725) ^rw54386725
+    - Date:: [[March 20th, 2020, Friday]]
+- I was flying across the world to speak about God and tell people about Jesus and share stories of his healing power and hope and resurrection. Truly life-giving and fulfilling and meaningful work—if only I could have been awake enough to remember it. ([Location 1465](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1465)) [Open in Readwise](https://readwise.io/open/54386726) ^rw54386726
+    - Date:: [[March 20th, 2020, Friday]]
+- What if we prioritize doing nothing? ([Location 1472](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1472)) [Open in Readwise](https://readwise.io/open/54386727) ^rw54386727
+    - Date:: [[March 20th, 2020, Friday]]
+- Make your default answer no. ([Location 1477](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1477)) [Open in Readwise](https://readwise.io/open/54386728) ^rw54386728
+    - Date:: [[March 20th, 2020, Friday]]
+- If you don’t have enough time to do nothing, then you don’t have enough time. ([Location 1534](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1534)) [Open in Readwise](https://readwise.io/open/54386729) ^rw54386729
+    - Date:: [[March 20th, 2020, Friday]]
+- Being human means embracing the limits, not trying to cheat them. As David Brooks said, “It’s the chains we choose that set us free.”5 ([Location 1536](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1536)) [Open in Readwise](https://readwise.io/open/54386730) ^rw54386730
+    - Date:: [[March 20th, 2020, Friday]]
+- number of years so you can be a doctor. But it must be asked, are you just going to move from that sprint of busyness to another? ([Location 1546](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1546)) [Open in Readwise](https://readwise.io/open/54386731) ^rw54386731
+    - Date:: [[March 20th, 2020, Friday]]
+- Not many of us recognize—and rarely do we wrestle with—how much we actually love chaos and franticness and busyness. ([Location 1549](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1549)) [Open in Readwise](https://readwise.io/open/54386732) ^rw54386732
+    - Date:: [[March 20th, 2020, Friday]]
+- We can only truly give from margin. Financially. Emotionally. Vocationally. ([Location 1593](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1593)) [Open in Readwise](https://readwise.io/open/54386733) ^rw54386733
+    - Date:: [[March 20th, 2020, Friday]]
+- I wonder if our busyness with “big things” or “big dreams” or the Great Commission (Jesus’ command in Matthew 28:19–20 to go into all the nations and “make disciples”) is actually our excuse to not have to know the people who live next door? ([Location 1615](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1615)) [Open in Readwise](https://readwise.io/open/54386734) ^rw54386734
+    - Date:: [[March 20th, 2020, Friday]]
+- have we somehow forgotten that the person across the hall, and the mailman, and the neighbor, and the barista qualify as people and live in a nation? ([Location 1620](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1620)) [Open in Readwise](https://readwise.io/open/54386735) ^rw54386735
+    - Date:: [[March 20th, 2020, Friday]]
+- the world got turned upside down because there were thousands of people who loved Jesus—people we will never hear about or whose names we will never know—and they ate dinners with the people around them. ([Location 1626](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1626)) [Open in Readwise](https://readwise.io/open/54386736) ^rw54386736
+    - Date:: [[March 20th, 2020, Friday]]
+- You can only hand so many hours of your day over to other people before there is nothing left. ([Location 1647](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1647)) [Open in Readwise](https://readwise.io/open/54386737) ^rw54386737
+    - Date:: [[March 20th, 2020, Friday]]
+- Sharing trauma (or even good things) with the Internet world, while we’re in the middle of it, short-circuits the process. It crosses the wires and creates sparks. Loud sparks—noise. Adoration. Comments like We love you! We are cheering for you! Oh, I’m so sorry! But sparks usually mean a bad connection. ([Location 1694](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1694)) [Open in Readwise](https://readwise.io/open/54386738) ^rw54386738
+    - Date:: [[March 20th, 2020, Friday]]
+- What if God wants to speak to us alone? Do we trust he has what it takes? ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1697)) [Open in Readwise](https://readwise.io/open/54386739) ^rw54386739
+    - Date:: [[March 20th, 2020, Friday]]
+- Satan knows if he gets us to believe a lie about who we are and what that means, he wins. ([Location 1750](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1750)) [Open in Readwise](https://readwise.io/open/54386740) ^rw54386740
+    - Date:: [[March 20th, 2020, Friday]]
+- What if God doesn’t want me to do big things for him? Like, at all? What if he just wants me to talk to him and know him and live an ordinary life where I love him and my neighbors well? ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1788)) [Open in Readwise](https://readwise.io/open/54386741) ^rw54386741
+    - Date:: [[March 20th, 2020, Friday]]
+- Is God big and huge and miraculous? Yes. Does he give us a ton of extraordinary moments in our lives? I actually don’t think so. Or here’s a better way to put it: we shouldn’t be seeking out those moments, but instead living our lives in the holiness of the ordinary. And if God wants to get our attention with something big, we can trust that he will. ([Location 1875](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=1875)) [Open in Readwise](https://readwise.io/open/54386742) ^rw54386742
+    - Date:: [[March 20th, 2020, Friday]]
+- So when we talk about Sabbath, it’s about the deep sense of joy and filling and celebration. It’s set apart and different. It is the day of rest, but not in the sense of “let’s sit there and eat potato chips all day and do nothing.” At its core, Sabbath is an invitation to fill the earth with God’s presence. ([Location 2021](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=2021)) [Open in Readwise](https://readwise.io/open/54386743) ^rw54386743
+    - Date:: [[March 20th, 2020, Friday]]
+- It takes work to not work in our culture. It takes effort to cultivate a spirit of rest. ([Location 2039](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=2039)) [Open in Readwise](https://readwise.io/open/54386744) ^rw54386744
+    - Date:: [[March 20th, 2020, Friday]]
+- Just because it takes extra preparation doesn’t mean it’s a burden. ([Location 2116](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=2116)) [Open in Readwise](https://readwise.io/open/54386745) ^rw54386745
+    - Date:: [[March 20th, 2020, Friday]]
+- the Internet wants to pull us further apart. So we need the thing that pulls us closer together—empathy. ([Location 2221](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=2221)) [Open in Readwise](https://readwise.io/open/54386746) ^rw54386746
+    - Date:: [[March 20th, 2020, Friday]]
+- Since we’re not engaging with actual people but with technology, we don’t have to disagree in a thoughtful and relationship-keeping way. Because the relationship doesn’t matter, the disagreement can be toxic, mean, and harsh. ([Location 2318](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=2318)) [Open in Readwise](https://readwise.io/open/54386747) ^rw54386747
+    - Date:: [[March 20th, 2020, Friday]]
+- Before going crazy and going on attack mode, ask: “Well, what do you mean by that?” ([Location 2372](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=2372)) [Open in Readwise](https://readwise.io/open/54386748) ^rw54386748
+    - Date:: [[March 20th, 2020, Friday]]
+- Trying to understand each other should be normal, but sadly it is becoming almost a superpower in our culture to have the ability to really lean into someone’s point of view and gain true understanding and nuance first before we respond. ([Location 2383](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=2383)) [Open in Readwise](https://readwise.io/open/54386749) ^rw54386749
+    - Date:: [[March 20th, 2020, Friday]]
+- The professor in charge of the survey noted, “We are beginning to see trends that people tend to fear what they are exposed to in the media. Many of the top 10 fears this year can be directly correlated to the top media stories of the past year.”10 ([Location 2400](https://readwise.io/to_kindle?action=open&asin=B07QND4MX2&location=2400)) [Open in Readwise](https://readwise.io/open/54386750) ^rw54386750
+    - Date:: [[March 20th, 2020, Friday]]

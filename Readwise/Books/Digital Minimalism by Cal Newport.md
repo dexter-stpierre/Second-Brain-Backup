@@ -1,0 +1,498 @@
+---
+aliases: [Digital Minimalism, Digital Minimalism]
+author: Cal Newport
+---
+# Digital Minimalism by Cal Newport
+
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/51JIFuURUZL._SL200_.jpg)
+
+## Metadata
+- Author: [[Cal Newport]]
+- Full Title: Digital Minimalism
+- Category: #books
+- Source: [[{source}]]
+
+## Highlights
+### New highlights synced
+- “An endless bombardment of news and gossip and images has rendered us manic information addicts. It broke me. It might break you, too.” ([Location 47](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=47)) [Open in Readwise](https://readwise.io/open/54387845) ^rw54387845
+    - Date:: [[January 24th, 2020, Friday]]
+- As many people clarified, the issue was the overall impact of having so many different shiny baubles pulling so insistently at their attention and manipulating their mood. Their problem with this frenzied activity is less about its details than the fact that it’s increasingly beyond their control. Few want to spend so much time online, but these tools have a way of cultivating behavioral addictions. ([Location 63](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=63)) [Open in Readwise](https://readwise.io/open/54387846) ^rw54387846
+    - Date:: [[January 24th, 2020, Friday]]
+- whatever its source, this irresistible attraction to screens is leading people to feel as though they’re ceding more and more of their autonomy when it comes to deciding how they direct their attention. ([Location 70](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=70)) [Open in Readwise](https://readwise.io/open/54387847) ^rw54387847
+    - Date:: [[January 24th, 2020, Friday]]
+- In an open marketplace for attention, darker emotions attract more eyeballs than positive and constructive thoughts. ([Location 80](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=80)) [Open in Readwise](https://readwise.io/open/54387848) ^rw54387848
+    - Date:: [[January 24th, 2020, Friday]]
+- repeated interaction with this darkness can become a source of draining negativity—a steep price that many don’t even realize they’re paying to support their compulsive connectivity. ([Location 81](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=81)) [Open in Readwise](https://readwise.io/open/54387849) ^rw54387849
+    - Date:: [[January 24th, 2020, Friday]]
+- I began more seriously researching and writing on this topic, trying to both better understand its contours and seek out the rare examples of those who can extract great value from these new technologies without losing control.* ([Location 88](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=88)) [Open in Readwise](https://readwise.io/open/54387850) ^rw54387850
+    - Date:: [[January 24th, 2020, Friday]]
+- One of the first things that became clear during this exploration is that our culture’s relationship with these tools is complicated by the fact that they mix harm with benefits. ([Location 91](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=91)) [Open in Readwise](https://readwise.io/open/54387851) ^rw54387851
+    - Date:: [[January 24th, 2020, Friday]]
+- people are tired of feeling like they’ve become a slave to their devices. ([Location 94](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=94)) [Open in Readwise](https://readwise.io/open/54387852) ^rw54387852
+    - Date:: [[January 24th, 2020, Friday]]
+- I’ve become convinced that what you need instead is a full-fledged philosophy of technology use, rooted in your deep values, that provides clear answers to the questions of what tools you should use and how you should use them and, equally important, enables you to confidently ignore everything else. ([Location 103](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=103)) [Open in Readwise](https://readwise.io/open/54387853) ^rw54387853
+    - Date:: [[January 24th, 2020, Friday]]
+- less can be more to our relationship with digital tools. ([Location 110](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=110)) [Open in Readwise](https://readwise.io/open/54387854) ^rw54387854
+    - Date:: [[January 24th, 2020, Friday]]
+- “You see how few things you have to do to live a satisfying and reverent life?” ([Location 112](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=112)) [Open in Readwise](https://readwise.io/open/54387855) ^rw54387855
+    - Date:: [[January 24th, 2020, Friday]]
+- Because digital minimalists spend so much less time connected than their peers, it’s easy to think of their lifestyle as extreme, but the minimalists would argue that this perception is backward: what’s extreme is how much time everyone else spends staring at their screens. ([Location 115](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=115)) [Open in Readwise](https://readwise.io/open/54387856) ^rw54387856
+    - Date:: [[January 24th, 2020, Friday]]
+- The key to thriving in our high-tech world, they’ve learned, is to spend much less time using technology. ([Location 117](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=117)) [Open in Readwise](https://readwise.io/open/54387857) ^rw54387857
+    - Date:: [[January 24th, 2020, Friday]]
+- “The mass of men lead lives of quiet desperation.” ([Location 146](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=146)) [Open in Readwise](https://readwise.io/open/54387858) ^rw54387858
+    - Date:: [[January 24th, 2020, Friday]]
+- They honestly think there is no choice left. But alert and healthy natures remember that the sun rose clear. It is never too late to give up our prejudices. ([Location 148](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=148)) [Open in Readwise](https://readwise.io/open/54387859) ^rw54387859
+    - Date:: [[January 24th, 2020, Friday]]
+- we cannot passively allow the wild tangle of tools, entertainments, and distractions provided by the internet age to dictate how we spend our time or how we feel. ([Location 152](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=152)) [Open in Readwise](https://readwise.io/open/54387860) ^rw54387860
+    - Date:: [[January 24th, 2020, Friday]]
+- We require a philosophy that puts our aspirations and values once again in charge of our daily experience, all the while dethroning primal whims and the business models of Silicon Valley from their current dominance of this role; a philosophy that accepts new technologies, but not if the price is the dehumanization Andrew Sullivan warned us about; a philosophy that prioritizes long-term meaning over short-term satisfaction. ([Location 154](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=154)) [Open in Readwise](https://readwise.io/open/54387861) ^rw54387861
+    - Date:: [[January 24th, 2020, Friday]]
+- “a moment can feel strangely flat if it exists solely in itself.” ([Location 196](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=196)) [Open in Readwise](https://readwise.io/open/54387862) ^rw54387862
+    - Date:: [[January 24th, 2020, Friday]]
+- These changes crept up on us and happened fast, before we had a chance to step back and ask what we really wanted out of the rapid advances of the past decade. ([Location 202](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=202)) [Open in Readwise](https://readwise.io/open/54387863) ^rw54387863
+    - Date:: [[January 24th, 2020, Friday]]
+- We added new technologies to the periphery of our experience for minor reasons, then woke one morning to discover that they had colonized the core of our daily life. ([Location 203](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=203)) [Open in Readwise](https://readwise.io/open/54387864) ^rw54387864
+    - Date:: [[January 24th, 2020, Friday]]
+- The perceived utility of these tools is not the ground on which our growing wariness builds. ([Location 211](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=211)) [Open in Readwise](https://readwise.io/open/54387865) ^rw54387865
+    - Date:: [[January 24th, 2020, Friday]]
+- The source of our unease is not evident in these thin-sliced case studies, but instead becomes visible only when confronting the thicker reality of how these technologies as a whole have managed to expand beyond the minor roles for which we initially adopted them. ([Location 215](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=215)) [Open in Readwise](https://readwise.io/open/54387866) ^rw54387866
+    - Date:: [[January 24th, 2020, Friday]]
+- What’s making us uncomfortable, in other words, is this feeling of losing control—a feeling that instantiates itself in a dozen different ways each day, such as when we tune out with our phone during our child’s bath time, or lose our ability to enjoy a nice moment without a frantic urge to document it for a virtual audience. ([Location 218](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=218)) [Open in Readwise](https://readwise.io/open/54387867) ^rw54387867
+    - Date:: [[January 24th, 2020, Friday]]
+- It’s not about usefulness, it’s about autonomy. ([Location 220](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=220)) [Open in Readwise](https://readwise.io/open/54387868) ^rw54387868
+    - Date:: [[January 24th, 2020, Friday]]
+- many of these new tools are not nearly as innocent as they might first seem. ([Location 225](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=225)) [Open in Readwise](https://readwise.io/open/54387869) ^rw54387869
+    - Date:: [[January 24th, 2020, Friday]]
+- The tycoons of social media have to stop pretending that they’re friendly nerd gods building a better world and admit they’re just tobacco farmers in T-shirts selling an addictive product to children. Because, let’s face it, checking your “likes” is the new smoking. ([Location 232](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=232)) [Open in Readwise](https://readwise.io/open/54387870) ^rw54387870
+    - Date:: [[January 24th, 2020, Friday]]
+- “Well, every time I check my phone, I’m playing the slot machine to see ‘What did I get?’” Harris answers. “There’s a whole playbook of techniques that get used [by technology companies] to get you using the product for as long as possible.” ([Location 240](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=240)) [Open in Readwise](https://readwise.io/open/54387871) ^rw54387871
+    - Date:: [[January 24th, 2020, Friday]]
+- “There’s always this narrative that technology’s neutral. And it’s up to us to choose how we use it. This is just not true—” ([Location 242](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=242)) [Open in Readwise](https://readwise.io/open/54387872) ^rw54387872
+    - Date:: [[January 24th, 2020, Friday]]
+- If we want to thwart their worst effects, however, we need to better understand how they’re so easily able to subvert our best intentions for our lives. ([Location 275](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=275)) [Open in Readwise](https://readwise.io/open/54387873) ^rw54387873
+    - Date:: [[January 24th, 2020, Friday]]
+- “What’s the single biggest factor shaping our lives today?” ([Location 293](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=293)) [Open in Readwise](https://readwise.io/open/54387874) ^rw54387874
+    - Date:: [[January 24th, 2020, Friday]]
+- Addiction is a condition in which a person engages in use of a substance or in a behavior for which the rewarding effects provide a compelling incentive to repeatedly pursue the behavior despite detrimental consequences. ([Location 301](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=301)) [Open in Readwise](https://readwise.io/open/54387875) ^rw54387875
+    - Date:: [[January 24th, 2020, Friday]]
+- our new technologies are particularly well suited to foster behavioral addictions. ([Location 312](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=312)) [Open in Readwise](https://readwise.io/open/54387876) ^rw54387876
+    - Date:: [[January 24th, 2020, Friday]]
+- the behavioral addictions connected to technology tend to be “moderate” as compared to the strong chemical dependencies created by drugs and cigarettes. ([Location 312](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=312)) [Open in Readwise](https://readwise.io/open/54387877) ^rw54387877
+    - Date:: [[January 24th, 2020, Friday]]
+- in many cases these addictive properties of new technologies are not accidents, but instead carefully engineered design features. ([Location 317](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=317)) [Open in Readwise](https://readwise.io/open/54387878) ^rw54387878
+    - Date:: [[January 24th, 2020, Friday]]
+- What specifically makes new technologies well suited to foster behavioral addictions? ([Location 319](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=319)) [Open in Readwise](https://readwise.io/open/54387879) ^rw54387879
+    - Date:: [[January 24th, 2020, Friday]]
+- intermittent positive reinforcement and the drive for social approval. ([Location 323](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=323)) [Open in Readwise](https://readwise.io/open/54387880) ^rw54387880
+    - Date:: [[January 24th, 2020, Friday]]
+- rewards delivered unpredictably are far more enticing than those delivered with a known pattern. Something about unpredictability releases more dopamine—a ([Location 328](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=328)) [Open in Readwise](https://readwise.io/open/54387881) ^rw54387881
+    - Date:: [[January 24th, 2020, Friday]]
+- Either way, the outcome is hard to predict, which, as the psychology of addiction teaches us, makes the whole activity of posting and checking maddeningly appealing. ([Location 336](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=336)) [Open in Readwise](https://readwise.io/open/54387882) ^rw54387882
+    - Date:: [[January 24th, 2020, Friday]]
+- “Apps and websites sprinkle intermittent variable rewards all over their products because it’s good for business.” ([Location 344](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=344)) [Open in Readwise](https://readwise.io/open/54387883) ^rw54387883
+    - Date:: [[January 24th, 2020, Friday]]
+- The thought process that went into building these applications, Facebook being the first of them, . . . was all about: “How do we consume as much of your time and conscious attention as possible?” And that means that we need to sort of give you a little dopamine hit every once in a while, because someone liked or commented on a photo or a post or whatever. ([Location 350](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=350)) [Open in Readwise](https://readwise.io/open/54387884) ^rw54387884
+    - Date:: [[January 24th, 2020, Friday]]
+- The whole social media dynamic of posting content, and then watching feedback trickle back unpredictably, seems fundamental to these services, but as Tristan Harris points out, it’s actually just one arbitrary option among many for how they could operate. ([Location 354](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=354)) [Open in Readwise](https://readwise.io/open/54387885) ^rw54387885
+    - Date:: [[January 24th, 2020, Friday]]
+- Remember that early social media sites featured very little feedback—their operations focused instead on posting and finding information. It tends to be these early, pre-feedback-era features that people cite when explaining why social media is important to their life. ([Location 355](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=355)) [Open in Readwise](https://readwise.io/open/54387886) ^rw54387886
+    - Date:: [[January 24th, 2020, Friday]]
+- there’s nothing fundamental about the unpredictable feedback that dominates most social media services. If you took these features away, you probably wouldn’t diminish the value most people derive from them. ([Location 359](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=359)) [Open in Readwise](https://readwise.io/open/54387887) ^rw54387887
+    - Date:: [[January 24th, 2020, Friday]]
+- “We’re social beings who can’t ever completely ignore what other people think of us.” ([Location 365](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=365)) [Open in Readwise](https://readwise.io/open/54387888) ^rw54387888
+    - Date:: [[January 24th, 2020, Friday]]
+- The other side of this evolutionary bargain, of course, is that a lack of positive feedback creates a sense of distress. This is serious business for the Paleolithic brain, and therefore it can develop an urgent need to continually monitor this “vital” information. ([Location 371](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=371)) [Open in Readwise](https://readwise.io/open/54387889) ^rw54387889
+    - Date:: [[January 24th, 2020, Friday]]
+- A similar drive to regulate social approval helps explain the current obsession among teenagers to maintain Snapchat “streaks” with their friends, as a long unbroken streak of daily communication is a satisfying confirmation that the relationship is strong. ([Location 378](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=378)) [Open in Readwise](https://readwise.io/open/54387890) ^rw54387890
+    - Date:: [[January 24th, 2020, Friday]]
+- The technology industry has become adept at exploiting this instinct for approval. ([Location 383](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=383)) [Open in Readwise](https://readwise.io/open/54387891) ^rw54387891
+    - Date:: [[January 24th, 2020, Friday]]
+- our current unease with new technologies is not really about whether or not they’re useful. It’s instead about autonomy. ([Location 405](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=405)) [Open in Readwise](https://readwise.io/open/54387892) ^rw54387892
+    - Date:: [[January 24th, 2020, Friday]]
+- it’s hard to permanently reform your digital life through the use of tips and tricks alone. ([Location 426](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=426)) [Open in Readwise](https://readwise.io/open/54387893) ^rw54387893
+    - Date:: [[January 24th, 2020, Friday]]
+- small changes are not enough to solve our big issues with new technologies. ([Location 427](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=427)) [Open in Readwise](https://readwise.io/open/54387894) ^rw54387894
+    - Date:: [[January 24th, 2020, Friday]]
+- The underlying behaviors we hope to fix are ingrained in our culture, and, as I argued in the previous chapter, they’re backed by powerful psychological forces that empower our base instincts. ([Location 428](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=428)) [Open in Readwise](https://readwise.io/open/54387895) ^rw54387895
+    - Date:: [[January 24th, 2020, Friday]]
+- The New York Post columnist cited above, in other words, should look beyond the notification settings on his 112 apps and ask the more important question of why he uses so many apps in the first place. ([Location 430](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=430)) [Open in Readwise](https://readwise.io/open/54387896) ^rw54387896
+    - Date:: [[January 24th, 2020, Friday]]
+- Digital Minimalism A philosophy of technology use in which you focus your online time on a small number of carefully selected and optimized activities that strongly support things you value, and then happily miss out on everything else. ([Location 435](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=435)) [Open in Readwise](https://readwise.io/open/54387897) ^rw54387897
+    - Date:: [[January 24th, 2020, Friday]]
+- Notice, this minimalist philosophy contrasts starkly with the maximalist philosophy that most people deploy by default—a mind-set in which any potential for benefit is enough to start using a technology that catches your attention. A maximalist is very uncomfortable with the idea that anyone might miss out on something that’s the least bit interesting or valuable. ([Location 444](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=444)) [Open in Readwise](https://readwise.io/open/54387898) ^rw54387898
+    - Date:: [[January 24th, 2020, Friday]]
+- minimalists don’t mind missing out on small things; what worries them much more is diminishing the large things they already know for sure make a good life good. ([Location 452](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=452)) [Open in Readwise](https://readwise.io/open/54387899) ^rw54387899
+    - Date:: [[January 24th, 2020, Friday]]
+- Tyler, for example, originally joined the standard social media services for the standard reasons: to help his career, to keep him connected, and to provide entertainment. Once Tyler embraced digital minimalism, however, he realized that although he valued all three of these goals, his compulsive use of social networks offered at best minor benefits, and did not qualify as the best way to use technology for these purposes. So he quit all social media to pursue more direct and effective ways to help his career, connect with other people, and be entertained. ([Location 456](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=456)) [Open in Readwise](https://readwise.io/open/54387900) ^rw54387900
+    - Date:: [[January 24th, 2020, Friday]]
+- For many, the core question of “is this the best way to use technology to support this value?” leads them to carefully optimize services that most people fiddle with mindlessly. ([Location 481](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=481)) [Open in Readwise](https://readwise.io/open/54387901) ^rw54387901
+    - Date:: [[January 24th, 2020, Friday]]
+- Digital minimalists are also adept at stripping away superfluous features of new technologies to allow them to access functions that matter while avoiding unnecessary distraction. ([Location 489](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=489)) [Open in Readwise](https://readwise.io/open/54387902) ^rw54387902
+    - Date:: [[January 24th, 2020, Friday]]
+- Principle #1: Clutter is costly. Digital minimalists recognize that cluttering their time and attention with too many devices, apps, and services creates an overall negative cost that can swamp the small benefits that each individual item provides in isolation. ([Location 516](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=516)) [Open in Readwise](https://readwise.io/open/54387903) ^rw54387903
+    - Date:: [[January 24th, 2020, Friday]]
+- Principle #2: Optimization is important. Digital minimalists believe that deciding a particular technology supports something they value is only the first step. To truly extract its full potential benefit, it’s necessary to think carefully about how they’ll use the technology. ([Location 519](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=519)) [Open in Readwise](https://readwise.io/open/54387904) ^rw54387904
+    - Date:: [[January 24th, 2020, Friday]]
+- Principle #3: Intentionality is satisfying. Digital minimalists derive significant satisfaction from their general commitment to being more intentional about how they engage with new technologies. This source of satisfaction is independent of the specific decisions they make and is one of the biggest reasons that minimalism tends to be immensely meaningful to its practitioners. ([Location 522](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=522)) [Open in Readwise](https://readwise.io/open/54387905) ^rw54387905
+    - Date:: [[January 24th, 2020, Friday]]
+- “The cost of a thing is the amount of what I will call life which is required to be exchanged for it, immediately or in the long run.” ([Location 563](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=563)) [Open in Readwise](https://readwise.io/open/54387906) ^rw54387906
+    - Date:: [[January 24th, 2020, Friday]]
+- Thoreau’s new economics, however, demands that you balance this profit against the costs measured in terms of “your life.” ([Location 587](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=587)) [Open in Readwise](https://readwise.io/open/54387907) ^rw54387907
+    - Date:: [[January 24th, 2020, Friday]]
+- When you combine an active Twitter presence with a dozen other attention-demanding online behaviors, the cost in life becomes extreme. ([Location 594](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=594)) [Open in Readwise](https://readwise.io/open/54387908) ^rw54387908
+    - Date:: [[January 24th, 2020, Friday]]
+- It’s easy to be seduced by the small amounts of profit offered by the latest app or service, but then forget its cost in terms of the most important resource we possess: the minutes of our life. ([Location 598](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=598)) [Open in Readwise](https://readwise.io/open/54387909) ^rw54387909
+    - Date:: [[January 24th, 2020, Friday]]
+- more often than not, the cumulative cost of the noncrucial things we clutter our lives with can far outweigh the small benefits each individual piece of clutter promises. ([Location 608](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=608)) [Open in Readwise](https://readwise.io/open/54387910) ^rw54387910
+    - Date:: [[January 24th, 2020, Friday]]
+- Once we view these personal technology processes through the perspective of diminishing returns, we’ll gain the precise vocabulary we need to understand the validity of the second principle of minimalism, which states that optimizing how we use technology is just as important as how we choose what technologies to use in the first place. ([Location 623](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=623)) [Open in Readwise](https://readwise.io/open/54387911) ^rw54387911
+    - Date:: [[January 24th, 2020, Friday]]
+- When considering personal technology processes, let’s focus in particular on the energy invested in trying to improve the value these processes return in your life, for example, through better selection of tools or the adoption of smarter strategies for using the tools. If you increase the amount of energy you invest into this optimization, you’ll increase the amount of value the process returns. ([Location 627](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=627)) [Open in Readwise](https://readwise.io/open/54387912) ^rw54387912
+    - Date:: [[January 24th, 2020, Friday]]
+- “We need to reevaluate [our current relationship with] online information sort of the way we reevaluated free love in the 80s.” ([Location 664](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=664)) [Open in Readwise](https://readwise.io/open/54387913) ^rw54387913
+    - Date:: [[January 24th, 2020, Friday]]
+- The large attention economy conglomerates that introduced many of these new technologies don’t want us thinking about optimization. ([Location 666](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=666)) [Open in Readwise](https://readwise.io/open/54387914) ^rw54387914
+    - Date:: [[January 24th, 2020, Friday]]
+- if you think of these services as offering a collection of features that you can carefully put to use to serve specific values, then almost certainly you’ll spend much less time using them. ([Location 669](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=669)) [Open in Readwise](https://readwise.io/open/54387915) ^rw54387915
+    - Date:: [[January 24th, 2020, Friday]]
+- Once you break free from this mind-set, however, and begin seeing new technologies simply as tools that you can deploy selectively, you’re able to fully embrace the second principle of minimalism and start furiously optimizing—enabling you to reap the advantages of vaulting up the return curve. ([Location 674](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=674)) [Open in Readwise](https://readwise.io/open/54387916) ^rw54387916
+    - Date:: [[January 24th, 2020, Friday]]
+- The Amish, it turns out, do something that’s both shockingly radical and simple in our age of impulsive and complicated consumerism: they start with the things they value most, then work backward to ask whether a given new technology performs more harm than good with respect to these values. ([Location 702](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=702)) [Open in Readwise](https://readwise.io/open/54387917) ^rw54387917
+    - Date:: [[January 24th, 2020, Friday]]
+- “Is this going to be helpful or is it going to be detrimental? Is it going to bolster our life together, as a community, or is it going to somehow tear it down?” ([Location 704](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=704)) [Open in Readwise](https://readwise.io/open/54387918) ^rw54387918
+    - Date:: [[January 24th, 2020, Friday]]
+- “In any discussion about the merits of avoiding the addictive grasp of technology,” he writes, “the Amish stand out as offering an honorable alternative.” ([Location 721](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=721)) [Open in Readwise](https://readwise.io/open/54387919) ^rw54387919
+    - Date:: [[January 24th, 2020, Friday]]
+- approaching decisions with intention can be more important than the impact of the actual decisions themselves. ([Location 723](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=723)) [Open in Readwise](https://readwise.io/open/54387920) ^rw54387920
+    - Date:: [[January 24th, 2020, Friday]]
+- At the core of the Amish philosophy regarding technology is the following trade-off: The Amish prioritize the benefits generated by acting intentionally about technology over the benefits lost from the technologies they decide not to use. ([Location 725](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=725)) [Open in Readwise](https://readwise.io/open/54387921) ^rw54387921
+    - Date:: [[January 24th, 2020, Friday]]
+- intention trumps convenience ([Location 727](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=727)) [Open in Readwise](https://readwise.io/open/54387922) ^rw54387922
+    - Date:: [[January 24th, 2020, Friday]]
+- the very act of being selective about your tools will bring you satisfaction, typically much more than what is lost from the tools you decide to avoid. ([Location 764](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=764)) [Open in Readwise](https://readwise.io/open/54387923) ^rw54387923
+    - Date:: [[January 24th, 2020, Friday]]
+- The sugar high of convenience is fleeting and the sting of missing out dulls rapidly, but the meaningful glow that comes from taking charge of what claims your time and attention is something that persists. ([Location 767](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=767)) [Open in Readwise](https://readwise.io/open/54387924) ^rw54387924
+    - Date:: [[January 24th, 2020, Friday]]
+- gradually changing your habits one at a time doesn’t work well—the engineered attraction of the attention economy, combined with the friction of convenience, will diminish your inertia until you backslide toward where you started. ([Location 784](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=784)) [Open in Readwise](https://readwise.io/open/54387925) ^rw54387925
+    - Date:: [[January 24th, 2020, Friday]]
+- The Digital Declutter Process Put aside a thirty-day period during which you will take a break from optional technologies in your life. During this thirty-day break, explore and rediscover activities and behaviors that you find satisfying and meaningful. At the end of the break, reintroduce optional technologies into your life, starting from a blank slate. For each technology you reintroduce, determine what value it serves in your life and how specifically you will use it so as to maximize this value. ([Location 788](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=788)) [Open in Readwise](https://readwise.io/open/54387926) ^rw54387926
+    - Date:: [[January 24th, 2020, Friday]]
+- Another mistake was not planning what to replace these technologies with during the declutter period—leading to anxiety and boredom. ([Location 815](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=815)) [Open in Readwise](https://readwise.io/open/54387927) ^rw54387927
+    - Date:: [[January 24th, 2020, Friday]]
+- During the thirty days of your digital declutter, you’re supposed to take a break from “optional technologies” in your life. The first step of the declutter process, therefore, is to define which technologies fall into this “optional” category. ([Location 822](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=822)) [Open in Readwise](https://readwise.io/open/54387928) ^rw54387928
+    - Date:: [[January 24th, 2020, Friday]]
+- “I have so many ideas I’d like to implement, but every time I [sat] down to work on them, somehow Netflix [appeared] on my screen.” ([Location 838](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=838)) [Open in Readwise](https://readwise.io/open/54387929) ^rw54387929
+    - Date:: [[January 24th, 2020, Friday]]
+- consider the technology optional unless its temporary removal would harm or significantly disrupt the daily operation of your professional or personal life. ([Location 841](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=841)) [Open in Readwise](https://readwise.io/open/54387930) ^rw54387930
+    - Date:: [[January 24th, 2020, Friday]]
+- On the personal side, these exemptions usually apply to technologies that play a key logistical role. ([Location 846](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=846)) [Open in Readwise](https://readwise.io/open/54387931) ^rw54387931
+    - Date:: [[January 24th, 2020, Friday]]
+- Don’t, however, confuse “convenient” with “critical.” ([Location 849](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=849)) [Open in Readwise](https://readwise.io/open/54387932) ^rw54387932
+    - Date:: [[January 24th, 2020, Friday]]
+- More importantly, the inconvenience might prove useful. ([Location 854](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=854)) [Open in Readwise](https://readwise.io/open/54387933) ^rw54387933
+    - Date:: [[January 24th, 2020, Friday]]
+- My final suggestion is to use operating procedures when confronting a technology that’s largely optional, with the exception of a few critical use cases. These procedures specify exactly how and when you use a particular technology, allowing you to maintain some critical uses without having to default to unrestricted access. I saw many examples of these operating procedures deployed by the participants in my mass declutter experiment. ([Location 861](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=861)) [Open in Readwise](https://readwise.io/open/54387934) ^rw54387934
+    - Date:: [[January 24th, 2020, Friday]]
+- The digital declutter focuses primarily on new technologies, which describes apps, sites, and tools delivered through a computer or mobile phone screen. You should probably also include video games and streaming video in this category. ([Location 882](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=882)) [Open in Readwise](https://readwise.io/open/54387935) ^rw54387935
+    - Date:: [[January 24th, 2020, Friday]]
+- Take a thirty-day break from any of these technologies that you deem “optional”—meaning that you can step away from them without creating harm or major problems in either your professional or personal life. In some cases, you’ll abstain from using the optional technology altogether, while in other cases you might specify a set of operating procedures that dictate exactly when and how you use the technology during the process. ([Location 883](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=883)) [Open in Readwise](https://readwise.io/open/54387936) ^rw54387936
+    - Date:: [[January 24th, 2020, Friday]]
+- In the end, you’re left with a list of banned technologies along with relevant operating procedures. Write this down and put it somewhere where you’ll see it every day. Clarity in what you’re allowed and not allowed to do during the declutter will prove key to its success. ([Location 886](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=886)) [Open in Readwise](https://readwise.io/open/54387937) ^rw54387937
+    - Date:: [[January 24th, 2020, Friday]]
+- You’ll likely find life without optional technologies challenging at first. Your mind has developed certain expectations about distractions and entertainment, and these expectations will be disrupted when you remove optional technologies from your daily experience. This disruption can feel unpleasant. ([Location 891](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=891)) [Open in Readwise](https://readwise.io/open/54387938) ^rw54387938
+    - Date:: [[January 24th, 2020, Friday]]
+- This detox experience is important because it will help you make smarter decisions at the end of the declutter when you reintroduce some of these optional technologies to your life. A major reason that I recommend taking an extended break before trying to transform your digital life is that without the clarity provided by detox, the addictive pull of the technologies will bias your decisions. ([Location 904](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=904)) [Open in Readwise](https://readwise.io/open/54387939) ^rw54387939
+    - Date:: [[January 24th, 2020, Friday]]
+- The goal is not to simply give yourself a break from technology, but to instead spark a permanent transformation of your digital life. ([Location 909](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=909)) [Open in Readwise](https://readwise.io/open/54387940) ^rw54387940
+    - Date:: [[January 24th, 2020, Friday]]
+- For this process to succeed, you must also spend this period trying to rediscover what’s important to you and what you enjoy outside the world of the always-on, shiny digital. Figuring this out before you begin reintroducing technology at the end of this declutter process is crucial. ([Location 912](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=912)) [Open in Readwise](https://readwise.io/open/54387941) ^rw54387941
+    - Date:: [[January 24th, 2020, Friday]]
+- you’re more likely to succeed in reducing the role of digital tools in your life if you cultivate high-quality alternatives to the easy distraction they provide. ([Location 914](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=914)) [Open in Readwise](https://readwise.io/open/54387942) ^rw54387942
+    - Date:: [[January 24th, 2020, Friday]]
+- Reducing the easy distraction without also filling the void can make life unpleasantly stale—an outcome likely to undermine any transition to minimalism. ([Location 916](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=916)) [Open in Readwise](https://readwise.io/open/54387943) ^rw54387943
+    - Date:: [[January 24th, 2020, Friday]]
+- the goal of the reintroduction is to put technology to work on behalf of specific things you value. This means to an end approach to technology requires clarity on what these ends actually are. ([Location 919](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=919)) [Open in Readwise](https://readwise.io/open/54387944) ^rw54387944
+    - Date:: [[January 24th, 2020, Friday]]
+- You will probably find the first week or two of your digital declutter to be difficult, and fight urges to check technologies you’re not allowed to check. These feelings, however, will pass, and this resulting sense of detox will prove useful when it comes time to make clear decisions at the end of the declutter. ([Location 950](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=950)) [Open in Readwise](https://readwise.io/open/54387945) ^rw54387945
+    - Date:: [[January 24th, 2020, Friday]]
+- The goal of a digital declutter, however, is not simply to enjoy time away from intrusive technology. During this monthlong process, you must aggressively explore higher-quality activities to fill in the time left vacant by the optional technologies you’re avoiding. This period should be one of strenuous activity and experimentation. ([Location 952](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=952)) [Open in Readwise](https://readwise.io/open/54387946) ^rw54387946
+    - Date:: [[January 24th, 2020, Friday]]
+- You want to arrive at the end of the declutter having rediscovered the type of activities that generate real satisfaction, enabling you to confidently craft a better life—one in which technology serves only a supporting role for more meaningful ends. ([Location 954](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=954)) [Open in Readwise](https://readwise.io/open/54387947) ^rw54387947
+    - Date:: [[January 24th, 2020, Friday]]
+- The goal of this final step is to start from a blank slate and only let back into your life technology that passes your strict minimalist standards. ([Location 960](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=960)) [Open in Readwise](https://readwise.io/open/54387948) ^rw54387948
+    - Date:: [[January 24th, 2020, Friday]]
+- for each optional technology that you’re considering reintroducing into your life, you must first ask: Does this technology directly support something that I deeply value? This is the only condition on which you should let one of these tools into your life. ([Location 962](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=962)) [Open in Readwise](https://readwise.io/open/54387949) ^rw54387949
+    - Date:: [[January 24th, 2020, Friday]]
+- Once a technology passes this first screening question, it must then face a more difficult standard: Is this technology the best way to support this value? ([Location 968](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=968)) [Open in Readwise](https://readwise.io/open/54387950) ^rw54387950
+    - Date:: [[January 24th, 2020, Friday]]
+- If a technology makes it through both of these screening questions, there’s one last question you must ask yourself before it’s allowed back into your life: How am I going to use this technology going forward to maximize its value and minimize its harms? ([Location 974](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=974)) [Open in Readwise](https://readwise.io/open/54387951) ^rw54387951
+    - Date:: [[January 24th, 2020, Friday]]
+- To allow an optional technology back into your life at the end of the digital declutter, it must: Serve something you deeply value (offering some benefit is not enough). Be the best way to use technology to serve this value (if it’s not, replace it with something better). Have a role in your life that is constrained with a standard operating procedure that specifies when and how you use it. ([Location 985](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=985)) [Open in Readwise](https://readwise.io/open/54387952) ^rw54387952
+    - Date:: [[January 24th, 2020, Friday]]
+- You can apply this screen to any new technology that you’re considering adopting. ([Location 989](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=989)) [Open in Readwise](https://readwise.io/open/54387953) ^rw54387953
+    - Date:: [[January 24th, 2020, Friday]]
+- “I estimate that around 75 percent of the time I got sucked down a rabbit hole of un-productivity was due to me checking my phone for the time.” ([Location 1030](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1030)) [Open in Readwise](https://readwise.io/open/54387954) ^rw54387954
+    - Date:: [[January 24th, 2020, Friday]]
+- Your monthlong break from optional technologies resets your digital life. You can now rebuild it from scratch in a much more intentional and minimalist manner. To do so, apply a three-step technology screen to each optional technology you’re thinking about reintroducing. ([Location 1033](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1033)) [Open in Readwise](https://readwise.io/open/54387955) ^rw54387955
+    - Date:: [[January 24th, 2020, Friday]]
+- This process will help you cultivate a digital life in which new technologies serve your deeply held values as opposed to subverting them without your permission. It is in this careful reintroduction that you make the intentional decisions that will define you as a digital minimalist. ([Location 1035](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1035)) [Open in Readwise](https://readwise.io/open/54387956) ^rw54387956
+    - Date:: [[January 24th, 2020, Friday]]
+- Lead Yourself First. ([Location 1134](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1134)) [Open in Readwise](https://readwise.io/open/54387957) ^rw54387957
+    - Date:: [[January 24th, 2020, Friday]]
+- they define it to be a subjective state in which your mind is free from input from other minds. ([Location 1139](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1139)) [Open in Readwise](https://readwise.io/open/54387958) ^rw54387958
+    - Date:: [[January 24th, 2020, Friday]]
+- solitude can be banished in even the quietest setting if you allow input from other minds to intrude. In addition to direct conversation with another person, these inputs can also take the form of reading a book, listening to a podcast, watching TV, or performing just about any activity that might draw your attention to a smartphone screen. ([Location 1142](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1142)) [Open in Readwise](https://readwise.io/open/54387959) ^rw54387959
+    - Date:: [[January 24th, 2020, Friday]]
+- Solitude requires you to move past reacting to information created by other people and focus instead on your own thoughts and experiences—wherever ([Location 1144](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1144)) [Open in Readwise](https://readwise.io/open/54387960) ^rw54387960
+    - Date:: [[January 24th, 2020, Friday]]
+- Why is solitude valuable? Kethledge and Erwin detail many benefits, most of which concern the insight and emotional balance that comes from unhurried self-reflection. ([Location 1145](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1145)) [Open in Readwise](https://readwise.io/open/54387961) ^rw54387961
+    - Date:: [[January 24th, 2020, Friday]]
+- “All of humanity’s problems stem from man’s inability to sit quietly in a room alone,” ([Location 1163](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1163)) [Open in Readwise](https://readwise.io/open/54387962) ^rw54387962
+    - Date:: [[January 24th, 2020, Friday]]
+- Solitude: A Return to the Self. ([Location 1168](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1168)) [Open in Readwise](https://readwise.io/open/54387963) ^rw54387963
+    - Note: Book ^rw54387963-note
+    - Date:: [[January 24th, 2020, Friday]]
+- “Conversation enriches the understanding, but solitude is the school of genius.” ([Location 1171](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1171)) [Open in Readwise](https://readwise.io/open/54387964) ^rw54387964
+    - Date:: [[January 24th, 2020, Friday]]
+- A Room of One’s Own, ([Location 1179](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1179)) [Open in Readwise](https://readwise.io/open/54387965) ^rw54387965
+    - Note: Book ^rw54387965-note
+    - Date:: [[January 24th, 2020, Friday]]
+- In Woolf’s time, women were denied this liberation by a patriarchal society. In our time, this oppression is increasingly self-inflicted by our preference for the distraction of the digital screen. ([Location 1182](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1182)) [Open in Readwise](https://readwise.io/open/54387966) ^rw54387966
+    - Date:: [[January 24th, 2020, Friday]]
+- Harris is concerned that new technologies help create a culture that undermines time alone with your thoughts, noting that “it matters enormously when that resource is under attack.” ([Location 1184](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1184)) [Open in Readwise](https://readwise.io/open/54387967) ^rw54387967
+    - Date:: [[January 24th, 2020, Friday]]
+- “the ability to be alone . . . is anything but a rejection of close bonds,” and can instead affirm them. ([Location 1189](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1189)) [Open in Readwise](https://readwise.io/open/54387968) ^rw54387968
+    - Date:: [[January 24th, 2020, Friday]]
+- I am here alone for the first time in weeks, to take up my “real” life again at last. That is what is strange—that friends, even passionate love, are not my real life unless there is time alone in which to explore and to discover what is happening or has happened. Without the interruptions, nourishing and maddening, this life would become arid. Yet I taste it fully only when I am alone . . . ([Location 1193](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1193)) [Open in Readwise](https://readwise.io/open/54387969) ^rw54387969
+    - Date:: [[January 24th, 2020, Friday]]
+- “We enter solitude, in which also we lose loneliness.” ([Location 1196](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1196)) [Open in Readwise](https://readwise.io/open/54387970) ^rw54387970
+    - Date:: [[January 24th, 2020, Friday]]
+- regular doses of solitude, mixed in with our default mode of sociality, are necessary to flourish as a human being. ([Location 1199](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1199)) [Open in Readwise](https://readwise.io/open/54387971) ^rw54387971
+    - Date:: [[January 24th, 2020, Friday]]
+- contemporary Western culture makes the peace of solitude difficult to attain.” ([Location 1203](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1203)) [Open in Readwise](https://readwise.io/open/54387972) ^rw54387972
+    - Date:: [[January 24th, 2020, Friday]]
+- “we are in great haste to construct a magnetic telegraph from Maine to Texas; but Maine and Texas, it may be, have nothing important to communicate.” ([Location 1205](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1205)) [Open in Readwise](https://readwise.io/open/54387973) ^rw54387973
+    - Date:: [[January 24th, 2020, Friday]]
+- the iPod provided for the first time the ability to be continuously distracted from your own mind. ([Location 1217](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1217)) [Open in Readwise](https://readwise.io/open/54387974) ^rw54387974
+    - Date:: [[January 24th, 2020, Friday]]
+- It’s now possible to completely banish solitude from your life. Thoreau and Storr worried about people enjoying less solitude. We must now wonder if people might forget this state of being altogether. ([Location 1227](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1227)) [Open in Readwise](https://readwise.io/open/54387975) ^rw54387975
+    - Date:: [[January 24th, 2020, Friday]]
+- Part of what complicates discussions of waning solitude in the smartphone age is that it’s easy to underestimate the severity of this phenomenon. ([Location 1230](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1230)) [Open in Readwise](https://readwise.io/open/54387976) ^rw54387976
+    - Date:: [[January 24th, 2020, Friday]]
+- Solitude Deprivation A state in which you spend close to zero time alone with your own thoughts and free from input from other minds. ([Location 1246](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1246)) [Open in Readwise](https://readwise.io/open/54387977) ^rw54387977
+    - Date:: [[January 24th, 2020, Friday]]
+- when you avoid solitude, you miss out on the positive things it brings you: the ability to clarify hard problems, to regulate your emotions, to build moral courage, and to strengthen relationships. ([Location 1257](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1257)) [Open in Readwise](https://readwise.io/open/54387978) ^rw54387978
+    - Date:: [[January 24th, 2020, Friday]]
+- The sudden rise in anxiety-related problems coincided with the first incoming classes of students that were raised on smartphones and social media. ([Location 1273](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1273)) [Open in Readwise](https://readwise.io/open/54387979) ^rw54387979
+    - Date:: [[January 24th, 2020, Friday]]
+- It seemed clear that the persistent communication was somehow messing with the students’ brain chemistry. ([Location 1274](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1274)) [Open in Readwise](https://readwise.io/open/54387980) ^rw54387980
+    - Date:: [[January 24th, 2020, Friday]]
+- “To my surprise, anxious teenagers tended to agree.” ([Location 1295](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1295)) [Open in Readwise](https://readwise.io/open/54387981) ^rw54387981
+    - Date:: [[January 24th, 2020, Friday]]
+- “Social media is a tool, but it’s become this thing that we can’t live without that’s making us crazy.” ([Location 1297](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1297)) [Open in Readwise](https://readwise.io/open/54387982) ^rw54387982
+    - Date:: [[January 24th, 2020, Friday]]
+- When an entire cohort unintentionally eliminated time alone with their thoughts from their lives, their mental health suffered dramatically. ([Location 1306](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1306)) [Open in Readwise](https://readwise.io/open/54387983) ^rw54387983
+    - Date:: [[January 24th, 2020, Friday]]
+- These teenagers have lost the ability to process and make sense of their emotions, or to reflect on who they are and what really matters, or to build strong relationships, or even to just allow their brains time to power down their critical social circuits, which are not meant to be used constantly, and to redirect that energy to other important cognitive housekeeping tasks. ([Location 1307](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1307)) [Open in Readwise](https://readwise.io/open/54387984) ^rw54387984
+    - Date:: [[January 24th, 2020, Friday]]
+- we need solitude to thrive as human beings, and in recent years, without even realizing it, we’ve been systematically reducing this crucial ingredient from our lives. Simply put, humans are not wired to be constantly wired. ([Location 1316](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1316)) [Open in Readwise](https://readwise.io/open/54387985) ^rw54387985
+    - Date:: [[January 24th, 2020, Friday]]
+- How can you find enough of this solitude in the hyper-connected twenty-first century? ([Location 1319](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1319)) [Open in Readwise](https://readwise.io/open/54387986) ^rw54387986
+    - Date:: [[January 24th, 2020, Friday]]
+- “[Thoreau’s] intention was not to inhabit a wilderness,” he writes, “but to find wildness in a suburban setting.” ([Location 1331](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1331)) [Open in Readwise](https://readwise.io/open/54387987) ^rw54387987
+    - Date:: [[January 24th, 2020, Friday]]
+- What Thoreau sought in his experiment at Walden was the ability to move back and forth between a state of solitude and a state of connection. ([Location 1334](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1334)) [Open in Readwise](https://readwise.io/open/54387988) ^rw54387988
+    - Date:: [[January 24th, 2020, Friday]]
+- “I’ve always had a sort of intuition that for every hour you spend with other human beings you need X number of hours alone. Now what that X represents I don’t really know . . . but it’s a substantial ratio.” ([Location 1341](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1341)) [Open in Readwise](https://readwise.io/open/54387989) ^rw54387989
+    - Date:: [[January 24th, 2020, Friday]]
+- there’s nothing wrong with connectivity, but if you don’t balance it with regular doses of solitude, its benefits will diminish. ([Location 1344](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1344)) [Open in Readwise](https://readwise.io/open/54387990) ^rw54387990
+    - Date:: [[January 24th, 2020, Friday]]
+- What’s remarkable about these concerns is how recently we started really caring about them. ([Location 1364](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1364)) [Open in Readwise](https://readwise.io/open/54387991) ^rw54387991
+    - Date:: [[January 24th, 2020, Friday]]
+- in 90 percent of your daily life, the presence of a cell phone either doesn’t matter or makes things only slightly more convenient. ([Location 1372](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1372)) [Open in Readwise](https://readwise.io/open/54387992) ^rw54387992
+    - Date:: [[January 24th, 2020, Friday]]
+- the urgency we feel to always have a phone with us is exaggerated. ([Location 1386](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1386)) [Open in Readwise](https://readwise.io/open/54387993) ^rw54387993
+    - Date:: [[January 24th, 2020, Friday]]
+- To live permanently without these devices would be needlessly annoying, but to regularly spend a few hours away from them should give you no pause. ([Location 1386](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1386)) [Open in Readwise](https://readwise.io/open/54387994) ^rw54387994
+    - Date:: [[January 24th, 2020, Friday]]
+- “Only thoughts reached by walking have value.” ([Location 1406](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1406)) [Open in Readwise](https://readwise.io/open/54387995) ^rw54387995
+    - Date:: [[January 24th, 2020, Friday]]
+- “The sedentary life is the very sin against the Holy Spirit.” ([Location 1407](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1407)) [Open in Readwise](https://readwise.io/open/54387996) ^rw54387996
+    - Date:: [[January 24th, 2020, Friday]]
+- As I walk, I am always reminded of the slow, patient building of soil in the woods. And I am reminded of the events and companions of my life—for my walks, after so long, are cultural events. ([Location 1424](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1424)) [Open in Readwise](https://readwise.io/open/54387997) ^rw54387997
+    - Date:: [[January 24th, 2020, Friday]]
+- “We do not belong,” he wrote, “to those who have ideas only among books, when stimulated by books.” ([Location 1436](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1436)) [Open in Readwise](https://readwise.io/open/54387998) ^rw54387998
+    - Date:: [[January 24th, 2020, Friday]]
+- a regular basis, go for long walks, preferably somewhere scenic. Take these walks alone, which means not just by yourself, but also, if possible, without your phone. ([Location 1455](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1455)) [Open in Readwise](https://readwise.io/open/54387999) ^rw54387999
+    - Date:: [[January 24th, 2020, Friday]]
+- It’s the act of writing itself that already yields the bulk of the benefits. ([Location 1507](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1507)) [Open in Readwise](https://readwise.io/open/54388000) ^rw54388000
+    - Date:: [[January 24th, 2020, Friday]]
+- Earlier in this chapter, I introduced Raymond Kethledge and Michael Erwin’s definition of solitude as time spent alone with your own thoughts and free from inputs from other minds. Writing a letter to yourself is an excellent mechanism for generating exactly this type of solitude. ([Location 1508](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1508)) [Open in Readwise](https://readwise.io/open/54388001) ^rw54388001
+    - Date:: [[January 24th, 2020, Friday]]
+- The default network, in other words, seems to be connected to social cognition. ([Location 1591](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1591)) [Open in Readwise](https://readwise.io/open/54388002) ^rw54388002
+    - Date:: [[January 24th, 2020, Friday]]
+- Sure enough, once scientists knew what to look for, they discovered that the regions of the brain that defined the default network are “virtually identical” to the networks that light up during social cognition experiments. When given downtime, in other words, our brain defaults to thinking about our social life. ([Location 1592](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1592)) [Open in Readwise](https://readwise.io/open/54388003) ^rw54388003
+    - Date:: [[January 24th, 2020, Friday]]
+- “we are interested in the social world because we are built to turn on the default network during our free time.” ([Location 1598](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1598)) [Open in Readwise](https://readwise.io/open/54388004) ^rw54388004
+    - Date:: [[January 24th, 2020, Friday]]
+- The loss of social connection, for example, turns out to trigger the same system as physical pain—explaining why the death of a family member, a breakup, or even just a social snub can cause such distress. ([Location 1611](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1611)) [Open in Readwise](https://readwise.io/open/54388005) ^rw54388005
+    - Date:: [[January 24th, 2020, Friday]]
+- The intricate brain networks described above evolved over millions of years in environments where interactions were always rich, face-to-face encounters, and social groups were small and tribal. The past two decades, by contrast, are characterized by the rapid spread of digital communication tools—my name for apps, services, or sites that enable people to interact through digital networks—which have pushed people’s social networks to be much larger and much less local, while encouraging interactions through short, text-based messages and approval clicks that are orders of magnitude less information laden than what we have evolved to expect. ([Location 1625](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1625)) [Open in Readwise](https://readwise.io/open/54388006) ^rw54388006
+    - Date:: [[January 24th, 2020, Friday]]
+- “Feeling Lonely? Too Much Time on Social Media Might Be Why.” ([Location 1639](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1639)) [Open in Readwise](https://readwise.io/open/54388007) ^rw54388007
+    - Date:: [[January 24th, 2020, Friday]]
+- depending on whom you ask, social media is either making us lonely or bringing us joy. ([Location 1644](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1644)) [Open in Readwise](https://readwise.io/open/54388008) ^rw54388008
+    - Date:: [[January 24th, 2020, Friday]]
+- They found that when users received “targeted” and “composed” information written by someone they know well (e.g., a comment sent by a family member), they felt better. ([Location 1650](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1650)) [Open in Readwise](https://readwise.io/open/54388009) ^rw54388009
+    - Date:: [[January 24th, 2020, Friday]]
+- The experimental group who were asked to post more ended up reporting less loneliness than the control group during this week. ([Location 1656](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1656)) [Open in Readwise](https://readwise.io/open/54388010) ^rw54388010
+    - Date:: [[January 24th, 2020, Friday]]
+- Indeed, someone in the highest quartile of social media use was three times more likely to be lonelier than someone in the lowest quartile. ([Location 1666](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1666)) [Open in Readwise](https://readwise.io/open/54388011) ^rw54388011
+    - Date:: [[January 24th, 2020, Friday]]
+- “It’s social media, so aren’t people supposed to be socially connected?” But the data was clear. The more time you spend “connecting” on these services, the more isolated you’re likely to become. ([Location 1668](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1668)) [Open in Readwise](https://readwise.io/open/54388012) ^rw54388012
+    - Date:: [[January 24th, 2020, Friday]]
+- The studies that found positive results focused on specific behaviors of social media users, while the studies that found negative results focused on overall use of these services. ([Location 1679](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1679)) [Open in Readwise](https://readwise.io/open/54388013) ^rw54388013
+    - Date:: [[January 24th, 2020, Friday]]
+- There must, therefore, be another factor at play—something that increases the more you use social media, generating negative impacts that swamp out the smaller positive boosts. ([Location 1683](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1683)) [Open in Readwise](https://readwise.io/open/54388014) ^rw54388014
+    - Date:: [[January 24th, 2020, Friday]]
+- the more you use social media to interact with your network, the less time you devote to offline communication. ([Location 1685](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1685)) [Open in Readwise](https://readwise.io/open/54388015) ^rw54388015
+    - Date:: [[January 24th, 2020, Friday]]
+- using social media tends to take people away from the real-world socializing that’s massively more valuable. ([Location 1692](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1692)) [Open in Readwise](https://readwise.io/open/54388016) ^rw54388016
+    - Date:: [[January 24th, 2020, Friday]]
+- “Where we want to be cautious . . . is when the sound of a voice or a cup of coffee with a friend is replaced with ‘likes’ on a post.” ([Location 1697](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1697)) [Open in Readwise](https://readwise.io/open/54388017) ^rw54388017
+    - Date:: [[January 24th, 2020, Friday]]
+- Because our primal instinct to connect is so strong, it’s difficult to resist checking a device in the middle of a conversation with a friend or bath time with a child—reducing the quality of the richer interaction right in front of us. Our analog brain cannot easily distinguish between the importance of the person in the room with us and the person who just sent us a new text. ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1711)) [Open in Readwise](https://readwise.io/open/54388018) ^rw54388018
+    - Date:: [[January 24th, 2020, Friday]]
+- When you spend multiple hours a day compulsively clicking and swiping, there’s much less free time left for slower interactions. And because this compulsive use emits a patina of socialness, it can delude you into thinking that you’re already serving your relationships well, making further action unnecessary. ([Location 1714](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1714)) [Open in Readwise](https://readwise.io/open/54388019) ^rw54388019
+    - Date:: [[January 24th, 2020, Friday]]
+- Face-to-face conversation is the most human—and humanizing—thing we do. Fully present to one another, we learn to listen. It’s where we develop the capacity for empathy. It’s where we experience the joy of being heard, of being understood. ([Location 1729](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1729)) [Open in Readwise](https://readwise.io/open/54388020) ^rw54388020
+    - Date:: [[January 24th, 2020, Friday]]
+- “Don’t all these little tweets, these little sips of online connection, add up to one big gulp of real conversation?” Turkle was clear in her answer: No, they do not. As she expands: “Face-to-face conversation unfolds slowly. It teaches patience. We attend to tone and nuance.” On the other hand: “When we communicate on our digital devices, we learn different habits.” ([Location 1739](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1739)) [Open in Readwise](https://readwise.io/open/54388021) ^rw54388021
+    - Date:: [[January 24th, 2020, Friday]]
+- once we recognize the issues in replacing conversation with connection, we can rethink our practices. ([Location 1745](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1745)) [Open in Readwise](https://readwise.io/open/54388022) ^rw54388022
+    - Date:: [[January 24th, 2020, Friday]]
+- If you don’t first reform your relationship with tools like social media and text messaging, attempts to shoehorn more conversation into your life are likely to fail. ([Location 1750](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1750)) [Open in Readwise](https://readwise.io/open/54388023) ^rw54388023
+    - Date:: [[January 24th, 2020, Friday]]
+- To succeed with digital minimalism, you have to confront this rebalancing between conversation and connection in a way that makes sense to you. ([Location 1752](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1752)) [Open in Readwise](https://readwise.io/open/54388024) ^rw54388024
+    - Date:: [[January 24th, 2020, Friday]]
+- Many people think about conversation and connection as two different strategies for accomplishing the same goal of maintaining their social life. This mind-set believes that there are many different ways to tend important relationships in your life, and in our current modern moment, you should use all tools available—spanning from old-fashioned face-to-face talking, to tapping the heart icon on a friend’s Instagram post. The philosophy of conversation-centric communication takes a harder stance. It argues that conversation is the only form of interaction that in some sense counts toward maintaining a relationship. ([Location 1759](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1759)) [Open in Readwise](https://readwise.io/open/54388025) ^rw54388025
+    - Date:: [[January 24th, 2020, Friday]]
+- In this philosophy, connection is downgraded to a logistical role. This form of interaction now has two goals: to help set up and arrange conversation, or to efficiently transfer practical information (e.g., a meeting location or time for an upcoming event). Connection is no longer an alternative to conversation; it’s instead its supporter. ([Location 1767](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1767)) [Open in Readwise](https://readwise.io/open/54388026) ^rw54388026
+    - Date:: [[January 24th, 2020, Friday]]
+- if you adopt conversation-centric communication, you’ll still likely rely on text-messaging services to simplify information gathering, or to coordinate social events, or to ask quick questions, but you’ll no longer participate in open-ended, ongoing text-based conversations throughout your day. ([Location 1774](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1774)) [Open in Readwise](https://readwise.io/open/54388027) ^rw54388027
+    - Date:: [[January 24th, 2020, Friday]]
+- Innovations in digital communication also provide cheap and effective ways to banish the obstacle of distance in seeking conversation. ([Location 1781](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1781)) [Open in Readwise](https://readwise.io/open/54388028) ^rw54388028
+    - Date:: [[January 24th, 2020, Friday]]
+- this philosophy has nothing against technology—so long as the tools are put to use to improve your real-world social life as opposed to diminishing it. ([Location 1784](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1784)) [Open in Readwise](https://readwise.io/open/54388029) ^rw54388029
+    - Date:: [[January 24th, 2020, Friday]]
+- If you adopt this philosophy, you’ll almost certainly reduce the number of people with whom you have an active relationship. ([Location 1786](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1786)) [Open in Readwise](https://readwise.io/open/54388030) ^rw54388030
+    - Date:: [[January 24th, 2020, Friday]]
+- the relationship between our deeply human sociality and modern digital communication tools is fraught and can produce significant issues in your life if not handled carefully. ([Location 1801](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1801)) [Open in Readwise](https://readwise.io/open/54388031) ^rw54388031
+    - Date:: [[January 24th, 2020, Friday]]
+- Our sociality is simply too complex to be outsourced to a social network or reduced to instant messages and emojis. ([Location 1804](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1804)) [Open in Readwise](https://readwise.io/open/54388032) ^rw54388032
+    - Date:: [[January 24th, 2020, Friday]]
+- Instead of seeing these easy clicks as a fun way to nudge a friend, start treating them as poison to your attempts to cultivate a meaningful social life. ([Location 1835](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1835)) [Open in Readwise](https://readwise.io/open/54388033) ^rw54388033
+    - Date:: [[January 24th, 2020, Friday]]
+- The reason I’m suggesting such a hard stance against these seemingly innocuous interactions is that they teach your mind that connection is a reasonable alternative to conversation. ([Location 1838](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1838)) [Open in Readwise](https://readwise.io/open/54388034) ^rw54388034
+    - Date:: [[January 24th, 2020, Friday]]
+- you may think you can balance both types of interaction, but most people can’t. ([Location 1843](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1843)) [Open in Readwise](https://readwise.io/open/54388035) ^rw54388035
+    - Date:: [[January 24th, 2020, Friday]]
+- Actually visiting the new mom will return significantly more value to both of you than adding a short “awww!” to a perfunctory scroll of comments. ([Location 1846](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1846)) [Open in Readwise](https://readwise.io/open/54388036) ^rw54388036
+    - Date:: [[January 24th, 2020, Friday]]
+- regardless of what final decisions you make along these lines, I urge you, for the sake of your social well-being, to adopt the baseline rule that you’ll no longer use social media as a tool for low-quality relationship nudges. ([Location 1859](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1859)) [Open in Readwise](https://readwise.io/open/54388037) ^rw54388037
+    - Date:: [[January 24th, 2020, Friday]]
+- A major obstacle in attempting to shift your social life from connection back to conversation is the degree to which text communication—be it delivered through SMS, iMessage, Facebook Messenger, or WhatsApp—now pervades the very definition of friendship. ([Location 1863](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1863)) [Open in Readwise](https://readwise.io/open/54388038) ^rw54388038
+    - Date:: [[January 24th, 2020, Friday]]
+- Phones have become woven into a fraught sense of obligation in friendship. . . . Being a friend means being “on call”—tethered to your phone, ready to be attentive, online. ([Location 1866](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1866)) [Open in Readwise](https://readwise.io/open/54388039) ^rw54388039
+    - Date:: [[January 24th, 2020, Friday]]
+- The more you text, however, the less necessary you’ll deem real conversation, and, perversely, when you do interact face-to-face, your compulsion to keep checking on other interactions on your phone will diminish the value you experience. ([Location 1874](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1874)) [Open in Readwise](https://readwise.io/open/54388040) ^rw54388040
+    - Date:: [[January 24th, 2020, Friday]]
+- We’re left, then, with a technology that’s required in your social life while simultaneously reducing the value you derive from it. ([Location 1875](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1875)) [Open in Readwise](https://readwise.io/open/54388041) ^rw54388041
+    - Date:: [[January 24th, 2020, Friday]]
+- Once you no longer treat text interactions as an ongoing conversation that you must continually tend, it’s much easier to concentrate fully on the activity before you. ([Location 1887](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1887)) [Open in Readwise](https://readwise.io/open/54388042) ^rw54388042
+    - Date:: [[January 24th, 2020, Friday]]
+- When your friends and family are able to instigate meandering pseudo-conversations with you over text at any time, it’s easy for them to become complacent about your relationship. ([Location 1890](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1890)) [Open in Readwise](https://readwise.io/open/54388043) ^rw54388043
+    - Date:: [[January 24th, 2020, Friday]]
+- You can be the one person in their life who actually talks to them on a regular basis, ([Location 1900](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1900)) [Open in Readwise](https://readwise.io/open/54388044) ^rw54388044
+    - Date:: [[January 24th, 2020, Friday]]
+- “The best and most pleasant life is the life of the intellect.” He concludes, “This life will also be the happiest.” As Aristotle elaborates, a life filled with deep thinking is happy because contemplation is an “activity that is appreciated for its own sake . . . nothing is gained from it except the act of contemplation.” ([Location 1967](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1967)) [Open in Readwise](https://readwise.io/open/54388045) ^rw54388045
+    - Date:: [[January 24th, 2020, Friday]]
+- a life well lived requires activities that serve no other purpose than the satisfaction that the activity itself generates. ([Location 1972](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1972)) [Open in Readwise](https://readwise.io/open/54388046) ^rw54388046
+    - Date:: [[January 24th, 2020, Friday]]
+- if your life consists only of actions whose “worth depends on the existence of problems, difficulties, needs, which these activities aim to solve,” you’re vulnerable to the existential despair that blooms in response to the inevitable question, Is this all there is to life? ([Location 1974](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1974)) [Open in Readwise](https://readwise.io/open/54388047) ^rw54388047
+    - Date:: [[January 24th, 2020, Friday]]
+- to successfully tame the problems of our modern digital world, you must both understand and deploy the core insights of this ancient wisdom. ([Location 1979](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=1979)) [Open in Readwise](https://readwise.io/open/54388048) ^rw54388048
+    - Date:: [[January 24th, 2020, Friday]]
+- The most successful digital minimalists, therefore, tend to start their conversion by renovating what they do with their free time—cultivating high-quality leisure before culling the worst of their digital habits. ([Location 2008](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2008)) [Open in Readwise](https://readwise.io/open/54388049) ^rw54388049
+    - Date:: [[January 24th, 2020, Friday]]
+- When the void is filled, you no longer need distractions to help you avoid it. ([Location 2011](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2011)) [Open in Readwise](https://readwise.io/open/54388050) ^rw54388050
+    - Date:: [[January 24th, 2020, Friday]]
+- What? You say that full energy given to those sixteen hours will lessen the value of the business eight? Not so. On the contrary, it will assuredly increase the value of the business eight. One of the chief things which my typical man has to learn is that the mental faculties are capable of a continuous hard activity; they do not tire like an arm or a leg. All they want is change—not rest, except in sleep. ([Location 2089](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2089)) [Open in Readwise](https://readwise.io/open/54388051) ^rw54388051
+    - Date:: [[January 24th, 2020, Friday]]
+- Leisure Lesson #1: Prioritize demanding activity over passive consumption. ([Location 2102](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2102)) [Open in Readwise](https://readwise.io/open/54388052) ^rw54388052
+    - Date:: [[January 24th, 2020, Friday]]
+- “People have the need to put their hands on tools and to make things. We need this in order to feel whole.” ([Location 2117](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2117)) [Open in Readwise](https://readwise.io/open/54388053) ^rw54388053
+    - Date:: [[January 24th, 2020, Friday]]
+- “Long ago we learned to think by using our hands, not the other way around.” ([Location 2118](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2118)) [Open in Readwise](https://readwise.io/open/54388054) ^rw54388054
+    - Date:: [[January 24th, 2020, Friday]]
+- Craft allows an escape from this shallowness and provides instead a deeper source of pride. ([Location 2142](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2142)) [Open in Readwise](https://readwise.io/open/54388055) ^rw54388055
+    - Date:: [[January 24th, 2020, Friday]]
+- Leisure Lesson #2: Use skills to produce valuable things in the physical world. ([Location 2159](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2159)) [Open in Readwise](https://readwise.io/open/54388056) ^rw54388056
+    - Date:: [[January 24th, 2020, Friday]]
+- Leisure Lesson #3: Seek activities that require real-world, structured social interactions. ([Location 2251](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2251)) [Open in Readwise](https://readwise.io/open/54388057) ^rw54388057
+    - Date:: [[January 24th, 2020, Friday]]
+- schedule in advance the time you spend on low-quality leisure. ([Location 2376](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2376)) [Open in Readwise](https://readwise.io/open/54388058) ^rw54388058
+    - Date:: [[January 24th, 2020, Friday]]
+- If you decide, for example, to avoid all online activities during your leisure time, this might generate too many minor issues and exceptions. ([Location 2383](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2383)) [Open in Readwise](https://readwise.io/open/54388059) ^rw54388059
+    - Date:: [[January 24th, 2020, Friday]]
+- When first implementing this strategy, don’t worry about how much time you put aside for low-quality leisure. ([Location 2389](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2389)) [Open in Readwise](https://readwise.io/open/54388060) ^rw54388060
+    - Date:: [[January 24th, 2020, Friday]]
+- the vast majority of regular social media users can receive the vast majority of the value these services provide their life in as little as twenty to forty minutes of use per week. ([Location 2393](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2393)) [Open in Readwise](https://readwise.io/open/54388061) ^rw54388061
+    - Date:: [[January 24th, 2020, Friday]]
+- Join first, he would advise, and work out the other issues later. ([Location 2433](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2433)) [Open in Readwise](https://readwise.io/open/54388062) ^rw54388062
+    - Date:: [[January 24th, 2020, Friday]]
+- few things can replicate the benefits of connecting with your fellow citizens, so get up, get out, and start reaping these benefits in your own community. ([Location 2435](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2435)) [Open in Readwise](https://readwise.io/open/54388063) ^rw54388063
+    - Date:: [[January 24th, 2020, Friday]]
+- In the professional world, many high achievers are meticulous strategists. They lay out a vision for what they’re trying to accomplish on multiple different time scales, connecting high-level ambition to decisions about daily actions. ([Location 2437](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2437)) [Open in Readwise](https://readwise.io/open/54388064) ^rw54388064
+    - Date:: [[January 24th, 2020, Friday]]
+- Without a well-considered approach to your high-quality leisure, it’s easy for your commitment to these pursuits to degrade due to the friction of everyday life. ([Location 2444](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2444)) [Open in Readwise](https://readwise.io/open/54388065) ^rw54388065
+    - Date:: [[January 24th, 2020, Friday]]
+- A good seasonal plan contains two different types of items: objectives and habits that you intend to honor in the upcoming season. The objectives describe specific goals you hope to accomplish, with accompanying strategies for how you will accomplish them. The habits describe behavior rules you hope to stick with throughout the season. In a seasonal leisure plan, these objectives and habits will both be connected to cultivating a high-quality leisure life. ([Location 2451](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2451)) [Open in Readwise](https://readwise.io/open/54388066) ^rw54388066
+    - Date:: [[January 24th, 2020, Friday]]
+- This isn’t mandatory, but it’s always helpful to give yourself a deadline when possible. ([Location 2465](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2465)) [Open in Readwise](https://readwise.io/open/54388067) ^rw54388067
+    - Date:: [[January 24th, 2020, Friday]]
+- The more you see these leisure plans as just part of your normal scheduling—and not some separate and potentially optional endeavor—the more likely you are to succeed in following them. ([Location 2490](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2490)) [Open in Readwise](https://readwise.io/open/54388068) ^rw54388068
+    - Date:: [[January 24th, 2020, Friday]]
+- this reflection allows you to identify issues that might need resolving. If you’re consistently failing to execute a given habit, regardless of your efforts to cajole yourself into action, there might be an issue with the habit itself that makes it difficult to satisfy. ([Location 2496](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2496)) [Open in Readwise](https://readwise.io/open/54388069) ^rw54388069
+    - Date:: [[January 24th, 2020, Friday]]
+- Becoming more systematic about your leisure, in other words, can significantly increase the relaxation you enjoy throughout your week. ([Location 2506](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2506)) [Open in Readwise](https://readwise.io/open/54388070) ^rw54388070
+    - Date:: [[January 24th, 2020, Friday]]
+- The average user now spends fifty minutes per day on Facebook products alone. ([Location 2566](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2566)) [Open in Readwise](https://readwise.io/open/54388071) ^rw54388071
+    - Date:: [[January 24th, 2020, Friday]]
+- My research on digital minimalism has revealed the existence of a loosely organized attention resistance movement, made up of individuals who combine high-tech tools with disciplined operating procedures to conduct surgical strikes on popular attention economy services—dropping in to extract value, and then slipping away before the attention traps set by these companies can spring shut. ([Location 2605](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2605)) [Open in Readwise](https://readwise.io/open/54388072) ^rw54388072
+    - Date:: [[January 24th, 2020, Friday]]
+- If your personal brand of digital minimalism requires engagement with services like social media, or breaking news sites, it’s important to approach these activities with a sense of zero-sum antagonism. ([Location 2611](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2611)) [Open in Readwise](https://readwise.io/open/54388073) ^rw54388073
+    - Date:: [[January 24th, 2020, Friday]]
+- if you’re going to use social media, stay far away from the mobile versions of these services, as these pose a significantly bigger risk to your time and attention. ([Location 2629](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2629)) [Open in Readwise](https://readwise.io/open/54388074) ^rw54388074
+    - Date:: [[January 24th, 2020, Friday]]
+- By removing your ability to access social media at any moment, you reduce its ability to become a crutch deployed to distract you from bigger voids in your life. ([Location 2633](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2633)) [Open in Readwise](https://readwise.io/open/54388075) ^rw54388075
+    - Date:: [[January 24th, 2020, Friday]]
+- the only really good reason to be accessing these services on your phone is to ensure companies like Facebook continue to enjoy steady quarterly growth. ([Location 2648](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2648)) [Open in Readwise](https://readwise.io/open/54388076) ^rw54388076
+    - Date:: [[January 24th, 2020, Friday]]
+- “There’s an even deeper irony, and also a retro element, in the idea of taking a powerful productivity machine like a modern laptop computer and shutting down some of its core functions in order to increase productivity.” ([Location 2665](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2665)) [Open in Readwise](https://readwise.io/open/54388077) ^rw54388077
+    - Date:: [[January 24th, 2020, Friday]]
+- It’s instead quite natural once you recognize that the power of a general-purpose computer is in the total number of things it enables the user to do, not the total number of things it enables the user to do simultaneously. ([Location 2690](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2690)) [Open in Readwise](https://readwise.io/open/54388078) ^rw54388078
+    - Date:: [[January 24th, 2020, Friday]]
+- This practice of default blocking might at first seem overly aggressive, but what it’s actually doing is bringing you back closer to the ideal of single-purpose computing that’s much more compatible with our human attention systems. ([Location 2703](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2703)) [Open in Readwise](https://readwise.io/open/54388079) ^rw54388079
+    - Date:: [[January 24th, 2020, Friday]]
+- Slow Media cannot be consumed casually, but provoke the full concentration of their users. . . . Slow Media measure themselves in production, appearance and content against high standard of quality and stand out from their fast-paced and short-lived counterparts. ([Location 2785](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2785)) [Open in Readwise](https://readwise.io/open/54388080) ^rw54388080
+    - Date:: [[January 24th, 2020, Friday]]
+- It’s a general rule of slow movements that a small amount of high-quality offerings is usually superior to a larger amount of low-quality fare. ([Location 2823](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2823)) [Open in Readwise](https://readwise.io/open/54388081) ^rw54388081
+    - Date:: [[January 24th, 2020, Friday]]
+- Another important aspect of slow news consumption is the decisions you make regarding how and when this consumption occurs. ([Location 2833](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2833)) [Open in Readwise](https://readwise.io/open/54388082) ^rw54388082
+    - Date:: [[January 24th, 2020, Friday]]
+- Digital minimalists see new technologies as tools to be used to support things they deeply value—not as sources of value themselves. They don’t accept the idea that offering some small benefit is justification for allowing an attention-gobbling service into their lives, and are instead interested in applying new technology in highly selective and intentional ways that yield big wins. Just as important: they’re comfortable missing out on everything else. ([Location 2952](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2952)) [Open in Readwise](https://readwise.io/open/54388083) ^rw54388083
+    - Date:: [[January 24th, 2020, Friday]]
+- Digital minimalism definitively does not reject the innovations of the internet age, but instead rejects the way so many people currently engage with these tools. ([Location 2962](https://readwise.io/to_kindle?action=open&asin=B07DBRBP7G&location=2962)) [Open in Readwise](https://readwise.io/open/54388084) ^rw54388084
+    - Date:: [[January 24th, 2020, Friday]]

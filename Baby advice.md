@@ -1,0 +1,5 @@
+- From Ryan Ockwig
+    - Diapers with line to tell if it is wet
+    - Pizza cutter in diaper bag to cut food at restaurants 
+        - https://www.amazon.com/Kitchy-Pizza-Cutter-Wheel-Protective/dp/B073P66C1H/ref=sr_1_2_sspa?keywords=pizza%2Bcutter&qid=1644611607&sprefix=pizza%2Bcu%2Caps%2C104&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzRCSkVLMUpHQTBXJmVuY3J5cHRlZElkPUEwMzI0NjQxMjE0WEVFUzdUM1c4QSZlbmNyeXB0ZWRBZElkPUEwOTg4NzM1VDYxT1AyRUYzNVBFJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
+- 

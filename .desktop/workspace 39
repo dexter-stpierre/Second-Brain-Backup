@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "7d06ee3e9cadc9f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c1a35580e48dfee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Timely notes/Yearly notes/2022.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fe005e8fabd8ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2599c3bcdc942fce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e632f8c701d583d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2017cec23bf7efaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "location",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70eeb612092aece0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd504029d3d485f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f70241b2904cd54e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d96bccbe46f3d1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "921968462c2055ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Timely notes/Yearly notes/2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e7fa4db98fc8abc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Timely notes/Yearly notes/2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d53c90d8d9032c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c9cbd03ea72b4f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Timely notes/Yearly notes/2022.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0c1f938517158487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49b7639a52b4024b",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308
+  },
+  "active": "0c1a35580e48dfee",
+  "lastOpenFiles": [
+    "Timely notes/Yearly notes/2022.md",
+    "Timely notes/Daily notes/January 1st, 2022, Saturday.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Start Time Tracking Button.md",
+    "Templates/Start Time Tracking Button.md",
+    "Timely notes/Daily notes/December 28th, 2021, Tuesday.md",
+    "Timely notes/Daily notes/December 27th, 2021, Monday.md",
+    "Timely notes/Daily notes/December 26th, 2021, Sunday.md",
+    "Timely notes/Daily notes/December 24th, 2021, Friday.md",
+    "Sustainable Generosity.md"
+  ]
+}

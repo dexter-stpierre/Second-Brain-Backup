@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "aa7c1c71f48fc578",
+    "type": "split",
+    "children": [
+      {
+        "id": "92077f448bbbafb7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Timely notes/Daily notes/June 8th, 2022, Wednesday.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "965ea43ac7035904",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "db77978d752af057",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "40356cb437a38233",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a0f9e713bdd2a859",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "386398ef7c22a7a5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Timely notes/Daily notes/June 8th, 2022, Wednesday.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          }
+        }
+      },
+      {
+        "id": "da95e6b60f2f351a",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "active": "92077f448bbbafb7",
+  "lastOpenFiles": [
+    "Timely notes/Daily notes/June 8th, 2022, Wednesday.md",
+    "Timely notes/Daily notes/June 7th, 2022, Tuesday.md",
+    "Timely notes/Daily notes/May 25th, 2022, Wednesday.md",
+    "Timely notes/Daily notes/May 24th, 2022, Tuesday.md",
+    "Who could offer me a different perspective on my career challenge?.md",
+    "Timely notes/Daily notes/May 23rd, 2022, Monday.md",
+    "Timely notes/Weekly notes/Week of May 23rd, 2022 (22).md",
+    "Timely notes/Weekly notes/Week of May 16th, 2022 (21).md",
+    "Timely notes/Daily notes/May 19th, 2022, Thursday.md",
+    "Readwise/Articles/☕️ Sheeeeeeesh by instapaper.com.md"
+  ]
+}

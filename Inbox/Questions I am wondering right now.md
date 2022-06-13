@@ -1,0 +1,1 @@
+- Could God create a place separate from him that is good?
