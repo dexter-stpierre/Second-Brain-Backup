@@ -8,10 +8,6 @@
 - [x] Review goals
 - [x] Review calendar
 - [x] Review tasks scheduled for this week
-- [ ] Review task lists and schedule any tasks that should be completed this week
-- [ ] Review Waiting For
-- [ ] Schedule gym days
-- [ ] Generate daily pages through next Monday
 
 ### Most important goals this week:
 
@@ -30,23 +26,3 @@ I feel a little more on top of my obligations. Taylor has been more mindful abou
 ### Are there any new projects I have time to start working on?
 
 Pretty soon here I am gonna start as a code coach for Prime, so that's cool. I am also starting on stuff in the yard, which will take a good amount of time
-
-## Progress
-
-## [[Review]]
-
-- [ ] Brain dump
-- [ ] Process Inbox
-- [ ] Review Calendar
-- [ ] Empty downloads/desktop folders
-- [ ] Commit and push vault to Github
-
-### [[Accomplishment]]
-
-### [[Failures]]
-
-### What Should I Change?
-
-### How Did I Stack Up Against My Goals For the Week?
-
-### Events

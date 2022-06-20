@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "79c666f5546fe6f6",
+        "id": "4da9f90cd80d48c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timely notes/Daily notes/January 26th, 2022, Wednesday.md",
+            "file": "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timely notes/Daily notes/January 26th, 2022, Wednesday.md",
+                "file": "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timely notes/Daily notes/January 26th, 2022, Wednesday.md",
+                "file": "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timely notes/Daily notes/January 26th, 2022, Wednesday.md"
+                "file": "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "39380e43639cb901",
@@ -150,17 +149,17 @@
     "direction": "horizontal",
     "width": 267
   },
-  "active": "79c666f5546fe6f6",
+  "active": "4da9f90cd80d48c0",
   "lastOpenFiles": [
-    "Timely notes/Daily notes/January 26th, 2022, Wednesday.md",
-    "Timely notes/Daily notes/GMT20220126-174219_Recording_1934x1104.mp4",
-    "Timely notes/Daily notes/January 4th, 2022, Tuesday.md",
-    "Timely notes/Daily notes/February 27th, 2022, Sunday.md",
-    "Timely notes/Daily notes/February 25th, 2022, Friday.md",
-    "Timely notes/Daily notes/February 21st, 2022, Monday.md",
-    "Timely notes/Weekly notes/Week of May 30th, 2022 (23).md",
+    "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md",
+    "Interviewing.md",
+    "List of Lists.md",
     "Timely notes/Weekly notes/Week of June 6th, 2022 (24).md",
-    "Timely notes/Daily notes/January 1st, 2022, Saturday.md",
-    "Timely notes/Daily notes/June 12th, 2022, Sunday.md"
+    "Timely notes/Daily notes/June 19th, 2022, Sunday.md",
+    "People/Ian Burt.md",
+    "Timely notes/Daily notes/June 18th, 2022, Saturday.md",
+    "Timely notes/Daily notes/June 17th, 2022, Friday.md",
+    "Timely notes/Daily notes/June 16th, 2022, Thursday.md",
+    "Prompts/Morning Questions.md"
   ]
 }

@@ -7,13 +7,8 @@
         "id": "92077f448bbbafb7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Timely notes/Daily notes/June 8th, 2022, Wednesday.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -59,7 +54,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Timely notes/Daily notes/June 8th, 2022, Wednesday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -83,6 +77,7 @@
   },
   "active": "92077f448bbbafb7",
   "lastOpenFiles": [
+    "Timely notes/Daily notes/June 14th, 2022, Tuesday.md",
     "Timely notes/Daily notes/June 8th, 2022, Wednesday.md",
     "Timely notes/Daily notes/June 7th, 2022, Tuesday.md",
     "Timely notes/Daily notes/May 25th, 2022, Wednesday.md",
@@ -91,7 +86,6 @@
     "Timely notes/Daily notes/May 23rd, 2022, Monday.md",
     "Timely notes/Weekly notes/Week of May 23rd, 2022 (22).md",
     "Timely notes/Weekly notes/Week of May 16th, 2022 (21).md",
-    "Timely notes/Daily notes/May 19th, 2022, Thursday.md",
-    "Readwise/Articles/☕️ Sheeeeeeesh by instapaper.com.md"
+    "Timely notes/Daily notes/May 19th, 2022, Thursday.md"
   ]
 }

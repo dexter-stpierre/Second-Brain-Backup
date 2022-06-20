@@ -29,46 +29,10 @@ aliases: [2022-06-13]
 
 ## [[Daily Pages]]
 
-### [[Morning Routine]]
-
-#### Checklist
-
-- [ ] Review YNAB
-- [ ] Stretch
-- [ ] Process Inbox
-- [ ] Readwise daily review
-- [ ] Open Obsidian on iPhone and iPad
-
-#### Prompts
-
-##### [[How can I increase the frequency of the feedback that I get?]]
-
-### [[Daily Log]]
-
-```button
-name Start Time Tracking
-type append template
-action End Time Tracking Button
-templater true
-```
-^button-startTimeTracking
-
 ### [[Evening Review]]
 
-#### Checklist
-
-- [ ] Journal
-- [ ] Process Inbox
-- [ ] Schedule additional tasks for tomorrow
-- [ ] Open Obsidian on iPhone and iPad
-- [ ] Reschedule any incomplete tasks
-- [ ] Review YNAB
-
-
-#### Prompts
-
-##### [[Where there any signs of my day going to crap that I could recognize?]]
-
 #### [[Journal]]
+
+This is the last night that the girls are staying with us. I am really looking forward to them going home. It was fun to have them here, but they are at an age where it is less fun now. That is just part of the reality of them getting older. Today at work was pretty stressful. It felt like I was just flooded by messages. Tomorrow morning I should be able to finish up pretty much everything that was requested of me.
 
 ## Notes
