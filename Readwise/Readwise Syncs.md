@@ -914,3 +914,21 @@ Sarah Ellis]]
 
 - [[June 19th, 2022, Sunday]] 10:46 PM — Synced 0 highlights from 0 documents.
 
+- [[June 20th, 2022, Monday]] 11:08 PM — Synced 0 highlights from 0 documents.
+
+- [[June 21st, 2022, Tuesday]] 11:12 PM — Synced 0 highlights from 0 documents.
+
+- [[June 22nd, 2022, Wednesday]] 10:06 AM — Synced 2 highlights from 1 document.
+    - 2 highlights from [[5 Myths That Keep Freelancers From Getting Paid What They’re Really Worth-Jake Amorelli]]
+
+- [[June 23rd, 2022, Thursday]] 10:18 AM — Synced 0 highlights from 0 documents.
+
+- [[June 23rd, 2022, Thursday]] 11:18 AM — Synced 1 highlight from 1 document.
+    - 1 highlights from [[Here’s How I Finally Got Myself to Start Exercising-Christine Carter PhD]]
+
+- [[June 24th, 2022, Friday]] 12:00 PM — Synced 0 highlights from 0 documents.
+
+- [[June 25th, 2022, Saturday]] 12:01 PM — Synced 0 highlights from 0 documents.
+
+- [[June 26th, 2022, Sunday]] 3:26 PM — Synced 0 highlights from 0 documents.
+

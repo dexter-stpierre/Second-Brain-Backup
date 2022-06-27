@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4da9f90cd80d48c0",
+        "id": "ff4bd1d453c9c790",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md",
+            "file": "Timely notes/Weekly notes/Week of June 20th, 2022 (26).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "{source}.m",
+                "query": "\"5 Myths That Keep \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md",
+                "file": "Timely notes/Weekly notes/Week of June 20th, 2022 (26).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md",
+                "file": "Timely notes/Weekly notes/Week of June 20th, 2022 (26).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md"
+                "file": "Timely notes/Weekly notes/Week of June 20th, 2022 (26).md"
               }
             }
           }
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 267
   },
-  "active": "4da9f90cd80d48c0",
+  "active": "ff4bd1d453c9c790",
   "lastOpenFiles": [
-    "Timely notes/Weekly notes/Week of June 13th, 2022 (25).md",
-    "Interviewing.md",
-    "List of Lists.md",
-    "Timely notes/Weekly notes/Week of June 6th, 2022 (24).md",
-    "Timely notes/Daily notes/June 19th, 2022, Sunday.md",
-    "People/Ian Burt.md",
-    "Timely notes/Daily notes/June 18th, 2022, Saturday.md",
-    "Timely notes/Daily notes/June 17th, 2022, Friday.md",
-    "Timely notes/Daily notes/June 16th, 2022, Thursday.md",
-    "Prompts/Morning Questions.md"
+    "Timely notes/Weekly notes/Week of June 20th, 2022 (26).md",
+    "Timely notes/Daily notes/June 26th, 2022, Sunday.md",
+    "Timely notes/Daily notes/June 25th, 2022, Saturday.md",
+    "Timely notes/Daily notes/June 24th, 2022, Friday.md",
+    "Timely notes/Daily notes/June 23rd, 2022, Thursday.md",
+    "Journal.md",
+    "Timely notes/Daily notes/June 22nd, 2022, Wednesday.md",
+    "Readwise/Readwise Syncs.md",
+    "5 Myths That Keep Freelancers From Getting Paid What They’re Really Worth-Jake Amorelli.md",
+    "Timely notes/Daily notes/June 21st, 2022, Tuesday.md"
   ]
 }

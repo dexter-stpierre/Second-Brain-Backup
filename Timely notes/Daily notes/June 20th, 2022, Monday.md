@@ -29,46 +29,10 @@ aliases: [2022-06-20]
 
 ## [[Daily Pages]]
 
-### [[Morning Routine]]
-
-#### Checklist
-
-- [ ] Review YNAB
-- [ ] Stretch
-- [ ] Process Inbox
-- [ ] Readwise daily review
-- [ ] Open Obsidian on iPhone and iPad
-
-#### Prompts
-
-##### [[Who could offer me a different perspective on my career challenge?]]
-
-### [[Daily Log]]
-
-```button
-name Start Time Tracking
-type append template
-action End Time Tracking Button
-templater true
-```
-^button-startTimeTracking
-
 ### [[Evening Review]]
 
-#### Checklist
-
-- [ ] Journal
-- [ ] Process Inbox
-- [ ] Schedule additional tasks for tomorrow
-- [ ] Open Obsidian on iPhone and iPad
-- [ ] Reschedule any incomplete tasks
-- [ ] Review YNAB
-
-
-#### Prompts
-
-##### [[Did I treat myself well, respecting my limits and my margins?]]
-
 #### [[Journal]]
+
+Wow, today felt like a long day. I went to Caribou this morning and completed my [[Weekly Review]]. It felt nice to finish the entire thing. While Taylor was in therapy I made a meal plan/grocery list and then afterwards we went grocery shopping. Then we had my mom over and went to dinner with her at Granite City. It was pretty good, she only said one thing that was frustrating, so that's good. After dinner we got Crumbl Cookie and went to Arianne and Jesse's house.
 
 ## Notes

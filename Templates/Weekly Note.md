@@ -5,7 +5,7 @@
 ## [[Plan]]
 
 - [ ] Move Discover Weekly to a permanent playlist
-- [ ] Review goals
+- [ ] Review [[2022#^ac7a6d|goals]]
 - [ ] Review calendar
 - [ ] Review tasks scheduled for this week
 - [ ] Review task lists and schedule any tasks that should be completed this week

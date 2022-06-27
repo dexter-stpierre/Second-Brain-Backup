@@ -7,8 +7,13 @@
         "id": "92077f448bbbafb7",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Timely notes/Daily notes/June 25th, 2022, Saturday.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -54,6 +59,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Timely notes/Daily notes/June 25th, 2022, Saturday.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -77,15 +83,15 @@
   },
   "active": "92077f448bbbafb7",
   "lastOpenFiles": [
+    "Timely notes/Daily notes/June 25th, 2022, Saturday.md",
+    "Prompts/Morning Questions.md",
+    "Timely notes/Daily notes/June 24th, 2022, Friday.md",
+    "Timely notes/Daily notes/June 24th, 2022, Friday 2.md",
     "Timely notes/Daily notes/June 14th, 2022, Tuesday.md",
     "Timely notes/Daily notes/June 8th, 2022, Wednesday.md",
     "Timely notes/Daily notes/June 7th, 2022, Tuesday.md",
     "Timely notes/Daily notes/May 25th, 2022, Wednesday.md",
     "Timely notes/Daily notes/May 24th, 2022, Tuesday.md",
-    "Who could offer me a different perspective on my career challenge?.md",
-    "Timely notes/Daily notes/May 23rd, 2022, Monday.md",
-    "Timely notes/Weekly notes/Week of May 23rd, 2022 (22).md",
-    "Timely notes/Weekly notes/Week of May 16th, 2022 (21).md",
-    "Timely notes/Daily notes/May 19th, 2022, Thursday.md"
+    "Who could offer me a different perspective on my career challenge?.md"
   ]
 }

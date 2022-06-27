@@ -15,7 +15,6 @@
 [[Who has qualities that I aspire to develop?]]
 [[What gives me the most energy at work?]]
 [[When do I let my self-belief hold me back?]]
-[[How can I increase the frequency of the feedback that I get?]]
 [[Who could offer me a different perspective on my career challenge?]]
 [[What do I want to be true in 12 months’ time that isn’t true today?]]
 [[Tell me about an old friend you've lost touch with.]]
