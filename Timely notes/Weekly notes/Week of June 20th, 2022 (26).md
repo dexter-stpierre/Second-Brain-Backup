@@ -40,14 +40,35 @@ Keep working on the blog post I started last week
 - [x] Process Inbox
 - [x] Review Calendar
 - [x] Empty downloads/desktop folders
-- [ ] Commit and push vault to Github
+- [x] Commit and push vault to Github
 
 ### [[Accomplishment]]
 
+- Released the MUI5 upgrade
+- Made leaps on the build process for work
+- Removed all the vines in our yard, took about 5 hours
+- Had a good game at ultimate
+- Study group for Prime went really well. I was able to help some students really grasp some concepts, and able to encourage one student to take much needed rest
+
 ### [[Failures]]
+
+- Didn't use Todoist the way I hoped to
 
 ### What Should I Change?
 
+- Use Todoist more
+- Set a plan out at the beginning of my day, rather than just jumping into my day
+
 ### How Did I Stack Up Against My Goals For the Week?
 
+- I did pretty good I think
+
 ### Events
+
+- Dinner with mom
+- Cookies with mom and the Richards
+- Ultimate
+- Study group for Prime
+- Alaethia's wedding
+- Roe v Wade overturned
+- Half Price Books and dinner with Nat and Ginge

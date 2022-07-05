@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 4806422,
+  "lastSavedStatusID": 4865766,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -1405,7 +1405,9 @@
     "Readwise/Articles/Multiply Your Time by Asking 4 Questions About the Stuff on Your To-Do List by Mary Halton.md": "15305290",
     "Readwise/Articles/Sorry to Bother You, but Do You Say “sorry” Too Much What to Say Instead by Daniella Balarezo.md": "15308394",
     "Readwise/Articles/How to Make the Most of Your 24 Hours by Leo Babauta.md": "15335989",
-    "Readwise/Articles/There Are 5 Kinds of Clutter — Which One Is Filling Your Life by Kerry Thomas.md": "15973754"
+    "Readwise/Articles/There Are 5 Kinds of Clutter — Which One Is Filling Your Life by Kerry Thomas.md": "15973754",
+    "Readwise/Articles/How to Deal With Tech Debt at the Scale of Super App by Maksim Koutun.md": "16470250",
+    "Readwise/Articles/10 Ways to Get the Most Out of Your Time on This Planet by TED Guest Author.md": "16548187"
   },
   "reimportShowConfirmation": true
 }

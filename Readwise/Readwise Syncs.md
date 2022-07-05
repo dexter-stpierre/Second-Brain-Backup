@@ -932,3 +932,23 @@ Sarah Ellis]]
 
 - [[June 26th, 2022, Sunday]] 3:26 PM — Synced 0 highlights from 0 documents.
 
+- [[June 27th, 2022, Monday]] 10:18 AM — Synced 36 highlights from 1 document.
+    - 36 highlights from [[Justice Alito's Invocati...-@Literature_Lady on Twitter]]
+
+- [[June 28th, 2022, Tuesday]] 10:21 AM — Synced 0 highlights from 0 documents.
+
+- [[June 29th, 2022, Wednesday]] 9:26 AM — Synced 4 highlights from 1 document.
+    - 4 highlights from [[“I Love My Baby, but Sometimes I Wish I Had My Own Life Back” : The Ambivalence of Motherhood-Alexandra Sacks]]
+
+- [[June 30th, 2022, Thursday]] 10:02 AM — Synced 0 highlights from 0 documents.
+
+- [[July 1st, 2022, Friday]] 10:29 AM — Synced 0 highlights from 0 documents.
+
+- [[July 2nd, 2022, Saturday]] 11:44 PM — Synced 2 highlights from 1 document.
+    - 2 highlights from [[How to Deal With Tech Debt at the Scale of Super App-Maksim Koutun]]
+
+- [[July 4th, 2022, Monday]] 12:37 AM — Synced 0 highlights from 0 documents.
+
+- [[July 4th, 2022, Monday]] 11:48 PM — Synced 4 highlights from 1 document.
+    - 4 highlights from [[10 Ways to Get the Most Out of Your Time on This Planet-TED Guest Author]]
+

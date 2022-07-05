@@ -1,6 +1,8 @@
 ---
 tags:
 aliases: [2022-06-27]
+date created: June 20th, 2022, Monday
+date modified: June 27th, 2022, Monday
 ---
 
 # June 27th, 2022, Monday
@@ -21,7 +23,8 @@ aliases: [2022-06-27]
 ("June 27" OR "June 27th" OR "6/27") path:Readwise
 ```
 
-### Timely notes
+### Timely Notes
+
 - [[Timely notes/Weekly notes/Week of June 27th, 2022 (27)|Weekly Page]]
 - [[Timely notes/Monthly notes/June 2022|Monthly Page]]
 - [[Timely notes/Quarterly notes/Q2 2021|Quarterly Page]]
@@ -29,46 +32,10 @@ aliases: [2022-06-27]
 
 ## [[Daily Pages]]
 
-### [[Morning Routine]]
-
-#### Checklist
-
-- [ ] Review YNAB
-- [ ] Stretch
-- [ ] Process Inbox
-- [ ] Readwise daily review
-- [ ] Open Obsidian on iPhone and iPad
-
-#### Prompts
-
-##### [[How can I show gratitude for Taylor today?]]
-
-### [[Daily Log]]
-
-```button
-name Start Time Tracking
-type append template
-action End Time Tracking Button
-templater true
-```
-^button-startTimeTracking
-
 ### [[Evening Review]]
 
-#### Checklist
-
-- [ ] Journal
-- [ ] Process Inbox
-- [ ] Schedule additional tasks for tomorrow
-- [ ] Open Obsidian on iPhone and iPad
-- [ ] Reschedule any incomplete tasks
-- [ ] Review YNAB
-
-
-#### Prompts
-
-##### [[What made me happy today?]]
-
 #### [[Journal]]
+
+Well we were supposed to go out on the boat today, but Taylor wasn't feeling good last night, and woke up not feeling good this morning, and it turns out that she has covid. So I ended up working anyways. I figured out how to get the server to handle join and the pages that have React imbedded in the legacy app. I ended up digging through plugins that did similar things and was able to create my own plugin that did exactly what I wanted it to. So that's really good. I'm proud of myself. Tomorrow I'll clean that up while I am working on some other things. I'll also need to update the legacy app to make the script tags that import the react scripts into modules. Should be easy enough.
 
 ## Notes
