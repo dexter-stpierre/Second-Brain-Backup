@@ -26,3 +26,6 @@ author: TED Guest Author
     - Date:: [[July 5th, 2022, Tuesday]]
 - For example, you might decide in advance that it’s OK to have a cluttered kitchen while you finish your novel, or to do the bare minimum on a particular work project so you can spend more time with your children. ([View Highlight](https://read.readwise.io/read/01g768czgcba6qtmwyyarygj1n)) [Open in Readwise](https://readwise.io/open/341687801) ^rw341687801
     - Date:: [[July 5th, 2022, Tuesday]]
+### New highlights synced
+- When faced with a challenging or boring moment in a relationship, try being curious about the person you’re with ([View Highlight](https://read.readwise.io/read/01g772z9k21nrer611zsckq336)) [Open in Readwise](https://readwise.io/open/341806824) ^rw341806824
+    - Date:: [[July 5th, 2022, Tuesday]]

@@ -7,7 +7,7 @@ Company:
 Role: 
 Location: 
 How We Met: 
-Birthday: July 13th
+Birthday: July 10th
 Interests: 
 Tags: #People
 ---

@@ -952,3 +952,20 @@ Sarah Ellis]]
 - [[July 4th, 2022, Monday]] 11:48 PM — Synced 4 highlights from 1 document.
     - 4 highlights from [[10 Ways to Get the Most Out of Your Time on This Planet-TED Guest Author]]
 
+- [[July 5th, 2022, Tuesday]] 8:21 AM — Synced 1 highlight from 1 document.
+    - 1 highlights from [[10 Ways to Get the Most Out of Your Time on This Planet-TED Guest Author]]
+
+- [[July 6th, 2022, Wednesday]] 8:08 AM — Synced 5 highlights from 2 documents.
+    - 3 highlights from [[Why Parents Should Stop Blaming Themselves for How Their Kids Turn Out-Yuko Munakata PhD]]
+    - 2 highlights from [[Here’s Why You Get Gloomy in the Winter — And What You Can Do About It-Mary Halton]]
+
+- [[July 6th, 2022, Wednesday]] 9:07 AM — Synced 0 highlights from 0 documents.
+
+- [[July 7th, 2022, Thursday]] 9:24 AM — Synced 0 highlights from 0 documents.
+
+- [[July 8th, 2022, Friday]] 9:48 AM — Synced 0 highlights from 0 documents.
+
+- [[July 9th, 2022, Saturday]] 9:51 AM — Synced 0 highlights from 0 documents.
+
+- [[July 11th, 2022, Monday]] 12:39 AM — Synced 0 highlights from 0 documents.
+

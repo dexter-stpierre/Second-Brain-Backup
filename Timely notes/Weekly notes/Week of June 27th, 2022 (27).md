@@ -38,14 +38,18 @@ Nah
 - [x] Process Inbox
 - [x] Review Calendar
 - [x] Empty downloads/desktop folders
-- [ ] Commit and push vault to Github
+- [x] Commit and push vault to Github
 
 ### [[Accomplishment]]
 
+- Can't remember anything noteworthy
+
 ### [[Failures]]
 
-### What Should I Change?
-
-### How Did I Stack Up Against My Goals For the Week?
+- This is more of a team failure, but we had some code merged into staging that had unintended side effects that impacted the rest of the code. This code didn't follow our agreement to not edit any files outside of the sharedComponentLibrary, and because of this it delayed a release
 
 ### Events
+
+- Taylor got Covid on Monday
+- I got Covid on Thursday
+- Taylor's baby shower on Sunday
