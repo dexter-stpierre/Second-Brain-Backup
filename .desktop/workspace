@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ea4eab09ae187c",
+        "id": "914284a3de66b92e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Timely notes/Weekly notes/Week of July 4th, 2022 (28).md",
+            "file": "Timely notes/Weekly notes/Week of July 11th, 2022 (29).md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timely notes/Weekly notes/Week of July 4th, 2022 (28).md",
+                "file": "Timely notes/Weekly notes/Week of July 11th, 2022 (29).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timely notes/Weekly notes/Week of July 4th, 2022 (28).md",
+                "file": "Timely notes/Weekly notes/Week of July 11th, 2022 (29).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timely notes/Weekly notes/Week of July 4th, 2022 (28).md"
+                "file": "Timely notes/Weekly notes/Week of July 11th, 2022 (29).md"
               }
             }
           }
@@ -149,17 +149,17 @@
     "direction": "horizontal",
     "width": 267
   },
-  "active": "e6ea4eab09ae187c",
+  "active": "914284a3de66b92e",
   "lastOpenFiles": [
-    "Programming Resources.md",
-    "Timely notes/Weekly notes/Week of July 4th, 2022 (28).md",
-    "Timely notes/Daily notes/July 11th, 2022, Monday.md",
-    "People/Arianne Richards.md",
-    "People/Rosendo St Pierre.md",
-    "People/People.md",
+    "Timely notes/Daily notes/July 17th, 2022, Sunday.md",
+    "Timely notes/Daily notes/July 16th, 2022, Saturday.md",
+    "Timely notes/Daily notes/July 15th, 2022, Friday.md",
+    "Timely notes/Daily notes/July 14th, 2022, Thursday.md",
+    "Timely notes/Daily notes/July 18th, 2022, Monday.md",
     "Timely notes/Daily notes/July 13th, 2022, Wednesday.md",
-    "Timely notes/Daily notes/July 10th, 2022, Sunday.md",
-    "Timely notes/Daily notes/July 9th, 2022, Saturday.md",
-    "Timely notes/Daily notes/July 8th, 2022, Friday.md"
+    "Timely notes/Daily notes/July 11th, 2022, Monday.md",
+    "Timely notes/Weekly notes/Week of July 11th, 2022 (29).md",
+    "Timely notes/Yearly notes/2022.md",
+    "Templates/Weekly Note.md"
   ]
 }

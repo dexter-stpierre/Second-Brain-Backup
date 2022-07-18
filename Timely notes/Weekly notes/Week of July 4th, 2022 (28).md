@@ -38,14 +38,29 @@ No way
 - [x] Process Inbox
 - [x] Review Calendar
 - [x] Empty downloads/desktop folders
-- [ ] Commit and push vault to Github
+- [x] Commit and push vault to Github
 
 ### [[Accomplishment]]
 
+- Got Sonarqube working
+- Found a way to confidently fix the issue with Logrocket sessions ending up in the wrong instance
+- Built the new pantry cabinet
+
 ### [[Failures]]
+
+- Had an issue with react-pdf due to the new build system, but Guillaume helped find a package that shimmed it correctly
 
 ### What Should I Change?
 
+I still need to get better at using Todoist. I need to start my day by looking through the tasks, especially before starting work
+
 ### How Did I Stack Up Against My Goals For the Week?
 
+Great! I got the 2 goals I had for the week done, so that's great!
+
 ### Events
+
+- Uneventful 4th of July
+- Taylor went to the cabin with her dad on Saturday
+- Ultrasound
+- Thor Love and Thunder

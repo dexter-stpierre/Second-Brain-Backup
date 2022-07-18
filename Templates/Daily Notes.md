@@ -71,4 +71,6 @@ templater true
 
 #### [[Journal]]
 
+#### Notable News
+
 ## Notes

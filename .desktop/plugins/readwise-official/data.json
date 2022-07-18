@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 4912849,
+  "lastSavedStatusID": 4976864,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -1407,7 +1407,8 @@
     "Readwise/Articles/How to Make the Most of Your 24 Hours by Leo Babauta.md": "15335989",
     "Readwise/Articles/There Are 5 Kinds of Clutter — Which One Is Filling Your Life by Kerry Thomas.md": "15973754",
     "Readwise/Articles/How to Deal With Tech Debt at the Scale of Super App by Maksim Koutun.md": "16470250",
-    "Readwise/Articles/10 Ways to Get the Most Out of Your Time on This Planet by TED Guest Author.md": "16548187"
+    "Readwise/Articles/10 Ways to Get the Most Out of Your Time on This Planet by TED Guest Author.md": "16548187",
+    "Readwise/Articles/How the Great Zen Master and Peace Activist Thich Nhat Hanh Found Himself and Lost His Self in a Library Epiphany by Maria Popova.md": "16882071"
   },
   "reimportShowConfirmation": true
 }

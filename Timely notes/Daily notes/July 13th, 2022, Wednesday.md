@@ -29,46 +29,19 @@ aliases: [2022-07-13]
 
 ## [[Daily Pages]]
 
-### [[Morning Routine]]
-
-#### Checklist
-
-- [ ] Review YNAB
-- [ ] Stretch
-- [ ] Process Inbox
-- [ ] Readwise daily review
-- [ ] Open Obsidian on iPhone and iPad
-
-#### Prompts
-
-##### [[Who could offer me a different perspective on my career challenge?]]
-
-### [[Daily Log]]
-
-```button
-name Start Time Tracking
-type append template
-action End Time Tracking Button
-templater true
-```
-^button-startTimeTracking
-
 ### [[Evening Review]]
-
-#### Checklist
-
-- [ ] Journal
-- [ ] Process Inbox
-- [ ] Schedule additional tasks for tomorrow
-- [ ] Open Obsidian on iPhone and iPad
-- [ ] Reschedule any incomplete tasks
-- [ ] Review YNAB
-
-
-#### Prompts
-
-##### [[What am I grateful for?]]
 
 #### [[Journal]]
 
+Today we had the appointment with Taylor's dietician to learn more about how to manage her gestational diabetes. She thinks that we should be able to manage it well enough with changes to her diet, she shouldn't need to take any insulin. The big thing is just watching how many carbs she has each meal, and balancing them with protein and fat. So I think we should end up in a good enough spot.
+
+#### Notable News
+
+- Trump renounces Elon Musk for supporting Ron DeSantis for a 2024 presidential run
+- Rapist of 10 year old girl in Ohio who had to go to Indiana for an abortion pleads guilty
+
 ## Notes
+
+### Possible impact of lint fixes in utils
+
+- Ensure that closing the "to" dropdown in message compose still works correctly

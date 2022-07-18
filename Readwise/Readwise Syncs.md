@@ -969,3 +969,25 @@ Sarah Ellis]]
 
 - [[July 11th, 2022, Monday]] 12:39 AM — Synced 0 highlights from 0 documents.
 
+- [[July 12th, 2022, Tuesday]] 1:02 AM — Synced 0 highlights from 0 documents.
+
+- [[July 12th, 2022, Tuesday]] 12:06 PM — Synced 2 highlights from 1 document.
+    - 2 highlights from [[Managing Coupling-Niklas]]
+
+- [[July 13th, 2022, Wednesday]] 12:06 PM — Synced 0 highlights from 0 documents.
+
+- [[July 14th, 2022, Thursday]] 10:12 AM — Synced 1 highlight from 1 document.
+    - 1 highlights from [[Feeling Stuck? Guilty? Overwhelmed? Try Clearing These Feelings Out of Your Home-Ingrid Fetell Lee]]
+
+- [[July 15th, 2022, Friday]] 10:41 AM — Synced 0 highlights from 0 documents.
+
+- [[July 16th, 2022, Saturday]] 7:56 PM — Synced 0 highlights from 0 documents.
+
+- [[July 16th, 2022, Saturday]] 10:16 PM — Synced 4 highlights from 1 document.
+    - 4 highlights from [[How the Great Zen Master and Peace Activist Thich Nhat Hanh Found Himself and Lost His Self in a Library Epiphany-Maria Popova]]
+
+- [[July 17th, 2022, Sunday]] 10:57 PM — Synced 0 highlights from 0 documents.
+
+- [[July 18th, 2022, Monday]] 7:40 AM — Synced 1 highlight from 1 document.
+    - 1 highlights from [[How the Great Zen Master and Peace Activist Thich Nhat Hanh Found Himself and Lost His Self in a Library Epiphany-Maria Popova]]
+

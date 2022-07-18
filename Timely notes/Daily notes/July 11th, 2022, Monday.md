@@ -29,46 +29,10 @@ aliases: [2022-07-11]
 
 ## [[Daily Pages]]
 
-### [[Morning Routine]]
-
-#### Checklist
-
-- [ ] Review YNAB
-- [ ] Stretch
-- [ ] Process Inbox
-- [ ] Readwise daily review
-- [ ] Open Obsidian on iPhone and iPad
-
-#### Prompts
-
-##### [[What would make today awesome?]]
-
-### [[Daily Log]]
-
-```button
-name Start Time Tracking
-type append template
-action End Time Tracking Button
-templater true
-```
-^button-startTimeTracking
-
 ### [[Evening Review]]
 
-#### Checklist
-
-- [ ] Journal
-- [ ] Process Inbox
-- [ ] Schedule additional tasks for tomorrow
-- [ ] Open Obsidian on iPhone and iPad
-- [ ] Reschedule any incomplete tasks
-- [ ] Review YNAB
-
-
-#### Prompts
-
-##### [[What has worked well in my life and work today?]]
-
 #### [[Journal]]
+
+This morning I forgot to put the trash out, so I had to rush home from Caribou to get that done. Taylor and Meghan were hanging out today, and I worked. We went to Kahns for dinner which was good. 
 
 ## Notes

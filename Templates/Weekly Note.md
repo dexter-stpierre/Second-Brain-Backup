@@ -40,3 +40,5 @@
 ### How Did I Stack Up Against My Goals For the Week?
 
 ### Events
+
+#### Notable News
