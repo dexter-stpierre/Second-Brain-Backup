@@ -991,3 +991,15 @@ Sarah Ellis]]
 - [[July 18th, 2022, Monday]] 7:40 AM — Synced 1 highlight from 1 document.
     - 1 highlights from [[How the Great Zen Master and Peace Activist Thich Nhat Hanh Found Himself and Lost His Self in a Library Epiphany-Maria Popova]]
 
+- [[July 19th, 2022, Tuesday]] 8:32 AM — Synced 0 highlights from 0 documents.
+
+- [[July 20th, 2022, Wednesday]] 9:37 AM — Synced 0 highlights from 0 documents.
+
+- [[July 21st, 2022, Thursday]] 8:50 AM — Synced 1 highlight from 1 document.
+    - 1 highlights from [[How I Produce-Ryan Kulp]]
+
+- [[July 23rd, 2022, Saturday]] 7:49 PM — Synced 5 highlights from 1 document.
+    - 5 highlights from [[How to Raise Emotionally Intelligent Kids-Lael Stone]]
+
+- [[July 24th, 2022, Sunday]] 11:31 PM — Synced 0 highlights from 0 documents.
+

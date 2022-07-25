@@ -29,47 +29,11 @@ aliases: [2022-07-18]
 
 ## [[Daily Pages]]
 
-### [[Morning Routine]]
-
-#### Checklist
-
-- [ ] Review YNAB
-- [ ] Stretch
-- [ ] Process Inbox
-- [ ] Readwise daily review
-- [ ] Open Obsidian on iPhone and iPad
-
-#### Prompts
-
-##### [[What gives me the most energy at work?]]
-
-### [[Daily Log]]
-
-```button
-name Start Time Tracking
-type append template
-action End Time Tracking Button
-templater true
-```
-^button-startTimeTracking
-
 ### [[Evening Review]]
 
-#### Checklist
-
-- [ ] Journal
-- [ ] Process Inbox
-- [ ] Schedule additional tasks for tomorrow
-- [ ] Open Obsidian on iPhone and iPad
-- [ ] Reschedule any incomplete tasks
-- [ ] Review YNAB
-
-
-#### Prompts
-
-##### [[What made you particularly proud or grateful?]]
-
 #### [[Journal]]
+
+This morning I went to Caribou and did my weekly planning/review. It went pretty well. At work I was mostly focused on fixing a specific bug in the journals release. It was a weird bug, and I don't understand why it was happening the way that it was, but the code is a little complicated to work through, so I'm just gonna trust this fix, considering it was simply restoring the exact logic that was present before, just with the initialization if needed. I got the shelfs up in the baby room and I think that they really add a great touch with the little toys from Bill on there.
 
 #### Notable News
 

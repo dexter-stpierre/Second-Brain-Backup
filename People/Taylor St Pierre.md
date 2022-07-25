@@ -4,7 +4,7 @@ Company:
 Role: 
 Location: 
 How We Met: 
-Birthday: [[July 21st]]
+Birthday: [[July 22nd]]
 Interests: 
 Tags: #People
 ---

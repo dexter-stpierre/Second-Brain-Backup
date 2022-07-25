@@ -3,5 +3,6 @@
   "showLineNumber": true,
   "spellcheck": true,
   "attachmentFolderPath": "/",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "legacyEditor": false
 }

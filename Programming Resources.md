@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: January 31st, 2022, Monday
-date modified: July 11th, 2022, Monday
+date modified: July 21st, 2022, Thursday
 ---
 
 # Programming Resources
@@ -20,3 +20,5 @@ date modified: July 11th, 2022, Monday
 		- Canonical: https://lea.verou.me/2012/04/background-attachment-local
 - Examples
 	- Veterans Affair's Storybook: https://design.va.gov/storybook/
+- Packages
+	- For sanitizing html: https://github.com/apostrophecms/sanitize-html#what-if-i-want-disallowed-tags-to-be-escaped-rather-than-discarded

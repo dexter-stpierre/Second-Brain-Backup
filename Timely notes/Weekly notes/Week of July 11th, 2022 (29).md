@@ -15,16 +15,35 @@
 - [x] Process Inbox
 - [x] Review Calendar
 - [x] Empty downloads/desktop folders
-- [ ] Commit and push vault to Github
+- [x] Commit and push vault to Github
 
 ### [[Accomplishment]]
 
+- Hung mirror in the baby room
+- Did a lot of yard work
+- Fixed some bugs for Erin's release
+- Beat the champion in Pokemon Shining Pearl
+
 ### [[Failures]]
+
+- Had the wrong size rod for the holders that I had for the closet
+- Didn't get the floor transition piece on right
+- Didn't double check that the screws I had would fit the shelfs for the nursery. They didn't
+- Wasn't focused during work at all
 
 ### What Should I Change?
 
+Not sure. I think I'm starting to get into a bit of a slide with work. Which isn't great because I still have a couple of projects to do before I go on parental leave. Maybe starting out by picking one or two things that I wanna get done that day will be helpful.
+
 ### How Did I Stack Up Against My Goals For the Week?
 
+Not great
+
 ### Events
+
+- Birthday Red Robin with the Richards
+- Dinner with Sophia and Haris
+- Ultimate game, Taylor came with and we had fun at Granite City after
+- Appointment with a dietician to figure out how to manage Taylor's gestational diabetes. 
 
 #### Notable News
