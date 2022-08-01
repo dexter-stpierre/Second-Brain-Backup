@@ -40,16 +40,39 @@
 - [x] Process Inbox
 - [x] Review Calendar
 - [x] Empty downloads/desktop folders
-- [ ] Commit and push vault to Github
+- [x] Commit and push vault to Github
 
 ### [[Accomplishment]]
+
+- New build system merged into staging
+- Sorted out a complicated merge conflict
+- Found out that the MUI5 doc I wrote up has been helping the Cozi team with their upgrade
+- We got the nursery fully set up
+- Turned 27
+- Scheduled Dr and Dentist appointment
+- Took care of a bunch of small things on my todo list
 
 ### [[Failures]]
 
 ### What Should I Change?
 
+- I still need to get better at using Todoist to drive my daily tasks
+
 ### How Did I Stack Up Against My Goals For the Week?
+
+- Did good. Taylor said that this birthday was one of her favorites, so I consider that a huge win
 
 ### Events
 
+- My birthday
+- Taylor's birthday
+- Nat and Ginge had their baby (Aurora)
+- Ultimate
+- Code Coaching for Prime
+- Laurie Youmans funeral
+- Haircut
+- Day on the boat with John
+
 #### Notable News
+
+- House passed a bill codifying gay marriage.

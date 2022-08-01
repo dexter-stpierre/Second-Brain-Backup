@@ -54,10 +54,6 @@ I think I'm motivated to make progress when I have something new to strive for. 
 
 - [x] Journal
 - [x] Process Inbox
-- [ ] Schedule additional tasks for tomorrow
-- [ ] Open Obsidian on iPhone and iPad
-- [ ] Reschedule any incomplete tasks
-- [ ] Review YNAB
 
 #### Prompts
 

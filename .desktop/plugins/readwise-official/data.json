@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 5035805,
+  "lastSavedStatusID": 5096375,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -1409,7 +1409,8 @@
     "Readwise/Articles/How to Deal With Tech Debt at the Scale of Super App by Maksim Koutun.md": "16470250",
     "Readwise/Articles/10 Ways to Get the Most Out of Your Time on This Planet by TED Guest Author.md": "16548187",
     "Readwise/Articles/How the Great Zen Master and Peace Activist Thich Nhat Hanh Found Himself and Lost His Self in a Library Epiphany by Maria Popova.md": "16882071",
-    "Readwise/Articles/How to Raise Emotionally Intelligent Kids by Lael Stone.md": "17068978"
+    "Readwise/Articles/How to Raise Emotionally Intelligent Kids by Lael Stone.md": "17068978",
+    "Readwise/Articles/6 Signs You’re Overspending, Plus 4 Tips to Get Back in Control by Paco de Leon.md": "17329648"
   },
   "reimportShowConfirmation": true
 }

@@ -29,43 +29,7 @@ aliases: [2022-07-22]
 
 ## [[Daily Pages]]
 
-### [[Morning Routine]]
-
-#### Checklist
-
-- [ ] Review YNAB
-- [ ] Stretch
-- [ ] Process Inbox
-- [ ] Readwise daily review
-- [ ] Open Obsidian on iPhone and iPad
-
-#### Prompts
-
-##### [[What is it the most important (not urgent) that I do?]]
-
-The most important thing I can do today is make sure Taylor feels so loved
-
-### [[Daily Log]]
-
-```button
-name Start Time Tracking
-type append template
-action End Time Tracking Button
-templater true
-```
-^button-startTimeTracking
-
 ### [[Evening Review]]
-
-#### Checklist
-
-- [ ] Journal
-- [ ] Process Inbox
-- [ ] Schedule additional tasks for tomorrow
-- [ ] Open Obsidian on iPhone and iPad
-- [ ] Reschedule any incomplete tasks
-- [ ] Review YNAB
-
 
 #### Prompts
 

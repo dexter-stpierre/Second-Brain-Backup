@@ -33,43 +33,32 @@ aliases: [2022-07-25]
 
 #### Checklist
 
-- [ ] Review YNAB
-- [ ] Stretch
-- [ ] Process Inbox
-- [ ] Readwise daily review
-- [ ] Open Obsidian on iPhone and iPad
-
-#### Prompts
-
-##### [[Who could offer me a different perspective on my career challenge?]]
-
-### [[Daily Log]]
-
-```button
-name Start Time Tracking
-type append template
-action End Time Tracking Button
-templater true
-```
-^button-startTimeTracking
+- [x] Review YNAB
+- [x] Process Inbox
+- [x] Readwise daily review
+- [x] Open Obsidian on iPhone and iPad
 
 ### [[Evening Review]]
 
 #### Checklist
 
-- [ ] Journal
-- [ ] Process Inbox
-- [ ] Schedule additional tasks for tomorrow
-- [ ] Open Obsidian on iPhone and iPad
-- [ ] Reschedule any incomplete tasks
-- [ ] Review YNAB
+- [x] Journal
+- [x] Process Inbox
+- [x] Schedule additional tasks for tomorrow
+- [x] Open Obsidian on iPhone and iPad
+- [x] Reschedule any incomplete tasks
+- [x] Review YNAB
 
 
 #### Prompts
 
 ##### [[Did you do anything today that sets you up for a big payoff in the future?]]
 
+No. I was too tired to accomplish anything like that
+
 #### [[Journal]]
+
+Today sucked at work. We figured out that Vite wasn't bundling any of the CSS files that are imported in components that render within the legacy app. This makes certain components render poorly. 
 
 #### Notable News
 
